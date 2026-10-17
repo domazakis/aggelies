@@ -1,7 +1,7 @@
 {
  "_perigrafi": "Αγγελίες που εμφανίστηκαν για πρώτη φορά τις τελευταίες 3 ημέρες. Το πλήρες κείμενο κάθε αγγελίας είναι στο detail_file. Έχουν ήδη αφαιρεθεί όσες είναι προφανώς άσχετες από τον τίτλο (δες excluded.json).",
- "enimerosi": "2026-10-17T22:26+00:00",
- "proti_ektelesi": true,
+ "enimerosi": "2026-10-17T22:51+00:00",
+ "proti_ektelesi": false,
  "listings": [
   {
    "source": "workable",
@@ -3080,6 +3080,5215 @@
    "first_seen": "2026-10-18",
    "detail_file": "data/details/kariera/350258.md",
    "text_chars": 5465
+  },
+  {
+   "source": "kariera",
+   "id": "349389",
+   "title": "Πωλήσεις (από 1.100€,bonus,αμάξι)",
+   "company": "kariera.gr",
+   "location": "Recruitment | Αθήνα",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/349389",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/349389.md",
+   "text_chars": 1878
+  },
+  {
+   "source": "kariera",
+   "id": "347458",
+   "title": "Υπεύθυνος/η Γραμματειακής Υποστήριξης",
+   "company": "LEONFLAME ΑΕ",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/administrative-or-secretarial-jobs/347458",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/347458.md",
+   "text_chars": 1652
+  },
+  {
+   "source": "kariera",
+   "id": "349107",
+   "title": "MARKETING EXECUTIVE",
+   "company": "ΠΑ.ΣΧ.ΝΑ. (Πανελλήνια Σχολή Ναυαγοσωστικής)",
+   "location": "Πειραιάς",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/349107",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/349107.md",
+   "text_chars": 4525
+  },
+  {
+   "source": "kariera",
+   "id": "352093",
+   "title": "Νέα εταιρεία με νέες ευκαιρίες εργασίας! Αθήνα | Πειραιάς",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/352093",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352093.md",
+   "text_chars": 3196
+  },
+  {
+   "source": "kariera",
+   "id": "351087",
+   "title": "Sales Team | Αθήνα | Προοπτική εξέλιξης",
+   "company": "SME GROUP",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/351087",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351087.md",
+   "text_chars": 2800
+  },
+  {
+   "source": "kariera",
+   "id": "349171",
+   "title": "Field Sales Specialist",
+   "company": "CONCEPT ON ACTION ΑΝΩΝΥΜΗ ΕΤΑΙΡΙΑ ΥΠΗΡΕΣΙΕΣ ΕΠΙΚΟΙΝΩΝΙΑΣ ΚΑΙ ΠΩΛΗΣΕΩΝ",
+   "location": "Χανιά",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/349171",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/349171.md",
+   "text_chars": 2533
+  },
+  {
+   "source": "kariera",
+   "id": "352504",
+   "title": "Captain",
+   "company": "H HOTELS COLLECTION",
+   "location": "Νότια Ρόδος",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352504",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352504.md",
+   "text_chars": 4026
+  },
+  {
+   "source": "kariera",
+   "id": "346806",
+   "title": "B2B Σύμβουλος Πωλήσεων – Φωτισμός | Κορωπί",
+   "company": "VIOKEF LIGHTING Α.Ε.",
+   "location": "Κρωπία",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/346806",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/346806.md",
+   "text_chars": 3610
+  },
+  {
+   "source": "kariera",
+   "id": "353470",
+   "title": "🎓 Φοιτητές | Ξεκίνα την καριέρα σου στο Direct Marketing – Δεν απαιτείται εμπειρία",
+   "url": "https://www.kariera.gr/jobs/other-jobs/353470",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353470.md",
+   "text_chars": 2501
+  },
+  {
+   "source": "kariera",
+   "id": "346319",
+   "title": "Nova – Customer Service | 1st Level Technical Support / Athens",
+   "company": "BFS Group",
+   "location": "Άγιος Δημήτριος",
+   "url": "https://www.kariera.gr/jobs/administrative-or-secretarial-jobs/346319",
+   "apply": [
+    "https://www.career.bfsgroup.gr/"
+   ],
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/346319.md",
+   "text_chars": 2806
+  },
+  {
+   "source": "kariera",
+   "id": "352091",
+   "title": "Events & Communication",
+   "company": "KAIKEN MARKETING",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/352091",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352091.md",
+   "text_chars": 1325
+  },
+  {
+   "source": "kariera",
+   "id": "347250",
+   "title": "KEY ACCOUNT MANAGER για Consumer Electronics",
+   "company": "ΔΑΜΚΑΛΙΔΗΣ ΑΕ",
+   "location": "Παλαιό Φάληρο",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/347250",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/347250.md",
+   "text_chars": 1727
+  },
+  {
+   "source": "kariera",
+   "id": "330163",
+   "title": "Corporate Communication Officer",
+   "company": "Metlen Energy & Metals",
+   "location": "Μαρούσι",
+   "url": "https://www.kariera.gr/jobs/other-jobs/330163",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/330163.md",
+   "text_chars": 4674
+  },
+  {
+   "source": "kariera",
+   "id": "352265",
+   "title": "Internal Communication Officer",
+   "company": "Metlen Energy & Metals",
+   "location": "Μαρούσι",
+   "url": "https://www.kariera.gr/jobs/other-jobs/352265",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352265.md",
+   "text_chars": 2828
+  },
+  {
+   "source": "kariera",
+   "id": "353414",
+   "title": "Υπάλληλος Γραφείου",
+   "company": "SPICY COMMUNICATION AE",
+   "location": "Ελληνικό",
+   "url": "https://www.kariera.gr/jobs/administrative-or-secretarial-jobs/353414",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353414.md",
+   "text_chars": 990
+  },
+  {
+   "source": "kariera",
+   "id": "347433",
+   "title": "SENIOR DESIGNER",
+   "company": "COLIBRI Α.Ε.",
+   "location": "Καλαμαριά",
+   "url": "https://www.kariera.gr/jobs/design-or-graphic-arts-or-creative-jobs/347433",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/347433.md",
+   "text_chars": 3689
+  },
+  {
+   "source": "kariera",
+   "id": "353845",
+   "title": "Νέα Ευκαιρία Καριέρας | Marketing",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/353845",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353845.md",
+   "text_chars": 1180
+  },
+  {
+   "source": "kariera",
+   "id": "346515",
+   "title": "Νέα Θέση σε πωλήσεις & Marketing",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/346515",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/346515.md",
+   "text_chars": 995
+  },
+  {
+   "source": "kariera",
+   "id": "353477",
+   "title": "Θέσεις Εργασίας χωρίς απαραίτητη προϋπηρεσία| Πλήρης απασχόληση",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/353477",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353477.md",
+   "text_chars": 1341
+  },
+  {
+   "source": "kariera",
+   "id": "351343",
+   "title": "QA Compliance Specialist",
+   "company": "ONE PHARMA SA",
+   "location": "Σχηματάρι",
+   "url": "https://www.kariera.gr/jobs/quality-assurance-jobs/351343",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351343.md",
+   "text_chars": 5390
+  },
+  {
+   "source": "kariera",
+   "id": "351647",
+   "title": "Marketing & Brand Strategy at ASICS Greece",
+   "company": "ASC MAP ΑΕΒΕ",
+   "location": "Γλυφάδα",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/351647",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351647.md",
+   "text_chars": 3440
+  },
+  {
+   "source": "kariera",
+   "id": "348717",
+   "title": "Bartender / Mixologist (EllaHelea-S27)",
+   "company": "ELLA RESORTS",
+   "location": "Ρόδος",
+   "url": "https://www.kariera.gr/jobs/other-jobs/348717",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/348717.md",
+   "text_chars": 3145
+  },
+  {
+   "source": "kariera",
+   "id": "347309",
+   "title": "Reception / Yπάλληλος Υποδοχής",
+   "company": "Athens Prime Hotels.",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/347309",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/347309.md",
+   "text_chars": 1567
+  },
+  {
+   "source": "kariera",
+   "id": "346849",
+   "title": "Groom / Bell Boy",
+   "company": "COCO MAT HOTELS",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/346849",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/346849.md",
+   "text_chars": 1166
+  },
+  {
+   "source": "kariera",
+   "id": "349130",
+   "title": "Γυμναστές / Γυμνάστριες / Trainers -Welling | Performance & Spa Center",
+   "company": "MITSIS GROUP",
+   "location": "Ρόδος",
+   "url": "https://www.kariera.gr/jobs/other-jobs/349130",
+   "apply": [
+    "https://apply.workable.com/mitsis-group/?lng=en#jobs"
+   ],
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/349130.md",
+   "text_chars": 4235
+  },
+  {
+   "source": "kariera",
+   "id": "353709",
+   "title": "Διαχειριστ-ής/ρια Εισαγωγών / Υποστήριξη Πωλήσεων",
+   "company": "TOP TRENDS AE",
+   "location": "Βούλα",
+   "url": "https://www.kariera.gr/jobs/administrative-or-secretarial-jobs/353709",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353709.md",
+   "text_chars": 2238
+  },
+  {
+   "source": "kariera",
+   "id": "353083",
+   "title": "Παιδαγωγός / Child Care - Galini",
+   "company": "MITSIS GROUP",
+   "location": "Καμένα Βούρλα",
+   "url": "https://www.kariera.gr/jobs/other-jobs/353083",
+   "apply": [
+    "https://apply.workable.com/mitsis-group/?lng=en#jobs"
+   ],
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353083.md",
+   "text_chars": 3337
+  },
+  {
+   "source": "kariera",
+   "id": "352634",
+   "title": "Λαντζιέρης / Λαντζιέρα | Divani Caravel",
+   "company": "DIVANI COLLECTION HOTELS",
+   "location": "Καισαριανή",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352634",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352634.md",
+   "text_chars": 862
+  },
+  {
+   "source": "kariera",
+   "id": "352413",
+   "title": "Breakfast Waiter / Waitress – Metsovo",
+   "company": "HotelBrain",
+   "location": "Μέτσοβο",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352413",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352413.md",
+   "text_chars": 1200
+  },
+  {
+   "source": "kariera",
+   "id": "352402",
+   "title": "3d Visualiser / CGI Artist",
+   "company": "ROYAL INVESTMENTS GROUP IKE",
+   "location": "Γλυφάδα",
+   "url": "https://www.kariera.gr/jobs/design-or-graphic-arts-or-creative-jobs/352402",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352402.md",
+   "text_chars": 641
+  },
+  {
+   "source": "kariera",
+   "id": "352293",
+   "title": "FRONT OFFICE MANAGER / ΠΕΙΡΑΙΑΣ",
+   "company": "HotelBrain",
+   "location": "Πειραιάς",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352293",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352293.md",
+   "text_chars": 886
+  },
+  {
+   "source": "kariera",
+   "id": "349932",
+   "title": "Υπάλληλος Τιμολόγησης / Γραμματειακής Υποστήριξης",
+   "company": "ΑΦΟΙ ΤΖΕΖΑΝΑ ΕΠΕ",
+   "location": "Ασπρόπυργος",
+   "url": "https://www.kariera.gr/jobs/administrative-or-secretarial-jobs/349932",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/349932.md",
+   "text_chars": 1431
+  },
+  {
+   "source": "kariera",
+   "id": "349914",
+   "title": "Maintenance Manager - Crete / Rinela",
+   "company": "MITSIS GROUP",
+   "location": "Ηράκλειο",
+   "url": "https://www.kariera.gr/jobs/other-jobs/349914",
+   "apply": [
+    "https://apply.workable.com/mitsis-group/?lng=en#jobs"
+   ],
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/349914.md",
+   "text_chars": 3468
+  },
+  {
+   "source": "kariera",
+   "id": "348551",
+   "title": "Breakfast Waiter / Waitress – Metsovo",
+   "company": "HotelBrain",
+   "location": "Μέτσοβο",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/348551",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/348551.md",
+   "text_chars": 1200
+  },
+  {
+   "source": "kariera",
+   "id": "347816",
+   "title": "Office Administrator / Υπάλληλος Γραφείου",
+   "company": "Megasoft",
+   "location": "Περιστέρι",
+   "url": "https://www.kariera.gr/jobs/administrative-or-secretarial-jobs/347816",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/347816.md",
+   "text_chars": 1635
+  },
+  {
+   "source": "kariera",
+   "id": "351765",
+   "title": "ΤΗΛΕΦΩΝΗΤΕΣ",
+   "company": "DR PRINOU",
+   "location": "Πειραιάς",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/351765",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351765.md",
+   "text_chars": 768
+  },
+  {
+   "source": "kariera",
+   "id": "349274",
+   "title": "Εκπρόσωπος Διαχείρισης Αιτημάτων Leads για Nova / Αθήνα",
+   "company": "BFS Group",
+   "location": "Άγιος Δημήτριος",
+   "url": "https://www.kariera.gr/jobs/administrative-or-secretarial-jobs/349274",
+   "apply": [
+    "https://www.career.bfsgroup.gr/"
+   ],
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/349274.md",
+   "text_chars": 2587
+  },
+  {
+   "source": "kariera",
+   "id": "346384",
+   "title": "Συνεργάτες Ταμείου & Χαρτοπωλείου - Καταστήματα Αττικής",
+   "company": "Plaisio Computers S.A.",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/346384",
+   "apply": [
+    "https://apply.workable.com/plaisio-careers/"
+   ],
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/346384.md",
+   "text_chars": 1302
+  },
+  {
+   "source": "kariera",
+   "id": "352869",
+   "title": "Senior Groups & Events Executive | Conrad Athens The Ilisian",
+   "company": "Conrad Athens The Ilisian",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/352869",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352869.md",
+   "text_chars": 3324
+  },
+  {
+   "source": "kariera",
+   "id": "349545",
+   "title": "Παιδαγωγοί / Ηθοποιοί - The Christimas Factory",
+   "company": "DREAMSTAR EVENTS AGENCY",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/other-jobs/349545",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/349545.md",
+   "text_chars": 1815
+  },
+  {
+   "source": "kariera",
+   "id": "354053",
+   "title": "MARKETING & SOCIAL MEDIA DESIGN CONSULTANT",
+   "company": "Kronospan Design Center Athens",
+   "location": "Αγία Παρασκευή",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/354053",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/354053.md",
+   "text_chars": 3214
+  },
+  {
+   "source": "kariera",
+   "id": "351108",
+   "title": "Διαφημιστικές καμπάνιες - ΑΜΕΣΗ έναρξη",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/351108",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351108.md",
+   "text_chars": 880
+  },
+  {
+   "source": "kariera",
+   "id": "353398",
+   "title": "Υπάλληλος γραφείου για τη Nova",
+   "url": "https://www.kariera.gr/jobs/administrative-or-secretarial-jobs/353398",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353398.md",
+   "text_chars": 2131
+  },
+  {
+   "source": "kariera",
+   "id": "350326",
+   "title": "ΥΠΑΛΛΗΛΟΙ ΓΡΑΦΕΙΟΥ",
+   "url": "https://www.kariera.gr/jobs/administrative-or-secretarial-jobs/350326",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/350326.md",
+   "text_chars": 1878
+  },
+  {
+   "source": "kariera",
+   "id": "346594",
+   "title": "Marketing Specialist",
+   "company": "MGD ΤΕΧΝΙΚΗ ΕΝΕΡΓΕΙΑΚΗ ΑΕ",
+   "location": "Μαρούσι",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/346594",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/346594.md",
+   "text_chars": 1659
+  },
+  {
+   "source": "kariera",
+   "id": "349662",
+   "title": "Project Manager",
+   "company": "SPC",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/349662",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/349662.md",
+   "text_chars": 1766
+  },
+  {
+   "source": "kariera",
+   "id": "353842",
+   "title": "PROJECT MANAGER",
+   "company": "ΝΤΑΒΟΥ Α.Ε.",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/other-jobs/353842",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353842.md",
+   "text_chars": 1730
+  },
+  {
+   "source": "kariera",
+   "id": "353505",
+   "title": "Project manager",
+   "url": "https://www.kariera.gr/jobs/administrative-or-secretarial-jobs/353505",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353505.md",
+   "text_chars": 2141
+  },
+  {
+   "source": "kariera",
+   "id": "352483",
+   "title": "Project Manager",
+   "company": "ERMA FIRST ESK ENGINEERING SOLUTIONS SA",
+   "location": "Πέραμα",
+   "url": "https://www.kariera.gr/jobs/operations-jobs/352483",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352483.md",
+   "text_chars": 5459
+  },
+  {
+   "source": "kariera",
+   "id": "351689",
+   "title": "Product Sales Manager",
+   "company": "kariera.gr",
+   "location": "Recruitment | Οινόφυτα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/351689",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351689.md",
+   "text_chars": 2031
+  },
+  {
+   "source": "kariera",
+   "id": "351399",
+   "title": "Product Manager | Medochemie (Pharmaceutical)",
+   "company": "kariera.gr",
+   "location": "Recruitment | Αθήνα",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/351399",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351399.md",
+   "text_chars": 4096
+  },
+  {
+   "source": "kariera",
+   "id": "348993",
+   "title": "Store Manager - Aigio",
+   "company": "LPP Greece",
+   "location": "Πάτρα",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/348993",
+   "apply": [
+    "https://apply.workable.com/lpp-greece/"
+   ],
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/348993.md",
+   "text_chars": 5688
+  },
+  {
+   "source": "kariera",
+   "id": "348999",
+   "title": "Store Manager - Kiato",
+   "company": "LPP Greece",
+   "location": "Πάτρα",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/348999",
+   "apply": [
+    "https://apply.workable.com/lpp-greece/"
+   ],
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/348999.md",
+   "text_chars": 5723
+  },
+  {
+   "source": "kariera",
+   "id": "349122",
+   "title": "Store Manager - Vrilissia",
+   "company": "LPP Greece",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/349122",
+   "apply": [
+    "https://apply.workable.com/lpp-greece/"
+   ],
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/349122.md",
+   "text_chars": 5660
+  },
+  {
+   "source": "kariera",
+   "id": "348452",
+   "title": "Project Associate",
+   "company": "OPTIMAL HR GROUP",
+   "location": "Πειραιάς",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/348452",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/348452.md",
+   "text_chars": 2983
+  },
+  {
+   "source": "kariera",
+   "id": "351528",
+   "title": "Asset Manager",
+   "company": "OPTIMAL HR GROUP",
+   "location": "Μοσχάτο",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/351528",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351528.md",
+   "text_chars": 2229
+  },
+  {
+   "source": "kariera",
+   "id": "351842",
+   "title": "Fixed Product Manager",
+   "company": "Nova",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/operations-jobs/351842",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351842.md",
+   "text_chars": 3696
+  },
+  {
+   "source": "kariera",
+   "id": "344076",
+   "title": "CVM Senior Product Manager",
+   "company": "Nova",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/operations-jobs/344076",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/344076.md",
+   "text_chars": 3079
+  },
+  {
+   "source": "kariera",
+   "id": "352144",
+   "title": "Project Manager",
+   "company": "Metlen Energy & Metals",
+   "location": "Νέα Πέραμος",
+   "url": "https://www.kariera.gr/jobs/operations-jobs/352144",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352144.md",
+   "text_chars": 3527
+  },
+  {
+   "source": "kariera",
+   "id": "348583",
+   "title": "PROJECT MANAGER",
+   "company": "ΝΤΑΒΟΥ Α.Ε.",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/strategy-or-planning-jobs/348583",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/348583.md",
+   "text_chars": 1724
+  },
+  {
+   "source": "kariera",
+   "id": "347853",
+   "title": "Project Manager",
+   "company": "XM",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/other-jobs/347853",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/347853.md",
+   "text_chars": 4589
+  },
+  {
+   "source": "kariera",
+   "id": "346548",
+   "title": "Project Manager",
+   "company": "Etraveli Group",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/other-jobs/346548",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/346548.md",
+   "text_chars": 5477
+  },
+  {
+   "source": "kariera",
+   "id": "348698",
+   "title": "Sales Manager",
+   "company": "NUMO HOTELS & RESORTS",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/348698",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/348698.md",
+   "text_chars": 4448
+  },
+  {
+   "source": "kariera",
+   "id": "349919",
+   "title": "Sales Manager",
+   "company": "NUMO HOTELS & RESORTS",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/349919",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/349919.md",
+   "text_chars": 4448
+  },
+  {
+   "source": "kariera",
+   "id": "347417",
+   "title": "Spa Manager, Conrad Corfu",
+   "company": "NUMO HOTELS & RESORTS",
+   "location": "Κέρκυρα",
+   "url": "https://www.kariera.gr/jobs/other-jobs/347417",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/347417.md",
+   "text_chars": 4348
+  },
+  {
+   "source": "kariera",
+   "id": "349732",
+   "title": "Assistant Ops Project Manager",
+   "company": "GEK TERNA GROUP",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/administrative-or-secretarial-jobs/349732",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/349732.md",
+   "text_chars": 3113
+  },
+  {
+   "source": "kariera",
+   "id": "353232",
+   "title": "Project Development & M&A Manager",
+   "company": "GEK TERNA GROUP",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/general-management-jobs/353232",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353232.md",
+   "text_chars": 1529
+  },
+  {
+   "source": "kariera",
+   "id": "312253",
+   "title": "Senior Product Manager",
+   "company": "Vodafone",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/operations-jobs/312253",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/312253.md",
+   "text_chars": 6062
+  },
+  {
+   "source": "kariera",
+   "id": "317173",
+   "title": "Technical Account Manager",
+   "company": "Vodafone",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/317173",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/317173.md",
+   "text_chars": 5417
+  },
+  {
+   "source": "kariera",
+   "id": "347875",
+   "title": "Product Manager - Crypto",
+   "company": "XM",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/other-jobs/347875",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/347875.md",
+   "text_chars": 7000
+  },
+  {
+   "source": "kariera",
+   "id": "349351",
+   "title": "Operations Support Officer (Thessaloniki)",
+   "company": "UNISON FACILITY & HUMAN SOLUTIONS",
+   "location": "Πυλαία",
+   "url": "https://www.kariera.gr/jobs/operations-jobs/349351",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/349351.md",
+   "text_chars": 3451
+  },
+  {
+   "source": "kariera",
+   "id": "304096",
+   "title": "Project Manager Transformation Office",
+   "company": "Metlen Energy & Metals",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/operations-jobs/304096",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/304096.md",
+   "text_chars": 4412
+  },
+  {
+   "source": "kariera",
+   "id": "350080",
+   "title": "Business Development & Strategic Relationships Manager",
+   "company": "ΟΜΙΛΟΣ ΣΠΥΡΙΔΗ",
+   "location": "Ασπρόπυργος",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/350080",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/350080.md",
+   "text_chars": 3215
+  },
+  {
+   "source": "kariera",
+   "id": "350626",
+   "title": "Shop Manager | Κατάστημα Vodafone (Κορωπί)",
+   "company": "Vodafone Shops & Support",
+   "location": "Κρωπία",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/350626",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/350626.md",
+   "text_chars": 3068
+  },
+  {
+   "source": "kariera",
+   "id": "351255",
+   "title": "Shop Manager | Κατάστημα Vodafone (Άνοιξη)",
+   "company": "Vodafone Shops & Support",
+   "location": "Άνοιξη",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/351255",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351255.md",
+   "text_chars": 2193
+  },
+  {
+   "source": "kariera",
+   "id": "351889",
+   "title": "Shop Manager | Κατάστημα Vodafone (Βάρη)",
+   "company": "Vodafone Shops & Support",
+   "location": "Βάρη",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/351889",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351889.md",
+   "text_chars": 2189
+  },
+  {
+   "source": "kariera",
+   "id": "353457",
+   "title": "Υπεύθυνος/η Τμήματος - Κατάστημα Λιανικής LC Waikiki (Talos Plaza Ηράκλειο Κρήτης)",
+   "company": "LC Waikiki Greece",
+   "location": "Ηράκλειο",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/353457",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353457.md",
+   "text_chars": 3871
+  },
+  {
+   "source": "kariera",
+   "id": "352629",
+   "title": "Διευθυντής/τρια Καταστήματος - Κατάστημα Λιανικής LC Waikiki (Ρόδος)",
+   "company": "LC Waikiki Greece",
+   "location": "Ρόδος",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/352629",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352629.md",
+   "text_chars": 4317
+  },
+  {
+   "source": "kariera",
+   "id": "353998",
+   "title": "Εξωτερικές Πωλήσεις ΔΕΗ Fiber | από 1.100€, bonus, αυτοκίνητο",
+   "company": "CQS",
+   "location": "Θεσσαλονίκη",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/353998",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353998.md",
+   "text_chars": 3434
+  },
+  {
+   "source": "kariera",
+   "id": "350560",
+   "title": "Housekeeping Manager - Mitsis Selection Azure",
+   "company": "MITSIS GROUP",
+   "location": "Κασσάνδρα",
+   "url": "https://www.kariera.gr/jobs/other-jobs/350560",
+   "apply": [
+    "https://apply.workable.com/mitsis-group/?lng=en#jobs"
+   ],
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/350560.md",
+   "text_chars": 3845
+  },
+  {
+   "source": "kariera",
+   "id": "332255",
+   "title": "Project Manager Strategy and M&A",
+   "company": "Metlen Energy & Metals",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/operations-jobs/332255",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/332255.md",
+   "text_chars": 5443
+  },
+  {
+   "source": "kariera",
+   "id": "346232",
+   "title": "Executive Project Manager (Atrium Platinum) - Rhodes",
+   "company": "Atrium Hotels & Resorts",
+   "location": "Ρόδος",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/346232",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/346232.md",
+   "text_chars": 3013
+  },
+  {
+   "source": "kariera",
+   "id": "348969",
+   "title": "Marketing Manager",
+   "company": "ΛΑΚΙΩΤΗΣ Α.Ε.",
+   "location": "Ασπρόπυργος",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/348969",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/348969.md",
+   "text_chars": 4795
+  },
+  {
+   "source": "kariera",
+   "id": "289837",
+   "title": "Permitting Manager",
+   "company": "LAMDA DEVELOPMENT SA",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/other-jobs/289837",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/289837.md",
+   "text_chars": 4331
+  },
+  {
+   "source": "kariera",
+   "id": "324008",
+   "title": "MEP Manager Residential",
+   "company": "LAMDA DEVELOPMENT SA",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/other-jobs/324008",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/324008.md",
+   "text_chars": 4289
+  },
+  {
+   "source": "kariera",
+   "id": "353243",
+   "title": "Section Manager Athens",
+   "company": "Marks and Spencer Greece",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/353243",
+   "apply": [
+    "https://marks-and-spencer-greece.workable.com/"
+   ],
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353243.md",
+   "text_chars": 2085
+  },
+  {
+   "source": "kariera",
+   "id": "346851",
+   "title": "Section Manager Northeastern Attica",
+   "company": "Marks and Spencer Greece",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/346851",
+   "apply": [
+    "https://marks-and-spencer-greece.workable.com/"
+   ],
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/346851.md",
+   "text_chars": 2128
+  },
+  {
+   "source": "kariera",
+   "id": "352406",
+   "title": "Section Manager Chania (Temporary Assignment)",
+   "company": "Marks and Spencer Greece",
+   "location": "Χανιά",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/352406",
+   "apply": [
+    "https://marks-and-spencer-greece.workable.com/"
+   ],
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352406.md",
+   "text_chars": 2136
+  },
+  {
+   "source": "kariera",
+   "id": "349792",
+   "title": "Project Manager Power Electronics Development (m/f/d)",
+   "company": "APTRONIC HELLAS MON. A.E.",
+   "location": "Κρωπία",
+   "url": "https://www.kariera.gr/jobs/research-and-development-jobs/349792",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/349792.md",
+   "text_chars": 3824
+  },
+  {
+   "source": "kariera",
+   "id": "353027",
+   "title": "PROJECT SALES MANAGER",
+   "company": "ΙΝΤΕΡΓΟΥΝΤ ΞΥΛΕΜΠΟΡΙΑ ΑΤΕΝΕ",
+   "location": "Ελευσίνα",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/353027",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353027.md",
+   "text_chars": 3585
+  },
+  {
+   "source": "kariera",
+   "id": "261876",
+   "title": "Loading Assets Management Associate",
+   "company": "ΑΒ Βασιλόπουλος",
+   "location": "Θήβα",
+   "url": "https://www.kariera.gr/jobs/other-jobs/261876",
+   "apply": [
+    "https://careers.ab.gr/"
+   ],
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/261876.md",
+   "text_chars": 3006
+  },
+  {
+   "source": "kariera",
+   "id": "352979",
+   "title": "Digital Marketing Campaign Manager",
+   "company": "Plaisio Computers S.A.",
+   "location": "Μαγούλα",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/352979",
+   "apply": [
+    "https://apply.workable.com/plaisio-careers/"
+   ],
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352979.md",
+   "text_chars": 3751
+  },
+  {
+   "source": "kariera",
+   "id": "352569",
+   "title": "Contract Management Officer - Βank Sector",
+   "company": "Mellon Technologies",
+   "location": "Νέα Ιωνία",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/352569",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352569.md",
+   "text_chars": 3273
+  },
+  {
+   "source": "kariera",
+   "id": "347779",
+   "title": "E-Commerce & Digital Marketing Specialist (B2B & B2C)",
+   "company": "PERFECT PET IKE",
+   "location": "Ασπρόπυργος",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/347779",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/347779.md",
+   "text_chars": 4343
+  },
+  {
+   "source": "kariera",
+   "id": "343712",
+   "title": "Υπάλληλος Διακόσμησης",
+   "company": "IKEA",
+   "location": "Ιωάννινα",
+   "url": "https://www.kariera.gr/jobs/other-jobs/343712",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/343712.md",
+   "text_chars": 4073
+  },
+  {
+   "source": "kariera",
+   "id": "351578",
+   "title": "Senior Account Manager",
+   "company": "Epsilon Net",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/351578",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351578.md",
+   "text_chars": 2644
+  },
+  {
+   "source": "kariera",
+   "id": "351873",
+   "title": "Inside Sales & Lead Management Associate",
+   "company": "MEDIATEL SA",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/351873",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351873.md",
+   "text_chars": 2681
+  },
+  {
+   "source": "kariera",
+   "id": "348313",
+   "title": "Sales Support Assistant/Βοηθός Εμπορικού Τμήματος",
+   "company": "ΒΕΝΕΤΗΣ",
+   "location": "Παλλήνη",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/348313",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/348313.md",
+   "text_chars": 1728
+  },
+  {
+   "source": "kariera",
+   "id": "326399",
+   "title": "Ready Mix Operations Manager",
+   "company": "TITAN",
+   "location": "Καλαμάτα",
+   "url": "https://www.kariera.gr/jobs/operations-jobs/326399",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/326399.md",
+   "text_chars": 3279
+  },
+  {
+   "source": "kariera",
+   "id": "330504",
+   "title": "Express your interest - TITAN Greece",
+   "company": "TITAN",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/other-jobs/330504",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/330504.md",
+   "text_chars": 1543
+  },
+  {
+   "source": "kariera",
+   "id": "346963",
+   "title": "Pizza Chef - Senior Sous Chef",
+   "company": "Mandarin Oriental Costa Navarino",
+   "location": "Πύλος",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/346963",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/346963.md",
+   "text_chars": 4382
+  },
+  {
+   "source": "kariera",
+   "id": "351471",
+   "title": "Front Office Manager",
+   "company": "Parga Beach Resort",
+   "location": "Πάργα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/351471",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351471.md",
+   "text_chars": 2148
+  },
+  {
+   "source": "kariera",
+   "id": "352331",
+   "title": "Hotel Operations Manager (Καβάλα)",
+   "company": "Vassilicos House of Hospitality",
+   "location": "Καβάλα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352331",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352331.md",
+   "text_chars": 1774
+  },
+  {
+   "source": "kariera",
+   "id": "350989",
+   "title": "Υπεύθυνος/η Καταστήματος - Store Manager (Celestino Smart Park)",
+   "company": "Celestino",
+   "location": "Σπάτα Λούτσας",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/350989",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/350989.md",
+   "text_chars": 3563
+  },
+  {
+   "source": "kariera",
+   "id": "352343",
+   "title": "Διευθυντής Καταστήματος",
+   "company": "DESIKOS",
+   "location": "Περιστέρι",
+   "url": "https://www.kariera.gr/jobs/general-management-jobs/352343",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352343.md",
+   "text_chars": 2630
+  },
+  {
+   "source": "kariera",
+   "id": "349407",
+   "title": "Υπεύθυνος E-shop & Προϊοντικής Διαχείρισης",
+   "company": "DESIKOS",
+   "location": "Ίλιον",
+   "url": "https://www.kariera.gr/jobs/e-commerce-or-digital-services-jobs/349407",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/349407.md",
+   "text_chars": 2815
+  },
+  {
+   "source": "kariera",
+   "id": "349947",
+   "title": "Σύμβουλος Πωλήσεων",
+   "company": "DESIKOS",
+   "location": "Περιστέρι",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/349947",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/349947.md",
+   "text_chars": 2170
+  },
+  {
+   "source": "kariera",
+   "id": "350784",
+   "title": "Key Account Manager",
+   "company": "Nespresso Professional",
+   "location": "Synergy SA | Αθήνα",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/350784",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/350784.md",
+   "text_chars": 2777
+  },
+  {
+   "source": "kariera",
+   "id": "349045",
+   "title": "Store Manager - Kalabaka",
+   "company": "LPP Greece",
+   "location": "Τρικκαία",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/349045",
+   "apply": [
+    "https://apply.workable.com/lpp-greece/"
+   ],
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/349045.md",
+   "text_chars": 5700
+  },
+  {
+   "source": "kariera",
+   "id": "352450",
+   "title": "Assistant Brand Manager-Άμεση Πρόσληψη | Ρέντης",
+   "company": "ROLCO",
+   "location": "Άγιος Ιωάννης Ρέντης",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/352450",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352450.md",
+   "text_chars": 3775
+  },
+  {
+   "source": "kariera",
+   "id": "347410",
+   "title": "F&B Manager, Conrad Corfu",
+   "company": "NUMO HOTELS & RESORTS",
+   "location": "Κέρκυρα",
+   "url": "https://www.kariera.gr/jobs/other-jobs/347410",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/347410.md",
+   "text_chars": 4610
+  },
+  {
+   "source": "kariera",
+   "id": "310016",
+   "title": "Family Segment Manager",
+   "company": "Vodafone",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/other-jobs/310016",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/310016.md",
+   "text_chars": 6067
+  },
+  {
+   "source": "kariera",
+   "id": "347283",
+   "title": "Loss Prevention Coordinator - Athens",
+   "company": "LPP Greece",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/other-jobs/347283",
+   "apply": [
+    "https://apply.workable.com/lpp-greece/"
+   ],
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/347283.md",
+   "text_chars": 5162
+  },
+  {
+   "source": "kariera",
+   "id": "352657",
+   "title": "Shift Leader (Βοηθός Υπευθύνου Καταστήματος) - Zakinthos",
+   "company": "LPP Greece",
+   "location": "Ζάκυνθος",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/352657",
+   "apply": [
+    "https://apply.workable.com/lpp-greece/"
+   ],
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352657.md",
+   "text_chars": 5922
+  },
+  {
+   "source": "kariera",
+   "id": "349001",
+   "title": "Shift Leader (Βοηθός Υπευθύνου Καταστήματος) - Kiato",
+   "company": "LPP Greece",
+   "location": "Πάτρα",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/349001",
+   "apply": [
+    "https://apply.workable.com/lpp-greece/"
+   ],
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/349001.md",
+   "text_chars": 5770
+  },
+  {
+   "source": "kariera",
+   "id": "348997",
+   "title": "Shift Leader (Βοηθός Υπευθύνου Καταστήματος) - Aigio",
+   "company": "LPP Greece",
+   "location": "Πάτρα",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/348997",
+   "apply": [
+    "https://apply.workable.com/lpp-greece/"
+   ],
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/348997.md",
+   "text_chars": 5759
+  },
+  {
+   "source": "kariera",
+   "id": "337208",
+   "title": "Υπεύθυνος Τομέα Πωλήσεων (Πλήρης απασχόληση)",
+   "company": "IKEA",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/337208",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/337208.md",
+   "text_chars": 3453
+  },
+  {
+   "source": "kariera",
+   "id": "351357",
+   "title": "Operations and Marketing Assistant",
+   "company": "Linaki Travel",
+   "location": "Παλαιό Φάληρο",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/351357",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351357.md",
+   "text_chars": 1589
+  },
+  {
+   "source": "kariera",
+   "id": "353878",
+   "title": "Υπάλληλος Εισπράξεων & Εξυπηρέτησης (Αττική)",
+   "company": "ManpowerGroup Greece",
+   "location": "Ασπρόπυργος",
+   "url": "https://www.kariera.gr/jobs/public-relations-jobs/353878",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353878.md",
+   "text_chars": 2600
+  },
+  {
+   "source": "kariera",
+   "id": "351817",
+   "title": "Sales & Guest Relations Executive",
+   "company": "SANDBLU",
+   "location": "Θήρα",
+   "url": "https://www.kariera.gr/jobs/public-relations-jobs/351817",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351817.md",
+   "text_chars": 6732
+  },
+  {
+   "source": "kariera",
+   "id": "351109",
+   "title": "Brand Ambassador για Διεθνείς Μ.Κ.Ο.",
+   "url": "https://www.kariera.gr/jobs/public-relations-jobs/351109",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351109.md",
+   "text_chars": 1793
+  },
+  {
+   "source": "kariera",
+   "id": "350884",
+   "title": "Sales & Guest Relations Executive",
+   "company": "SANDBLU",
+   "location": "Θήρα",
+   "url": "https://www.kariera.gr/jobs/public-relations-jobs/350884",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/350884.md",
+   "text_chars": 6729
+  },
+  {
+   "source": "kariera",
+   "id": "349899",
+   "title": "Guest Relations / Υποδοχή Επισκεπτών & Πωλήσεις – Ζάκυνθος | Σεζόν 2027",
+   "company": "Therianos Family",
+   "location": "Αλυκές",
+   "url": "https://www.kariera.gr/jobs/public-relations-jobs/349899",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/349899.md",
+   "text_chars": 3064
+  },
+  {
+   "source": "kariera",
+   "id": "347672",
+   "title": "Night Auditor",
+   "company": "Sani/Ikos Group",
+   "location": "Μουδανιά",
+   "url": "https://www.kariera.gr/jobs/public-relations-jobs/347672",
+   "apply": [
+    "https://careers.saniikosgroup.com/"
+   ],
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/347672.md",
+   "text_chars": 4319
+  },
+  {
+   "source": "kariera",
+   "id": "347666",
+   "title": "Airport Representative",
+   "company": "Sani/Ikos Group",
+   "location": "Κως",
+   "url": "https://www.kariera.gr/jobs/public-relations-jobs/347666",
+   "apply": [
+    "https://careers.saniikosgroup.com/"
+   ],
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/347666.md",
+   "text_chars": 4665
+  },
+  {
+   "source": "kariera",
+   "id": "351644",
+   "title": "Digital and Social Media Marketing",
+   "company": "ASC MAP ΑΕΒΕ",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/351644",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351644.md",
+   "text_chars": 2113
+  },
+  {
+   "source": "kariera",
+   "id": "351643",
+   "title": "Sports Marketing ASICS Greece",
+   "company": "ASC MAP ΑΕΒΕ",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/351643",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351643.md",
+   "text_chars": 1876
+  },
+  {
+   "source": "kariera",
+   "id": "339301",
+   "title": "CRM Marketing Specialist",
+   "company": "IKEA",
+   "location": "Σπάτα Λούτσας",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/339301",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/339301.md",
+   "text_chars": 4133
+  },
+  {
+   "source": "kariera",
+   "id": "353983",
+   "title": "Υπάλληλος Υποστήριξης CRM",
+   "company": "ΠΡΟΜΗΘΕΥΤΙΚΟΣ ΣΥΝΕΤΑΙΡΙΣΜΟΣ ΦΑΡΜΑΚΟΠΟΙΩΝ ΑΤΤΙΚΗΣ Π.Ε. (ΠΡΟ.ΣΥ.Φ.Α.Π.Ε.)",
+   "location": "Περιστέρι",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/353983",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353983.md",
+   "text_chars": 1719
+  },
+  {
+   "source": "kariera",
+   "id": "353913",
+   "title": "Sales & Business Development Executive – Εταιρεία Marketing",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/353913",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353913.md",
+   "text_chars": 1057
+  },
+  {
+   "source": "kariera",
+   "id": "348882",
+   "title": "Digital Marketing Specialist",
+   "company": "Epsilon Net",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/348882",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/348882.md",
+   "text_chars": 2839
+  },
+  {
+   "source": "kariera",
+   "id": "349570",
+   "title": "Digital Marketing Officer",
+   "company": "POWER HEALTH HELLAS ΑΕΒΕ",
+   "location": "Μεταμόρφωση",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/349570",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/349570.md",
+   "text_chars": 2996
+  },
+  {
+   "source": "kariera",
+   "id": "353109",
+   "title": "Trade Marketing Supervisor - ON Trade",
+   "company": "ΟΛΥΜΠΙΑΚΗ ΖΥΘΟΠΟΙΙΑ",
+   "location": "Κηφισιά",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/353109",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353109.md",
+   "text_chars": 4043
+  },
+  {
+   "source": "kariera",
+   "id": "352295",
+   "title": "Sales Consultant Alimos",
+   "company": "ΛΑΚΙΩΤΗΣ Α.Ε.",
+   "location": "Άλιμος",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/352295",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352295.md",
+   "text_chars": 2649
+  },
+  {
+   "source": "kariera",
+   "id": "353567",
+   "title": "ΕΚΠΡΟΣΩΠΟΙ Μ.Κ.Ο",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/353567",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353567.md",
+   "text_chars": 1701
+  },
+  {
+   "source": "kariera",
+   "id": "353484",
+   "title": "Graphic Designer",
+   "company": "ELLITERRA A.E.",
+   "location": "Εχέδωρο",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/353484",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353484.md",
+   "text_chars": 1728
+  },
+  {
+   "source": "kariera",
+   "id": "353223",
+   "title": "Merchandisers PepsiCo (Αττική)",
+   "company": "MSPS ΑΕ",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/353223",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353223.md",
+   "text_chars": 1841
+  },
+  {
+   "source": "kariera",
+   "id": "352987",
+   "title": "Ψάχνεις κάτι διαφορετικό από μια ακόμη δουλειά;",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/352987",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352987.md",
+   "text_chars": 720
+  },
+  {
+   "source": "kariera",
+   "id": "352909",
+   "title": "Ξεκίνα Τώρα! Νέες Θέσεις με Μισθό + Bonus",
+   "company": "STAVROPIERRAKOS_skg",
+   "location": "Θεσσαλονίκη",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/352909",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352909.md",
+   "text_chars": 1059
+  },
+  {
+   "source": "kariera",
+   "id": "352595",
+   "title": "Ε-COMMERCE & WEB - MARKETING ASSISTANT",
+   "company": "Fernand Hellas 2.0",
+   "location": "Άγιος Στέφανος",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/352595",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352595.md",
+   "text_chars": 1745
+  },
+  {
+   "source": "kariera",
+   "id": "352535",
+   "title": "Marketing Manager ASICS Greece",
+   "company": "ASC MAP ΑΕΒΕ",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/352535",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352535.md",
+   "text_chars": 2108
+  },
+  {
+   "source": "kariera",
+   "id": "351846",
+   "title": "📚 Εργασία για φοιτητές/τριες στα Χανιά",
+   "company": "Marketim Group",
+   "location": "Χανιά",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/351846",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351846.md",
+   "text_chars": 1241
+  },
+  {
+   "source": "kariera",
+   "id": "351843",
+   "title": "Lease Specialist",
+   "company": "Pepco",
+   "location": "Άγιος Ιωάννης Ρέντης",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/351843",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351843.md",
+   "text_chars": 2325
+  },
+  {
+   "source": "kariera",
+   "id": "351819",
+   "title": "Marketing Executive",
+   "company": "SANDBLU",
+   "location": "Θήρα",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/351819",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351819.md",
+   "text_chars": 5343
+  },
+  {
+   "source": "kariera",
+   "id": "351694",
+   "title": "Content Producer, Fine Jewelry Studio (Athens, full-time)",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/351694",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351694.md",
+   "text_chars": 4819
+  },
+  {
+   "source": "kariera",
+   "id": "351690",
+   "title": "Digital Marketing Specialist",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/351690",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351690.md",
+   "text_chars": 2134
+  },
+  {
+   "source": "kariera",
+   "id": "351660",
+   "title": "Merchandiser στο χώρο των Super Market",
+   "company": "MSPS ΑΕ",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/351660",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351660.md",
+   "text_chars": 1624
+  },
+  {
+   "source": "kariera",
+   "id": "351656",
+   "title": "Marketing Specialist On-site",
+   "company": "AGROLOGY ΑΒΕΕ",
+   "location": "Εχέδωρο",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/351656",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351656.md",
+   "text_chars": 1557
+  },
+  {
+   "source": "kariera",
+   "id": "351631",
+   "title": "Marketing Specialist",
+   "company": "TBI BANK EAD",
+   "location": "Μαρούσι",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/351631",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351631.md",
+   "text_chars": 3168
+  },
+  {
+   "source": "kariera",
+   "id": "351410",
+   "title": "Εκπρόσωποι Ανθρωπιστικής Καμπάνιας",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/351410",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351410.md",
+   "text_chars": 1101
+  },
+  {
+   "source": "kariera",
+   "id": "350867",
+   "title": "Θέση στις B2B Πωλήσεις",
+   "company": "Level Up Sales and Marketing Agency",
+   "location": "Πειραιάς",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/350867",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/350867.md",
+   "text_chars": 1489
+  },
+  {
+   "source": "kariera",
+   "id": "350816",
+   "title": "Νέες θέσεις σε διαφημιστική εταιρεία",
+   "company": "Level Up Sales and Marketing Agency",
+   "location": "Πειραιάς",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/350816",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/350816.md",
+   "text_chars": 992
+  },
+  {
+   "source": "kariera",
+   "id": "350815",
+   "title": "Ψάχνουμε το επόμενο SALES TALENT",
+   "company": "Level Up Sales and Marketing Agency",
+   "location": "Πειραιάς",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/350815",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/350815.md",
+   "text_chars": 1156
+  },
+  {
+   "source": "kariera",
+   "id": "350739",
+   "title": "Social Media Executive (Εξ αποστάσεως)",
+   "company": "Digital Tree Media Ltd",
+   "location": "Λευκωσία",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/350739",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/350739.md",
+   "text_chars": 3298
+  },
+  {
+   "source": "kariera",
+   "id": "350257",
+   "title": "VISUAL MERCHANDISER BSB",
+   "company": "B and F",
+   "location": "Νέα Φιλαδέλφεια",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/350257",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/350257.md",
+   "text_chars": 2216
+  },
+  {
+   "source": "kariera",
+   "id": "349988",
+   "title": "client Service Assistant",
+   "company": "Novus Aditus",
+   "location": "Άλιμος",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/349988",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/349988.md",
+   "text_chars": 1534
+  },
+  {
+   "source": "kariera",
+   "id": "349950",
+   "title": "Brand Ambassador",
+   "company": "LMW RECRUITMENT SOLUTIONS IKE",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/349950",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/349950.md",
+   "text_chars": 1597
+  },
+  {
+   "source": "kariera",
+   "id": "349938",
+   "title": "🌟 Join ERGO as an Insurance & Investment Consultant in Chalkida 🌟",
+   "company": "ERGO ΑΣΦΑΛΙΣΤΙΚΗ ΜΟΝΟΠΡΟΣΩΠΗ Α.Ε.",
+   "location": "Χαλκίδα",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/349938",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/349938.md",
+   "text_chars": 2809
+  },
+  {
+   "source": "kariera",
+   "id": "349394",
+   "title": "Τι ψάχνεις από την επόμενη δουλειά σου?",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/349394",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/349394.md",
+   "text_chars": 2093
+  },
+  {
+   "source": "kariera",
+   "id": "349029",
+   "title": "Digital Marketing Specialist",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/349029",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/349029.md",
+   "text_chars": 2134
+  },
+  {
+   "source": "kariera",
+   "id": "348639",
+   "title": "Nέα ομάδα! | Marketing & Sales -Άμεση κάλυψη",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/348639",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/348639.md",
+   "text_chars": 1024
+  },
+  {
+   "source": "kariera",
+   "id": "348668",
+   "title": "Medical Marketing Associate",
+   "company": "CPO Greece",
+   "location": "Κρωπία",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/348668",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/348668.md",
+   "text_chars": 3701
+  },
+  {
+   "source": "kariera",
+   "id": "348637",
+   "title": "Marketing & Development Assistant",
+   "company": "ΕΛΛΑΓΡΕΤ ΑΒΕΕ",
+   "location": "Μάνδρα",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/348637",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/348637.md",
+   "text_chars": 1312
+  },
+  {
+   "source": "kariera",
+   "id": "348649",
+   "title": "Digital and Social Media Marketing Specialist",
+   "company": "ASC MAP ΑΕΒΕ",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/348649",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/348649.md",
+   "text_chars": 2124
+  },
+  {
+   "source": "kariera",
+   "id": "348565",
+   "title": "🌟Join ERGOHellas as Insurance & Investment Advisor in Athens🌟",
+   "company": "ERGO ΑΣΦΑΛΙΣΤΙΚΗ ΜΟΝΟΠΡΟΣΩΠΗ Α.Ε.",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/348565",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/348565.md",
+   "text_chars": 2934
+  },
+  {
+   "source": "kariera",
+   "id": "347913",
+   "title": "Στελέχη Marketing και Πωλήσεων – Αθήνα",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/347913",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/347913.md",
+   "text_chars": 1061
+  },
+  {
+   "source": "kariera",
+   "id": "347805",
+   "title": "Η BUTLERS αναζητά E-commerce Content & Operations Specialist",
+   "company": "GALACTICA",
+   "location": "Θέρμη",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/347805",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/347805.md",
+   "text_chars": 2285
+  },
+  {
+   "source": "kariera",
+   "id": "347629",
+   "title": "ΙΑΤΡΙΚΟΣ ΕΠΙΣΚΕΠΤΗΣ",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/347629",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/347629.md",
+   "text_chars": 2230
+  },
+  {
+   "source": "kariera",
+   "id": "347609",
+   "title": "Merchandiser στο χώρο των Φαρμακείων (Αττική)",
+   "company": "MSPS ΑΕ",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/347609",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/347609.md",
+   "text_chars": 1395
+  },
+  {
+   "source": "kariera",
+   "id": "347482",
+   "title": "🎓 Σπουδάζεις και ψάχνεις μια δουλειά που θα σου δώσει πραγματική εμπειρία;",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/347482",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/347482.md",
+   "text_chars": 1775
+  },
+  {
+   "source": "kariera",
+   "id": "347167",
+   "title": "Product Manager-Sourcing Specialist",
+   "company": "ΝΕΑ Χ. ΜΠΕΝΡΟΥΜΠΗ & ΥΙΟΣ ΑΕ",
+   "location": "Μαρούσι",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/347167",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/347167.md",
+   "text_chars": 1973
+  },
+  {
+   "source": "kariera",
+   "id": "348884",
+   "title": "Sales Orders Associate",
+   "company": "Epsilon Net",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/other-jobs/348884",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/348884.md",
+   "text_chars": 2696
+  },
+  {
+   "source": "kariera",
+   "id": "347140",
+   "title": "Marketing & Sales Executive",
+   "company": "BIKE EXPERT",
+   "location": "Γέρακας",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/347140",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/347140.md",
+   "text_chars": 1118
+  },
+  {
+   "source": "kariera",
+   "id": "346590",
+   "title": "Digital Marketing & Content Assistant",
+   "company": "MSYSTEMS IKE",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/346590",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/346590.md",
+   "text_chars": 2300
+  },
+  {
+   "source": "kariera",
+   "id": "353542",
+   "title": "Food & Beverage Operations Manager | Luxury Hotel | Santorini",
+   "company": "kariera.gr",
+   "location": "Recruitment | Θήρα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/353542",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353542.md",
+   "text_chars": 5883
+  },
+  {
+   "source": "kariera",
+   "id": "351680",
+   "title": "Προϊστάμενο Συντήρησης Electra Hotels Rhodes",
+   "company": "kariera.gr",
+   "location": "Recruitment | Ρόδος",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/351680",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351680.md",
+   "text_chars": 2520
+  },
+  {
+   "source": "kariera",
+   "id": "351691",
+   "title": "Hotel Operations Manager",
+   "company": "kariera.gr",
+   "location": "Recruitment | Θήρα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/351691",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351691.md",
+   "text_chars": 6461
+  },
+  {
+   "source": "kariera",
+   "id": "351682",
+   "title": "Εργοδηγός Εργοταξίου",
+   "company": "kariera.gr",
+   "location": "Recruitment | Ανώγεια",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/351682",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351682.md",
+   "text_chars": 1835
+  },
+  {
+   "source": "kariera",
+   "id": "354058",
+   "title": "Υπεύθυνη Τμήματος Κρατήσεων / Reservations Manager",
+   "company": "AFITIS BOUTIQUE HOTEL",
+   "location": "Κασσάνδρα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/354058",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/354058.md",
+   "text_chars": 1411
+  },
+  {
+   "source": "kariera",
+   "id": "353973",
+   "title": "Θέσεις εργασίας για Κεφαλονιά - Σεζόν 2027",
+   "company": "Electra Hotels & Resorts",
+   "location": "Λειβαθώ",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/353973",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353973.md",
+   "text_chars": 1921
+  },
+  {
+   "source": "kariera",
+   "id": "351482",
+   "title": "Groom",
+   "company": "Parga Beach Resort",
+   "location": "Πάργα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/351482",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351482.md",
+   "text_chars": 881
+  },
+  {
+   "source": "kariera",
+   "id": "351472",
+   "title": "Beach Boy",
+   "company": "Parga Beach Resort",
+   "location": "Πάργα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/351472",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351472.md",
+   "text_chars": 883
+  },
+  {
+   "source": "kariera",
+   "id": "348012",
+   "title": "Cabin Crew Member (based in Athens)",
+   "company": "kariera.gr",
+   "location": "Recruitment | Σπάτα Λούτσας",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/348012",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/348012.md",
+   "text_chars": 2700
+  },
+  {
+   "source": "kariera",
+   "id": "348013",
+   "title": "Maintenance Experiencer",
+   "company": "kariera.gr",
+   "location": "Recruitment | Αθήνα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/348013",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/348013.md",
+   "text_chars": 2823
+  },
+  {
+   "source": "kariera",
+   "id": "350606",
+   "title": "Προσωπικό Λάντζας",
+   "company": "COCO MAT HOTELS",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/350606",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/350606.md",
+   "text_chars": 892
+  },
+  {
+   "source": "kariera",
+   "id": "289833",
+   "title": "Xplore Guest Experience Facilitator / Receptionist",
+   "company": "LAMDA DEVELOPMENT SA",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/289833",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/289833.md",
+   "text_chars": 3468
+  },
+  {
+   "source": "kariera",
+   "id": "289839",
+   "title": "Superintendent MEP",
+   "company": "LAMDA DEVELOPMENT SA",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/other-jobs/289839",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/289839.md",
+   "text_chars": 2811
+  },
+  {
+   "source": "kariera",
+   "id": "351609",
+   "title": "Front Office Manager, NUMO Ierapetra, Curio Collection by Hilton",
+   "company": "NUMO HOTELS & RESORTS",
+   "location": "Ιεράπετρα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/351609",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351609.md",
+   "text_chars": 4057
+  },
+  {
+   "source": "kariera",
+   "id": "347414",
+   "title": "Kids Club Manager, Conrad Corfu",
+   "company": "NUMO HOTELS & RESORTS",
+   "location": "Κέρκυρα",
+   "url": "https://www.kariera.gr/jobs/other-jobs/347414",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/347414.md",
+   "text_chars": 4008
+  },
+  {
+   "source": "kariera",
+   "id": "347412",
+   "title": "Front Office Manager, Conrad Corfu",
+   "company": "NUMO HOTELS & RESORTS",
+   "location": "Κέρκυρα",
+   "url": "https://www.kariera.gr/jobs/other-jobs/347412",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/347412.md",
+   "text_chars": 3932
+  },
+  {
+   "source": "kariera",
+   "id": "353956",
+   "title": "Front Office Manager - ΚΕΦΑΛΟΝΙΑ",
+   "company": "Electra Hotels & Resorts",
+   "location": "Λειβαθώ",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/353956",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353956.md",
+   "text_chars": 1958
+  },
+  {
+   "source": "kariera",
+   "id": "353952",
+   "title": "Προϊστάμενος/η Οροφοκομίας - ΚΕΦΑΛΟΝΙΑ",
+   "company": "Electra Hotels & Resorts",
+   "location": "Λειβαθώ",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/353952",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353952.md",
+   "text_chars": 1723
+  },
+  {
+   "source": "kariera",
+   "id": "353836",
+   "title": "Waiter",
+   "company": "Sani/Ikos Group",
+   "location": "Κως",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/353836",
+   "apply": [
+    "https://careers.saniikosgroup.com/"
+   ],
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353836.md",
+   "text_chars": 3578
+  },
+  {
+   "source": "kariera",
+   "id": "353564",
+   "title": "Hotel Manager / Υπεύθυνος Λειτουργίας Ξενοδοχείου",
+   "company": "Oinousses Properties",
+   "location": "Οινούσσες",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/353564",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353564.md",
+   "text_chars": 2854
+  },
+  {
+   "source": "kariera",
+   "id": "353735",
+   "title": "Hotel Manager - Lesvos",
+   "company": "HotelBrain",
+   "location": "Αγία Παρασκευή",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/353735",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353735.md",
+   "text_chars": 1919
+  },
+  {
+   "source": "kariera",
+   "id": "353666",
+   "title": "HOTEL GENERAL MANAGER",
+   "company": "LOUIS HOTELS SA",
+   "location": "Ζάκυνθος",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/353666",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353666.md",
+   "text_chars": 1834
+  },
+  {
+   "source": "kariera",
+   "id": "348756",
+   "title": "Wellness Director",
+   "company": "DAIOS COVE",
+   "location": "Άγιος Νικόλαος",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/348756",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/348756.md",
+   "text_chars": 5042
+  },
+  {
+   "source": "kariera",
+   "id": "348235",
+   "title": "Hotel Sales Executive / Στέλεχος ξενοδοχειακών πωλήσεων",
+   "company": "DAIOS COVE",
+   "location": "Άγιος Νικόλαος",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/348235",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/348235.md",
+   "text_chars": 3557
+  },
+  {
+   "source": "kariera",
+   "id": "353660",
+   "title": "F & B Manager",
+   "company": "EMMAN VARDAKIS ALIANTHOS AE",
+   "location": "Φοίνικας",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/353660",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353660.md",
+   "text_chars": 3070
+  },
+  {
+   "source": "kariera",
+   "id": "353658",
+   "title": "SOUS CHEF",
+   "company": "EMMAN VARDAKIS ALIANTHOS AE",
+   "location": "Φοίνικας",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/353658",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353658.md",
+   "text_chars": 2227
+  },
+  {
+   "source": "kariera",
+   "id": "353656",
+   "title": "Συντηρητής Γενικών καθηκόντων",
+   "company": "EMMAN VARDAKIS ALIANTHOS AE",
+   "location": "Φοίνικας",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/353656",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353656.md",
+   "text_chars": 2175
+  },
+  {
+   "source": "kariera",
+   "id": "353654",
+   "title": "Το Alianthos Estate Resort ex Alianthos Garden, που δραστηριοποιείται στην περιοχή του Πλακιά Δήμου Ρεθύμνου, αναζητά Cost Control Manager",
+   "company": "EMMAN VARDAKIS ALIANTHOS AE",
+   "location": "Φοίνικας",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/353654",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353654.md",
+   "text_chars": 3769
+  },
+  {
+   "source": "kariera",
+   "id": "353640",
+   "title": "Bellboy-Groom - NICHE HOTEL ATHENS",
+   "company": "ΚΑΛΩΣ ΗΡΘΑΤΕ HOTELS AND SUITES AE",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/353640",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353640.md",
+   "text_chars": 834
+  },
+  {
+   "source": "kariera",
+   "id": "353610",
+   "title": "Steward",
+   "company": "Sani/Ikos Group",
+   "location": "Κως",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/353610",
+   "apply": [
+    "https://careers.saniikosgroup.com/"
+   ],
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353610.md",
+   "text_chars": 3845
+  },
+  {
+   "source": "kariera",
+   "id": "353602",
+   "title": "ΥΠΕΥΘΥΝΟΣ/Η ΚΡΑΤΗΣΕΩΝ / RESERVATIONS MANAGER – PANTEON WATERPARK",
+   "company": "Nana Hotels",
+   "location": "Χερσόνησος",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/353602",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353602.md",
+   "text_chars": 2883
+  },
+  {
+   "source": "kariera",
+   "id": "353360",
+   "title": "HOTEL GENERAL MANAGER - ZEL by Meliá 5* - ΣΕΖΟΝ 2027",
+   "company": "ZEUS HOTELS ΑΦΟΙ ΠΑΠΑΚΑΛΙΑΤΗ Α.Ε.",
+   "location": "Νεάπολη",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/353360",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353360.md",
+   "text_chars": 5101
+  },
+  {
+   "source": "kariera",
+   "id": "353357",
+   "title": "Προϊσταμένη Οροφοκομίας - ZEL by Meliá 5* - ΣΕΖΟΝ 2027",
+   "company": "ZEUS HOTELS ΑΦΟΙ ΠΑΠΑΚΑΛΙΑΤΗ Α.Ε.",
+   "location": "Νεάπολη",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/353357",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353357.md",
+   "text_chars": 1802
+  },
+  {
+   "source": "kariera",
+   "id": "353356",
+   "title": "ΒΑΛΕΣ - ZEL by Meliá 5* - ΣΕΖΟΝ 2027",
+   "company": "ZEUS HOTELS ΑΦΟΙ ΠΑΠΑΚΑΛΙΑΤΗ Α.Ε.",
+   "location": "Νεάπολη",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/353356",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353356.md",
+   "text_chars": 1324
+  },
+  {
+   "source": "kariera",
+   "id": "353354",
+   "title": "ΝΥΧΤΕΡΙΝΟΣ / NIGHT AUDITOR - ZEL by Meliá 5* - ΣΕΖΟΝ 2027",
+   "company": "ZEUS HOTELS ΑΦΟΙ ΠΑΠΑΚΑΛΙΑΤΗ Α.Ε.",
+   "location": "Νεάπολη",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/353354",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353354.md",
+   "text_chars": 2160
+  },
+  {
+   "source": "kariera",
+   "id": "353352",
+   "title": "MAITRE a la carte - ZEL by Meliá 5* - ΣΕΖΟΝ 2027",
+   "company": "ZEUS HOTELS ΑΦΟΙ ΠΑΠΑΚΑΛΙΑΤΗ Α.Ε.",
+   "location": "Νεάπολη",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/353352",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353352.md",
+   "text_chars": 2404
+  },
+  {
+   "source": "kariera",
+   "id": "353351",
+   "title": "GROOM - ZEL by Meliá 5* - ΣΕΖΟΝ 2027",
+   "company": "ZEUS HOTELS ΑΦΟΙ ΠΑΠΑΚΑΛΙΑΤΗ Α.Ε.",
+   "location": "Νεάπολη",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/353351",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353351.md",
+   "text_chars": 1939
+  },
+  {
+   "source": "kariera",
+   "id": "353350",
+   "title": "ΚΑΜΑΡΙΕΡΕΣ - ZEL by Meliá 5* - ΣΕΖΟΝ 2027",
+   "company": "ZEUS HOTELS ΑΦΟΙ ΠΑΠΑΚΑΛΙΑΤΗ Α.Ε.",
+   "location": "Νεάπολη",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/353350",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353350.md",
+   "text_chars": 1543
+  },
+  {
+   "source": "kariera",
+   "id": "353348",
+   "title": "FRONT OFFICE MANAGER - ZEL by Meliá 5* - ΣΕΖΟΝ 2027",
+   "company": "ZEUS HOTELS ΑΦΟΙ ΠΑΠΑΚΑΛΙΑΤΗ Α.Ε.",
+   "location": "Νεάπολη",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/353348",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353348.md",
+   "text_chars": 2413
+  },
+  {
+   "source": "kariera",
+   "id": "353346",
+   "title": "F&B MANAGER - ZEL by Meliá 5* - ΣΕΖΟΝ 2027",
+   "company": "ZEUS HOTELS ΑΦΟΙ ΠΑΠΑΚΑΛΙΑΤΗ Α.Ε.",
+   "location": "Νεάπολη",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/353346",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353346.md",
+   "text_chars": 2702
+  },
+  {
+   "source": "kariera",
+   "id": "353316",
+   "title": "Hotel Manager - Chalkidiki",
+   "company": "ZEUS INTERNATIONAL A.E.",
+   "location": "Μουδανιά",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/353316",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353316.md",
+   "text_chars": 3316
+  },
+  {
+   "source": "kariera",
+   "id": "353271",
+   "title": "Bartender",
+   "company": "Sani/Ikos Group",
+   "location": "Χανιά",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/353271",
+   "apply": [
+    "https://careers.saniikosgroup.com/"
+   ],
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353271.md",
+   "text_chars": 3461
+  },
+  {
+   "source": "kariera",
+   "id": "353264",
+   "title": "Housekeeper",
+   "company": "Sani/Ikos Group",
+   "location": "Μουδανιά",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/353264",
+   "apply": [
+    "https://careers.saniikosgroup.com/"
+   ],
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353264.md",
+   "text_chars": 3863
+  },
+  {
+   "source": "kariera",
+   "id": "353246",
+   "title": "ΥΠΕΥΘΥΝΗ ΚΑΜΑΡΙΕΡΩΝ / HOUSEKEEPING MANAGER - ΣΥΡΟΣ",
+   "company": "HotelBrain",
+   "location": "Άνω Σύρος",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/353246",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353246.md",
+   "text_chars": 2621
+  },
+  {
+   "source": "kariera",
+   "id": "353212",
+   "title": "Account Manager",
+   "company": "revplus",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/353212",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353212.md",
+   "text_chars": 4595
+  },
+  {
+   "source": "kariera",
+   "id": "353164",
+   "title": "Waiter/Waitress - Athens",
+   "company": "ZEUS INTERNATIONAL A.E.",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/353164",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353164.md",
+   "text_chars": 2515
+  },
+  {
+   "source": "kariera",
+   "id": "353128",
+   "title": "Room Attendant - Καμαριέρα (permanent/μόνιμη θέση) - Γλυφάδα",
+   "company": "ACE HOTEL&SWIM CLUB ATHENS",
+   "location": "Γλυφάδα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/353128",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353128.md",
+   "text_chars": 1791
+  },
+  {
+   "source": "kariera",
+   "id": "351529",
+   "title": "HOSTESS NICHE HOTEL ATHENS (STORK)",
+   "company": "ΚΑΛΩΣ ΗΡΘΑΤΕ HOTELS AND SUITES AE",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/351529",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351529.md",
+   "text_chars": 810
+  },
+  {
+   "source": "kariera",
+   "id": "353080",
+   "title": "Spa Receptionists - Άγιο Νικόλαο, Κρήτης",
+   "company": "T.E.I.M. BLUEGR ΑΕ",
+   "location": "Άγιος Νικόλαος",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/353080",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353080.md",
+   "text_chars": 4495
+  },
+  {
+   "source": "kariera",
+   "id": "353077",
+   "title": "Hotel Operations & Reservations Manager - Mykonos 2027",
+   "company": "HotelBrain",
+   "location": "Μύκονος",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/353077",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353077.md",
+   "text_chars": 4009
+  },
+  {
+   "source": "kariera",
+   "id": "353066",
+   "title": "Wedding Planner Coordinator",
+   "company": "ΣΤΕΛΛΑ ΜΠΗΤΣ Α.Ε",
+   "location": "Χερσόνησος",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/353066",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353066.md",
+   "text_chars": 1569
+  },
+  {
+   "source": "kariera",
+   "id": "353065",
+   "title": "Operations & Quality Assurance Executive",
+   "company": "Delfi Partners & Company",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/353065",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353065.md",
+   "text_chars": 2625
+  },
+  {
+   "source": "kariera",
+   "id": "353045",
+   "title": "Chef De Partie",
+   "company": "Sani/Ikos Group",
+   "location": "Χανιά",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/353045",
+   "apply": [
+    "https://careers.saniikosgroup.com/"
+   ],
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353045.md",
+   "text_chars": 3338
+  },
+  {
+   "source": "kariera",
+   "id": "353003",
+   "title": "Σύμβουλος Υγείας και Ευεξιας - Health Coach - Άγιο Νικόλαο, Κρήτης",
+   "company": "T.E.I.M. BLUEGR ΑΕ",
+   "location": "Άγιος Νικόλαος",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/353003",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353003.md",
+   "text_chars": 5109
+  },
+  {
+   "source": "kariera",
+   "id": "352326",
+   "title": "SPA Therapist - Grand Forest Metsovo, LHW",
+   "company": "Grand Forest",
+   "location": "Μέτσοβο",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352326",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352326.md",
+   "text_chars": 5779
+  },
+  {
+   "source": "kariera",
+   "id": "352999",
+   "title": "Καμαριέρες / Καμαριέρηδες - Housekeeping - Εκάλη, Αττικής",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352999",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352999.md",
+   "text_chars": 3059
+  },
+  {
+   "source": "kariera",
+   "id": "352920",
+   "title": "REVENUE & RESERVATIONS MANAGER",
+   "company": "President Hotel Athens",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352920",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352920.md",
+   "text_chars": 3822
+  },
+  {
+   "source": "kariera",
+   "id": "352852",
+   "title": "Procurement & Purchasing Coordinator",
+   "company": "Bill&Coo",
+   "location": "Μύκονος",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352852",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352852.md",
+   "text_chars": 1711
+  },
+  {
+   "source": "kariera",
+   "id": "352828",
+   "title": "Sales Coordinator - Athens",
+   "company": "ZEUS INTERNATIONAL A.E.",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352828",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352828.md",
+   "text_chars": 3294
+  },
+  {
+   "source": "kariera",
+   "id": "352799",
+   "title": "Night Receptionist - Chalkidiki",
+   "company": "ZEUS INTERNATIONAL A.E.",
+   "location": "Παλλήνη",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352799",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352799.md",
+   "text_chars": 2675
+  },
+  {
+   "source": "kariera",
+   "id": "352798",
+   "title": "Receptionist - Halkidiki",
+   "company": "ZEUS INTERNATIONAL A.E.",
+   "location": "Παλλήνη",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352798",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352798.md",
+   "text_chars": 2800
+  },
+  {
+   "source": "kariera",
+   "id": "352797",
+   "title": "Receptionist - Eretria",
+   "company": "ZEUS INTERNATIONAL A.E.",
+   "location": "Ερέτρια",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352797",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352797.md",
+   "text_chars": 2770
+  },
+  {
+   "source": "kariera",
+   "id": "352793",
+   "title": "Night Receptionist - Eretria",
+   "company": "ZEUS INTERNATIONAL A.E.",
+   "location": "Ερέτρια",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352793",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352793.md",
+   "text_chars": 2600
+  },
+  {
+   "source": "kariera",
+   "id": "352788",
+   "title": "Βοηθός Προϊσταμένης/νου Ορόφων - Αθήνα",
+   "company": "ZEUS INTERNATIONAL A.E.",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352788",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352788.md",
+   "text_chars": 2699
+  },
+  {
+   "source": "kariera",
+   "id": "352787",
+   "title": "Barman/Barmaid - Vravrona",
+   "company": "ZEUS INTERNATIONAL A.E.",
+   "location": "Αρτέμιδα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352787",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352787.md",
+   "text_chars": 2967
+  },
+  {
+   "source": "kariera",
+   "id": "352786",
+   "title": "Bartender - Athens",
+   "company": "ZEUS INTERNATIONAL A.E.",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352786",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352786.md",
+   "text_chars": 2602
+  },
+  {
+   "source": "kariera",
+   "id": "352780",
+   "title": "Reservations Manager - Eretria",
+   "company": "ZEUS INTERNATIONAL A.E.",
+   "location": "Ερέτρια",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352780",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352780.md",
+   "text_chars": 3899
+  },
+  {
+   "source": "kariera",
+   "id": "352779",
+   "title": "Reservations Manager - Eretria",
+   "company": "ZEUS INTERNATIONAL A.E.",
+   "location": "Ερέτρια",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352779",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352779.md",
+   "text_chars": 3899
+  },
+  {
+   "source": "kariera",
+   "id": "352777",
+   "title": "Revenue Manager - Athens",
+   "company": "ZEUS INTERNATIONAL A.E.",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352777",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352777.md",
+   "text_chars": 3551
+  },
+  {
+   "source": "kariera",
+   "id": "352776",
+   "title": "Receptionist - Vravrona",
+   "company": "ZEUS INTERNATIONAL A.E.",
+   "location": "Αρτέμιδα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352776",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352776.md",
+   "text_chars": 2771
+  },
+  {
+   "source": "kariera",
+   "id": "352775",
+   "title": "Receptionist - Thessaloniki",
+   "company": "ZEUS INTERNATIONAL A.E.",
+   "location": "Σταυρούπολη",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352775",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352775.md",
+   "text_chars": 2722
+  },
+  {
+   "source": "kariera",
+   "id": "352774",
+   "title": "Receptionist - Athens",
+   "company": "ZEUS INTERNATIONAL A.E.",
+   "location": "Πειραιάς",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352774",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352774.md",
+   "text_chars": 2814
+  },
+  {
+   "source": "kariera",
+   "id": "352773",
+   "title": "Receptionist - Peiraias",
+   "company": "ZEUS INTERNATIONAL A.E.",
+   "location": "Πειραιάς",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352773",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352773.md",
+   "text_chars": 2816
+  },
+  {
+   "source": "kariera",
+   "id": "352770",
+   "title": "Night Receptionist - Piraeus",
+   "company": "ZEUS INTERNATIONAL A.E.",
+   "location": "Πειραιάς",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352770",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352770.md",
+   "text_chars": 2755
+  },
+  {
+   "source": "kariera",
+   "id": "352769",
+   "title": "Groom - Chalkidiki",
+   "company": "ZEUS INTERNATIONAL A.E.",
+   "location": "Παλλήνη",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352769",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352769.md",
+   "text_chars": 2672
+  },
+  {
+   "source": "kariera",
+   "id": "352767",
+   "title": "Λαντζέρης / Λαντζέρισσα - Βοηθός Κουζίνας - Χαλκιδική",
+   "company": "ZEUS INTERNATIONAL A.E.",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352767",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352767.md",
+   "text_chars": 2348
+  },
+  {
+   "source": "kariera",
+   "id": "352766",
+   "title": "Λαντζέρης / Λαντζέρισσα – Βοηθός Κουζίνας- Βραυρώνα",
+   "company": "ZEUS INTERNATIONAL A.E.",
+   "location": "Αρτέμιδα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352766",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352766.md",
+   "text_chars": 2346
+  },
+  {
+   "source": "kariera",
+   "id": "352764",
+   "title": "Talent Acquisition Specialist",
+   "company": "ZEUS INTERNATIONAL A.E.",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352764",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352764.md",
+   "text_chars": 3552
+  },
+  {
+   "source": "kariera",
+   "id": "352754",
+   "title": "Καμαριέρα - Χαλκιδική",
+   "company": "ZEUS INTERNATIONAL A.E.",
+   "location": "Παλλήνη",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352754",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352754.md",
+   "text_chars": 2333
+  },
+  {
+   "source": "kariera",
+   "id": "352752",
+   "title": "Housekeeping Supervisor | Conrad Athens the Ilisian",
+   "company": "Conrad Athens The Ilisian",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352752",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352752.md",
+   "text_chars": 3270
+  },
+  {
+   "source": "kariera",
+   "id": "352749",
+   "title": "Καμαριέρα - Αθήνα/Πειραιάς",
+   "company": "ZEUS INTERNATIONAL A.E.",
+   "location": "Πειραιάς",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352749",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352749.md",
+   "text_chars": 2350
+  },
+  {
+   "source": "kariera",
+   "id": "352750",
+   "title": "Καμαριέρα/ Καμαριέρης - Room Attendant | Conrad Athens The Ilisian",
+   "company": "Conrad Athens The Ilisian",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352750",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352750.md",
+   "text_chars": 5935
+  },
+  {
+   "source": "kariera",
+   "id": "352746",
+   "title": "Waiter/Waitress - Thessaloniki",
+   "company": "ZEUS INTERNATIONAL A.E.",
+   "location": "Σταυρούπολη",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352746",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352746.md",
+   "text_chars": 2492
+  },
+  {
+   "source": "kariera",
+   "id": "352744",
+   "title": "Waiter/Waitress - Vravrona",
+   "company": "ZEUS INTERNATIONAL A.E.",
+   "location": "Αρτέμιδα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352744",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352744.md",
+   "text_chars": 2516
+  },
+  {
+   "source": "kariera",
+   "id": "352743",
+   "title": "Waiter/Waitress - Eretria",
+   "company": "ZEUS INTERNATIONAL A.E.",
+   "location": "Ερέτρια",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352743",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352743.md",
+   "text_chars": 2521
+  },
+  {
+   "source": "kariera",
+   "id": "352741",
+   "title": "Sales Executive - Corporate, MICE & Travel - Athens",
+   "company": "ZEUS INTERNATIONAL A.E.",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352741",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352741.md",
+   "text_chars": 5545
+  },
+  {
+   "source": "kariera",
+   "id": "352740",
+   "title": "Συντηρητής - Ερέτρια",
+   "company": "ZEUS INTERNATIONAL A.E.",
+   "location": "Ερέτρια",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352740",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352740.md",
+   "text_chars": 2754
+  },
+  {
+   "source": "kariera",
+   "id": "352736",
+   "title": "Λαντζέρης / Λαντζέρισσα – Βοηθός Κουζίνας - Αθήνα",
+   "company": "ZEUS INTERNATIONAL A.E.",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352736",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352736.md",
+   "text_chars": 2344
+  },
+  {
+   "source": "kariera",
+   "id": "352728",
+   "title": "Houseman | Conrad Athens the Ilisian",
+   "company": "Conrad Athens The Ilisian",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352728",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352728.md",
+   "text_chars": 6649
+  },
+  {
+   "source": "kariera",
+   "id": "352559",
+   "title": "Demi Chef de Partie",
+   "company": "Sani/Ikos Group",
+   "location": "Κως",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352559",
+   "apply": [
+    "https://careers.saniikosgroup.com/"
+   ],
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352559.md",
+   "text_chars": 4538
+  },
+  {
+   "source": "kariera",
+   "id": "352557",
+   "title": "Chef De Partie",
+   "company": "Sani/Ikos Group",
+   "location": "Κέρκυρα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352557",
+   "apply": [
+    "https://careers.saniikosgroup.com/"
+   ],
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352557.md",
+   "text_chars": 3340
+  },
+  {
+   "source": "kariera",
+   "id": "352529",
+   "title": "Housekeeping Manager",
+   "company": "Canaves Collection",
+   "location": "Οία",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352529",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352529.md",
+   "text_chars": 3758
+  },
+  {
+   "source": "kariera",
+   "id": "352514",
+   "title": "Guest Relations Executive",
+   "company": "Canaves Collection",
+   "location": "Οία",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352514",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352514.md",
+   "text_chars": 2863
+  },
+  {
+   "source": "kariera",
+   "id": "352512",
+   "title": "RECEPTIONIST - ASTOR HOTEL ATHENS",
+   "company": "President Hotel Athens",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352512",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352512.md",
+   "text_chars": 2118
+  },
+  {
+   "source": "kariera",
+   "id": "352481",
+   "title": "F&B Manager - Mykonos",
+   "company": "ORA Hospitality",
+   "location": "Μύκονος",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352481",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352481.md",
+   "text_chars": 3487
+  },
+  {
+   "source": "kariera",
+   "id": "352477",
+   "title": "Reservation Manager | Athens & Mykonos",
+   "company": "ORA Hospitality",
+   "location": "Μύκονος",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352477",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352477.md",
+   "text_chars": 5168
+  },
+  {
+   "source": "kariera",
+   "id": "352476",
+   "title": "Restaurant Manager | Mykonos",
+   "company": "ORA Hospitality",
+   "location": "Μύκονος",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352476",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352476.md",
+   "text_chars": 3958
+  },
+  {
+   "source": "kariera",
+   "id": "352475",
+   "title": "Restaurant Assistant Manager | Mykonos",
+   "company": "ORA Hospitality",
+   "location": "Μύκονος",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352475",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352475.md",
+   "text_chars": 3502
+  },
+  {
+   "source": "kariera",
+   "id": "352472",
+   "title": "Restaurant Supervisor | Mykonos",
+   "company": "ORA Hospitality",
+   "location": "Μύκονος",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352472",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352472.md",
+   "text_chars": 3319
+  },
+  {
+   "source": "kariera",
+   "id": "352470",
+   "title": "Waiter/Waitress | Mykonos",
+   "company": "ORA Hospitality",
+   "location": "Μύκονος",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352470",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352470.md",
+   "text_chars": 3323
+  },
+  {
+   "source": "kariera",
+   "id": "352469",
+   "title": "Host-Hostess | Mykonos",
+   "company": "ORA Hospitality",
+   "location": "Μύκονος",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352469",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352469.md",
+   "text_chars": 3210
+  },
+  {
+   "source": "kariera",
+   "id": "352468",
+   "title": "Room Service Assistant Manager | Mykonos",
+   "company": "ORA Hospitality",
+   "location": "Μύκονος",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352468",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352468.md",
+   "text_chars": 3518
+  },
+  {
+   "source": "kariera",
+   "id": "352466",
+   "title": "Assistant Waiter/Waitress | Mykonos",
+   "company": "ORA Hospitality",
+   "location": "Μύκονος",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352466",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352466.md",
+   "text_chars": 3292
+  },
+  {
+   "source": "kariera",
+   "id": "352465",
+   "title": "Food Runner | Mykonos",
+   "company": "ORA Hospitality",
+   "location": "Μύκονος",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352465",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352465.md",
+   "text_chars": 3221
+  },
+  {
+   "source": "kariera",
+   "id": "352420",
+   "title": "Spa Therapist_Metsovo",
+   "company": "HotelBrain",
+   "location": "Μέτσοβο",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352420",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352420.md",
+   "text_chars": 1032
+  },
+  {
+   "source": "kariera",
+   "id": "352389",
+   "title": "Head Housekeeper (ΜΥΚΟΝΟΣ & ΚΕΦΑΛΟΝΙΑ)",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352389",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352389.md",
+   "text_chars": 5414
+  },
+  {
+   "source": "kariera",
+   "id": "352384",
+   "title": "Housekeeper",
+   "company": "AVILA ASSET MANAGEMENT",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352384",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352384.md",
+   "text_chars": 3022
+  },
+  {
+   "source": "kariera",
+   "id": "352373",
+   "title": "Runner Mukonos",
+   "company": "AVILA ASSET MANAGEMENT",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352373",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352373.md",
+   "text_chars": 4603
+  },
+  {
+   "source": "kariera",
+   "id": "352368",
+   "title": "ΥΔΡΑΥΛΙΚΟΣ ΓΕΝΙΚΩΝ ΚΑΘΗΚΟΝΤΩΝ ΑΘΗΝΑ ΚΑΙ ΜΥΚΟΝΟ",
+   "company": "AVILA ASSET MANAGEMENT",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352368",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352368.md",
+   "text_chars": 5084
+  },
+  {
+   "source": "kariera",
+   "id": "352290",
+   "title": "GROOM - ΠΕΙΡΑΙΑΣ",
+   "company": "HotelBrain",
+   "location": "Πειραιάς",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352290",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352290.md",
+   "text_chars": 603
+  },
+  {
+   "source": "kariera",
+   "id": "352226",
+   "title": "Προϊστάμενος Συντήρησης",
+   "company": "H HOTELS COLLECTION",
+   "location": "Νότια Ρόδος",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352226",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352226.md",
+   "text_chars": 2647
+  },
+  {
+   "source": "kariera",
+   "id": "352225",
+   "title": "Steward",
+   "company": "SANDBLU",
+   "location": "Θήρα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352225",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352225.md",
+   "text_chars": 4985
+  },
+  {
+   "source": "kariera",
+   "id": "352223",
+   "title": "Sous Chef",
+   "company": "SANDBLU",
+   "location": "Θήρα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352223",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352223.md",
+   "text_chars": 6183
+  },
+  {
+   "source": "kariera",
+   "id": "352221",
+   "title": "Restaurant Floor Manager",
+   "company": "SANDBLU",
+   "location": "Θήρα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352221",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352221.md",
+   "text_chars": 7000
+  },
+  {
+   "source": "kariera",
+   "id": "352220",
+   "title": "Restaurant Captain",
+   "company": "SANDBLU",
+   "location": "Θήρα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352220",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352220.md",
+   "text_chars": 7000
+  },
+  {
+   "source": "kariera",
+   "id": "352219",
+   "title": "Porter",
+   "company": "SANDBLU",
+   "location": "Θήρα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352219",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352219.md",
+   "text_chars": 7000
+  },
+  {
+   "source": "kariera",
+   "id": "352218",
+   "title": "Night Auditor",
+   "company": "SANDBLU",
+   "location": "Θήρα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352218",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352218.md",
+   "text_chars": 6405
+  },
+  {
+   "source": "kariera",
+   "id": "352215",
+   "title": "Front Office Manager",
+   "company": "H HOTELS COLLECTION",
+   "location": "Νότια Ρόδος",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352215",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352215.md",
+   "text_chars": 3728
+  },
+  {
+   "source": "kariera",
+   "id": "352201",
+   "title": "Food & Beverage Manager",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352201",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352201.md",
+   "text_chars": 3494
+  },
+  {
+   "source": "kariera",
+   "id": "352183",
+   "title": "Maid",
+   "company": "SANDBLU",
+   "location": "Θήρα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352183",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352183.md",
+   "text_chars": 7000
+  },
+  {
+   "source": "kariera",
+   "id": "352172",
+   "title": "Houseman",
+   "company": "SANDBLU",
+   "location": "Θήρα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352172",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352172.md",
+   "text_chars": 6612
+  },
+  {
+   "source": "kariera",
+   "id": "352168",
+   "title": "Housekeeping Supervisor",
+   "company": "SANDBLU",
+   "location": "Θήρα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352168",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352168.md",
+   "text_chars": 6958
+  },
+  {
+   "source": "kariera",
+   "id": "352163",
+   "title": "Hostess",
+   "company": "SANDBLU",
+   "location": "Θήρα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352163",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352163.md",
+   "text_chars": 6876
+  },
+  {
+   "source": "kariera",
+   "id": "350630",
+   "title": "Διευθυντής Τροφίμων & Ποτών",
+   "company": "kariera.gr",
+   "location": "Recruitment | Κως",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/350630",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/350630.md",
+   "text_chars": 6976
+  },
+  {
+   "source": "kariera",
+   "id": "352127",
+   "title": "Demi Chef de Partie",
+   "company": "SANDBLU",
+   "location": "Θήρα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352127",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352127.md",
+   "text_chars": 6285
+  },
+  {
+   "source": "kariera",
+   "id": "352124",
+   "title": "Commis Chef",
+   "company": "SANDBLU",
+   "location": "Θήρα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352124",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352124.md",
+   "text_chars": 6171
+  },
+  {
+   "source": "kariera",
+   "id": "352079",
+   "title": "Γενική Προϊσταμένη Ορόφων-Executive Housekeeper",
+   "company": "DIVANI COLLECTION HOTELS",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352079",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352079.md",
+   "text_chars": 2149
+  },
+  {
+   "source": "kariera",
+   "id": "352074",
+   "title": "Chef de Partie",
+   "company": "SANDBLU",
+   "location": "Θήρα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352074",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352074.md",
+   "text_chars": 6171
+  },
+  {
+   "source": "kariera",
+   "id": "352054",
+   "title": "Chef De Cuisine",
+   "company": "SANDBLU",
+   "location": "Θήρα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352054",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352054.md",
+   "text_chars": 7000
+  },
+  {
+   "source": "kariera",
+   "id": "352050",
+   "title": "Bartender",
+   "company": "SANDBLU",
+   "location": "Θήρα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352050",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352050.md",
+   "text_chars": 7000
+  },
+  {
+   "source": "kariera",
+   "id": "352046",
+   "title": "Assistant Waiter/ Waitress",
+   "company": "SANDBLU",
+   "location": "Θήρα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352046",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352046.md",
+   "text_chars": 6358
+  },
+  {
+   "source": "kariera",
+   "id": "352041",
+   "title": "Assistant Front Office Manager",
+   "company": "SANDBLU",
+   "location": "Θήρα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352041",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352041.md",
+   "text_chars": 7000
+  },
+  {
+   "source": "kariera",
+   "id": "352030",
+   "title": "Head Waiter/ Waitress",
+   "company": "SANDBLU",
+   "location": "Θήρα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352030",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352030.md",
+   "text_chars": 6781
+  },
+  {
+   "source": "kariera",
+   "id": "352020",
+   "title": "APHI AURA | Head bartender",
+   "company": "Wavemaker Hospitality",
+   "location": "Ρόδος",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352020",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352020.md",
+   "text_chars": 3180
+  },
+  {
+   "source": "kariera",
+   "id": "352013",
+   "title": "APHI AURA | Υπεύθυνος/η Πλυντηρίου & Λινοθήκης",
+   "company": "Wavemaker Hospitality",
+   "location": "Ρόδος",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/352013",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/352013.md",
+   "text_chars": 3065
+  },
+  {
+   "source": "kariera",
+   "id": "351973",
+   "title": "APHI AURA | Restaurant manager",
+   "company": "Wavemaker Hospitality",
+   "location": "Ρόδος",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/351973",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351973.md",
+   "text_chars": 3476
+  },
+  {
+   "source": "kariera",
+   "id": "351968",
+   "title": "APHI AURA | Sous chef",
+   "company": "Wavemaker Hospitality",
+   "location": "Ρόδος",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/351968",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351968.md",
+   "text_chars": 3168
+  },
+  {
+   "source": "kariera",
+   "id": "351948",
+   "title": "Head Bartender",
+   "company": "SANDBLU",
+   "location": "Θήρα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/351948",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351948.md",
+   "text_chars": 7000
+  },
+  {
+   "source": "kariera",
+   "id": "351808",
+   "title": "Human Resources Generalist",
+   "company": "SANDBLU",
+   "location": "Θήρα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/351808",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351808.md",
+   "text_chars": 5009
+  },
+  {
+   "source": "kariera",
+   "id": "351807",
+   "title": "IRD Waiter",
+   "company": "SANDBLU",
+   "location": "Θήρα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/351807",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351807.md",
+   "text_chars": 4980
+  },
+  {
+   "source": "kariera",
+   "id": "351803",
+   "title": "Bartender",
+   "company": "SANDBLU",
+   "location": "Θήρα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/351803",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351803.md",
+   "text_chars": 3925
+  },
+  {
+   "source": "kariera",
+   "id": "351802",
+   "title": "Assistant Waiter/Waitress",
+   "company": "SANDBLU",
+   "location": "Θήρα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/351802",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351802.md",
+   "text_chars": 5345
+  },
+  {
+   "source": "kariera",
+   "id": "351781",
+   "title": "Housekeeping Coordinator | Mykonos",
+   "company": "ORA Hospitality",
+   "location": "Μύκονος",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/351781",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351781.md",
+   "text_chars": 3779
+  },
+  {
+   "source": "kariera",
+   "id": "351779",
+   "title": "Housekeeping Supervisor | Mykonos",
+   "company": "ORA Hospitality",
+   "location": "Μύκονος",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/351779",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351779.md",
+   "text_chars": 3739
+  },
+  {
+   "source": "kariera",
+   "id": "351777",
+   "title": "Room Attendant | Mykonos",
+   "company": "ORA Hospitality",
+   "location": "Μύκονος",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/351777",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351777.md",
+   "text_chars": 3632
+  },
+  {
+   "source": "kariera",
+   "id": "351776",
+   "title": "Houseman | Mykonos",
+   "company": "ORA Hospitality",
+   "location": "Μύκονος",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/351776",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351776.md",
+   "text_chars": 3674
+  },
+  {
+   "source": "kariera",
+   "id": "351775",
+   "title": "Public Area Attendant - Cleaner | Mykonos",
+   "company": "ORA Hospitality",
+   "location": "Μύκονος",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/351775",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351775.md",
+   "text_chars": 3597
+  },
+  {
+   "source": "kariera",
+   "id": "351774",
+   "title": "Night Cleaner | Mykonos",
+   "company": "ORA Hospitality",
+   "location": "Μύκονος",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/351774",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351774.md",
+   "text_chars": 3128
+  },
+  {
+   "source": "kariera",
+   "id": "351771",
+   "title": "Laundry Manager | Mykonos",
+   "company": "ORA Hospitality",
+   "location": "Μύκονος",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/351771",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351771.md",
+   "text_chars": 3656
+  },
+  {
+   "source": "kariera",
+   "id": "351769",
+   "title": "Front Office Manager | Mykonos",
+   "company": "ORA Hospitality",
+   "location": "Μύκονος",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/351769",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351769.md",
+   "text_chars": 4545
+  },
+  {
+   "source": "kariera",
+   "id": "351767",
+   "title": "APHI MIRA | Restaurant manager",
+   "company": "Wavemaker Hospitality",
+   "location": "Ρόδος",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/351767",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351767.md",
+   "text_chars": 3595
+  },
+  {
+   "source": "kariera",
+   "id": "351768",
+   "title": "Night Manager | Mykonos",
+   "company": "ORA Hospitality",
+   "location": "Μύκονος",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/351768",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351768.md",
+   "text_chars": 3625
+  },
+  {
+   "source": "kariera",
+   "id": "351764",
+   "title": "Υπάλληλος Κρατήσεων - Θεσσαλονίκη",
+   "company": "PHILIAN HOTELS AND RESORT",
+   "location": "Θεσσαλονίκη",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/351764",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351764.md",
+   "text_chars": 2200
+  },
+  {
+   "source": "kariera",
+   "id": "351759",
+   "title": "Chief Concierge | Mykonos",
+   "company": "ORA Hospitality",
+   "location": "Μύκονος",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/351759",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351759.md",
+   "text_chars": 3825
+  },
+  {
+   "source": "kariera",
+   "id": "351757",
+   "title": "APHI MIRA | Assistant F&B manager",
+   "company": "Wavemaker Hospitality",
+   "location": "Ρόδος",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/351757",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351757.md",
+   "text_chars": 3690
+  },
+  {
+   "source": "kariera",
+   "id": "351755",
+   "title": "APHI MIRA | Bar manager",
+   "company": "Wavemaker Hospitality",
+   "location": "Ρόδος",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/351755",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351755.md",
+   "text_chars": 3092
+  },
+  {
+   "source": "kariera",
+   "id": "351753",
+   "title": "APHI MIRA | F&B manager",
+   "company": "Wavemaker Hospitality",
+   "location": "Ρόδος",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/351753",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351753.md",
+   "text_chars": 3867
+  },
+  {
+   "source": "kariera",
+   "id": "351752",
+   "title": "Guest Services Manager | Mykonos",
+   "company": "ORA Hospitality",
+   "location": "Μύκονος",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/351752",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351752.md",
+   "text_chars": 3763
+  },
+  {
+   "source": "kariera",
+   "id": "351751",
+   "title": "APHI MIRA | Executive Sous Chef",
+   "company": "Wavemaker Hospitality",
+   "location": "Ρόδος",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/351751",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351751.md",
+   "text_chars": 3362
+  },
+  {
+   "source": "kariera",
+   "id": "351749",
+   "title": "APHI MIRA | Front office manager",
+   "company": "Wavemaker Hospitality",
+   "location": "Ρόδος",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/351749",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351749.md",
+   "text_chars": 3600
+  },
+  {
+   "source": "kariera",
+   "id": "351714",
+   "title": "APHI MIRA | Operations manager",
+   "company": "Wavemaker Hospitality",
+   "location": "Ρόδος",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/351714",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351714.md",
+   "text_chars": 4528
+  },
+  {
+   "source": "kariera",
+   "id": "351698",
+   "title": "Steward",
+   "company": "Sani/Ikos Group",
+   "location": "Χανιά",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/351698",
+   "apply": [
+    "https://careers.saniikosgroup.com/"
+   ],
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351698.md",
+   "text_chars": 3845
+  },
+  {
+   "source": "kariera",
+   "id": "351697",
+   "title": "Waiter",
+   "company": "Sani/Ikos Group",
+   "location": "Μουδανιά",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/351697",
+   "apply": [
+    "https://careers.saniikosgroup.com/"
+   ],
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351697.md",
+   "text_chars": 3583
+  },
+  {
+   "source": "kariera",
+   "id": "351693",
+   "title": "Housekeeper",
+   "company": "Sani/Ikos Group",
+   "location": "Χανιά",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/351693",
+   "apply": [
+    "https://careers.saniikosgroup.com/"
+   ],
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351693.md",
+   "text_chars": 3860
+  },
+  {
+   "source": "kariera",
+   "id": "351692",
+   "title": "Assistant Housekeeping Manager",
+   "company": "Sani/Ikos Group",
+   "location": "Χανιά",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/351692",
+   "apply": [
+    "https://careers.saniikosgroup.com/"
+   ],
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/351692.md",
+   "text_chars": 4247
+  },
+  {
+   "source": "kariera",
+   "id": "353560",
+   "title": "Continuous Improvement & Transformation Assosiate",
+   "company": "COOKE",
+   "location": "Κρωπία",
+   "url": "https://www.kariera.gr/jobs/strategy-or-planning-jobs/353560",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/353560.md",
+   "text_chars": 6093
+  },
+  {
+   "source": "jobfind",
+   "id": "aed16202-ba87-41b0-bedb-9ad5ab032877",
+   "title": "Marketing & Events Associate",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/aed16202-ba87-41b0-bedb-9ad5ab032877/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/aed16202-ba87-41b0-bedb-9ad5ab032877.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "6d26ad64-9bd6-43eb-80b9-c474660b3f43",
+   "title": "Social Media Content & Graphic Design Assistant",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΑΝΩ ΛΙΟΣΙΑ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/6d26ad64-9bd6-43eb-80b9-c474660b3f43/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/6d26ad64-9bd6-43eb-80b9-c474660b3f43.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "f50c8ea5-cdfa-4812-b3dc-0db310e5706f",
+   "title": "Σύμβουλοι Εξυπηρέτησης Εταιρικών Πελατών - Vodafone",
+   "location": "Vodafone - ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΑΓ ΙΩΑΝΝΗΣ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/f50c8ea5-cdfa-4812-b3dc-0db310e5706f/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/f50c8ea5-cdfa-4812-b3dc-0db310e5706f.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "c5f14389-b7e7-49ec-8b56-d243df52a4d1",
+   "title": "Υπεύθυνος / Υπεύθυνη Διαφήμισης Ελεύθερης Αγοράς",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΜΕΤΑΜΟΡΦΩΣΗ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/c5f14389-b7e7-49ec-8b56-d243df52a4d1/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/c5f14389-b7e7-49ec-8b56-d243df52a4d1.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "716579dc-338d-465f-bfa6-34905be82007",
+   "title": "2 νέες θέσεις εκπροσώπησης Μ.Κ.Ο",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΠΛΑΤΕΙΑ ΑΜΕΡΙΚΗΣ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/716579dc-338d-465f-bfa6-34905be82007/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/716579dc-338d-465f-bfa6-34905be82007.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "e9d15586-6033-4bef-8fef-50c1dde030f4",
+   "title": "Συνεργάτες Πωλήσεων σε Επιχειρήσεις",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/e9d15586-6033-4bef-8fef-50c1dde030f4/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/e9d15586-6033-4bef-8fef-50c1dde030f4.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "53936a63-5663-460b-b76a-72b1b915a9e6",
+   "title": "Υπεύθυνος Marketing & Πωλήσεων",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΑΘΗΝΑ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/53936a63-5663-460b-b76a-72b1b915a9e6/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/53936a63-5663-460b-b76a-72b1b915a9e6.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "a0e704e5-8118-4144-b76a-72e84316d579",
+   "title": "Δημοσιογράφοι σε ενημερωτικό site",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΜΕΤΑΜΟΡΦΩΣΗ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/a0e704e5-8118-4144-b76a-72e84316d579/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/a0e704e5-8118-4144-b76a-72e84316d579.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "ba735f5d-c317-4518-8466-4017601146da",
+   "title": "Part - Time Brand Ambassadors HORECA",
+   "location": "Time Brand Ambassadors HORECA  - ΑΘΗΝΑ - ΑΤΤΙΚΗ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/ba735f5d-c317-4518-8466-4017601146da/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/ba735f5d-c317-4518-8466-4017601146da.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "c8ec133c-ccf7-44c8-a386-a5dfaba9c2dc",
+   "title": "Marketing Manager",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΑΣΠΡΟΠΥΡΓΟΣ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/c8ec133c-ccf7-44c8-a386-a5dfaba9c2dc/",
+   "apply": [
+    "https://apply.workable.com/j/6A7F8C9467%20"
+   ],
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/c8ec133c-ccf7-44c8-a386-a5dfaba9c2dc.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "6ca8b234-e906-4c4d-acee-1a450f954f01",
+   "title": "Ανάπτυξη δικτύων προϊόντων και marketing",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΝΕΟΣ ΚΟΣΜΟΣ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/6ca8b234-e906-4c4d-acee-1a450f954f01/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/6ca8b234-e906-4c4d-acee-1a450f954f01.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "a5b64524-5480-4fb6-a64e-71d307ba1b40",
+   "title": "Ενίσχυση ανθρώπινου δυναμικού",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΝΟΜΟΣ ΑΤΤΙΚΗΣ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/a5b64524-5480-4fb6-a64e-71d307ba1b40/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/a5b64524-5480-4fb6-a64e-71d307ba1b40.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "cf0b781e-227e-4c1d-993b-fb02b39c95e9",
+   "title": "Brand Ambassadors (Ρέθυμνο)",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΑΘΗΝΑ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/cf0b781e-227e-4c1d-993b-fb02b39c95e9/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/cf0b781e-227e-4c1d-993b-fb02b39c95e9.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "fb5e2763-39e4-4d46-ad94-61ced9d1cdc2",
+   "title": "Assistant Account Manager",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΝΕΑ ΙΩΝΙΑ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/fb5e2763-39e4-4d46-ad94-61ced9d1cdc2/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/fb5e2763-39e4-4d46-ad94-61ced9d1cdc2.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "03a95522-d309-4f5e-8604-89f914afbac5",
+   "title": "Χειριστής /στρια Η/Υ με γνώση τυφλού συστήματος",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΚΗΦΙΣΙΑ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/03a95522-d309-4f5e-8604-89f914afbac5/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/03a95522-d309-4f5e-8604-89f914afbac5.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "d50df48d-e39f-4a7a-8da6-ef8f4539729f",
+   "title": "Brand Manager",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/d50df48d-e39f-4a7a-8da6-ef8f4539729f/",
+   "apply": [
+    "https://apply.smartcv.co/mentekidis/job/ny5q8?ref=Jobfind"
+   ],
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/d50df48d-e39f-4a7a-8da6-ef8f4539729f.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "eee4f5bc-a3b0-49e0-8c2d-5177dc8eca90",
+   "title": "Στέλεχος για Οργάνωση Συνεδρίων",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΚΕΝΤΡΟ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/eee4f5bc-a3b0-49e0-8c2d-5177dc8eca90/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/eee4f5bc-a3b0-49e0-8c2d-5177dc8eca90.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "8f31d73f-3ee4-4874-8901-ad0cd9f6ddbd",
+   "title": "Υπάλληλος Γραφείου με άνεση στην επικοινωνία",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΚΕΝΤΡΟ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/8f31d73f-3ee4-4874-8901-ad0cd9f6ddbd/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/8f31d73f-3ee4-4874-8901-ad0cd9f6ddbd.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "05191a7f-8216-4e1b-830b-2afdf4292380",
+   "title": "Εξωτερικός συνεργάτης στον κλάδο των Πωλήσεων",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/05191a7f-8216-4e1b-830b-2afdf4292380/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/05191a7f-8216-4e1b-830b-2afdf4292380.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "67a52ec3-8aac-42ab-9688-8693fb148b1c",
+   "title": "2 Άτομα για Θέσεις Marketing & Επικοινωνίας",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΚΥΨΕΛΗ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/67a52ec3-8aac-42ab-9688-8693fb148b1c/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/67a52ec3-8aac-42ab-9688-8693fb148b1c.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "3e07cdb4-3f03-4c65-917a-e09a6d8b7fa1",
+   "title": "Senior Groups & Events Executive | Conrad Athens The Ilisian",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΙΛΙΣΙΑ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/3e07cdb4-3f03-4c65-917a-e09a6d8b7fa1/",
+   "apply": [
+    "https://apply.workable.com/j/D3B12F257E"
+   ],
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/3e07cdb4-3f03-4c65-917a-e09a6d8b7fa1.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "5b9e4c65-cd5e-4c56-8a1c-05a5a08fe0b2",
+   "title": "Υπεύθυνος/η Πωλήσεων & Διοργάνωσης Εκθέσεων (Exhibition & Event Business Development Executive)",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/5b9e4c65-cd5e-4c56-8a1c-05a5a08fe0b2/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/5b9e4c65-cd5e-4c56-8a1c-05a5a08fe0b2.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "77448191-fea1-48e8-ba42-d50984a4a509",
+   "title": "Marketing & Operations Assistant",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΜΟΣΧΑΤΟ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/77448191-fea1-48e8-ba42-d50984a4a509/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/77448191-fea1-48e8-ba42-d50984a4a509.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "97e6d070-a027-48f3-9469-a2b0b331d621",
+   "title": "Media Sales Executive",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΑΛΙΜΟΣ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/97e6d070-a027-48f3-9469-a2b0b331d621/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/97e6d070-a027-48f3-9469-a2b0b331d621.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "b9799295-cbd8-4222-a912-5000aef73f37",
+   "title": "Market Research Associate",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΚΕΝΤΡΟ ΠΕΙΡΑΙΑ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/b9799295-cbd8-4222-a912-5000aef73f37/",
+   "apply": [
+    "https://apply.workable.com/optimal-hr/j/1777E6F532"
+   ],
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/b9799295-cbd8-4222-a912-5000aef73f37.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "5a1d52ab-613f-4421-9fa2-f8459b5f5039",
+   "title": "Product Manager",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΠΑΓΚΡΑΤΙ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/5a1d52ab-613f-4421-9fa2-f8459b5f5039/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/5a1d52ab-613f-4421-9fa2-f8459b5f5039.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "a6b5b0ba-936b-453f-8a7a-24bbec7d1b82",
+   "title": "Sales & Marketing Coordinator",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/a6b5b0ba-936b-453f-8a7a-24bbec7d1b82/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/a6b5b0ba-936b-453f-8a7a-24bbec7d1b82.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "98dc392f-32c9-4768-99c6-59932cc6d7be",
+   "title": "Trade Marketing Activation Specialist",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΚΗΦΙΣΙΑ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/98dc392f-32c9-4768-99c6-59932cc6d7be/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/98dc392f-32c9-4768-99c6-59932cc6d7be.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "4fe1bd52-288d-4060-8709-4eb7d4ee7f93",
+   "title": "Marketing Manager",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/4fe1bd52-288d-4060-8709-4eb7d4ee7f93/",
+   "apply": [
+    "https://recruitcrm.io/apply/17909455962210085782UFu?source=Jobfind"
+   ],
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/4fe1bd52-288d-4060-8709-4eb7d4ee7f93.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "e2b804aa-603d-48de-96d6-971a6b9081f6",
+   "title": "Customer Value Specialist (Hybrid)",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΧΑΛΑΝΔΡΙ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/e2b804aa-603d-48de-96d6-971a6b9081f6/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/e2b804aa-603d-48de-96d6-971a6b9081f6.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "91a4ae47-df8b-4e82-a930-a880aeb52224",
+   "title": "Assistant Product Manager – Cable Solutions",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΠΑΙΑΝΙΑ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/91a4ae47-df8b-4e82-a930-a880aeb52224/",
+   "apply": [
+    "https://apply.smartcv.co/kafkas/job/2dvx"
+   ],
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/91a4ae47-df8b-4e82-a930-a880aeb52224.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "54ce458f-4070-4631-b526-c14710f7a02e",
+   "title": "Marketing & Business Development Specialist (Athens)",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΑΡΧΑΙΟΛΟΓΙΚΟ ΜΟΥΣΕΙΟ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/54ce458f-4070-4631-b526-c14710f7a02e/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/54ce458f-4070-4631-b526-c14710f7a02e.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "8f938f39-8bda-4437-8d8d-7e4256172aa8",
+   "title": "Υπάλληλος Τμήματος Ανθρωπίνου Δυναμικού",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΑΣΠΡΟΠΥΡΓΟΣ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/8f938f39-8bda-4437-8d8d-7e4256172aa8/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/8f938f39-8bda-4437-8d8d-7e4256172aa8.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "ed59747f-91b3-4663-8b91-7591309e42e8",
+   "title": "Υπεύθυνος/η Πιστοποιήσεων",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΒΟΡΕΙΑ ΠΡΟΑΣΤΙΑ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/ed59747f-91b3-4663-8b91-7591309e42e8/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/ed59747f-91b3-4663-8b91-7591309e42e8.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "2941eaee-7480-4322-9441-6336565d0e3c",
+   "title": "EU Projects Specialist",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΟΜΟΝΟΙΑ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/2941eaee-7480-4322-9441-6336565d0e3c/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/2941eaee-7480-4322-9441-6336565d0e3c.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "ada85e36-d207-4a4e-ab5c-1c9d7cfe8571",
+   "title": "Υπεύθυνος Λειτουργίας Γυμναστηρίου",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΑΧΑΡΝΕΣ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/ada85e36-d207-4a4e-ab5c-1c9d7cfe8571/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/ada85e36-d207-4a4e-ab5c-1c9d7cfe8571.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "06f19160-884b-48cf-96e8-edcc6fd8d7c1",
+   "title": "Υπάλληλος Ανθρώπινου Δυναμικού – HR Generalist (Α/Γ)",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΑΓΙΟΣ ΣΤΕΦΑΝΟΣ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/06f19160-884b-48cf-96e8-edcc6fd8d7c1/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/06f19160-884b-48cf-96e8-edcc6fd8d7c1.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "28c86d9e-a34c-4fda-8d26-45fcefa3f207",
+   "title": "Project Management Executive (ref: PME202610)",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΧΟΛΑΡΓΟΣ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/28c86d9e-a34c-4fda-8d26-45fcefa3f207/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/28c86d9e-a34c-4fda-8d26-45fcefa3f207.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "447152ae-f548-4e2a-89d2-c5cb6d2c0243",
+   "title": "Human Resources & Business Administration (Ref: HR&BA 202610)",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΧΟΛΑΡΓΟΣ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/447152ae-f548-4e2a-89d2-c5cb6d2c0243/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/447152ae-f548-4e2a-89d2-c5cb6d2c0243.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "61782b0a-71e8-4464-ab0e-2a0680725f7d",
+   "title": "Σύμβουλοι Επενδυτικών Έργων | Αναπτυξιακού Νόμου - Ταμείου Ανάκαμψης(ΤΑΑ) - ΕΣΠΑ- ΔΑΜ - Αγροτικής Οικονομίας",
+   "location": "Ταμείου Ανάκαμψης(ΤΑΑ) - ΕΣΠΑ- ΔΑΜ - Αγροτικής Οικονομίας - ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΓΑΛΑΤΣΙ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/61782b0a-71e8-4464-ab0e-2a0680725f7d/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/61782b0a-71e8-4464-ab0e-2a0680725f7d.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "e348e5d8-c793-410d-b949-9351853cd254",
+   "title": "HR Recruiter",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΚΟΡΩΠΙ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/e348e5d8-c793-410d-b949-9351853cd254/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/e348e5d8-c793-410d-b949-9351853cd254.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "c954c33c-40b1-4f83-9b34-15aade1bfd51",
+   "title": "HR & Network Operations Manager",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΝΕΑ ΦΙΛΑΔΕΛΦΕΙΑ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/c954c33c-40b1-4f83-9b34-15aade1bfd51/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/c954c33c-40b1-4f83-9b34-15aade1bfd51.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "eff66720-1380-4812-bd11-6251daaea42e",
+   "title": "HR Generalist – Μεταμόρφωση",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΜΕΤΑΜΟΡΦΩΣΗ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/eff66720-1380-4812-bd11-6251daaea42e/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/eff66720-1380-4812-bd11-6251daaea42e.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "9243d6d1-cac8-4f7b-b636-a968123301ac",
+   "title": "HR Operations & CSR Manager",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/9243d6d1-cac8-4f7b-b636-a968123301ac/",
+   "apply": [
+    "https://recruitcrm.io/apply/17909461377530058817Erd?source=Jobfind"
+   ],
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/9243d6d1-cac8-4f7b-b636-a968123301ac.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "f78e95d4-2d0b-47e6-9b5b-819ec3c79873",
+   "title": "Account Manager",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΧΑΛΑΝΔΡΙ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/f78e95d4-2d0b-47e6-9b5b-819ec3c79873/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/f78e95d4-2d0b-47e6-9b5b-819ec3c79873.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "45b880f0-260f-4598-87cd-c0fcbef19224",
+   "title": "Σύμβουλος ΕΣΠΑ",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΑΤΤΙΚΗ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/45b880f0-260f-4598-87cd-c0fcbef19224/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/45b880f0-260f-4598-87cd-c0fcbef19224.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "5c9cc362-958e-4c89-82b7-54e03752336a",
+   "title": "Funding & Business Projects Coordinator",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΚΑΛΛΙΘΕΑ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/5c9cc362-958e-4c89-82b7-54e03752336a/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/5c9cc362-958e-4c89-82b7-54e03752336a.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "be743803-a9c6-4c45-be9e-c1a0e1997714",
+   "title": "Ιδιαιτέρα Γραμματέας - Project Manager",
+   "location": "Project Manager - ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΚΕΝΤΡΟ ΠΕΙΡΑΙΑ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/be743803-a9c6-4c45-be9e-c1a0e1997714/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/be743803-a9c6-4c45-be9e-c1a0e1997714.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "87a0877f-140a-4897-b134-82fac5e758ce",
+   "title": "Mitarbeiter Personalwesen (m / w / d)",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΓΛΥΦΑΔΑ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/87a0877f-140a-4897-b134-82fac5e758ce/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/87a0877f-140a-4897-b134-82fac5e758ce.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "c8fcbd4a-e14e-498c-ae66-f8777fc85a8c",
+   "title": "HR Generalist / Υπεύθυνος Ανθρωπίνου Δυναμικού",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΑΓΙΟΣ ΣΤΕΦΑΝΟΣ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/c8fcbd4a-e14e-498c-ae66-f8777fc85a8c/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/c8fcbd4a-e14e-498c-ae66-f8777fc85a8c.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "9839cacb-c7b8-44e1-9830-061c9abd5ab9",
+   "title": "Key Account Sales Manager",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΜΕΤΑΜΟΡΦΩΣΗ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/9839cacb-c7b8-44e1-9830-061c9abd5ab9/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/9839cacb-c7b8-44e1-9830-061c9abd5ab9.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "91d8da5e-23c0-4e8a-a9e8-442888c3ceda",
+   "title": "Υπεύθυνος / Υπεύθυνη καταστήματος ενέργειας",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΓΛΥΚΑ ΝΕΡΑ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/91d8da5e-23c0-4e8a-a9e8-442888c3ceda/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/91d8da5e-23c0-4e8a-a9e8-442888c3ceda.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "64266b60-f180-4e6d-a127-c6b0574bb963",
+   "title": "Υπάλληλος διαγωνισμών δημοσίου",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/64266b60-f180-4e6d-a127-c6b0574bb963/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/64266b60-f180-4e6d-a127-c6b0574bb963.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "53acdf38-af23-49c5-8792-0ef2ab134ba1",
+   "title": "Administration Assistant (Marousi)",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΜΑΡΟΥΣΙ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/53acdf38-af23-49c5-8792-0ef2ab134ba1/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/53acdf38-af23-49c5-8792-0ef2ab134ba1.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "54f11e8e-3435-465b-8ace-069e083f9fee",
+   "title": "Υπάλληλος Τμήματος Διαγωνισμών & Συμβάσεων",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΜΑΡΟΥΣΙ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/54f11e8e-3435-465b-8ace-069e083f9fee/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/54f11e8e-3435-465b-8ace-069e083f9fee.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "a869b848-b9ea-4d5a-bc94-314e7dc24801",
+   "title": "Υπεύθυνος Διαχείρισης Ανθρώπινου Δυναμικού",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/a869b848-b9ea-4d5a-bc94-314e7dc24801/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/a869b848-b9ea-4d5a-bc94-314e7dc24801.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "766872da-17b6-48b5-8cfd-0429f121269a",
+   "title": "Project Manager – Μελισσοκομία",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/766872da-17b6-48b5-8cfd-0429f121269a/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/766872da-17b6-48b5-8cfd-0429f121269a.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "9affd37a-8761-401a-97b2-722e5f08f0be",
+   "title": "Υπάλληλος Τμήματος Ανθρώπινου Δυναμικού & Μισθοδοσίας (Α/Γ)",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΑΓΙΟΣ ΣΤΕΦΑΝΟΣ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/9affd37a-8761-401a-97b2-722e5f08f0be/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/9affd37a-8761-401a-97b2-722e5f08f0be.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "415410e0-1737-4460-8af3-3cc037a9b68e",
+   "title": "Στέλεχος Τμήματος Διαγωνισμών Δημοσίου",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΑΛΙΜΟΣ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/415410e0-1737-4460-8af3-3cc037a9b68e/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/415410e0-1737-4460-8af3-3cc037a9b68e.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "e69d92e5-08db-4e3d-bd9a-8a3b76df7fda",
+   "title": "Senior HR Executive",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΚΕΝΤΡΟ ΠΕΙΡΑΙΑ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/e69d92e5-08db-4e3d-bd9a-8a3b76df7fda/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/e69d92e5-08db-4e3d-bd9a-8a3b76df7fda.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "c5f8268e-66f9-4687-921a-6984f7a8eb0c",
+   "title": "Technical Service Manager – Power Systems",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΑΓΙΟΣ ΔΗΜΗΤΡΙΟΣ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/c5f8268e-66f9-4687-921a-6984f7a8eb0c/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/c5f8268e-66f9-4687-921a-6984f7a8eb0c.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "d36b20eb-a71b-4630-a60b-0b0c6e9cc0eb",
+   "title": "Project & Business Operations Coordinator",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΚΕΝΤΡΟ ΠΕΙΡΑΙΑ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/d36b20eb-a71b-4630-a60b-0b0c6e9cc0eb/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/d36b20eb-a71b-4630-a60b-0b0c6e9cc0eb.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "74379a36-7350-4c78-a702-ece14aec1428",
+   "title": "Account Manager – B2B Solutions",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΠΑΛΑΙΟ ΦΑΛΗΡΟ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/74379a36-7350-4c78-a702-ece14aec1428/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/74379a36-7350-4c78-a702-ece14aec1428.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "ae1e42a7-ffb9-4fc6-a8fa-c4c5c15a1eaa",
+   "title": "ICT Project Administrator",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΠΑΙΑΝΙΑ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/ae1e42a7-ffb9-4fc6-a8fa-c4c5c15a1eaa/",
+   "apply": [
+    "https://apply.smartcv.co/kafkas/job/2y17m?ref=Jobfind"
+   ],
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/ae1e42a7-ffb9-4fc6-a8fa-c4c5c15a1eaa.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "92cec4cb-df20-426e-b7cb-cd090b3fbfc9",
+   "title": "Client Service & Production Coordinator",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΑΛΙΜΟΣ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/92cec4cb-df20-426e-b7cb-cd090b3fbfc9/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/92cec4cb-df20-426e-b7cb-cd090b3fbfc9.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "b29e0f11-113c-4ecd-be0e-aaacc23bd303",
+   "title": "Project Manager Ενεργειακών Έργων",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΓΛΥΚΑ ΝΕΡΑ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/b29e0f11-113c-4ecd-be0e-aaacc23bd303/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/b29e0f11-113c-4ecd-be0e-aaacc23bd303.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "49e564e4-d04a-490b-9e02-4146e16de094",
+   "title": "Project Manager Ενεργειακών Έργων",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/49e564e4-d04a-490b-9e02-4146e16de094/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/49e564e4-d04a-490b-9e02-4146e16de094.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "6db0365e-059d-465f-848e-7eb35dd8b353",
+   "title": "M.I.C.E. Advisor / Incoming Tourism Specialist",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΚΑΛΛΙΘΕΑ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/6db0365e-059d-465f-848e-7eb35dd8b353/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/6db0365e-059d-465f-848e-7eb35dd8b353.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "2eac78a6-be07-4718-8573-d39eb32eacbc",
+   "title": "Supervisor (Facility Management)",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΜΕΣΟΓΕΙΑ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/2eac78a6-be07-4718-8573-d39eb32eacbc/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/2eac78a6-be07-4718-8573-d39eb32eacbc.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "d385c2a5-b14a-43e9-987f-1571271ced78",
+   "title": "Aftersales & Operations Manager",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΑΓΙΟΣ ΔΗΜΗΤΡΙΟΣ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/d385c2a5-b14a-43e9-987f-1571271ced78/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/d385c2a5-b14a-43e9-987f-1571271ced78.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "2a3404b6-a1ea-4651-bff8-52163a4d4cf7",
+   "title": "Υπεύθυνος/η Customer Service",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΑΙΓΑΛΕΩ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/2a3404b6-a1ea-4651-bff8-52163a4d4cf7/",
+   "apply": [
+    "https://apply.smartcv.co/kanellakis/job/87w9v?ref=Jobfind"
+   ],
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/2a3404b6-a1ea-4651-bff8-52163a4d4cf7.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "27b0e9e5-02c0-498c-9986-14e875861874",
+   "title": "Executive Personal Assistant to CEO | People & Operations",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΝΕΟΣ ΚΟΣΜΟΣ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/27b0e9e5-02c0-498c-9986-14e875861874/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/27b0e9e5-02c0-498c-9986-14e875861874.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "1651dd2d-b4b3-4b7d-9e2b-70dcd006f3ac",
+   "title": "Διευθυντής Ασφαλείας",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΚΑΛΛΙΘΕΑ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/1651dd2d-b4b3-4b7d-9e2b-70dcd006f3ac/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/1651dd2d-b4b3-4b7d-9e2b-70dcd006f3ac.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "df87e800-d164-4a79-83fe-6bfd6e9799ee",
+   "title": "Υπεύθυνος Μονάδας Διαγνωστικού Κέντρου",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΒΟΥΛΙΑΓΜΕΝΗ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/df87e800-d164-4a79-83fe-6bfd6e9799ee/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/df87e800-d164-4a79-83fe-6bfd6e9799ee.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "6a30852f-7977-43a4-9939-82d2c9087fc1",
+   "title": "Διευθυντής Πωλήσεων",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΑΓΙΟΣ ΙΩΑΝΝΗΣ ΡΕΝΤΗΣ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/6a30852f-7977-43a4-9939-82d2c9087fc1/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/6a30852f-7977-43a4-9939-82d2c9087fc1.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "7210598a-779e-4fce-a17f-6aa1f1bb8d8b",
+   "title": "Υπάλληλος προσλήψεων",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/7210598a-779e-4fce-a17f-6aa1f1bb8d8b/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/7210598a-779e-4fce-a17f-6aa1f1bb8d8b.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "d329baf2-3dc9-4b2a-ab0d-55a14c34a7b4",
+   "title": "Recruitment Consultant",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΑΜΠΕΛΟΚΗΠΟΙ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/d329baf2-3dc9-4b2a-ab0d-55a14c34a7b4/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/d329baf2-3dc9-4b2a-ab0d-55a14c34a7b4.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "5c91313d-13a7-4827-830a-31e557c33f02",
+   "title": "HR assistant / Βοηθός Τμήματος Ανθρώπινου Δυναμικού",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/5c91313d-13a7-4827-830a-31e557c33f02/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/5c91313d-13a7-4827-830a-31e557c33f02.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "c19a1b8d-6694-42a4-9154-9046936eb44c",
+   "title": "Receptionist & HR Administrator",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΜΕΤΑΜΟΡΦΩΣΗ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/c19a1b8d-6694-42a4-9154-9046936eb44c/",
+   "apply": [
+    "https://www.randstad.gr/theseis-ergasias/apply/67446/?utm_source=jobfind"
+   ],
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/c19a1b8d-6694-42a4-9154-9046936eb44c.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "4248826c-d29f-4c7c-8933-b9debee88204",
+   "title": "Διευθυντής Προσωπικού",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΠΑΓΚΡΑΤΙ/ΒΥΡΩΝΑΣ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/4248826c-d29f-4c7c-8933-b9debee88204/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/4248826c-d29f-4c7c-8933-b9debee88204.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "5525fea2-dc2d-4315-8453-491bf907bf63",
+   "title": "Υπεύθυνος Μισθοδοσίας",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΑΡΓΥΡΟΥΠΟΛΗ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/5525fea2-dc2d-4315-8453-491bf907bf63/",
+   "apply": [
+    "https://apply.workable.com/optimal-hr/j/843BD25103"
+   ],
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/5525fea2-dc2d-4315-8453-491bf907bf63.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "0e414316-972e-44ca-8f73-88ccf93aa0b9",
+   "title": "Talent Acquisition Specialist, Hospitality & Tourism",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΑΜΠΕΛΟΚΗΠΟΙ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/0e414316-972e-44ca-8f73-88ccf93aa0b9/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/0e414316-972e-44ca-8f73-88ccf93aa0b9.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "63c1c491-3a8b-4b16-94b6-6645c31f06c1",
+   "title": "Sales & Recruitment Administrative Specialist",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/63c1c491-3a8b-4b16-94b6-6645c31f06c1/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/63c1c491-3a8b-4b16-94b6-6645c31f06c1.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "a5af84b8-5ce8-4f16-88fb-d3218abe3350",
+   "title": "HR Generalist",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/a5af84b8-5ce8-4f16-88fb-d3218abe3350/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/a5af84b8-5ce8-4f16-88fb-d3218abe3350.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "3c417a88-e53e-47a7-9123-52772cb0c614",
+   "title": "Payroll Assistant",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/3c417a88-e53e-47a7-9123-52772cb0c614/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/3c417a88-e53e-47a7-9123-52772cb0c614.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "2616802d-6450-4689-acf2-6d644ed097cb",
+   "title": "Εργάνη Specialist",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΚΟΛΩΝΑΚΙ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/2616802d-6450-4689-acf2-6d644ed097cb/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/2616802d-6450-4689-acf2-6d644ed097cb.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "9d499c59-f0cf-4f6a-b90a-66d9d029c1db",
+   "title": "HR - People Experience & Operations",
+   "location": "People Experience & Operations - ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΚΗΦΙΣΙΑ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/9d499c59-f0cf-4f6a-b90a-66d9d029c1db/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/9d499c59-f0cf-4f6a-b90a-66d9d029c1db.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "053b07db-5628-4631-9806-a88e9fec2801",
+   "title": "HR Administrator",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΜΑΡΚΟΠΟΥΛΟ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/053b07db-5628-4631-9806-a88e9fec2801/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/053b07db-5628-4631-9806-a88e9fec2801.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "fc9cc4a5-cc7f-41a6-a866-2ef938e53a8b",
+   "title": "Senior Payroll Consultant",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΚΑΛΛΙΘΕΑ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/fc9cc4a5-cc7f-41a6-a866-2ef938e53a8b/",
+   "apply": [
+    "https://apply.workable.com/icapes/j/DB290D34CF"
+   ],
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/fc9cc4a5-cc7f-41a6-a866-2ef938e53a8b.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "4d514cce-2cf9-41ab-80b4-0f3c24fc0741",
+   "title": "HR Assistant",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΑΓΙΟΣ ΔΗΜΗΤΡΙΟΣ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/4d514cce-2cf9-41ab-80b4-0f3c24fc0741/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/4d514cce-2cf9-41ab-80b4-0f3c24fc0741.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "db20f53f-1438-4c5a-908b-f05190857f5c",
+   "title": "Regional People & Talent Partner",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΚΕΝΤΡΟ ΠΕΙΡΑΙΑ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/db20f53f-1438-4c5a-908b-f05190857f5c/",
+   "apply": [
+    "https://www.randstad.gr/theseis-ergasias/apply/67102/?utm_source=jobfind"
+   ],
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/db20f53f-1438-4c5a-908b-f05190857f5c.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "cef52a16-d899-41d0-9baa-d97f1dece11a",
+   "title": "HR Talent & People Specialist",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/cef52a16-d899-41d0-9baa-d97f1dece11a/",
+   "apply": [
+    "https://www.randstad.gr/theseis-ergasias/apply/66477/?utm_source=jobfind"
+   ],
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/cef52a16-d899-41d0-9baa-d97f1dece11a.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "1dd2411e-b179-4261-ad14-455062debcc0",
+   "title": "HR Specialist",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΚΕΝΤΡΟ ΠΕΙΡΑΙΑ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/1dd2411e-b179-4261-ad14-455062debcc0/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/1dd2411e-b179-4261-ad14-455062debcc0.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "8e1f7b08-9bdb-48fd-95fc-46453b9b8495",
+   "title": "Global Clients Business Associate",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΚΕΝΤΡΟ ΠΕΙΡΑΙΑ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/8e1f7b08-9bdb-48fd-95fc-46453b9b8495/",
+   "apply": [
+    "https://apply.workable.com/optimal-hr/j/FDA19E8B09"
+   ],
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/8e1f7b08-9bdb-48fd-95fc-46453b9b8495.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "9f44facc-e201-486a-8c9b-37a3c57a473f",
+   "title": "Σύμβουλος Ευρωπαϊκών Προγραμμάτων",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΠΑΛΑΙΟ ΦΑΛΗΡΟ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/9f44facc-e201-486a-8c9b-37a3c57a473f/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/9f44facc-e201-486a-8c9b-37a3c57a473f.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "99641076-0b48-4fde-80e3-0c7f6ff7087d",
+   "title": "Σύμβουλος Επενδυτικών Προγραμμάτων",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΧΑΛΑΝΔΡΙ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/99641076-0b48-4fde-80e3-0c7f6ff7087d/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/99641076-0b48-4fde-80e3-0c7f6ff7087d.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "5588ba6a-5d38-428e-b100-df3a1db87724",
+   "title": "Υπάλληλος Διαγωνισμών Δημοσίου",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΠΕΙΡΑΙΑΣ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/5588ba6a-5d38-428e-b100-df3a1db87724/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/5588ba6a-5d38-428e-b100-df3a1db87724.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "7db32029-4853-4613-88f2-519b154eb4f9",
+   "title": "Προσωπικό κουζίνας | Αεροδρόμιο Αθηνών",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΑΕΡΟΔΡΟΜΙΟ ΕΛ. ΒΕΝΙΖΕΛΟΣ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/7db32029-4853-4613-88f2-519b154eb4f9/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/7db32029-4853-4613-88f2-519b154eb4f9.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "09501e8f-96a2-4dd5-890c-9082911f3714",
+   "title": "Προσωπικό κουζίνας | Αεροδρόμιο Αθηνών",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΑΕΡΟΔΡΟΜΙΟ ΕΛ. ΒΕΝΙΖΕΛΟΣ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/09501e8f-96a2-4dd5-890c-9082911f3714/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/09501e8f-96a2-4dd5-890c-9082911f3714.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "9d0ed9aa-ed3b-4286-97a2-048531698434",
+   "title": "Νυχτερινός Receptionist - Αθήνα",
+   "location": "Αθήνα - ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΚΟΥΚΑΚΙ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/9d0ed9aa-ed3b-4286-97a2-048531698434/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/9d0ed9aa-ed3b-4286-97a2-048531698434.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "c6894914-ec9f-4fec-8f60-194d9eda4780",
+   "title": "Νυχτερινός Υπάλληλος Υποδοχής",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΜΟΝΑΣΤΗΡΑΚΙ / ΣΥΝΤΑΓΜΑ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/c6894914-ec9f-4fec-8f60-194d9eda4780/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/c6894914-ec9f-4fec-8f60-194d9eda4780.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "db232d97-418e-47aa-89f6-1943ddb0c545",
+   "title": "Reservation Manager (Αθήνα)",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΚΕΝΤΡΟ ΑΘΗΝΑΣ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/db232d97-418e-47aa-89f6-1943ddb0c545/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/db232d97-418e-47aa-89f6-1943ddb0c545.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "90601295-26c3-4d40-a7fb-5dd9c6fe0dd5",
+   "title": "Συντηρητης / Υπαλληλος Γενικων καθηκοντων",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΜΟΝΑΣΤΗΡΑΚΙ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/90601295-26c3-4d40-a7fb-5dd9c6fe0dd5/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/90601295-26c3-4d40-a7fb-5dd9c6fe0dd5.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "31972638-4f6b-4ccb-895f-ef713ad614e7",
+   "title": "Καμαριέρες",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/31972638-4f6b-4ccb-895f-ef713ad614e7/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/31972638-4f6b-4ccb-895f-ef713ad614e7.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "81a69293-7059-417a-9868-d5eb8f8f8d94",
+   "title": "Υπάλληλος καθαριότητας σε χώρο αναμονής διακεκριμένων επιβατών στο αεροδρόμιο Ελευθέριος Βενιζέλος, Σπάτα",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΑΕΡΟΔΡΟΜΙΟ ΕΛ. ΒΕΝΙΖΕΛΟΣ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/81a69293-7059-417a-9868-d5eb8f8f8d94/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/81a69293-7059-417a-9868-d5eb8f8f8d94.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "5d280393-0369-4db1-a13a-8772fa1c3a2b",
+   "title": "Υπάλληλος Γενικών Καθηκόντων",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΚΕΝΤΡΟ ΑΘΗΝΑΣ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/5d280393-0369-4db1-a13a-8772fa1c3a2b/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/5d280393-0369-4db1-a13a-8772fa1c3a2b.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "5d6688b5-6993-40b1-a643-d38f15670362",
+   "title": "Operations Assistant",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΧΑΛΑΝΔΡΙ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/5d6688b5-6993-40b1-a643-d38f15670362/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/5d6688b5-6993-40b1-a643-d38f15670362.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "6d34febd-787c-4c89-af2a-2b3ef84a53f5",
+   "title": "Buffet Runner / Άτομο για μπουφέ",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΜΟΝΑΣΤΗΡΑΚΙ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/6d34febd-787c-4c89-af2a-2b3ef84a53f5/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/6d34febd-787c-4c89-af2a-2b3ef84a53f5.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "886119c2-a9da-4f2f-bfd8-fa1247d2e3cb",
+   "title": "F & B Manager",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΙΣΤΟΡΙΚΟ ΚΕΝΤΡΟ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/886119c2-a9da-4f2f-bfd8-fa1247d2e3cb/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/886119c2-a9da-4f2f-bfd8-fa1247d2e3cb.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "68eddd0b-7a46-4ff5-a7ef-be41575e8120",
+   "title": "Housekeeping Manager",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΙΣΤΟΡΙΚΟ ΚΕΝΤΡΟ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/68eddd0b-7a46-4ff5-a7ef-be41575e8120/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/68eddd0b-7a46-4ff5-a7ef-be41575e8120.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "15366aef-3b76-4041-a393-0e66817b34ee",
+   "title": "Breakfast Buffet Attendant / Υπάλληλος Πρωινού Μπουφέ",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΟΜΟΝΟΙΑ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/15366aef-3b76-4041-a393-0e66817b34ee/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/15366aef-3b76-4041-a393-0e66817b34ee.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "5406055a-aaca-42e6-a7f9-2e202e2e3db5",
+   "title": "Υπεύθυνος για υπηρεσία catering",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΨΥΡΡΗ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/5406055a-aaca-42e6-a7f9-2e202e2e3db5/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/5406055a-aaca-42e6-a7f9-2e202e2e3db5.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "b6fb7054-b934-4a54-ac75-ede788204f34",
+   "title": "General Manager",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΙΣΤΟΡΙΚΟ ΚΕΝΤΡΟ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/b6fb7054-b934-4a54-ac75-ede788204f34/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/b6fb7054-b934-4a54-ac75-ede788204f34.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "9622ddc7-8a4a-4fad-94ed-b897066f3052",
+   "title": "Συντονιστής Τμήματος Επιβατών με Μειωμένη Κινητικότητα | PRM Coordinator | ΑΤΗ",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΑΕΡΟΔΡΟΜΙΟ ΕΛ. ΒΕΝΙΖΕΛΟΣ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/9622ddc7-8a4a-4fad-94ed-b897066f3052/",
+   "apply": [
+    "https://apply.workable.com/j/D4A29CB870"
+   ],
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/9622ddc7-8a4a-4fad-94ed-b897066f3052.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "bf33256b-443e-46aa-99fd-28d74e82d892",
+   "title": "Νυχτερινός υπάλληλος υποδοχής – Night audit",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΣΥΝΤΑΓΜΑ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/bf33256b-443e-46aa-99fd-28d74e82d892/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/bf33256b-443e-46aa-99fd-28d74e82d892.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "6ea55cd5-04b9-4869-8eff-c2b86d6800aa",
+   "title": "Καμαριέρα",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΒΑΡΚΙΖΑ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/6ea55cd5-04b9-4869-8eff-c2b86d6800aa/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/6ea55cd5-04b9-4869-8eff-c2b86d6800aa.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "628a30a7-7236-4229-8e41-c9a8a0c74a50",
+   "title": "Heritage Site Host",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΒΟΡΕΙΑ ΠΡΟΑΣΤΙΑ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/628a30a7-7236-4229-8e41-c9a8a0c74a50/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/628a30a7-7236-4229-8e41-c9a8a0c74a50.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "391b9ce8-6c5a-4c6c-94f9-8e80c3144361",
+   "title": "Προϊσταμένη Ορόφων",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΚΕΝΤΡΟ ΑΘΗΝΑΣ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/391b9ce8-6c5a-4c6c-94f9-8e80c3144361/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/391b9ce8-6c5a-4c6c-94f9-8e80c3144361.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "997c2900-9d73-4eb4-8401-6cc70102e6d4",
+   "title": "Revenue Manager",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΚΗΦΙΣΙΑ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/997c2900-9d73-4eb4-8401-6cc70102e6d4/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/997c2900-9d73-4eb4-8401-6cc70102e6d4.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "df1e48d7-4459-49fc-bbf5-6624e7d4f027",
+   "title": "Customer Service Representative - Παιανία",
+   "location": "Παιανία - ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΠΑΙΑΝΙΑ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/df1e48d7-4459-49fc-bbf5-6624e7d4f027/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/df1e48d7-4459-49fc-bbf5-6624e7d4f027.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "9c2d5b39-8639-4e31-b6b7-430317ffe1bc",
+   "title": "Υπάλληλος Ταξιδιωτικού Τμήματος",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΚΟΛΩΝΑΚΙ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/9c2d5b39-8639-4e31-b6b7-430317ffe1bc/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/9c2d5b39-8639-4e31-b6b7-430317ffe1bc.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "6fdc82a0-e0da-4c56-af27-40fee5ae33cd",
+   "title": "Waiter / Waitress | Conrad Athens The Ilisian",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΙΛΙΣΙΑ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/6fdc82a0-e0da-4c56-af27-40fee5ae33cd/",
+   "apply": [
+    "https://apply.workable.com/conradathens/j/2269011A88/"
+   ],
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/6fdc82a0-e0da-4c56-af27-40fee5ae33cd.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "2aaeea76-f32f-4220-b199-9e20918e4e7c",
+   "title": "Houseman | Conrad Athens The Ilisian",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΙΛΙΣΙΑ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/2aaeea76-f32f-4220-b199-9e20918e4e7c/",
+   "apply": [
+    "https://apply.workable.com/j/11453CB057"
+   ],
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/2aaeea76-f32f-4220-b199-9e20918e4e7c.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "bd0628fe-ada4-4f67-986c-cdd4be098730",
+   "title": "Groom / Bell Boy",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΚΟΥΚΑΚΙ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/bd0628fe-ada4-4f67-986c-cdd4be098730/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/bd0628fe-ada4-4f67-986c-cdd4be098730.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "6c419a1c-8e24-4eac-be3e-e6ceab3e403d",
+   "title": "Concierge | Conrad Athens The Ilisian",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΙΛΙΣΙΑ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/6c419a1c-8e24-4eac-be3e-e6ceab3e403d/",
+   "apply": [
+    "https://apply.workable.com/j/6D39205F7E"
+   ],
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/6c419a1c-8e24-4eac-be3e-e6ceab3e403d.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "56b41870-8cbc-435a-8b3a-2c8b6f8515a6",
+   "title": "Υπάλληλος Γραφείου",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/56b41870-8cbc-435a-8b3a-2c8b6f8515a6/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/56b41870-8cbc-435a-8b3a-2c8b6f8515a6.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "f9098872-f419-4ab1-96f3-dae2f0068bf4",
+   "title": "Graduate Programme — Reservations, Sales & Concierge",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΚΟΛΩΝΑΚΙ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/f9098872-f419-4ab1-96f3-dae2f0068bf4/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/f9098872-f419-4ab1-96f3-dae2f0068bf4.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "f2808563-b665-4dad-96f6-b02f305d2608",
+   "title": "Reservations & Concierge Executive Manager – Luxury Car Rentals & Tourism",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΠΑΛΛΗΝΗ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/f2808563-b665-4dad-96f6-b02f305d2608/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/f2808563-b665-4dad-96f6-b02f305d2608.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "0a6d2f68-0cd9-4392-bb14-e54d3674275f",
+   "title": "Στέλεχος διαχείρισης κρατήσεων - επίβλεψης λειτουργίας",
+   "location": "επίβλεψης λειτουργίας - ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΚΗΦΙΣΙΑ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/0a6d2f68-0cd9-4392-bb14-e54d3674275f/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/0a6d2f68-0cd9-4392-bb14-e54d3674275f.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "6155475a-d3bf-443b-a1bf-615c4d1bc70c",
+   "title": "Reservations & Front Office Coordinator",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΚΗΦΙΣΙΑ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/6155475a-d3bf-443b-a1bf-615c4d1bc70c/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/6155475a-d3bf-443b-a1bf-615c4d1bc70c.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "37b75e77-8a13-4e2b-93f7-203d1524d723",
+   "title": "Υπάλληλος Τουριστικού Γραφείου - Περιστέρι",
+   "location": "Περιστέρι - ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΠΕΡΙΣΤΕΡΙ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/37b75e77-8a13-4e2b-93f7-203d1524d723/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/37b75e77-8a13-4e2b-93f7-203d1524d723.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "62119270-c310-446f-b3dc-a0e024980ae5",
+   "title": "Students in reservations, sales and administrative support departments",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΚΟΛΩΝΑΚΙ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/62119270-c310-446f-b3dc-a0e024980ae5/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/62119270-c310-446f-b3dc-a0e024980ae5.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "0d2e0d6b-b8c0-4d8b-ba68-dd41e434262e",
+   "title": "Σπουδαστές στα τμήματα κρατήσεων, πωλήσεων και διοικητικής υποστήριξης",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΚΟΛΩΝΑΚΙ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/0d2e0d6b-b8c0-4d8b-ba68-dd41e434262e/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/0d2e0d6b-b8c0-4d8b-ba68-dd41e434262e.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "d143d780-ef75-404e-9fe0-492ac27e1b64",
+   "title": "Καμαριέρα / Καμαριέρης - Room Attendant | Conrad Athens the Ilisian",
+   "location": "Room Attendant | Conrad Athens the Ilisian - ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΙΛΙΣΙΑ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/d143d780-ef75-404e-9fe0-492ac27e1b64/",
+   "apply": [
+    "https://apply.workable.com/conradathens/j/095EC3DDDC/"
+   ],
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/d143d780-ef75-404e-9fe0-492ac27e1b64.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "1fa7f7b8-cbd9-4152-8281-76f8c2695390",
+   "title": "Καμαριέρα",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΘΗΣΕΙΟ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/1fa7f7b8-cbd9-4152-8281-76f8c2695390/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/1fa7f7b8-cbd9-4152-8281-76f8c2695390.md",
+   "text_chars": 0
+  },
+  {
+   "source": "jobfind",
+   "id": "ea1adda5-7823-4798-bef5-83bf179805b5",
+   "title": "Καμαριέρα",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΑΛΙΜΟΣ - JobFind.gr",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/ea1adda5-7823-4798-bef5-83bf179805b5/",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/jobfind/ea1adda5-7823-4798-bef5-83bf179805b5.md",
+   "text_chars": 0
   }
  ]
 }
