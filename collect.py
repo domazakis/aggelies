@@ -64,6 +64,14 @@ KARIERA_CATEGORIES = [
     "strategy-or-planning-jobs",
 ]
 KARIERA_PAGES = 4
+# Κατηγορίες του kariera που δεν έχουν σχέση με τους ρόλους της· κόβονται (καταγράφονται στο excluded.json)
+KARIERA_SKIP_CATEGORIES = {
+    "retail-jobs", "call-center-or-customer-support-jobs", "medicine-or-healthcare-jobs",
+    "technicians-or-service-jobs", "accounting-or-auditing-jobs", "construction-or-engineers-or-architects-jobs",
+    "logistics-or-warehouse-jobs", "it-jobs", "engineering-jobs", "transport-or-driving-jobs", "food-or-cafe-jobs",
+    "production-jobs", "workers-jobs", "science-or-research-jobs", "legal-jobs", "real-estate-jobs",
+    "finance-jobs", "procurement-or-supply-chain-jobs", "bi-or-business-analysis-jobs", "human-resources-jobs",
+}
 
 WORKABLE_QUERIES = [
     "communications", "επικοινωνία", "public relations", "δημόσιες σχέσεις", "PR",
@@ -72,7 +80,8 @@ WORKABLE_QUERIES = [
 ]
 WORKABLE_PAGES = 4
 
-JOBFIND_CATEGORIES = [
+JOBFIND_SKIP = {"Proothisi_Proionton_Ypiresion", "Social_Media_Internet_Marketing", "Dimosiografoi"}
+JOBFIND_CATEGORIES = [  # σελίδες ειδικοτήτων· από εκεί παίρνουμε τις υποκατηγορίες για Αθήνα
     "https://www.jobfind.gr/JobAdsSearchCatCity/GR/Theseis-Ergasias-ana-Eidikotita/6/Marketing",
     "https://www.jobfind.gr/JobAdsSearchCatCity/GR/Theseis-Ergasias-ana-Eidikotita/4/Stelexi_Epixeiriseon",
     "https://www.jobfind.gr/JobAdsSearchCatCity/GR/Theseis-Ergasias-ana-Eidikotita/13/Tourismos",
@@ -82,7 +91,7 @@ JOBFIND_CATEGORIES = [
 NEWS_KEEP = [
     "μουσει", "πολιτισμ", "ιδρυμ", "κπισν", "στεγη", "θεατρ", "φεστιβαλ", "μεγαρο",
     "επικοινων", "δημοσιων σχεσεων", "εκδηλωσ", "λυρικη", "οπερα", "ορχηστρ",
-    "γαστρονομ", "τουρισμ", "εοτ",
+    "γαστρονομ", "τουρισμ", "εοτ", "οδαπ", "ταμειο αρχαιολογικων", "αρχαιολογικ",
 ]
 
 # Τίτλοι που κόβονται αυτόματα (ήδη αποκλεισμένοι από τα κριτήρια ή εντελώς εκτός ρόλου)
@@ -250,7 +259,9 @@ def src_kariera() -> list[dict]:
                 continue
             jid = m.group(1)
             if jid not in items:
+                cm = re.search(r"/jobs/([a-z0-9-]+)/\d+", a["href"])
                 items[jid] = {"source": "kariera", "id": jid, "title": title[:200],
+                              "category": cm.group(1) if cm else "",
                               "url": f"https://www.kariera.gr/jobs/{a['href'].split('/jobs/')[-1].split('?')[0]}"}
                 n += 1
         return n
@@ -336,12 +347,22 @@ def src_workable() -> list[dict]:
 def src_jobfind() -> list[dict]:
     items: dict[str, dict] = {}
     rx = re.compile(r"/JobAd/View/GR/Theseis_Ergasias/([0-9a-fA-F-]{36})")
+    sub_rx = re.compile(r"/JobAds/([A-Za-z0-9_-]+)/Athens/GR/Theseis_Ergasias")
+    subcats: list[str] = []
     for url in JOBFIND_CATEGORIES:
         r = get(url, "jobfind")
         if not r:
             continue
-        soup = BeautifulSoup(r.text, "lxml")
-        for a in soup.find_all("a", href=True):
+        for a in BeautifulSoup(r.text, "lxml").find_all("a", href=True):
+            m = sub_rx.search(a["href"])
+            if m and m.group(1) not in JOBFIND_SKIP and m.group(1) not in subcats:
+                subcats.append(m.group(1))
+    report["jobfind"]["subcategories"] = subcats
+    for slug in subcats:
+        r = get(f"https://www.jobfind.gr/JobAds/{slug}/Athens/GR/Theseis_Ergasias", "jobfind")
+        if not r:
+            continue
+        for a in BeautifulSoup(r.text, "lxml").find_all("a", href=True):
             m = rx.search(a["href"])
             title = " ".join(a.get_text(" ", strip=True).split())
             if not m or not title:
@@ -445,7 +466,14 @@ def main() -> int:
         collected.extend(got)
         print(f"{name}: {len(got)}")
 
+    # πρώτα όσες έμειναν από την προηγούμενη εκτέλεση χωρίς να ανοιχτούν
+    pending = load(DATA / "pending.json", [])
     excluded, new_items = [], []
+    for it in pending:
+        it["first_seen"] = TODAY.isoformat()
+        new_items.append(it)
+        report.setdefault(it["source"], {"requests": 0, "ok": 0, "errors": [], "found": 0, "new": 0, "excluded": 0})
+        report[it["source"]]["new"] += 1
     for it in collected:
         key = f"{it['source']}:{it['id']}"
         if key in seen:
@@ -453,6 +481,8 @@ def main() -> int:
             continue
         if it["source"] in ("alfavita", "proson"):
             reason = None if any(k in norm(it["title"]) for k in NEWS_KEEP) else "είδηση εκτός πολιτισμού/ιδρυμάτων"
+        elif it.get("category") in KARIERA_SKIP_CATEGORIES:
+            reason = f"κατηγορία kariera εκτός ρόλου ({it['category']})"
         else:
             reason = exclusion_reason(it["title"])
         seen[key] = {"first_seen": TODAY.isoformat(), "last_seen": TODAY.isoformat(), "title": it["title"][:120]}
@@ -471,10 +501,9 @@ def main() -> int:
         if it.pop("_detail_done", False):
             continue
         if time.time() - t_start > DETAIL_BUDGET:
-            # δεν προλάβαμε: ξεχνάμε ότι την είδαμε, θα ξαναβρεθεί αύριο ως νέα
+            # δεν προλάβαμε: μπαίνει στην ουρά pending.json και ανοίγει πρώτη στην επόμενη εκτέλεση
             postponed.append(it)
             new_items.remove(it)
-            seen.pop(f"{it['source']}:{it['id']}", None)
             report[it["source"]]["new"] -= 1
             continue
         try:
@@ -524,6 +553,7 @@ def main() -> int:
         "proti_ektelesi": first_run,
         "listings": listings,
     }, ensure_ascii=False, indent=1))
+    (DATA / "pending.json").write_text(json.dumps(postponed, ensure_ascii=False, indent=0))
     (DATA / "excluded.json").write_text(json.dumps({"imerominia": TODAY.isoformat(), "excluded": excluded},
                                                    ensure_ascii=False, indent=1))
 
@@ -545,6 +575,9 @@ def main() -> int:
     if postponed:
         lines.append(f"Αναβλήθηκαν για την επόμενη εκτέλεση λόγω χρόνου: {len(postponed)} αγγελίες.")
     lines.append("")
+    if report.get("jobfind", {}).get("subcategories"):
+        lines.append(f"jobfind υποκατηγορίες: {', '.join(report['jobfind']['subcategories'])}")
+        lines.append("")
     for name, rep in report.items():
         if rep["errors"]:
             lines.append(f"## Σφάλματα {name}")
