@@ -80,7 +80,12 @@ WORKABLE_QUERIES = [
 ]
 WORKABLE_PAGES = 4
 
-JOBFIND_SKIP = {"Proothisi_Proionton_Ypiresion", "Social_Media_Internet_Marketing", "Dimosiografoi"}
+JOBFIND_SKIP = {
+    "Proothisi_Proionton_Ypiresion", "Social_Media_Internet_Marketing", "Dimosiografoi", "Stelexi_Anthropinou_Dynamikou",
+    "Food_Beverage", "Groom_Bell_Boy", "Reservations_Agent", "Kamarieres", "Mageires_Chef", "Mparman_Mparista",
+    "Proistamenoi_Orofon", "Aerosynodoi", "Prosopiko_Kouzinas", "Reception_Ypalliloi_Ypodoxis", "Servitoroi",
+    "Texnikoi_Xenodoxeiou", "Ypalliloi_SPA", "Ypalliloi_Polites_Touristikon_Epixeiriseon",
+}
 JOBFIND_CATEGORIES = [  # σελίδες ειδικοτήτων· από εκεί παίρνουμε τις υποκατηγορίες για Αθήνα
     "https://www.jobfind.gr/JobAdsSearchCatCity/GR/Theseis-Ergasias-ana-Eidikotita/6/Marketing",
     "https://www.jobfind.gr/JobAdsSearchCatCity/GR/Theseis-Ergasias-ana-Eidikotita/4/Stelexi_Epixeiriseon",
@@ -117,6 +122,32 @@ EXCLUDE_TITLE = [  # κανονικές εκφράσεις πάνω σε πεζ�
     (r"ασκουμεν", "πρακτική άσκηση"), (r"χωρισ προυπηρεσια", "entry level/junior"),
     (r"εποχικ", "εποχική"), (r"christmas season", "εποχική"),
 ]
+
+# Ο τίτλος πρέπει να ταιριάζει σε τουλάχιστον έναν από τους ρόλους της (πεζά, χωρίς τόνους, ς -> σ).
+# Όσες δεν ταιριάζουν γράφονται στο excluded.json και τις ξανακοιτάζει το Claude.
+ROLE_TITLE = [
+    r"communicat", r"επικοινων", r"δημοσιων σχεσεων", r"δημοσιεσ σχεσεισ", r"public relations", r"\bpr\b",
+    r"\bevents?\b", r"εκδηλωσ", r"συνεδρι", r"congress", r"conference", r"\bmice\b",
+    r"project", r"programm?e?s?\b", r"program manager", r"προγραμματ", r"εργων",
+    r"marketing", r"μαρκετινγκ", r"\bbrand\b", r"χορηγ", r"sponsor", r"partnership", r"συνεργασι", r"εταιρικ",
+    r"πολιτισ", r"cultur", r"μουσει", r"museum", r"τεχνη", r"\barts?\b", r"φεστιβαλ", r"festival",
+    r"τουρισ", r"touris", r"γαστρονομ", r"gastronom", r"\bfood\b.*(program|project|market)",
+    r"εθελοντ", r"volunteer", r"ιδρυμ", r"foundation", r"\bμκο\b.*(υπευθυν|διευθυν|manager)",
+    r"διευθυν", r"director", r"head of", r"coordinator", r"συντονισ",
+    r"guest relations", r"\bcontent\b", r"media", r"\bcsr\b", r"εταιρικη κοινωνικη", r"sustainab",
+    r"development", r"αναπτυξ", r"\beu\b", r"ευρωπαικ", r"espa", r"εσπα",
+]
+NOT_ROLE = [r"καταστημ", r"\bstore\b", r"\bshop\b", r"\bkitchen\b", r"κουζιν", r"software", r"\bit\b",
+            r"warehouse", r"logistics", r"παραγωγ", r"production manager", r"factory", r"εργοστασ",
+            r"business development", r"key account", r"account manager", r"sales manager", r"πωλησεων",
+            r"νοσοκομ", r"κλινικ", r"φαρμακ", r"\bsales\b", r"f&b", r"restaurant", r"housekeeping",
+            r"front office", r"room service", r"casino", r"product manager", r"procurement", r"purchasing",
+            r"talent acquisition", r"\bhr\b", r"recruit",
+]
+# προορισμοί εκτός Αθήνας στον τίτλο (η γεωγραφία είναι το πιο αυστηρό κριτήριο)·
+# δεν κόβουν αν ο τίτλος αναφέρει και Αθήνα
+NOT_ATHENS = (r"mykonos|μυκονο|santorini|σαντορ|corfu|κερκυρ|crete|κρητ|rhodes|ροδο|naxos|ναξο|paros|παρο\b|"
+              r"halkidiki|χαλκιδικ|thessaloniki|θεσσαλονικ")
 
 APPLY_HINT = re.compile(
     r"(workable\.com|smartcv\.co|greenhouse\.io|lever\.co|teamtailor|recruitee|bamboohr|personio|"
@@ -236,7 +267,26 @@ def exclusion_reason(title: str) -> str | None:
     for pattern, reason in EXCLUDE_TITLE:
         if re.search(pattern, t):
             return reason
+    if any(re.search(p, t) for p in NOT_ROLE):
+        return "τίτλος εκτός ρόλων"
+    if re.search(NOT_ATHENS, t) and not re.search(r"athen|αθην", t):
+        return "περιοχή εκτός Αθήνας στον τίτλο"
+    if not any(re.search(p, t) for p in ROLE_TITLE):
+        return "τίτλος εκτός ρόλων"
     return None
+
+
+def classify(it: dict) -> str | None:
+    """Λόγος αποκλεισμού ή None αν η αγγελία κρατιέται."""
+    if it["source"] in ("alfavita", "proson"):
+        return None if any(k in norm(it["title"]) for k in NEWS_KEEP) else "είδηση εκτός πολιτισμού/ιδρυμάτων"
+    if it["source"] == "onassis":
+        return None
+    cat = it.get("category") or ((re.search(r"/jobs/([a-z0-9-]+)/\d+", it.get("url", "")) or [None, ""])[1]
+                                 if it["source"] == "kariera" else "")
+    if cat in KARIERA_SKIP_CATEGORIES:
+        return f"κατηγορία kariera εκτός ρόλου ({cat})"
+    return exclusion_reason(it["title"])
 
 
 # ---------------------------------------------------------------- πηγές
@@ -470,6 +520,10 @@ def main() -> int:
     pending = load(DATA / "pending.json", [])
     excluded, new_items = [], []
     for it in pending:
+        r_ = classify(it)
+        if r_:
+            excluded.append({"source": it["source"], "title": it["title"], "url": it["url"], "reason": r_})
+            continue
         it["first_seen"] = TODAY.isoformat()
         new_items.append(it)
         report.setdefault(it["source"], {"requests": 0, "ok": 0, "errors": [], "found": 0, "new": 0, "excluded": 0})
@@ -479,12 +533,7 @@ def main() -> int:
         if key in seen:
             seen[key]["last_seen"] = TODAY.isoformat()
             continue
-        if it["source"] in ("alfavita", "proson"):
-            reason = None if any(k in norm(it["title"]) for k in NEWS_KEEP) else "είδηση εκτός πολιτισμού/ιδρυμάτων"
-        elif it.get("category") in KARIERA_SKIP_CATEGORIES:
-            reason = f"κατηγορία kariera εκτός ρόλου ({it['category']})"
-        else:
-            reason = exclusion_reason(it["title"])
+        reason = classify(it)
         seen[key] = {"first_seen": TODAY.isoformat(), "last_seen": TODAY.isoformat(), "title": it["title"][:120]}
         if reason:
             excluded.append({"source": it["source"], "title": it["title"], "url": it["url"], "reason": reason})
@@ -535,8 +584,16 @@ def main() -> int:
 
     # recent.json: νέες σήμερα + όσες ήταν νέες τις προηγούμενες RECENT_DAYS ημέρες
     cutoff = (TODAY - timedelta(days=RECENT_DAYS - 1)).isoformat()
-    keep_old = [x for x in recent_old if x.get("first_seen", "") >= cutoff
-                and f"{x['source']}:{x['id']}" not in {f"{n['source']}:{n['id']}" for n in new_items}]
+    new_keys = {f"{n['source']}:{n['id']}" for n in new_items}
+    keep_old = []
+    for x in recent_old:  # οι παλιές ξαναπερνούν από τα ίδια φίλτρα (αν αλλάξουν τα φίλτρα, ισχύουν και γι' αυτές)
+        if x.get("first_seen", "") < cutoff or f"{x['source']}:{x['id']}" in new_keys:
+            continue
+        r_ = classify(x)
+        if r_:
+            excluded.append({"source": x["source"], "title": x["title"], "url": x["url"], "reason": r_})
+        else:
+            keep_old.append(x)
     compact = []
     for it in new_items:
         c = {k: it.get(k) for k in ("source", "id", "title", "company", "location", "posted", "employment",
