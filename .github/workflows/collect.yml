@@ -1,0 +1,35 @@
+name: Συλλογή αγγελιών
+on:
+  schedule:
+    # 13:25 UTC = 16:25 ώρα Ελλάδας (θερινή) / 15:25 (χειμερινή).
+    # Περίπου 1,5 ώρα πριν από το scheduled task του Claude (15:00 UTC).
+    - cron: "25 13 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["collect.py", ".github/workflows/collect.yml"]
+permissions:
+  contents: write
+concurrency:
+  group: collect
+  cancel-in-progress: false
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests beautifulsoup4
+      - run: python collect.py
+      - name: Αποθήκευση
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git commit -m "Συλλογή $(date -u +%F)" || { echo "τίποτα νέο"; exit 0; }
+          git pull --rebase -q || true
+          git push
