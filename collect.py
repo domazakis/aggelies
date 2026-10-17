@@ -49,6 +49,8 @@ WORKABLE_MAX_AGE = 21  # αγγελίες Workable παλαιότερες από
 SEEN_KEEP_DAYS = 180
 DETAILS_KEEP_DAYS = 30
 MAX_TEXT = 7000        # χαρακτήρες κειμένου ανά αγγελία
+DETAIL_BUDGET = 18 * 60  # μέγιστος χρόνος (δευτ.) για άνοιγμα σελίδων αγγελιών ανά εκτέλεση·
+                         # όσες δεν προλάβουν μένουν για την επόμενη εκτέλεση
 
 KARIERA_TERMS = [
     "επικοινωνία", "communications", "δημόσιες σχέσεις", "PR", "εκδηλώσεις", "events",
@@ -239,7 +241,7 @@ def src_kariera() -> list[dict]:
         r = get(url, "kariera")
         if not r:
             return 0
-        soup = BeautifulSoup(r.text, "html.parser")
+        soup = BeautifulSoup(r.text, "lxml")
         n = 0
         for a in soup.find_all("a", href=True):
             m = rx.search(a["href"])
@@ -272,7 +274,7 @@ def detail_kariera(it: dict) -> None:
     r = get(it["url"], "kariera")
     if not r:
         return
-    soup = BeautifulSoup(r.text, "html.parser")
+    soup = BeautifulSoup(r.text, "lxml")
     t = soup.title.string if soup.title and soup.title.string else ""
     # μορφή: "Τίτλος — Εταιρεία | Περιοχή"
     m = re.match(r"\s*(.*?)\s+—\s+(.*?)\s*\|\s*(.*?)\s*$", t or "")
@@ -315,7 +317,7 @@ def src_workable() -> list[dict]:
                 comp = j.get("company") or {}
                 loc = j.get("location") or {}
                 parts = [j.get("description") or "", j.get("requirementsSection") or "", j.get("benefitsSection") or ""]
-                text = BeautifulSoup("\n".join(parts), "html.parser").get_text("\n", strip=True)[:MAX_TEXT]
+                text = BeautifulSoup("\n".join(parts), "lxml").get_text("\n", strip=True)[:MAX_TEXT]
                 items[jid] = {
                     "source": "workable", "id": jid, "title": (j.get("title") or "")[:200],
                     "company": comp.get("title") if isinstance(comp, dict) else str(comp),
@@ -338,7 +340,7 @@ def src_jobfind() -> list[dict]:
         r = get(url, "jobfind")
         if not r:
             continue
-        soup = BeautifulSoup(r.text, "html.parser")
+        soup = BeautifulSoup(r.text, "lxml")
         for a in soup.find_all("a", href=True):
             m = rx.search(a["href"])
             title = " ".join(a.get_text(" ", strip=True).split())
@@ -354,7 +356,7 @@ def detail_jobfind(it: dict) -> None:
     r = get(it["url"], "jobfind")
     if not r:
         return
-    soup = BeautifulSoup(r.text, "html.parser")
+    soup = BeautifulSoup(r.text, "lxml")
     t = soup.title.string if soup.title and soup.title.string else ""
     m = re.match(r"\s*Θέσεις Εργασίας:\s*(.*?)\s+-\s+(.*)$", t or "")
     if m:
@@ -369,7 +371,7 @@ def src_onassis() -> list[dict]:
     r = get("https://apply.smartcv.co/onassis-group/", "onassis")
     if not r:
         return []
-    soup = BeautifulSoup(r.text, "html.parser")
+    soup = BeautifulSoup(r.text, "lxml")
     out = {}
     for a in soup.find_all("a", href=True):
         m = re.search(r"/onassis-group/job/(\w+)", a["href"])
@@ -385,7 +387,7 @@ def detail_generic(it: dict, src: str) -> None:
     r = get(it["url"], src)
     if not r:
         return
-    soup = BeautifulSoup(r.text, "html.parser")
+    soup = BeautifulSoup(r.text, "lxml")
     host = urllib.parse.urlsplit(r.url).netloc.replace("www.", "")
     it["apply"] = apply_from_soup(soup, r.url, host) or ([it["url"]] if src == "onassis" else [])
     text = clean_text(soup)
@@ -397,7 +399,7 @@ def src_news(src: str, url: str, rx: str, base: str) -> list[dict]:
     r = get(url, src)
     if not r:
         return []
-    soup = BeautifulSoup(r.text, "html.parser")
+    soup = BeautifulSoup(r.text, "lxml")
     out = {}
     for a in soup.find_all("a", href=True):
         m = re.search(rx, a["href"])
@@ -462,9 +464,18 @@ def main() -> int:
         new_items.append(it)
         report[it["source"]]["new"] += 1
 
-    # πλήρες κείμενο για κάθε νέα αγγελία
-    for it in new_items:
+    # πλήρες κείμενο για κάθε νέα αγγελία, μέσα σε χρονικό όριο
+    t_start = time.time()
+    postponed = []
+    for it in list(new_items):
         if it.pop("_detail_done", False):
+            continue
+        if time.time() - t_start > DETAIL_BUDGET:
+            # δεν προλάβαμε: ξεχνάμε ότι την είδαμε, θα ξαναβρεθεί αύριο ως νέα
+            postponed.append(it)
+            new_items.remove(it)
+            seen.pop(f"{it['source']}:{it['id']}", None)
+            report[it["source"]]["new"] -= 1
             continue
         try:
             if it["source"] == "kariera":
@@ -530,7 +541,10 @@ def main() -> int:
              "| Πηγή | Αιτήματα OK | Βρέθηκαν | Νέες | Κόπηκαν από τίτλο | Σφάλματα |", "|---|---|---|---|---|---|"]
     for name, rep in report.items():
         lines.append(f"| {name} | {rep['ok']}/{rep['requests']} | {rep['found']} | {rep['new']} | {rep['excluded']} | {len(rep['errors'])} |")
-    lines += ["", f"Στο recent.json: {len(listings)} αγγελίες (από τις οποίες {len(compact)} νέες σήμερα).", ""]
+    lines += ["", f"Στο recent.json: {len(listings)} αγγελίες (από τις οποίες {len(compact)} νέες σήμερα)."]
+    if postponed:
+        lines.append(f"Αναβλήθηκαν για την επόμενη εκτέλεση λόγω χρόνου: {len(postponed)} αγγελίες.")
+    lines.append("")
     for name, rep in report.items():
         if rep["errors"]:
             lines.append(f"## Σφάλματα {name}")
