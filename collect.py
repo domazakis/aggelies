@@ -225,7 +225,7 @@ def get(url: str, src: str, **kw) -> requests.Response | None:
 
 
 def clean_text(soup: BeautifulSoup) -> str:
-    for t in soup(["script", "style", "noscript", "header", "footer", "nav", "form", "svg", "iframe"]):
+    for t in soup(["script", "style", "noscript", "header", "footer", "nav", "svg", "iframe", "select", "button"]):
         t.decompose()
     main = soup.find("main") or soup.find("article") or soup.body or soup
     text = main.get_text("\n", strip=True)
@@ -431,7 +431,7 @@ def detail_jobfind(it: dict) -> None:
     t = soup.title.string if soup.title and soup.title.string else ""
     m = re.match(r"\s*Θέσεις Εργασίας:\s*(.*?)\s+-\s+(.*)$", t or "")
     if m:
-        it["location"] = m.group(2).strip()
+        it["location"] = re.sub(r"\s*-\s*JobFind\.gr\s*$", "", m.group(2).strip(), flags=re.I)
     it["apply"] = apply_from_soup(soup, r.url, "jobfind.gr")
     text = clean_text(soup)
     it["emails"] = emails_in(text)
@@ -479,6 +479,34 @@ def src_news(src: str, url: str, rx: str, base: str) -> list[dict]:
             out.setdefault(m.group(1), {"source": src, "id": m.group(1), "title": title[:220],
                                         "url": urllib.parse.urljoin(base, a["href"].split("?")[0])})
     return list(out.values())
+
+
+# ---------------------------------------------------------------- κείμενα αγγελιών
+
+def fetch_detail(it: dict) -> None:
+    if it["source"] == "kariera":
+        detail_kariera(it)
+    elif it["source"] == "jobfind":
+        detail_jobfind(it)
+    else:
+        detail_generic(it, it["source"])
+
+
+def write_detail(it: dict) -> None:
+    d = DATA / "details" / it["source"]
+    d.mkdir(parents=True, exist_ok=True)
+    path = d / f"{re.sub(r'[^A-Za-z0-9_-]', '_', it['id'])}.md"
+    head = [f"# {it['title']}", "", f"- Πηγή: {it['source']}", f"- Σύνδεσμος αγγελίας: {it['url']}"]
+    for k, label in (("company", "Εργοδότης"), ("location", "Περιοχή"), ("posted", "Δημοσίευση"),
+                     ("employment", "Απασχόληση"), ("workplace", "Τρόπος εργασίας")):
+        if it.get(k):
+            head.append(f"- {label}: {it[k]}")
+    head.append(f"- Αίτηση (σύνδεσμοι που βρέθηκαν στη σελίδα): {', '.join(it.get('apply') or []) or '—'}")
+    head.append(f"- Emails στο κείμενο: {', '.join(it.get('emails') or []) or '—'}")
+    head.append(f"- Πρώτη φορά: {it.get('first_seen', TODAY.isoformat())}")
+    body = it.get("text") or "(Δεν διαβάστηκε το κείμενο της σελίδας.)"
+    path.write_text("\n".join(head) + "\n\n---\n\n" + body + "\n")
+    it["detail_file"] = str(path.relative_to(ROOT))
 
 
 # ---------------------------------------------------------------- κύρια ροή
@@ -556,31 +584,29 @@ def main() -> int:
             report[it["source"]]["new"] -= 1
             continue
         try:
-            if it["source"] == "kariera":
-                detail_kariera(it)
-            elif it["source"] == "jobfind":
-                detail_jobfind(it)
-            else:
-                detail_generic(it, it["source"])
+            fetch_detail(it)
         except Exception as e:  # noqa: BLE001
             report[it["source"]]["errors"].append(f"σελίδα αγγελίας: {type(e).__name__}: {it['url']}")
 
-    # αποθήκευση κειμένων
     for it in new_items:
-        d = DATA / "details" / it["source"]
-        d.mkdir(parents=True, exist_ok=True)
-        path = d / f"{re.sub(r'[^A-Za-z0-9_-]', '_', it['id'])}.md"
-        head = [f"# {it['title']}", "", f"- Πηγή: {it['source']}", f"- Σύνδεσμος αγγελίας: {it['url']}"]
-        for k, label in (("company", "Εργοδότης"), ("location", "Περιοχή"), ("posted", "Δημοσίευση"),
-                         ("employment", "Απασχόληση"), ("workplace", "Τρόπος εργασίας")):
-            if it.get(k):
-                head.append(f"- {label}: {it[k]}")
-        head.append(f"- Αίτηση (σύνδεσμοι που βρέθηκαν στη σελίδα): {', '.join(it.get('apply') or []) or '—'}")
-        head.append(f"- Emails στο κείμενο: {', '.join(it.get('emails') or []) or '—'}")
-        head.append(f"- Πρώτη φορά: {it['first_seen']}")
-        body = it.get("text") or "(Δεν διαβάστηκε το κείμενο της σελίδας.)"
-        path.write_text("\n".join(head) + "\n\n---\n\n" + body + "\n")
-        it["detail_file"] = str(path.relative_to(ROOT))
+        write_detail(it)
+
+    # ξαναδιάβασμα όσων από τις προηγούμενες μέρες έμειναν χωρίς κείμενο (παροδικό σφάλμα κ.λπ.)
+    for x in recent_old:
+        if x.get("text_chars", 0) >= 300 or x["source"] == "workable":
+            continue
+        if time.time() - t_start > DETAIL_BUDGET:
+            break
+        it = dict(x)
+        try:
+            fetch_detail(it)
+        except Exception:  # noqa: BLE001
+            continue
+        if len(it.get("text") or "") >= 300:
+            write_detail(it)
+            x.update({k: it[k] for k in ("company", "location", "apply", "emails") if it.get(k)})
+            x["text_chars"] = len(it["text"])
+            report[x["source"]]["refetched"] = report[x["source"]].get("refetched", 0) + 1
 
     # recent.json: νέες σήμερα + όσες ήταν νέες τις προηγούμενες RECENT_DAYS ημέρες
     cutoff = (TODAY - timedelta(days=RECENT_DAYS - 1)).isoformat()
@@ -627,7 +653,8 @@ def main() -> int:
     lines = [f"# Συλλογή {TODAY.isoformat()} ({datetime.now(timezone.utc).strftime('%H:%M')} UTC)", "",
              "| Πηγή | Αιτήματα OK | Βρέθηκαν | Νέες | Κόπηκαν από τίτλο | Σφάλματα |", "|---|---|---|---|---|---|"]
     for name, rep in report.items():
-        lines.append(f"| {name} | {rep['ok']}/{rep['requests']} | {rep['found']} | {rep['new']} | {rep['excluded']} | {len(rep['errors'])} |")
+        lines.append(f"| {name} | {rep['ok']}/{rep['requests']} | {rep['found']} | {rep['new']} | {rep['excluded']} | {len(rep['errors'])} |"
+                     + (f" ξαναδιαβάστηκαν: {rep['refetched']}" if rep.get("refetched") else ""))
     lines += ["", f"Στο recent.json: {len(listings)} αγγελίες (από τις οποίες {len(compact)} νέες σήμερα)."]
     if postponed:
         lines.append(f"Αναβλήθηκαν για την επόμενη εκτέλεση λόγω χρόνου: {len(postponed)} αγγελίες.")
