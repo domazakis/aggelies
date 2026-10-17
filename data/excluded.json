@@ -3,27 +3,33 @@
  "excluded": [
   {
    "source": "kariera",
-   "title": "Sales Associate / Πωλήτρια Πωλητής Καταστήματος – Golden Hall (Μαρούσι) | Full Time",
-   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/351045",
-   "reason": "πωλήσεις/λιανική"
-  },
-  {
-   "source": "kariera",
-   "title": "Eξωτερικός Πωλητής B2B & B2C Nova - Ηράκλειο / Αγ. Νικόλαος",
-   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/352686",
-   "reason": "πωλήσεις/λιανική"
-  },
-  {
-   "source": "kariera",
-   "title": "Διευθυντής-τρια Καταστήματος-Κορωπί",
-   "url": "https://www.kariera.gr/jobs/retail-jobs/349583",
+   "title": "Υπάλληλος καταστήματος My Market (Πωλητής-τρια & Ταμείο)– Πλατεία Βάθης",
+   "url": "https://www.kariera.gr/jobs/retail-jobs/351179",
    "reason": "κατηγορία kariera εκτός ρόλου (retail-jobs)"
   },
   {
    "source": "kariera",
-   "title": "Quarry and Raw Materials Supervisor",
-   "url": "https://www.kariera.gr/jobs/other-jobs/350376",
+   "title": "Υπάλληλος καταστήματος My Market – Πλατεία Βάθης",
+   "url": "https://www.kariera.gr/jobs/retail-jobs/352772",
+   "reason": "κατηγορία kariera εκτός ρόλου (retail-jobs)"
+  },
+  {
+   "source": "kariera",
+   "title": "Σύμβουλος Πώλησης Φωτισμού - Γλυφάδα",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/353851",
    "reason": "τίτλος εκτός ρόλων"
+  },
+  {
+   "source": "kariera",
+   "title": "Χειριστής Μηχανών Συσκευασίας - Παιανία",
+   "url": "https://www.kariera.gr/jobs/production-jobs/347589",
+   "reason": "κατηγορία kariera εκτός ρόλου (production-jobs)"
+  },
+  {
+   "source": "kariera",
+   "title": "Assistant Accountant",
+   "url": "https://www.kariera.gr/jobs/accounting-or-auditing-jobs/342693",
+   "reason": "κατηγορία kariera εκτός ρόλου (accounting-or-auditing-jobs)"
   }
  ]
 }
