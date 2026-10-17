@@ -224,7 +224,7 @@ def get(url: str, src: str, **kw) -> requests.Response | None:
     return None
 
 
-def clean_text(soup: BeautifulSoup) -> str:
+def clean_text(soup: BeautifulSoup, limit: int | None = MAX_TEXT) -> str:
     for t in soup(["script", "style", "noscript", "header", "footer", "nav", "svg", "iframe", "select", "button"]):
         t.decompose()
     main = soup.find("main") or soup.find("article") or soup.body or soup
@@ -235,7 +235,7 @@ def clean_text(soup: BeautifulSoup) -> str:
         if l != prev:
             out.append(l)
         prev = l
-    return "\n".join(out)[:MAX_TEXT]
+    return "\n".join(out)[:limit] if limit else "\n".join(out)
 
 
 def apply_from_soup(soup: BeautifulSoup, base: str, page_host: str) -> list[str]:
@@ -433,7 +433,11 @@ def detail_jobfind(it: dict) -> None:
     if m:
         it["location"] = re.sub(r"\s*-\s*JobFind\.gr\s*$", "", m.group(2).strip(), flags=re.I)
     it["apply"] = apply_from_soup(soup, r.url, "jobfind.gr")
-    text = clean_text(soup)
+    full = clean_text(soup, limit=None)
+    # Η σελίδα ξεκινά με μεγάλο μενού κατηγοριών· η περιγραφή αρχίζει λίγο πριν την πρώτη μεγάλη παράγραφο
+    lines = full.split("\n")
+    first_long = next((i for i, l in enumerate(lines) if len(l) >= 100), 0)
+    text = "\n".join(lines[max(0, first_long - 12):])[:MAX_TEXT]
     it["emails"] = emails_in(text)
     it["text"] = text
 
