@@ -3,33 +3,177 @@
  "excluded": [
   {
    "source": "kariera",
-   "title": "Υπάλληλος καταστήματος My Market (Πωλητής-τρια & Ταμείο)– Πλατεία Βάθης",
-   "url": "https://www.kariera.gr/jobs/retail-jobs/351179",
-   "reason": "κατηγορία kariera εκτός ρόλου (retail-jobs)"
+   "title": "Sales Advisors & Cashiers - Κατάστημα Κηφισού",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/349308",
+   "reason": "πωλήσεις"
   },
   {
    "source": "kariera",
-   "title": "Υπάλληλος καταστήματος My Market – Πλατεία Βάθης",
-   "url": "https://www.kariera.gr/jobs/retail-jobs/352772",
-   "reason": "κατηγορία kariera εκτός ρόλου (retail-jobs)"
+   "title": "Sales Advisor",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/304485",
+   "reason": "πωλήσεις"
   },
   {
    "source": "kariera",
-   "title": "Σύμβουλος Πώλησης Φωτισμού - Γλυφάδα",
-   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/353851",
+   "title": "ESG Controller (m/f/d) for Vantage Towers",
+   "url": "https://www.kariera.gr/jobs/other-jobs/345556",
    "reason": "τίτλος εκτός ρόλων"
   },
   {
    "source": "kariera",
-   "title": "Χειριστής Μηχανών Συσκευασίας - Παιανία",
-   "url": "https://www.kariera.gr/jobs/production-jobs/347589",
-   "reason": "κατηγορία kariera εκτός ρόλου (production-jobs)"
+   "title": "Sales Advisor | Κατάστημα Vodafone (Κέρκυρα )",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/346520",
+   "reason": "πωλήσεις"
   },
   {
    "source": "kariera",
-   "title": "Assistant Accountant",
-   "url": "https://www.kariera.gr/jobs/accounting-or-auditing-jobs/342693",
-   "reason": "κατηγορία kariera εκτός ρόλου (accounting-or-auditing-jobs)"
+   "title": "Senior Financial Analyst",
+   "url": "https://www.kariera.gr/jobs/finance-jobs/344082",
+   "reason": "κατηγορία kariera εκτός ρόλου (finance-jobs)"
+  },
+  {
+   "source": "kariera",
+   "title": "Career Opportunities @ Tech Hub Thessaloniki",
+   "url": "https://www.kariera.gr/jobs/other-jobs/304500",
+   "reason": "περιοχή εκτός Αθήνας στον τίτλο"
+  },
+  {
+   "source": "kariera",
+   "title": "ΠΩΛΗΤΗΣ-ΠΩΛΗΤΡΙΑ / SMART PARK -PART TIME",
+   "url": "https://www.kariera.gr/jobs/retail-jobs/353940",
+   "reason": "κατηγορία kariera εκτός ρόλου (retail-jobs)"
+  },
+  {
+   "source": "kariera",
+   "title": "Area Sales Manager Cement & Aggregates",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/346181",
+   "reason": "τίτλος εκτός ρόλων"
+  },
+  {
+   "source": "kariera",
+   "title": "Εργαζόμενος/η Café/Bistro (8ωρης απασχόλησης)",
+   "url": "https://www.kariera.gr/jobs/other-jobs/327523",
+   "reason": "τίτλος εκτός ρόλων"
+  },
+  {
+   "source": "kariera",
+   "title": "Πραγματογνώμων Loss adjuster",
+   "url": "https://www.kariera.gr/jobs/construction-or-engineers-or-architects-jobs/354063",
+   "reason": "κατηγορία kariera εκτός ρόλου (construction-or-engineers-or-architects-jobs)"
+  },
+  {
+   "source": "kariera",
+   "title": "Υπεύθυνος Βάρδιας Καταστήματος (6ωρη μερική απασχόληση) στα Χανιά",
+   "url": "https://www.kariera.gr/jobs/retail-jobs/350753",
+   "reason": "κατηγορία kariera εκτός ρόλου (retail-jobs)"
+  },
+  {
+   "source": "kariera",
+   "title": "Υπεύθυνος Βάρδιας Καταστήματος (6ωρη μερική απασχόληση) στα Βρασνά",
+   "url": "https://www.kariera.gr/jobs/retail-jobs/353284",
+   "reason": "κατηγορία kariera εκτός ρόλου (retail-jobs)"
+  },
+  {
+   "source": "kariera",
+   "title": "Βοηθός Υπεύθυνου Κουζίνας",
+   "url": "https://www.kariera.gr/jobs/workers-jobs/344449",
+   "reason": "κατηγορία kariera εκτός ρόλου (workers-jobs)"
+  },
+  {
+   "source": "kariera",
+   "title": "Assistant Team Leader - Central Customer Care!",
+   "url": "https://www.kariera.gr/jobs/call-center-or-customer-support-jobs/348359",
+   "reason": "κατηγορία kariera εκτός ρόλου (call-center-or-customer-support-jobs)"
+  },
+  {
+   "source": "kariera",
+   "title": "Πωλητές-πωλήτριες για τα καταστήματά μας στο Χαλάνδρι",
+   "url": "https://www.kariera.gr/jobs/retail-jobs/330630",
+   "reason": "κατηγορία kariera εκτός ρόλου (retail-jobs)"
+  },
+  {
+   "source": "kariera",
+   "title": "Πωλητές/ Πωλήτριες για τα καταστήματά μας στις περιοχές Αιγάλεω και Κηφισό",
+   "url": "https://www.kariera.gr/jobs/retail-jobs/329630",
+   "reason": "κατηγορία kariera εκτός ρόλου (retail-jobs)"
+  },
+  {
+   "source": "kariera",
+   "title": "Υπάλληλος Ταμείων (Μερικής Απασχόλησης) - ΙΚΕΑ Αεροδρομίου",
+   "url": "https://www.kariera.gr/jobs/other-jobs/336383",
+   "reason": "τίτλος εκτός ρόλων"
+  },
+  {
+   "source": "kariera",
+   "title": "Πωλητές-Πωλήτριες για το κατάστημά μας στη Θήβα",
+   "url": "https://www.kariera.gr/jobs/retail-jobs/346675",
+   "reason": "κατηγορία kariera εκτός ρόλου (retail-jobs)"
+  },
+  {
+   "source": "kariera",
+   "title": "Πωλητές/Πωλήτριες για τα καταστήματά μας στα Πατήσια",
+   "url": "https://www.kariera.gr/jobs/retail-jobs/342690",
+   "reason": "κατηγορία kariera εκτός ρόλου (retail-jobs)"
+  },
+  {
+   "source": "kariera",
+   "title": "Assistant Front Office Manager | Παργα τουριστική σεζόν 2027",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/354074",
+   "reason": "τίτλος εκτός ρόλων"
+  },
+  {
+   "source": "kariera",
+   "title": "Assistant Front Office Manager | Παργα τουριστική σεζόν 2027",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/354073",
+   "reason": "τίτλος εκτός ρόλων"
+  },
+  {
+   "source": "kariera",
+   "title": "Site Engineer MEP",
+   "url": "https://www.kariera.gr/jobs/engineering-jobs/289842",
+   "reason": "κατηγορία kariera εκτός ρόλου (engineering-jobs)"
+  },
+  {
+   "source": "jobfind",
+   "title": "Πραγματογνώμων / Loss adjuster & surveyor",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/2356b5c3-3426-4747-ba0b-74eeb1eedcab/",
+   "reason": "τίτλος εκτός ρόλων"
+  },
+  {
+   "source": "proson",
+   "title": "Προσλήψεις στον Δήμο Κηφισιάς: Αντίστροφη μέτρηση για τις 30 θέσεις",
+   "url": "https://www.proson.gr/ergasia/prokiryxeis/93588_proslipseis-ston-dimo-kifisias-antistrofi-metrisi-gia-tis-30-theseis",
+   "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
+  },
+  {
+   "source": "proson",
+   "title": "18 Οκτ 2026 17:07 Νέες προσλήψεις ανακοίνωσε η Εφορεία Αρχαιοτήτων Λέσβου Ποιες είναι οι ειδικότητες για τις προσλήψεις στην Εφορεία Αρχαιοτήτων Λέσβου",
+   "url": "https://www.proson.gr/ergasia/prokiryxeis/93595_nees-proslipseis-anakoinose-i-eforeia-arhaiotiton-lesboy",
+   "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
+  },
+  {
+   "source": "proson",
+   "title": "18 Οκτ 2026 16:08 Σε εξέλιξη οι αιτήσεις για δεκάδες προσλήψεις σε μεγάλο Δήμο της Αττικής «Τρέχουν» οι αιτήσεις για τις 40 προσλήψεις αποφοίτων γυμνασίου και λυκείου στον Δήμο Αλίμου - Οι...",
+   "url": "https://www.proson.gr/ergasia/prokiryxeis/93592_se-exelixi-oi-aitiseis-gia-dekades-proslipseis-se-megalo-dimo-tis-attikis",
+   "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
+  },
+  {
+   "source": "proson",
+   "title": "18 Οκτ 2026 15:44 Εφορεία Αρχαιοτήτων Πρέβεζας: Προσλήψεις και με απολυτήριο γυμνασίου Ποιες είναι οι ειδικότητες για τις προσλήψεις στην Εφορεία Αρχαιοτήτων Πρέβεζας",
+   "url": "https://www.proson.gr/ergasia/prokiryxeis/93590_eforeia-arhaiotiton-prebezas-proslipseis-kai-me-apolytirio-gymnasioy",
+   "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
+  },
+  {
+   "source": "proson",
+   "title": "18 Οκτ 2026 13:00 Εφορεία Αρχαιοτήτων Εύβοιας: Προσλήψεις και με απολυτήριο γυμνασίου Ποιες είναι οι ειδικότητες για τις προσλήψεις στην Εφορεία Αρχαιοτήτων Εύβοιας",
+   "url": "https://www.proson.gr/ergasia/prokiryxeis/93580_eforeia-arhaiotiton-eyboias-proslipseis-kai-me-apolytirio-gymnasioy",
+   "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
+  },
+  {
+   "source": "proson",
+   "title": "18 Οκτ 2026 05:30 Ευρωπαϊκό ΑΣΕΠ: 964 προσλήψεις με μισθό έως 5.437 ευρώ - Πότε λήγουν οι αιτήσεις Πού κάνετε αίτηση για τον διαγωνισμό της Ευρωπαϊκής Υπηρεσίας Επιλογής Προσωπικού (EPSO), γνωστή...",
+   "url": "https://www.proson.gr/ergasia/prokiryxeis/93507_eyropaiko-asep-964-proslipseis-me-mistho-eos-5437-eyro-pote-ligoyn-oi",
+   "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
   }
  ]
 }

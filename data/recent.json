@@ -1,6 +1,6 @@
 {
  "_perigrafi": "Αγγελίες που εμφανίστηκαν για πρώτη φορά τις τελευταίες 3 ημέρες. Το πλήρες κείμενο κάθε αγγελίας είναι στο detail_file. Έχουν ήδη αφαιρεθεί όσες είναι προφανώς άσχετες από τον τίτλο (δες excluded.json).",
- "enimerosi": "2026-10-17T23:22+00:00",
+ "enimerosi": "2026-10-18T16:42+00:00",
  "proti_ektelesi": false,
  "listings": [
   {
@@ -556,6 +556,40 @@
    "text_chars": 3904
   },
   {
+   "source": "workable",
+   "id": "c63d0656-0ca2-43e8-a797-03a42733ba0c",
+   "title": "Senior Digital & Technology Project Manager",
+   "company": "HYPERTECH S.A.",
+   "location": "Athens, Attica",
+   "posted": "2026-10-18",
+   "employment": "Full-time",
+   "workplace": "hybrid",
+   "url": "https://jobs.workable.com/view/qtNr6kYVArM8ZCrzowHBfL/hybrid-senior-digital-%26-technology-project-manager-in-athens-at-hypertech-s.a.",
+   "apply": [
+    "https://jobs.workable.com/view/qtNr6kYVArM8ZCrzowHBfL/hybrid-senior-digital-%26-technology-project-manager-in-athens-at-hypertech-s.a./apply"
+   ],
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/workable/c63d0656-0ca2-43e8-a797-03a42733ba0c.md",
+   "text_chars": 3336
+  },
+  {
+   "source": "workable",
+   "id": "babd6987-874b-416e-ba6a-f2a61f1cce07",
+   "title": "Senior R&D Project Manager",
+   "company": "HYPERTECH S.A.",
+   "location": "Athens, Attica",
+   "posted": "2026-10-18",
+   "employment": "Full-time",
+   "workplace": "hybrid",
+   "url": "https://jobs.workable.com/view/p4rX3XocmPGU8obakSbMia/hybrid-senior-r%26d-project-manager-in-athens-at-hypertech-s.a.",
+   "apply": [
+    "https://jobs.workable.com/view/p4rX3XocmPGU8obakSbMia/hybrid-senior-r%26d-project-manager-in-athens-at-hypertech-s.a./apply"
+   ],
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/workable/babd6987-874b-416e-ba6a-f2a61f1cce07.md",
+   "text_chars": 4968
+  },
+  {
    "source": "proson",
    "id": "93555",
    "title": "17 Οκτ 2026 13:13 Εθνικό Αρχαιολογικό Μουσείο: «Τρέχουν» οι αιτήσεις για 60 προσλήψεις Σε εξέλιξη βρίσκονται οι αιτήσεις για τις 60 προσλήψεις στο Εθνικό Αρχαιολογικό Μουσείο",
@@ -590,6 +624,15 @@
    "first_seen": "2026-10-18",
    "detail_file": "data/details/proson/93262.md",
    "text_chars": 4600
+  },
+  {
+   "source": "proson",
+   "id": "93567",
+   "title": "Προσλήψεις στο Αρχαιολογικό Μουσείο Θεσσαλονίκης: Μέχρι πότε οι αιτήσεις",
+   "url": "https://www.proson.gr/ergasia/prokiryxeis/93567_proslipseis-sto-arhaiologiko-moyseio-thessalonikis-mehri-pote-oi-aitiseis",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/proson/93567.md",
+   "text_chars": 4055
   },
   {
    "source": "onassis",
@@ -1526,6 +1569,127 @@
    "first_seen": "2026-10-18",
    "detail_file": "data/details/kariera/350630.md",
    "text_chars": 6976
+  },
+  {
+   "source": "kariera",
+   "id": "304509",
+   "title": "2026 Discover Graduate Program Greece | Commercial",
+   "company": "Vodafone",
+   "location": "Φουρνάς",
+   "url": "https://www.kariera.gr/jobs/other-jobs/304509",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/304509.md",
+   "text_chars": 5401
+  },
+  {
+   "source": "kariera",
+   "id": "304482",
+   "title": "2026 Discover Graduate Program Greece | Data & Analytics",
+   "company": "Vodafone",
+   "location": "Φουρνάς",
+   "url": "https://www.kariera.gr/jobs/other-jobs/304482",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/304482.md",
+   "text_chars": 5445
+  },
+  {
+   "source": "kariera",
+   "id": "326404",
+   "title": "Senior Project Development Manager, Data Centers",
+   "company": "Metlen Energy & Metals",
+   "location": "Παιανία",
+   "url": "https://www.kariera.gr/jobs/operations-jobs/326404",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/326404.md",
+   "text_chars": 4155
+  },
+  {
+   "source": "kariera",
+   "id": "354072",
+   "title": "Reception Shift Leader - Παργα τουριστική σεζόν 2027",
+   "company": "Lichnos beach hotel",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/354072",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/354072.md",
+   "text_chars": 1132
+  },
+  {
+   "source": "kariera",
+   "id": "354071",
+   "title": "Υπάλληλος Υποδοχής / Receptionist - Παργα τουριστική σεζόν 2027",
+   "company": "Lichnos beach hotel",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/354071",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/354071.md",
+   "text_chars": 1143
+  },
+  {
+   "source": "kariera",
+   "id": "354070",
+   "title": "Υπάλληλος Υποδοχής / Receptionist - Παργα τουριστική σεζόν 2027",
+   "company": "Lichnos beach hotel",
+   "location": "Θεσσαλονίκη",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/354070",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/354070.md",
+   "text_chars": 1149
+  },
+  {
+   "source": "kariera",
+   "id": "354069",
+   "title": "Υπάλληλος Υποδοχής / Receptionist - Παργα τουριστική σεζόν 2027",
+   "company": "Lichnos beach hotel",
+   "location": "Πάργα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/354069",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/354069.md",
+   "text_chars": 1143
+  },
+  {
+   "source": "kariera",
+   "id": "354068",
+   "title": "Υπάλληλος Υποδοχής / Receptionist - Παργα τουριστική σεζόν 2027",
+   "company": "Lichnos beach hotel",
+   "location": "Κέρκυρα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/354068",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/354068.md",
+   "text_chars": 1145
+  },
+  {
+   "source": "kariera",
+   "id": "354067",
+   "title": "Reception Shift Leader - Παργα τουριστική σεζόν 2027",
+   "company": "Lichnos beach hotel",
+   "location": "Θεσσαλονίκη",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/354067",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/354067.md",
+   "text_chars": 1138
+  },
+  {
+   "source": "kariera",
+   "id": "354066",
+   "title": "Reception Shift Leader - Παργα τουριστική σεζόν 2027",
+   "company": "Lichnos beach hotel",
+   "location": "Πάργα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/354066",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/354066.md",
+   "text_chars": 1132
+  },
+  {
+   "source": "kariera",
+   "id": "354065",
+   "title": "Reception Shift Leader - Παργα τουριστική σεζόν 2027",
+   "company": "Lichnos beach hotel",
+   "location": "Κέρκυρα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/354065",
+   "first_seen": "2026-10-18",
+   "detail_file": "data/details/kariera/354065.md",
+   "text_chars": 1134
   },
   {
    "source": "jobfind",
