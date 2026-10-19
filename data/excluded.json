@@ -1,178 +1,688 @@
 {
- "imerominia": "2026-10-18",
+ "imerominia": "2026-10-19",
  "excluded": [
   {
    "source": "kariera",
-   "title": "Sales Advisors & Cashiers - Κατάστημα Κηφισού",
-   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/349308",
-   "reason": "πωλήσεις"
+   "title": "ΑΠΟ ΤΗΝ ΕΠΙΚΟΙΝΩΝΙΑ ΣΤΟ MANAGEMENT",
+   "url": "https://www.kariera.gr/jobs/human-resources-jobs/354349",
+   "reason": "κατηγορία kariera εκτός ρόλου (human-resources-jobs)"
   },
   {
    "source": "kariera",
-   "title": "Sales Advisor",
-   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/304485",
-   "reason": "πωλήσεις"
+   "title": "Πωλητής/Πωλήτρια καταστήματος MrPhone.gr",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/354268",
+   "reason": "πωλήσεις/λιανική"
   },
   {
    "source": "kariera",
-   "title": "ESG Controller (m/f/d) for Vantage Towers",
-   "url": "https://www.kariera.gr/jobs/other-jobs/345556",
+   "title": "ΝΟΣΗΛΕΥΤΕΣ/ΝΟΣΗΛΕΥΤΡΙΕΣ",
+   "url": "https://www.kariera.gr/jobs/medicine-or-healthcare-jobs/354160",
+   "reason": "κατηγορία kariera εκτός ρόλου (medicine-or-healthcare-jobs)"
+  },
+  {
+   "source": "kariera",
+   "title": "Εκπρόσωπος Διαχείρισης Υφιστάμενου Πελατολογίου NOVA / Αθήνα",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/354234",
    "reason": "τίτλος εκτός ρόλων"
   },
   {
    "source": "kariera",
-   "title": "Sales Advisor | Κατάστημα Vodafone (Κέρκυρα )",
-   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/346520",
-   "reason": "πωλήσεις"
+   "title": "Εκπρόσωπος ΜΚΟ σε event |Ευκαιρία Εξέλιξης",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/354169",
+   "reason": "πωλήσεις/ΜΚΟ"
   },
   {
    "source": "kariera",
-   "title": "Senior Financial Analyst",
-   "url": "https://www.kariera.gr/jobs/finance-jobs/344082",
-   "reason": "κατηγορία kariera εκτός ρόλου (finance-jobs)"
-  },
-  {
-   "source": "kariera",
-   "title": "Career Opportunities @ Tech Hub Thessaloniki",
-   "url": "https://www.kariera.gr/jobs/other-jobs/304500",
-   "reason": "περιοχή εκτός Αθήνας στον τίτλο"
-  },
-  {
-   "source": "kariera",
-   "title": "ΠΩΛΗΤΗΣ-ΠΩΛΗΤΡΙΑ / SMART PARK -PART TIME",
-   "url": "https://www.kariera.gr/jobs/retail-jobs/353940",
-   "reason": "κατηγορία kariera εκτός ρόλου (retail-jobs)"
-  },
-  {
-   "source": "kariera",
-   "title": "Area Sales Manager Cement & Aggregates",
-   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/346181",
-   "reason": "τίτλος εκτός ρόλων"
-  },
-  {
-   "source": "kariera",
-   "title": "Εργαζόμενος/η Café/Bistro (8ωρης απασχόλησης)",
-   "url": "https://www.kariera.gr/jobs/other-jobs/327523",
-   "reason": "τίτλος εκτός ρόλων"
-  },
-  {
-   "source": "kariera",
-   "title": "Πραγματογνώμων Loss adjuster",
-   "url": "https://www.kariera.gr/jobs/construction-or-engineers-or-architects-jobs/354063",
-   "reason": "κατηγορία kariera εκτός ρόλου (construction-or-engineers-or-architects-jobs)"
-  },
-  {
-   "source": "kariera",
-   "title": "Υπεύθυνος Βάρδιας Καταστήματος (6ωρη μερική απασχόληση) στα Χανιά",
-   "url": "https://www.kariera.gr/jobs/retail-jobs/350753",
-   "reason": "κατηγορία kariera εκτός ρόλου (retail-jobs)"
-  },
-  {
-   "source": "kariera",
-   "title": "Υπεύθυνος Βάρδιας Καταστήματος (6ωρη μερική απασχόληση) στα Βρασνά",
-   "url": "https://www.kariera.gr/jobs/retail-jobs/353284",
-   "reason": "κατηγορία kariera εκτός ρόλου (retail-jobs)"
-  },
-  {
-   "source": "kariera",
-   "title": "Βοηθός Υπεύθυνου Κουζίνας",
-   "url": "https://www.kariera.gr/jobs/workers-jobs/344449",
-   "reason": "κατηγορία kariera εκτός ρόλου (workers-jobs)"
-  },
-  {
-   "source": "kariera",
-   "title": "Assistant Team Leader - Central Customer Care!",
-   "url": "https://www.kariera.gr/jobs/call-center-or-customer-support-jobs/348359",
+   "title": "Σύμβουλος Εξυπηρέτησης Πελατών (Ιωάννινα)",
+   "url": "https://www.kariera.gr/jobs/call-center-or-customer-support-jobs/354216",
    "reason": "κατηγορία kariera εκτός ρόλου (call-center-or-customer-support-jobs)"
   },
   {
    "source": "kariera",
-   "title": "Πωλητές-πωλήτριες για τα καταστήματά μας στο Χαλάνδρι",
-   "url": "https://www.kariera.gr/jobs/retail-jobs/330630",
+   "title": "Σύμβουλος Πωλήσεων – YAMAMAY - Γλυφάδα",
+   "url": "https://www.kariera.gr/jobs/retail-jobs/354403",
    "reason": "κατηγορία kariera εκτός ρόλου (retail-jobs)"
   },
   {
    "source": "kariera",
-   "title": "Πωλητές/ Πωλήτριες για τα καταστήματά μας στις περιοχές Αιγάλεω και Κηφισό",
-   "url": "https://www.kariera.gr/jobs/retail-jobs/329630",
-   "reason": "κατηγορία kariera εκτός ρόλου (retail-jobs)"
-  },
-  {
-   "source": "kariera",
-   "title": "Υπάλληλος Ταμείων (Μερικής Απασχόλησης) - ΙΚΕΑ Αεροδρομίου",
-   "url": "https://www.kariera.gr/jobs/other-jobs/336383",
+   "title": "Retention ΗΡΩΝ Ενεργειακή Α.Ε. / Αθήνα",
+   "url": "https://www.kariera.gr/jobs/administrative-or-secretarial-jobs/347462",
    "reason": "τίτλος εκτός ρόλων"
   },
   {
    "source": "kariera",
-   "title": "Πωλητές-Πωλήτριες για το κατάστημά μας στη Θήβα",
-   "url": "https://www.kariera.gr/jobs/retail-jobs/346675",
-   "reason": "κατηγορία kariera εκτός ρόλου (retail-jobs)"
+   "title": "Πωλητής/τρια Καταστήματος Vodafone - Βριλήσσια",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/354257",
+   "reason": "πωλήσεις/λιανική"
   },
   {
    "source": "kariera",
-   "title": "Πωλητές/Πωλήτριες για τα καταστήματά μας στα Πατήσια",
-   "url": "https://www.kariera.gr/jobs/retail-jobs/342690",
-   "reason": "κατηγορία kariera εκτός ρόλου (retail-jobs)"
-  },
-  {
-   "source": "kariera",
-   "title": "Assistant Front Office Manager | Παργα τουριστική σεζόν 2027",
-   "url": "https://www.kariera.gr/jobs/tourism-jobs/354074",
+   "title": "Tech Hero Vodafone - Αγία Παρασκευή",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/354264",
    "reason": "τίτλος εκτός ρόλων"
   },
   {
    "source": "kariera",
-   "title": "Assistant Front Office Manager | Παργα τουριστική σεζόν 2027",
-   "url": "https://www.kariera.gr/jobs/tourism-jobs/354073",
+   "title": "Tech Hero Vodafone - Χαλάνδρι",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/354267",
    "reason": "τίτλος εκτός ρόλων"
   },
   {
    "source": "kariera",
-   "title": "Site Engineer MEP",
-   "url": "https://www.kariera.gr/jobs/engineering-jobs/289842",
+   "title": "German Speaking - Finance Specialist Corporate Consolidation Specialist",
+   "url": "https://www.kariera.gr/jobs/finance-jobs/354177",
+   "reason": "κατηγορία kariera εκτός ρόλου (finance-jobs)"
+  },
+  {
+   "source": "kariera",
+   "title": "HEnEx Power & Gas Markets Transaction Operations & Control Specialist",
+   "url": "https://www.kariera.gr/jobs/other-jobs/350820",
+   "reason": "τίτλος εκτός ρόλων"
+  },
+  {
+   "source": "kariera",
+   "title": "Client Service Specialist (B2B)",
+   "url": "https://www.kariera.gr/jobs/call-center-or-customer-support-jobs/344077",
+   "reason": "κατηγορία kariera εκτός ρόλου (call-center-or-customer-support-jobs)"
+  },
+  {
+   "source": "kariera",
+   "title": "NMC Operator",
+   "url": "https://www.kariera.gr/jobs/other-jobs/344079",
+   "reason": "τίτλος εκτός ρόλων"
+  },
+  {
+   "source": "kariera",
+   "title": "Σύμβουλος Πώλησης Φωτισμού_ Μοναστηρίου",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/346784",
+   "reason": "τίτλος εκτός ρόλων"
+  },
+  {
+   "source": "kariera",
+   "title": "Υπάλληλος καταστήματος My Market – Πλατεία Βάθης",
+   "url": "https://www.kariera.gr/jobs/retail-jobs/354259",
+   "reason": "κατηγορία kariera εκτός ρόλου (retail-jobs)"
+  },
+  {
+   "source": "kariera",
+   "title": "HR Administrator",
+   "url": "https://www.kariera.gr/jobs/human-resources-jobs/354213",
+   "reason": "κατηγορία kariera εκτός ρόλου (human-resources-jobs)"
+  },
+  {
+   "source": "kariera",
+   "title": "HR Hotel Administrator",
+   "url": "https://www.kariera.gr/jobs/human-resources-jobs/354161",
+   "reason": "κατηγορία kariera εκτός ρόλου (human-resources-jobs)"
+  },
+  {
+   "source": "kariera",
+   "title": "HR & People Operations Coordinator",
+   "url": "https://www.kariera.gr/jobs/human-resources-jobs/354078",
+   "reason": "κατηγορία kariera εκτός ρόλου (human-resources-jobs)"
+  },
+  {
+   "source": "kariera",
+   "title": "ΠΩΛΗΤΗΣ / ΠΩΛΗΤΡΙΑ",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/354243",
+   "reason": "πωλήσεις/λιανική"
+  },
+  {
+   "source": "kariera",
+   "title": "Λογιστής / Λογίστρια",
+   "url": "https://www.kariera.gr/jobs/accounting-or-auditing-jobs/354081",
+   "reason": "κατηγορία kariera εκτός ρόλου (accounting-or-auditing-jobs)"
+  },
+  {
+   "source": "kariera",
+   "title": "Εξυπηρέτηση Πελατών NOVA - Υβριδικό Μοντέλο Εργασίας / Αθήνα",
+   "url": "https://www.kariera.gr/jobs/call-center-or-customer-support-jobs/354232",
+   "reason": "κατηγορία kariera εκτός ρόλου (call-center-or-customer-support-jobs)"
+  },
+  {
+   "source": "kariera",
+   "title": "ΝΟΣΗΛΕΥΤΕΣ / ΝΟΣΗΛΕΥΤΡΙΕΣ ΟΡΟΦΟΥ",
+   "url": "https://www.kariera.gr/jobs/medicine-or-healthcare-jobs/354252",
+   "reason": "κατηγορία kariera εκτός ρόλου (medicine-or-healthcare-jobs)"
+  },
+  {
+   "source": "kariera",
+   "title": "Υπάλληλος Γραφείου / Αθήνα",
+   "url": "https://www.kariera.gr/jobs/administrative-or-secretarial-jobs/354230",
+   "reason": "τίτλος εκτός ρόλων"
+  },
+  {
+   "source": "kariera",
+   "title": "Nova – Customer Service | 1st Level Technical Support / Athens",
+   "url": "https://www.kariera.gr/jobs/administrative-or-secretarial-jobs/354231",
+   "reason": "τίτλος εκτός ρόλων"
+  },
+  {
+   "source": "kariera",
+   "title": "ΠΩΛΗΤΗΣ / ΠΩΛΗΤΡΙΑ ΝΕΑ ΣΜΥΡΝΗ",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/354392",
+   "reason": "πωλήσεις/λιανική"
+  },
+  {
+   "source": "kariera",
+   "title": "Σύμβουλος Πωλήσεων / Sales Agent",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/354275",
+   "reason": "πωλήσεις"
+  },
+  {
+   "source": "kariera",
+   "title": "Πολιτικό Μηχανικό Α.Ε.Ι. / Τ.Ε.Ι.",
+   "url": "https://www.kariera.gr/jobs/construction-or-engineers-or-architects-jobs/346300",
+   "reason": "κατηγορία kariera εκτός ρόλου (construction-or-engineers-or-architects-jobs)"
+  },
+  {
+   "source": "kariera",
+   "title": "Μηχανολόγο Μηχανικό Α.Ε.Ι. / Τ.Ε.Ι.",
+   "url": "https://www.kariera.gr/jobs/construction-or-engineers-or-architects-jobs/354128",
+   "reason": "κατηγορία kariera εκτός ρόλου (construction-or-engineers-or-architects-jobs)"
+  },
+  {
+   "source": "kariera",
+   "title": "Πωλητές / Πωλήτριες Skechers Γλυφάδα",
+   "url": "https://www.kariera.gr/jobs/retail-jobs/354104",
+   "reason": "κατηγορία kariera εκτός ρόλου (retail-jobs)"
+  },
+  {
+   "source": "kariera",
+   "title": "Στέλεχος Μισθοδοσίας",
+   "url": "https://www.kariera.gr/jobs/accounting-or-auditing-jobs/347713",
+   "reason": "κατηγορία kariera εκτός ρόλου (accounting-or-auditing-jobs)"
+  },
+  {
+   "source": "kariera",
+   "title": "Λογιστής",
+   "url": "https://www.kariera.gr/jobs/accounting-or-auditing-jobs/347703",
+   "reason": "κατηγορία kariera εκτός ρόλου (accounting-or-auditing-jobs)"
+  },
+  {
+   "source": "kariera",
+   "title": "Βοηθός Ορκωτού Ελεγκτή Λογιστή",
+   "url": "https://www.kariera.gr/jobs/finance-jobs/347684",
+   "reason": "κατηγορία kariera εκτός ρόλου (finance-jobs)"
+  },
+  {
+   "source": "kariera",
+   "title": "Βοηθός Λογιστή",
+   "url": "https://www.kariera.gr/jobs/accounting-or-auditing-jobs/347673",
+   "reason": "κατηγορία kariera εκτός ρόλου (accounting-or-auditing-jobs)"
+  },
+  {
+   "source": "kariera",
+   "title": "Σύμβουλος Διαχείρισης Επενδυτικών Προγραμμάτων",
+   "url": "https://www.kariera.gr/jobs/finance-jobs/347660",
+   "reason": "κατηγορία kariera εκτός ρόλου (finance-jobs)"
+  },
+  {
+   "source": "kariera",
+   "title": "Προϊστάμενος Λογιστηρίου",
+   "url": "https://www.kariera.gr/jobs/accounting-or-auditing-jobs/347643",
+   "reason": "κατηγορία kariera εκτός ρόλου (accounting-or-auditing-jobs)"
+  },
+  {
+   "source": "kariera",
+   "title": "Τεχνικός Ήχου & Φώτων για Live Μουσική & Εκδηλώσεις",
+   "url": "https://www.kariera.gr/jobs/technicians-or-service-jobs/354316",
+   "reason": "κατηγορία kariera εκτός ρόλου (technicians-or-service-jobs)"
+  },
+  {
+   "source": "kariera",
+   "title": "EVENT REPRESENTATIVE",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/354297",
+   "reason": "πωλήσεις/ΜΚΟ"
+  },
+  {
+   "source": "kariera",
+   "title": "Product Sales Manager",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/354288",
+   "reason": "τίτλος εκτός ρόλων"
+  },
+  {
+   "source": "kariera",
+   "title": "Deputy Store Manager - Attiki",
+   "url": "https://www.kariera.gr/jobs/retail-jobs/270174",
+   "reason": "κατηγορία kariera εκτός ρόλου (retail-jobs)"
+  },
+  {
+   "source": "kariera",
+   "title": "🚛 Υπάλληλος Αποθήκης (Picker)📍Άργος | Inter Cars Greece",
+   "url": "https://www.kariera.gr/jobs/other-jobs/342666",
+   "reason": "εκτός ρόλου"
+  },
+  {
+   "source": "kariera",
+   "title": "Εξωτερικός Πωλητής ΔΕΗ Fiber | από 1.100€, bonus, αυτοκίνητο",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/354372",
+   "reason": "πωλήσεις/λιανική"
+  },
+  {
+   "source": "kariera",
+   "title": "Εξωτερικές Πωλήσεις ΔΕΗ Fiber | από 1.100€, bonus, αυτοκίνητο",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/354377",
+   "reason": "τίτλος εκτός ρόλων"
+  },
+  {
+   "source": "kariera",
+   "title": "Ταμίας Καταστήματος (Πλήρης Απασχόληση), Public +Home Συγγρού",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/348623",
+   "reason": "λιανική"
+  },
+  {
+   "source": "kariera",
+   "title": "Εκπρόσωπος Εξωδικαστικού Συμβιβασμού | Θεσσαλονίκη",
+   "url": "https://www.kariera.gr/jobs/call-center-or-customer-support-jobs/354272",
+   "reason": "κατηγορία kariera εκτός ρόλου (call-center-or-customer-support-jobs)"
+  },
+  {
+   "source": "kariera",
+   "title": "Εκπρόσωπος Εξωδικαστικού Συμβιβασμού | Αθήνα",
+   "url": "https://www.kariera.gr/jobs/call-center-or-customer-support-jobs/354271",
+   "reason": "κατηγορία kariera εκτός ρόλου (call-center-or-customer-support-jobs)"
+  },
+  {
+   "source": "kariera",
+   "title": "Samsonite - Σύμβουλος Πωλήσεων Full Time - Designer Outlet Athens (Σπάτα)",
+   "url": "https://www.kariera.gr/jobs/retail-jobs/351597",
+   "reason": "κατηγορία kariera εκτός ρόλου (retail-jobs)"
+  },
+  {
+   "source": "kariera",
+   "title": "Μηχανολόγος Μηχανικός",
+   "url": "https://www.kariera.gr/jobs/construction-or-engineers-or-architects-jobs/354239",
+   "reason": "κατηγορία kariera εκτός ρόλου (construction-or-engineers-or-architects-jobs)"
+  },
+  {
+   "source": "kariera",
+   "title": "Υπάλληλος Λάντζας (4ωρης Απασχόλησης) - IKEA Αεροδρομίου",
+   "url": "https://www.kariera.gr/jobs/food-or-cafe-jobs/336379",
+   "reason": "κατηγορία kariera εκτός ρόλου (food-or-cafe-jobs)"
+  },
+  {
+   "source": "kariera",
+   "title": "Senior Field Technician",
+   "url": "https://www.kariera.gr/jobs/technicians-or-service-jobs/352891",
+   "reason": "κατηγορία kariera εκτός ρόλου (technicians-or-service-jobs)"
+  },
+  {
+   "source": "kariera",
+   "title": "Junior Field Technician",
+   "url": "https://www.kariera.gr/jobs/technicians-or-service-jobs/352889",
+   "reason": "κατηγορία kariera εκτός ρόλου (technicians-or-service-jobs)"
+  },
+  {
+   "source": "kariera",
+   "title": "Δικηγόρος για το Νομικό Τμήμα της εταιρείας",
+   "url": "https://www.kariera.gr/jobs/legal-jobs/352890",
+   "reason": "κατηγορία kariera εκτός ρόλου (legal-jobs)"
+  },
+  {
+   "source": "kariera",
+   "title": "Shift Leader (Βοηθός Υπευθύνου Καταστήματος) - Kalabaka",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/349046",
+   "reason": "τίτλος εκτός ρόλων"
+  },
+  {
+   "source": "kariera",
+   "title": "Shift Leader (Βοηθός Υπευθύνου Καταστήματος) - Marousi",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/350251",
+   "reason": "τίτλος εκτός ρόλων"
+  },
+  {
+   "source": "kariera",
+   "title": "Υπεύθυνος Βάρδιας Καταστήματος (6ωρη μερική απασχόληση) στη Σύρο",
+   "url": "https://www.kariera.gr/jobs/retail-jobs/350215",
+   "reason": "κατηγορία kariera εκτός ρόλου (retail-jobs)"
+  },
+  {
+   "source": "kariera",
+   "title": "Υπεύθυνος Βάρδιας Καταστήματος (6ωρη μερική απασχόληση) στην Παιανία",
+   "url": "https://www.kariera.gr/jobs/retail-jobs/351397",
+   "reason": "κατηγορία kariera εκτός ρόλου (retail-jobs)"
+  },
+  {
+   "source": "kariera",
+   "title": "Junior Brand Ambassador",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/354348",
+   "reason": "entry level/junior"
+  },
+  {
+   "source": "kariera",
+   "title": "PROMOTERS",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/354335",
+   "reason": "πωλήσεις/promoter"
+  },
+  {
+   "source": "kariera",
+   "title": "ΕΚΠΡΟΣΩΠΟΙ Μ.Κ.Ο",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/354298",
+   "reason": "τίτλος εκτός ρόλων"
+  },
+  {
+   "source": "kariera",
+   "title": "Η BUILD Sales & Marketing αναζητά συνεργάτες στο τμήμα Πωλήσεων!",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/354251",
+   "reason": "τίτλος εκτός ρόλων"
+  },
+  {
+   "source": "kariera",
+   "title": "Sales & Marketing Campaign Representative",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/354158",
+   "reason": "πωλήσεις/ΜΚΟ"
+  },
+  {
+   "source": "kariera",
+   "title": "Junior Marketing Assistant - Entry level",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/354152",
+   "reason": "entry level/junior"
+  },
+  {
+   "source": "kariera",
+   "title": "Υπάλληλος Πωλήσεων (4ωρη Απασχόληση)",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/333205",
+   "reason": "τίτλος εκτός ρόλων"
+  },
+  {
+   "source": "kariera",
+   "title": "Operational Technology Lead (Sindos)",
+   "url": "https://www.kariera.gr/jobs/production-jobs/348067",
+   "reason": "κατηγορία kariera εκτός ρόλου (production-jobs)"
+  },
+  {
+   "source": "kariera",
+   "title": "Πωλητές κρεοπωλείου για το κατάστημά μας στο Ηράκλειο Μασταμπάς",
+   "url": "https://www.kariera.gr/jobs/retail-jobs/349493",
+   "reason": "κατηγορία kariera εκτός ρόλου (retail-jobs)"
+  },
+  {
+   "source": "kariera",
+   "title": "Ηλεκτρολόγος - Συντηρητής για το Κέντρο Διανομής Οινοφύτων",
+   "url": "https://www.kariera.gr/jobs/engineering-jobs/289746",
    "reason": "κατηγορία kariera εκτός ρόλου (engineering-jobs)"
   },
   {
-   "source": "jobfind",
-   "title": "Πραγματογνώμων / Loss adjuster & surveyor",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/2356b5c3-3426-4747-ba0b-74eeb1eedcab/",
+   "source": "kariera",
+   "title": "Σύμβουλος Πώλησης Ηλεκτρολογικού Υλικού & Τεχνολογίας - Θεσσαλονίκη",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/346777",
+   "reason": "εκτός ρόλου"
+  },
+  {
+   "source": "kariera",
+   "title": "Προσωπικό για τα καταστήματά μας στην Άρτα",
+   "url": "https://www.kariera.gr/jobs/retail-jobs/347972",
+   "reason": "κατηγορία kariera εκτός ρόλου (retail-jobs)"
+  },
+  {
+   "source": "kariera",
+   "title": "Director of Engineering",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/354280",
+   "reason": "εκτός ρόλου"
+  },
+  {
+   "source": "kariera",
+   "title": "Food & Beverage Operations Manager | Luxury Hotel | Santorini",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/354249",
+   "reason": "περιοχή εκτός Αθήνας στον τίτλο"
+  },
+  {
+   "source": "kariera",
+   "title": "Hotel Operations Manager",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/354289",
    "reason": "τίτλος εκτός ρόλων"
   },
   {
-   "source": "proson",
-   "title": "Προσλήψεις στον Δήμο Κηφισιάς: Αντίστροφη μέτρηση για τις 30 θέσεις",
-   "url": "https://www.proson.gr/ergasia/prokiryxeis/93588_proslipseis-ston-dimo-kifisias-antistrofi-metrisi-gia-tis-30-theseis",
+   "source": "kariera",
+   "title": "Guest Relations Agents - Agios Nikolaos, Crete",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/354390",
+   "reason": "τηλεφωνικό κέντρο"
+  },
+  {
+   "source": "kariera",
+   "title": "Υπάλληλους Υποδοχής - Front Office Agents - Άγιο Νικόλαο, Κρήτης",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/354388",
+   "reason": "τηλεφωνικό κέντρο"
+  },
+  {
+   "source": "kariera",
+   "title": "Tenant Coordination Senior Associate - MEP",
+   "url": "https://www.kariera.gr/jobs/other-jobs/330641",
+   "reason": "τίτλος εκτός ρόλων"
+  },
+  {
+   "source": "kariera",
+   "title": "Kαμαριέρα/Καμαριέρης - Housekeeping",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/354329",
+   "reason": "τίτλος εκτός ρόλων"
+  },
+  {
+   "source": "kariera",
+   "title": "Rooms Division Manager_Sifnos",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/354328",
+   "reason": "τίτλος εκτός ρόλων"
+  },
+  {
+   "source": "kariera",
+   "title": "Demi Chef de Partie",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/354322",
+   "reason": "τίτλος εκτός ρόλων"
+  },
+  {
+   "source": "kariera",
+   "title": "Μάγειρας Α",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/354286",
+   "reason": "εστίαση"
+  },
+  {
+   "source": "kariera",
+   "title": "Εργοδηγός Εργοταξίου",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/354282",
+   "reason": "τίτλος εκτός ρόλων"
+  },
+  {
+   "source": "kariera",
+   "title": "Προϊστάμενο Συντήρησης Electra Hotels Rhodes",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/354279",
+   "reason": "περιοχή εκτός Αθήνας στον τίτλο"
+  },
+  {
+   "source": "kariera",
+   "title": "ΣΕΡΒΙΤΟΡΟΙ/ΣΕΡΒΙΤΟΡΕΣ BAR",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/354087",
+   "reason": "εστίαση"
+  },
+  {
+   "source": "kariera",
+   "title": "GROOM",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/354217",
+   "reason": "τίτλος εκτός ρόλων"
+  },
+  {
+   "source": "kariera",
+   "title": "BARISTA-PANTHEON WATERPARK/XERSONISOS CRETE 2027",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/354189",
+   "reason": "εστίαση"
+  },
+  {
+   "source": "kariera",
+   "title": "Front Office Shift Leader",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/354187",
+   "reason": "τίτλος εκτός ρόλων"
+  },
+  {
+   "source": "kariera",
+   "title": "General Manager - Luxury Resort",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/354182",
+   "reason": "τίτλος εκτός ρόλων"
+  },
+  {
+   "source": "kariera",
+   "title": "Rooms Division Manager_Folegandros",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/354181",
+   "reason": "τίτλος εκτός ρόλων"
+  },
+  {
+   "source": "kariera",
+   "title": "Executive Housekeeper - Folegandros",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/354179",
+   "reason": "τίτλος εκτός ρόλων"
+  },
+  {
+   "source": "kariera",
+   "title": "F&B Manager_Folegandros",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/354176",
+   "reason": "τίτλος εκτός ρόλων"
+  },
+  {
+   "source": "kariera",
+   "title": "Συντηρητής Ξενοδοχειακής Μονάδας_Φολέγανδρος",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/354171",
+   "reason": "τίτλος εκτός ρόλων"
+  },
+  {
+   "source": "kariera",
+   "title": "RECEPTIONIST - PRESIDENT HOTEL ATHENS",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/354115",
+   "reason": "τίτλος εκτός ρόλων"
+  },
+  {
+   "source": "kariera",
+   "title": "Business Development Manager / Key Account Manager – Εισαγωγική Εταιρεία Outdoor Προϊόντων",
+   "url": "https://www.kariera.gr/jobs/strategy-or-planning-jobs/354256",
+   "reason": "τίτλος εκτός ρόλων"
+  },
+  {
+   "source": "workable",
+   "title": "IoT Solutions Architect",
+   "url": "https://jobs.workable.com/view/xhDsZyfsR6CombHCSFUNTP/iot-solutions-architect-in-athens-at-vodafone",
+   "reason": "τίτλος εκτός ρόλων"
+  },
+  {
+   "source": "workable",
+   "title": "Junior Personal Assistant (PA)",
+   "url": "https://jobs.workable.com/view/icnmi7rH6LTTQvSu21hkGP/junior-personal-assistant-(pa)-in-athens-at-flexcar",
+   "reason": "entry level/junior"
+  },
+  {
+   "source": "workable",
+   "title": "Head Concierge",
+   "url": "https://jobs.workable.com/view/ofEV7D3wT6H25iM131FFMi/head-concierge-in-athens-at-conrad-athens-the-ilisian",
+   "reason": "τίτλος εκτός ρόλων"
+  },
+  {
+   "source": "workable",
+   "title": "PRODUCT SALES MANAGER",
+   "url": "https://jobs.workable.com/view/tPTzAuqZwZtsCKWXfaGGfn/product-sales-manager-in-oinofyta-at-%CE%B5%CE%BB%CE%B2%CE%B1%CE%BB%CF%87%CE%B1%CE%BB%CE%BA%CE%BF%CF%81-(%CF%84%CE%BF%CE%BC%CE%B5%CE%B1%CF%82-%CE%B5%CE%BB%CE%B1%CF%83%CE%B7%CF%82-%CE%B1%CE%BB%CE%BF%CF%85%CE%BC%CE%B9%CE%BD%CE%B9%CE%BF%CF%85)",
+   "reason": "τίτλος εκτός ρόλων"
+  },
+  {
+   "source": "jobfind",
+   "title": "Junior Digital Marketing & Media",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/0599d01c-2bf3-407b-8d6b-13a36dacfead/",
+   "reason": "entry level/junior"
+  },
+  {
+   "source": "jobfind",
+   "title": "Junior Brand Ambassador",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/7f003897-177d-4e10-9f72-2bf997c7b723/",
+   "reason": "entry level/junior"
+  },
+  {
+   "source": "jobfind",
+   "title": "Εκπροσώπηση παγκόσμιων ΜΚΟ",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/fa7392df-8772-45a0-a7ce-2a84c33cf7dd/",
+   "reason": "πωλήσεις/ΜΚΟ"
+  },
+  {
+   "source": "jobfind",
+   "title": "Junior εκπρόσωπος εταιρίας για Δράσεις της Ύπατης Αρμοστείας του ΟΗΕ για τους Πρόσφυγες – UNHCR (Country Office Greece)",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/1176fd60-7a29-44c0-aaee-62751fbef065/",
+   "reason": "entry level/junior"
+  },
+  {
+   "source": "jobfind",
+   "title": "Inside Sales",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/75151e17-9737-4b06-97af-7e96f20382c8/",
+   "reason": "τίτλος εκτός ρόλων"
+  },
+  {
+   "source": "jobfind",
+   "title": "Υπάλληλος Τμήματος Διαγωνισμών – Οικονομικές Προσφορές",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/abedcabb-fdef-4f85-aa7f-6216f9f012f7/",
+   "reason": "τίτλος εκτός ρόλων"
+  },
+  {
+   "source": "jobfind",
+   "title": "Revenue Manager",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/0b9b6fdc-3678-4fbf-9d49-e421a4fe11ff/",
+   "reason": "τίτλος εκτός ρόλων"
+  },
+  {
+   "source": "jobfind",
+   "title": "Byzantino Patisserie Sales Associate | Conrad Athens The Ilisian",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/fba721d6-e89e-47b7-8980-e52e4262a968/",
+   "reason": "πωλήσεις"
+  },
+  {
+   "source": "jobfind",
+   "title": "Head Concierge | Conrad Athens The Ilisian",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/88ceea44-ebfd-4b8b-8e10-21ef76567b2b/",
+   "reason": "τίτλος εκτός ρόλων"
+  },
+  {
+   "source": "alfavita",
+   "title": "19.10.2026 - 10:48 Δήμος Ηρακλείου Αττικής: Νέες προσλήψεις για τη σχολική καθαριότητα Οι αιτήσεις ανοίγουν αύριο",
+   "url": "https://www.alfavita.gr/ergasia/564836_dimos-irakleioy-attikis-nees-proslipseis-gia-ti-sholiki-kathariotita",
+   "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
+  },
+  {
+   "source": "alfavita",
+   "title": "19.10.2026 - 10:09 ΑΣΕΠ 3ΓΒ/2026: Ανοίγουν αύριο οι αιτήσεις για 97 μόνιμες προσλήψεις Αύριο Τρίτη, 20 Οκτωβρίου 2026 και ώρα 08:00 το πρωί, ξεκινούν οι αιτήσεις συμμετοχής στην...",
+   "url": "https://www.alfavita.gr/ergasia/564824_asep-3gb/2026-anoigoyn-ayrio-oi-aitiseis-gia-97-monimes-proslipseis",
+   "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
+  },
+  {
+   "source": "alfavita",
+   "title": "19.10.2026 - 08:42 ΑΣΕΠ 7Κ/2026: Βγήκε το ΦΕΚ - 3.262 προσλήψεις με απολυτήριο Γυμνασίου 3.262 μόνιμες θέσεις στο δημόσιο για απόφοιτους Υποχρεωτικής Εκπαίδευσης",
+   "url": "https://www.alfavita.gr/ergasia/564805_asep-7k/2026-bgike-fek-3262-proslipseis-me-apolytirio-gymnasioy",
+   "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
+  },
+  {
+   "source": "alfavita",
+   "title": "19.10.2026 - 04:00 Νίκη Κεραμέως: Πώς το Rebrain Greece έφερε πίσω 470.000 Έλληνες Η Υπουργός Εργασίας μιλά στο vidcast του alfavita και στον Νίκο Λούρδα για το brain drain, το...",
+   "url": "https://www.alfavita.gr/ergasia/564789_niki-kerameos-pos-rebrain-greece-efere-piso-470000-ellines",
+   "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
+  },
+  {
+   "source": "alfavita",
+   "title": "18.10.2026 - 21:17 ΑΣΕΠ: 3.262 προσλήψεις στο Δημόσιο χωρίς πτυχίο με την 7Κ/2026 (Ειδικότητες - κατανομή - πόλεις) Προκήρυξη ΑΣΕΠ 7Κ: Χιλιάδες Θέσεις για αποφοίτους Υποχρεωτικής Εκπαίδευσης σε φορείς όλης της χώρας...",
+   "url": "https://www.alfavita.gr/ergasia/564790_asep-3262-proslipseis-sto-dimosio-horis-ptyhio-me-tin-7k/2026-eidikotites-katanomi",
    "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
   },
   {
    "source": "proson",
-   "title": "18 Οκτ 2026 17:07 Νέες προσλήψεις ανακοίνωσε η Εφορεία Αρχαιοτήτων Λέσβου Ποιες είναι οι ειδικότητες για τις προσλήψεις στην Εφορεία Αρχαιοτήτων Λέσβου",
-   "url": "https://www.proson.gr/ergasia/prokiryxeis/93595_nees-proslipseis-anakoinose-i-eforeia-arhaiotiton-lesboy",
+   "title": "19 Οκτ 2026 19:29 Θράκη: Προσλήψεις αποφοίτων γυμνασίου και λυκείου στον Δήμο Αλεξάνδρειας Ποιες είναι οι ειδικότητες για τις προσλήψεις στον Δήμο Αλεξάνδρειας",
+   "url": "https://www.proson.gr/ergasia/prokiryxeis/93655_thraki-proslipseis-apofoiton-gymnasioy-kai-lykeioy-ston-dimo-alexandreias",
    "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
   },
   {
    "source": "proson",
-   "title": "18 Οκτ 2026 16:08 Σε εξέλιξη οι αιτήσεις για δεκάδες προσλήψεις σε μεγάλο Δήμο της Αττικής «Τρέχουν» οι αιτήσεις για τις 40 προσλήψεις αποφοίτων γυμνασίου και λυκείου στον Δήμο Αλίμου - Οι...",
-   "url": "https://www.proson.gr/ergasia/prokiryxeis/93592_se-exelixi-oi-aitiseis-gia-dekades-proslipseis-se-megalo-dimo-tis-attikis",
+   "title": "19 Οκτ 2026 17:21 Δήμος Παλλήνης: 52 προσλήψεις και με απολυτήριο γυμνασίου - Πότε λήγουν οι αιτήσεις Πού κάνετε αίτηση",
+   "url": "https://www.proson.gr/ergasia/prokiryxeis/93647_dimos-pallinis-52-proslipseis-kai-me-apolytirio-gymnasioy-pote-ligoyn-oi",
    "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
   },
   {
    "source": "proson",
-   "title": "18 Οκτ 2026 15:44 Εφορεία Αρχαιοτήτων Πρέβεζας: Προσλήψεις και με απολυτήριο γυμνασίου Ποιες είναι οι ειδικότητες για τις προσλήψεις στην Εφορεία Αρχαιοτήτων Πρέβεζας",
-   "url": "https://www.proson.gr/ergasia/prokiryxeis/93590_eforeia-arhaiotiton-prebezas-proslipseis-kai-me-apolytirio-gymnasioy",
+   "title": "19 Οκτ 2026 16:22 Δήμος Γαλατσίου: Νέες θέσεις εργασίας - Οι ειδικότητες Οι ζητούμενες ειδικότητες",
+   "url": "https://www.proson.gr/ergasia/prokiryxeis/93640_dimos-galatsioy-nees-theseis-ergasias-oi-eidikotites",
    "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
   },
   {
    "source": "proson",
-   "title": "18 Οκτ 2026 13:00 Εφορεία Αρχαιοτήτων Εύβοιας: Προσλήψεις και με απολυτήριο γυμνασίου Ποιες είναι οι ειδικότητες για τις προσλήψεις στην Εφορεία Αρχαιοτήτων Εύβοιας",
-   "url": "https://www.proson.gr/ergasia/prokiryxeis/93580_eforeia-arhaiotiton-eyboias-proslipseis-kai-me-apolytirio-gymnasioy",
-   "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
-  },
-  {
-   "source": "proson",
-   "title": "18 Οκτ 2026 05:30 Ευρωπαϊκό ΑΣΕΠ: 964 προσλήψεις με μισθό έως 5.437 ευρώ - Πότε λήγουν οι αιτήσεις Πού κάνετε αίτηση για τον διαγωνισμό της Ευρωπαϊκής Υπηρεσίας Επιλογής Προσωπικού (EPSO), γνωστή...",
-   "url": "https://www.proson.gr/ergasia/prokiryxeis/93507_eyropaiko-asep-964-proslipseis-me-mistho-eos-5437-eyro-pote-ligoyn-oi",
+   "title": "19 Οκτ 2026 04:30 Εφορείες Αρχαιοτήτων: «Τρέχουν» οι αιτήσεις για προσλήψεις και με απολυτήριο γυμνασίου Ποιες είναι οι ειδικότητες για τις προσλήψεις στην Εφορεία Αρχαιοτήτων Εύβοιας και στην Εφορεία...",
+   "url": "https://www.proson.gr/ergasia/prokiryxeis/93593_eforeies-arhaiotiton-trehoyn-oi-aitiseis-gia-proslipseis-kai-me",
    "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
   }
  ]
