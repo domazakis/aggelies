@@ -1,8 +1,154 @@
 {
  "_perigrafi": "Αγγελίες που εμφανίστηκαν για πρώτη φορά τις τελευταίες 3 ημέρες. Το πλήρες κείμενο κάθε αγγελίας είναι στο detail_file. Έχουν ήδη αφαιρεθεί όσες είναι προφανώς άσχετες από τον τίτλο (δες excluded.json).",
- "enimerosi": "2026-10-19T19:27+00:00",
+ "enimerosi": "2026-10-20T18:05+00:00",
  "proti_ektelesi": false,
  "listings": [
+  {
+   "source": "workable",
+   "id": "ba172bbb-8e1e-4747-b0af-01791a67b1e9",
+   "title": "Tactical Communications Product & Solutions Manager",
+   "company": "INTRACOM DEFENSE",
+   "location": "Koropi, Attica",
+   "posted": "2026-10-20",
+   "employment": "Full-time",
+   "workplace": "on_site",
+   "url": "https://jobs.workable.com/view/oYNcmLuNq2YRHBuPBChuzx/tactical-communications-product-%26-solutions-manager-in-koropi-at-intracom-defense",
+   "apply": [
+    "https://jobs.workable.com/view/oYNcmLuNq2YRHBuPBChuzx/tactical-communications-product-%26-solutions-manager-in-koropi-at-intracom-defense/apply"
+   ],
+   "first_seen": "2026-10-20",
+   "detail_file": "data/details/workable/ba172bbb-8e1e-4747-b0af-01791a67b1e9.md",
+   "text_chars": 4206
+  },
+  {
+   "source": "workable",
+   "id": "aebb71bb-46d4-4122-b635-6aae226b7620",
+   "title": "Social Media Manager",
+   "company": "ADVENGERS",
+   "location": "Nea Ionia, Attica",
+   "posted": "2026-10-20",
+   "employment": "Full-time",
+   "workplace": "hybrid",
+   "url": "https://jobs.workable.com/view/nzrWGxaQQecNLhzmh2WoLh/hybrid-social-media-manager-in-nea-ionia-at-advengers",
+   "apply": [
+    "https://jobs.workable.com/view/nzrWGxaQQecNLhzmh2WoLh/hybrid-social-media-manager-in-nea-ionia-at-advengers/apply"
+   ],
+   "first_seen": "2026-10-20",
+   "detail_file": "data/details/workable/aebb71bb-46d4-4122-b635-6aae226b7620.md",
+   "text_chars": 4362
+  },
+  {
+   "source": "workable",
+   "id": "ac6bba14-d8fb-4fb7-b37b-b6409b46b430",
+   "title": "Architect / Spatial Designer (Experiences & Events)",
+   "company": "The Bright Collective",
+   "location": "Athens, Attica",
+   "posted": "2026-10-20",
+   "employment": "Full-time",
+   "workplace": "hybrid",
+   "url": "https://jobs.workable.com/view/nhTMCwJnakSXTwLBGyATFw/hybrid-architect-%2F-spatial-designer-(experiences-%26-events)-in-athens-at-the-bright-collective",
+   "apply": [
+    "https://jobs.workable.com/view/nhTMCwJnakSXTwLBGyATFw/hybrid-architect-%2F-spatial-designer-(experiences-%26-events)-in-athens-at-the-bright-collective/apply"
+   ],
+   "first_seen": "2026-10-20",
+   "detail_file": "data/details/workable/ac6bba14-d8fb-4fb7-b37b-b6409b46b430.md",
+   "text_chars": 4706
+  },
+  {
+   "source": "workable",
+   "id": "ec8e8a80-bee5-4e32-9284-29047c1f2576",
+   "title": "Assistant Manager, Digital Marketing, Costa Navarino (2027)",
+   "company": "Costa Navarino",
+   "location": "Athens, Attica",
+   "posted": "2026-10-20",
+   "workplace": "on_site",
+   "url": "https://jobs.workable.com/view/vdeWSZLCWo3Vswxe3Ek5zm/assistant-manager%2C-digital-marketing%2C-costa-navarino-(2027)-in-athens-at-costa-navarino",
+   "apply": [
+    "https://jobs.workable.com/view/vdeWSZLCWo3Vswxe3Ek5zm/assistant-manager%2C-digital-marketing%2C-costa-navarino-(2027)-in-athens-at-costa-navarino/apply"
+   ],
+   "first_seen": "2026-10-20",
+   "detail_file": "data/details/workable/ec8e8a80-bee5-4e32-9284-29047c1f2576.md",
+   "text_chars": 3315
+  },
+  {
+   "source": "proson",
+   "id": "93705",
+   "title": "20 Οκτ 2026 16:18 ΑΣΕΠ: 60 προσλήψεις χωρίς πτυχίο στο Εθνικό Αρχαιολογικό Μουσείο - Πότε λήγουν οι αιτήσεις Οι ζητούμενες ειδικότητες",
+   "url": "https://www.proson.gr/ergasia/prokiryxeis/93705_asep-60-proslipseis-horis-ptyhio-sto-ethniko-arhaiologiko-moyseio-pote",
+   "first_seen": "2026-10-20",
+   "detail_file": "data/details/proson/93705.md",
+   "text_chars": 3441
+  },
+  {
+   "source": "kariera",
+   "id": "354531",
+   "title": "Σύμβουλος Επικοινωνίας",
+   "url": "https://www.kariera.gr/jobs/administrative-or-secretarial-jobs/354531",
+   "first_seen": "2026-10-20",
+   "detail_file": "data/details/kariera/354531.md",
+   "text_chars": 2539
+  },
+  {
+   "source": "kariera",
+   "id": "354501",
+   "title": "Υπεύθυνος Επικοινωνίας και Customer Service",
+   "company": "Attitude Marketing",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/354501",
+   "first_seen": "2026-10-20",
+   "detail_file": "data/details/kariera/354501.md",
+   "text_chars": 1201
+  },
+  {
+   "source": "kariera",
+   "id": "354650",
+   "title": "🎓 Φοιτητές | Ξεκίνα την καριέρα σου στο Direct Marketing – Δεν απαιτείται εμπειρία",
+   "url": "https://www.kariera.gr/jobs/other-jobs/354650",
+   "first_seen": "2026-10-20",
+   "detail_file": "data/details/kariera/354650.md",
+   "text_chars": 2455
+  },
+  {
+   "source": "kariera",
+   "id": "354409",
+   "title": "MARKETING & CONTENT EXECUTIVE",
+   "company": "PICCANTA",
+   "location": "Αχαρνές",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/354409",
+   "first_seen": "2026-10-20",
+   "detail_file": "data/details/kariera/354409.md",
+   "text_chars": 1933
+  },
+  {
+   "source": "kariera",
+   "id": "354451",
+   "title": "Digital Marketing Specialist",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/354451",
+   "first_seen": "2026-10-20",
+   "detail_file": "data/details/kariera/354451.md",
+   "text_chars": 3829
+  },
+  {
+   "source": "kariera",
+   "id": "354629",
+   "title": "Director of Beverage",
+   "company": "Rosewood Blue Palace",
+   "location": "Άγιος Νικόλαος",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/354629",
+   "first_seen": "2026-10-20",
+   "detail_file": "data/details/kariera/354629.md",
+   "text_chars": 4990
+  },
+  {
+   "source": "jobfind",
+   "id": "3339dc82-a6e4-40cf-8f2c-c39d9a3fa8e2",
+   "title": "Ευκαιρία Καριέρας στο Μάρκετινγκ & την Επικοινωνία",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΚΥΨΕΛΗ",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/3339dc82-a6e4-40cf-8f2c-c39d9a3fa8e2/",
+   "first_seen": "2026-10-20",
+   "detail_file": "data/details/jobfind/3339dc82-a6e4-40cf-8f2c-c39d9a3fa8e2.md",
+   "text_chars": 1043
+  },
   {
    "source": "workable",
    "id": "2f77fc74-8179-4567-86f3-61c27373fb14",
