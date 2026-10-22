@@ -1,8 +1,170 @@
 {
  "_perigrafi": "Αγγελίες που εμφανίστηκαν για πρώτη φορά τις τελευταίες 3 ημέρες. Το πλήρες κείμενο κάθε αγγελίας είναι στο detail_file. Έχουν ήδη αφαιρεθεί όσες είναι προφανώς άσχετες από τον τίτλο (δες excluded.json).",
- "enimerosi": "2026-10-21T18:12+00:00",
+ "enimerosi": "2026-10-22T18:07+00:00",
  "proti_ektelesi": false,
  "listings": [
+  {
+   "source": "workable",
+   "id": "548bf60d-28e0-4cb4-a73e-3578484c0204",
+   "title": "Communications & PR Coordinator",
+   "company": "KORRES NATURAL PRODUCTS",
+   "location": "Kifisia, Attica",
+   "posted": "2026-10-22",
+   "employment": "Full-time",
+   "workplace": "on_site",
+   "url": "https://jobs.workable.com/view/brwNjn6jHBmCTzRSME1fcf/communications-%26-pr-coordinator-in-kifisia-at-korres-natural-products",
+   "apply": [
+    "https://jobs.workable.com/view/brwNjn6jHBmCTzRSME1fcf/communications-%26-pr-coordinator-in-kifisia-at-korres-natural-products/apply"
+   ],
+   "first_seen": "2026-10-22",
+   "detail_file": "data/details/workable/548bf60d-28e0-4cb4-a73e-3578484c0204.md",
+   "text_chars": 2112
+  },
+  {
+   "source": "workable",
+   "id": "4268f5f6-1356-4676-849c-c140d1c4a520",
+   "title": "Group Brand Manager",
+   "company": "KORRES NATURAL PRODUCTS",
+   "location": "Kifisia, Attica",
+   "posted": "2026-10-22",
+   "employment": "Full-time",
+   "workplace": "on_site",
+   "url": "https://jobs.workable.com/view/9cCMzk8oMaw8DFYXGNQzHj/group-brand-manager-in-kifisia-at-korres-natural-products",
+   "apply": [
+    "https://jobs.workable.com/view/9cCMzk8oMaw8DFYXGNQzHj/group-brand-manager-in-kifisia-at-korres-natural-products/apply"
+   ],
+   "first_seen": "2026-10-22",
+   "detail_file": "data/details/workable/4268f5f6-1356-4676-849c-c140d1c4a520.md",
+   "text_chars": 3397
+  },
+  {
+   "source": "workable",
+   "id": "7447d1b9-9bbf-435f-ac74-1534d03906ae",
+   "title": "Digital Marketing Specialist",
+   "company": "Germ S.A",
+   "location": "Agios Stefanos, Attica",
+   "posted": "2026-10-22",
+   "employment": "Full-time",
+   "workplace": "on_site",
+   "url": "https://jobs.workable.com/view/fmP4yrDFW6D7127igvzj7S/digital-marketing-specialist-in-agios-stefanos-at-germ-s.a",
+   "apply": [
+    "https://jobs.workable.com/view/fmP4yrDFW6D7127igvzj7S/digital-marketing-specialist-in-agios-stefanos-at-germ-s.a/apply"
+   ],
+   "first_seen": "2026-10-22",
+   "detail_file": "data/details/workable/7447d1b9-9bbf-435f-ac74-1534d03906ae.md",
+   "text_chars": 2053
+  },
+  {
+   "source": "proson",
+   "id": "93768",
+   "title": "ΑΣΕΠ: Νέα προκήρυξη για μόνιμες θέσεις στην Ορχήστρα της Εθνικής Λυρικής Σκηνής",
+   "url": "https://www.proson.gr/ergasia/prokiryxeis/93768_asep-nea-prokiryxi-gia-monimes-theseis-stin-orhistra-tis-ethnikis-lyrikis",
+   "first_seen": "2026-10-22",
+   "detail_file": "data/details/proson/93768.md",
+   "text_chars": 6736
+  },
+  {
+   "source": "kariera",
+   "id": "355077",
+   "title": "Marketing- Επικοινωνία- Πωλήσεις",
+   "url": "https://www.kariera.gr/jobs/other-jobs/355077",
+   "first_seen": "2026-10-22",
+   "detail_file": "data/details/kariera/355077.md",
+   "text_chars": 815
+  },
+  {
+   "source": "kariera",
+   "id": "355062",
+   "title": "Υπεύθυνος Επικοινωνίας και Customer Service",
+   "company": "Attitude Marketing",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/355062",
+   "first_seen": "2026-10-22",
+   "detail_file": "data/details/kariera/355062.md",
+   "text_chars": 1201
+  },
+  {
+   "source": "kariera",
+   "id": "355114",
+   "title": "Marketing Executive – SanTheos",
+   "company": "SANTHEOS",
+   "location": "Παλαιό Φάληρο",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/355114",
+   "first_seen": "2026-10-22",
+   "detail_file": "data/details/kariera/355114.md",
+   "text_chars": 2282
+  },
+  {
+   "source": "kariera",
+   "id": "355188",
+   "title": "Υπάλληλος δημοσίων σχέσεων",
+   "company": "AQUILA HOTELS & RESORTS",
+   "location": "Ρέθυμνο",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/355188",
+   "first_seen": "2026-10-22",
+   "detail_file": "data/details/kariera/355188.md",
+   "text_chars": 1666
+  },
+  {
+   "source": "kariera",
+   "id": "355190",
+   "title": "Υπάλληλος δημοσίων σχέσεων",
+   "company": "AQUILA HOTELS & RESORTS",
+   "location": "Άγιος Νικόλαος",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/355190",
+   "first_seen": "2026-10-22",
+   "detail_file": "data/details/kariera/355190.md",
+   "text_chars": 1727
+  },
+  {
+   "source": "kariera",
+   "id": "355021",
+   "title": "Γεωπόνος - Facility Coordinator",
+   "company": "UNISON FACILITY & HUMAN SOLUTIONS",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/operations-jobs/355021",
+   "first_seen": "2026-10-22",
+   "detail_file": "data/details/kariera/355021.md",
+   "text_chars": 3474
+  },
+  {
+   "source": "kariera",
+   "id": "355151",
+   "title": "Διευθυντής Τροφίμων & Ποτών",
+   "company": "kariera.gr",
+   "location": "Recruitment | Κως",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/355151",
+   "first_seen": "2026-10-22",
+   "detail_file": "data/details/kariera/355151.md",
+   "text_chars": 6919
+  },
+  {
+   "source": "alfavita",
+   "id": "565310",
+   "title": "22.10.2026 - 09:36 ΦΕΚ ΑΣΕΠ: Δύο θέσεις στην Ορχήστρα Λυρικής Σκηνής Αναλυτικά η προκήρυξη του υπουργείου Πολιτισμού",
+   "url": "https://www.alfavita.gr/ergasia/565310_fek-asep-dyo-theseis-stin-orhistra-lyrikis-skinis",
+   "apply": [
+    "mailto:"
+   ],
+   "emails": [
+    "auditions@nationalopera.gr"
+   ],
+   "first_seen": "2026-10-22",
+   "detail_file": "data/details/alfavita/565310.md",
+   "text_chars": 4246
+  },
+  {
+   "source": "alfavita",
+   "id": "565304",
+   "title": "22.10.2026 - 09:09 Υπουργείο Πολιτισμού: Μόνιμες προσλήψεις σε μουσεία και φορείς προβλέπει η προκήρυξη 7Κ/2026 του ΑΣΕΠ Στην τελική ευθεία για την υποβολή των ηλεκτρονικών αιτήσεων εισέρχεται η μεγάλη προκήρυξη 7Κ/2026.",
+   "url": "https://www.alfavita.gr/ergasia/565304_ypoyrgeio-politismoy-monimes-proslipseis-se-moyseia-kai-foreis-problepei-i-prokiryxi",
+   "apply": [
+    "mailto:"
+   ],
+   "first_seen": "2026-10-22",
+   "detail_file": "data/details/alfavita/565304.md",
+   "text_chars": 6524
+  },
   {
    "source": "workable",
    "id": "208961ed-e83c-4373-87c7-75d908ab5b1e",
@@ -263,214 +425,6 @@
    "first_seen": "2026-10-20",
    "detail_file": "data/details/jobfind/3339dc82-a6e4-40cf-8f2c-c39d9a3fa8e2.md",
    "text_chars": 1043
-  },
-  {
-   "source": "workable",
-   "id": "2f77fc74-8179-4567-86f3-61c27373fb14",
-   "title": "Marketing Content Writer (Greek Language)",
-   "company": "Elorus",
-   "location": "Athens, Attica",
-   "posted": "2026-10-19",
-   "workplace": "hybrid",
-   "url": "https://jobs.workable.com/view/6RYxGZCQ27eGqe73zmg7kW/hybrid-marketing-content-writer-(greek-language)-in-athens-at-elorus",
-   "apply": [
-    "https://jobs.workable.com/view/6RYxGZCQ27eGqe73zmg7kW/hybrid-marketing-content-writer-(greek-language)-in-athens-at-elorus/apply"
-   ],
-   "first_seen": "2026-10-19",
-   "detail_file": "data/details/workable/2f77fc74-8179-4567-86f3-61c27373fb14.md",
-   "text_chars": 5276
-  },
-  {
-   "source": "workable",
-   "id": "9aaced44-1629-4697-ad24-d021fc25e588",
-   "title": "SAP Project Management Coordinator",
-   "company": "EY Greece",
-   "location": "Athens, Central Athens Regional Unit",
-   "posted": "2026-10-19",
-   "workplace": "on_site",
-   "url": "https://jobs.workable.com/view/k6NnaLMeqTgHYibfDZeKtE/sap-project-management-coordinator-in-athens-at-ey-greece",
-   "apply": [
-    "https://jobs.workable.com/view/k6NnaLMeqTgHYibfDZeKtE/sap-project-management-coordinator-in-athens-at-ey-greece/apply"
-   ],
-   "first_seen": "2026-10-19",
-   "detail_file": "data/details/workable/9aaced44-1629-4697-ad24-d021fc25e588.md",
-   "text_chars": 5816
-  },
-  {
-   "source": "workable",
-   "id": "826292b5-a15f-45dd-923b-df94264f94a7",
-   "title": "Performance Marketing Manager",
-   "company": "ADVENGERS",
-   "location": "Nea Ionia, Attica",
-   "posted": "2026-10-19",
-   "employment": "Full-time",
-   "workplace": "hybrid",
-   "url": "https://jobs.workable.com/view/h6Q69aGEAfa4Xf4jrP2jg2/hybrid-performance-marketing-manager-in-nea-ionia-at-advengers",
-   "apply": [
-    "https://jobs.workable.com/view/h6Q69aGEAfa4Xf4jrP2jg2/hybrid-performance-marketing-manager-in-nea-ionia-at-advengers/apply"
-   ],
-   "first_seen": "2026-10-19",
-   "detail_file": "data/details/workable/826292b5-a15f-45dd-923b-df94264f94a7.md",
-   "text_chars": 4460
-  },
-  {
-   "source": "workable",
-   "id": "38991a46-e09f-4a77-8ba0-6024277446f5",
-   "title": "Specjalista ds . reklam w social media | Język polski | Ateny – Neos Kosmos",
-   "company": "ProRekruter Recruitment",
-   "location": "Athens, Central Athens Regional Unit",
-   "posted": "2026-10-13",
-   "workplace": "on_site",
-   "url": "https://jobs.workable.com/view/7ZmTNc3jNHGTaR1BnFScpk/specjalista-ds-.-reklam-w-social-media-%7C-j%C4%99zyk-polski-%7C-ateny-%E2%80%93-neos-kosmos-in-athens-at-prorekruter-recruitment",
-   "apply": [
-    "https://jobs.workable.com/view/7ZmTNc3jNHGTaR1BnFScpk/specjalista-ds-.-reklam-w-social-media-%7C-j%C4%99zyk-polski-%7C-ateny-%E2%80%93-neos-kosmos-in-athens-at-prorekruter-recruitment/apply"
-   ],
-   "first_seen": "2026-10-19",
-   "detail_file": "data/details/workable/38991a46-e09f-4a77-8ba0-6024277446f5.md",
-   "text_chars": 3876
-  },
-  {
-   "source": "kariera",
-   "id": "354155",
-   "title": "Υπεύθυνος Επικοινωνίας και Customer Service",
-   "company": "Attitude Marketing",
-   "location": "Αθήνα",
-   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/354155",
-   "first_seen": "2026-10-19",
-   "detail_file": "data/details/kariera/354155.md",
-   "text_chars": 1201
-  },
-  {
-   "source": "kariera",
-   "id": "354093",
-   "title": "🎓 Φοιτητές | Ξεκίνα την καριέρα σου στο Direct Marketing – Δεν απαιτείται εμπειρία",
-   "url": "https://www.kariera.gr/jobs/other-jobs/354093",
-   "first_seen": "2026-10-19",
-   "detail_file": "data/details/kariera/354093.md",
-   "text_chars": 2455
-  },
-  {
-   "source": "kariera",
-   "id": "354096",
-   "title": "Marketing Communications Assistant",
-   "company": "KAFKAS",
-   "location": "Παιανία",
-   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/354096",
-   "first_seen": "2026-10-19",
-   "detail_file": "data/details/kariera/354096.md",
-   "text_chars": 4733
-  },
-  {
-   "source": "kariera",
-   "id": "349185",
-   "title": "Novacinema Social Media Executive & Content Creator (Maternity Cover)",
-   "company": "Nova",
-   "location": "Αθήνα",
-   "url": "https://www.kariera.gr/jobs/e-commerce-or-digital-services-jobs/349185",
-   "first_seen": "2026-10-19",
-   "detail_file": "data/details/kariera/349185.md",
-   "text_chars": 2530
-  },
-  {
-   "source": "kariera",
-   "id": "354318",
-   "title": "Senior Social Media Ads Specialist (based in Athens or Thessaloniki)",
-   "company": "RELEVANCE DIGITAL",
-   "location": "Αθήνα",
-   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/354318",
-   "first_seen": "2026-10-19",
-   "detail_file": "data/details/kariera/354318.md",
-   "text_chars": 5185
-  },
-  {
-   "source": "kariera",
-   "id": "353697",
-   "title": "Senior Performance Marketing Specialist (based in Athens or Thessaloniki)",
-   "company": "RELEVANCE DIGITAL",
-   "location": "Αθήνα",
-   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/353697",
-   "first_seen": "2026-10-19",
-   "detail_file": "data/details/kariera/353697.md",
-   "text_chars": 4708
-  },
-  {
-   "source": "kariera",
-   "id": "354258",
-   "title": "Διευθυντής Τροφίμων & Ποτών",
-   "company": "kariera.gr",
-   "location": "Recruitment | Κως",
-   "url": "https://www.kariera.gr/jobs/tourism-jobs/354258",
-   "first_seen": "2026-10-19",
-   "detail_file": "data/details/kariera/354258.md",
-   "text_chars": 6919
-  },
-  {
-   "source": "jobfind",
-   "id": "582e283b-2f47-4d9c-8229-c8400ffd5b3a",
-   "title": "Social Media Creator & Influencers Coordinator",
-   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΝΕΑ ΧΑΛΚΗΔΟΝΑ",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/582e283b-2f47-4d9c-8229-c8400ffd5b3a/",
-   "first_seen": "2026-10-19",
-   "detail_file": "data/details/jobfind/582e283b-2f47-4d9c-8229-c8400ffd5b3a.md",
-   "text_chars": 6204
-  },
-  {
-   "source": "jobfind",
-   "id": "451893ab-645b-47bb-b4d5-adb87ef3fe58",
-   "title": "Dissemination, Communication & Exploitation Specialist (EU Funding / Horizon Europe)",
-   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΠΑΓΚΡΑΤΙ",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/451893ab-645b-47bb-b4d5-adb87ef3fe58/",
-   "emails": [
-    "mail@geosystems-hellas.gr"
-   ],
-   "first_seen": "2026-10-19",
-   "detail_file": "data/details/jobfind/451893ab-645b-47bb-b4d5-adb87ef3fe58.md",
-   "text_chars": 4345
-  },
-  {
-   "source": "jobfind",
-   "id": "6d44aab4-5fe2-4550-bc9e-26a7a789939c",
-   "title": "Social Media Specialist",
-   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΠΕΡΙΣΤΕΡΙ",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/6d44aab4-5fe2-4550-bc9e-26a7a789939c/",
-   "first_seen": "2026-10-19",
-   "detail_file": "data/details/jobfind/6d44aab4-5fe2-4550-bc9e-26a7a789939c.md",
-   "text_chars": 1932
-  },
-  {
-   "source": "jobfind",
-   "id": "084a2cae-0bb7-47e7-9115-9705f5ba3514",
-   "title": "Marketing Trainee / Χωρίς απαιτούμενη προϋπηρεσία",
-   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/084a2cae-0bb7-47e7-9115-9705f5ba3514/",
-   "first_seen": "2026-10-19",
-   "detail_file": "data/details/jobfind/084a2cae-0bb7-47e7-9115-9705f5ba3514.md",
-   "text_chars": 1385
-  },
-  {
-   "source": "jobfind",
-   "id": "4a023701-6bcc-4ab2-9315-b78bf8cca7c7",
-   "title": "Marketing Communications Assistant",
-   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΠΑΙΑΝΙΑ",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/4a023701-6bcc-4ab2-9315-b78bf8cca7c7/",
-   "apply": [
-    "https://apply.smartcv.co/kafkas/apply/zlwex"
-   ],
-   "first_seen": "2026-10-19",
-   "detail_file": "data/details/jobfind/4a023701-6bcc-4ab2-9315-b78bf8cca7c7.md",
-   "text_chars": 4673
-  },
-  {
-   "source": "alfavita",
-   "id": "564828",
-   "title": "19.10.2026 - 10:29 Υπουργείο Πολιτισμού: Τέλος χρόνου για τις 149 προσλήψεις στον ΟΔΑΠ Κλείνουν σε δύο ημέρες οι αιτήσεις - 149 προσλήψεις σε εργαστήρια και πωλητήρια μουσείων",
-   "url": "https://www.alfavita.gr/ergasia/564828_ypoyrgeio-politismoy-telos-hronoy-gia-tis-149-proslipseis-ston-odap",
-   "apply": [
-    "mailto:"
-   ],
-   "first_seen": "2026-10-19",
-   "detail_file": "data/details/alfavita/564828.md",
-   "text_chars": 3602
   }
  ]
 }
