@@ -1,8 +1,51 @@
 {
  "_perigrafi": "Αγγελίες που εμφανίστηκαν για πρώτη φορά τις τελευταίες 3 ημέρες. Το πλήρες κείμενο κάθε αγγελίας είναι στο detail_file. Έχουν ήδη αφαιρεθεί όσες είναι προφανώς άσχετες από τον τίτλο (δες excluded.json).",
- "enimerosi": "2026-10-23T17:58+00:00",
+ "enimerosi": "2026-10-24T16:49+00:00",
  "proti_ektelesi": false,
  "listings": [
+  {
+   "source": "kariera",
+   "id": "348412",
+   "title": "Διευθυντής Συντήρησης",
+   "company": "OPTIMAL HR GROUP",
+   "location": "Θεσσαλονίκη",
+   "url": "https://www.kariera.gr/jobs/general-management-jobs/348412",
+   "first_seen": "2026-10-24",
+   "detail_file": "data/details/kariera/348412.md",
+   "text_chars": 2997
+  },
+  {
+   "source": "kariera",
+   "id": "355710",
+   "title": "Υπάλληλος Υποδοχής / Receptionist - Παργα τουριστική σεζόν 2027",
+   "company": "Lichnos beach hotel",
+   "location": "Ιωάννινα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/355710",
+   "first_seen": "2026-10-24",
+   "detail_file": "data/details/kariera/355710.md",
+   "text_chars": 1146
+  },
+  {
+   "source": "kariera",
+   "id": "355708",
+   "title": "Reception Shift Leader - Παργα τουριστική σεζόν 2027",
+   "company": "Lichnos beach hotel",
+   "location": "Ιωάννινα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/355708",
+   "first_seen": "2026-10-24",
+   "detail_file": "data/details/kariera/355708.md",
+   "text_chars": 1135
+  },
+  {
+   "source": "jobfind",
+   "id": "e010bdf7-121e-4e4b-927f-83c63532ed1c",
+   "title": "Promotion & Events",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΑΘΗΝ",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/e010bdf7-121e-4e4b-927f-83c63532ed1c/",
+   "first_seen": "2026-10-24",
+   "detail_file": "data/details/jobfind/e010bdf7-121e-4e4b-927f-83c63532ed1c.md",
+   "text_chars": 1444
+  },
   {
    "source": "workable",
    "id": "3eb1c5a6-d6e1-4470-aca5-a37ac6fa06bf",
@@ -345,121 +388,6 @@
    "first_seen": "2026-10-22",
    "detail_file": "data/details/alfavita/565304.md",
    "text_chars": 6524
-  },
-  {
-   "source": "workable",
-   "id": "208961ed-e83c-4373-87c7-75d908ab5b1e",
-   "title": "Marketing Manager, The Romanos, a Luxury Collection Resort, Costa Navarino",
-   "company": "Costa Navarino",
-   "location": "Athens, Attica",
-   "posted": "2026-10-21",
-   "workplace": "on_site",
-   "url": "https://jobs.workable.com/view/522L2QZVhFhbxDyquqrB6G/marketing-manager%2C-the-romanos%2C-a-luxury-collection-resort%2C-costa-navarino-in-athens-at-costa-navarino",
-   "apply": [
-    "https://jobs.workable.com/view/522L2QZVhFhbxDyquqrB6G/marketing-manager%2C-the-romanos%2C-a-luxury-collection-resort%2C-costa-navarino-in-athens-at-costa-navarino/apply"
-   ],
-   "first_seen": "2026-10-21",
-   "detail_file": "data/details/workable/208961ed-e83c-4373-87c7-75d908ab5b1e.md",
-   "text_chars": 4016
-  },
-  {
-   "source": "workable",
-   "id": "cb2f1137-18db-4c7e-bdd4-e19979308ce3",
-   "title": "Content and Partnerships Marketing Specialist",
-   "company": "OnTheGoSystems",
-   "location": "Athens, Attica",
-   "posted": "2026-10-21",
-   "employment": "Full-time",
-   "workplace": "remote",
-   "url": "https://jobs.workable.com/view/r6dMNmJ7JESe7dtRioUMmF/remote-content-and-partnerships-marketing-specialist-in-athens-at-onthegosystems",
-   "apply": [
-    "https://jobs.workable.com/view/r6dMNmJ7JESe7dtRioUMmF/remote-content-and-partnerships-marketing-specialist-in-athens-at-onthegosystems/apply"
-   ],
-   "first_seen": "2026-10-21",
-   "detail_file": "data/details/workable/cb2f1137-18db-4c7e-bdd4-e19979308ce3.md",
-   "text_chars": 3313
-  },
-  {
-   "source": "proson",
-   "id": "93607",
-   "title": "ΑΣΕΠ: 149 προσλήψεις στον ΟΔΑΠ - Λήγουν σήμερα οι αιτήσεις",
-   "url": "https://www.proson.gr/ergasia/prokiryxeis/93607_asep-149-proslipseis-ston-odap-ligoyn-simera-oi-aitiseis",
-   "first_seen": "2026-10-21",
-   "detail_file": "data/details/proson/93607.md",
-   "text_chars": 4224
-  },
-  {
-   "source": "kariera",
-   "id": "354796",
-   "title": "Υπεύθυνος Επικοινωνίας και Customer Service",
-   "company": "Attitude Marketing",
-   "location": "Αθήνα",
-   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/354796",
-   "first_seen": "2026-10-21",
-   "detail_file": "data/details/kariera/354796.md",
-   "text_chars": 1201
-  },
-  {
-   "source": "kariera",
-   "id": "354958",
-   "title": "Project Manager",
-   "company": "Metlen Energy & Metals",
-   "location": "Παιανία",
-   "url": "https://www.kariera.gr/jobs/operations-jobs/354958",
-   "first_seen": "2026-10-21",
-   "detail_file": "data/details/kariera/354958.md",
-   "text_chars": 1656
-  },
-  {
-   "source": "kariera",
-   "id": "354982",
-   "title": "Director of Spa & Wellness - Athens & Mykonos",
-   "company": "ORA Hospitality",
-   "location": "Μύκονος",
-   "url": "https://www.kariera.gr/jobs/tourism-jobs/354982",
-   "first_seen": "2026-10-21",
-   "detail_file": "data/details/kariera/354982.md",
-   "text_chars": 3887
-  },
-  {
-   "source": "kariera",
-   "id": "354873",
-   "title": "HOTEL OPERATIONS COORDINATOR",
-   "url": "https://www.kariera.gr/jobs/tourism-jobs/354873",
-   "first_seen": "2026-10-21",
-   "detail_file": "data/details/kariera/354873.md",
-   "text_chars": 673
-  },
-  {
-   "source": "kariera",
-   "id": "347989",
-   "title": "Development Senior Associate - Handover",
-   "company": "LAMDA DEVELOPMENT SA",
-   "location": "Αθήνα",
-   "url": "https://www.kariera.gr/jobs/other-jobs/347989",
-   "first_seen": "2026-10-21",
-   "detail_file": "data/details/kariera/347989.md",
-   "text_chars": 5694
-  },
-  {
-   "source": "jobfind",
-   "id": "5858d1b3-8be0-4138-ada9-0a6b1dab83de",
-   "title": "Βοηθός Διοργάνωσης Εκθέσεων, Events & Ανάπτυξης Πελατολογίου",
-   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΣΥΝΤΑΓΜΑ",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/5858d1b3-8be0-4138-ada9-0a6b1dab83de/",
-   "first_seen": "2026-10-21",
-   "detail_file": "data/details/jobfind/5858d1b3-8be0-4138-ada9-0a6b1dab83de.md",
-   "text_chars": 2877
-  },
-  {
-   "source": "jobfind",
-   "id": "a42929a9-e57f-4a50-b747-51a5c972e0ac",
-   "title": "Βοηθός Γενικού Διευθυντή και Συντονιστή Επιχειρηματικής Ανάπτυξης",
-   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΕΚΑΛΗ",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/a42929a9-e57f-4a50-b747-51a5c972e0ac/",
-   "first_seen": "2026-10-21",
-   "detail_file": "data/details/jobfind/a42929a9-e57f-4a50-b747-51a5c972e0ac.md",
-   "text_chars": 2436
   }
  ]
 }
