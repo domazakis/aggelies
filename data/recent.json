@@ -1,8 +1,49 @@
 {
  "_perigrafi": "Αγγελίες που εμφανίστηκαν για πρώτη φορά τις τελευταίες 3 ημέρες. Το πλήρες κείμενο κάθε αγγελίας είναι στο detail_file. Έχουν ήδη αφαιρεθεί όσες είναι προφανώς άσχετες από τον τίτλο (δες excluded.json).",
- "enimerosi": "2026-10-24T16:49+00:00",
+ "enimerosi": "2026-10-25T17:20+00:00",
  "proti_ektelesi": false,
  "listings": [
+  {
+   "source": "workable",
+   "id": "bed8e92d-713a-46a7-b747-4f11fe275a70",
+   "title": "EU Proposal Writer & Funding Specialist",
+   "company": "AI2CYBER",
+   "location": "Athens, Attica",
+   "posted": "2026-10-25",
+   "employment": "Full-time",
+   "workplace": "remote",
+   "url": "https://jobs.workable.com/view/pySb7rZW2GCa5jHhJSjV6J/remote-eu-proposal-writer-%26-funding-specialist-in-athens-at-ai2cyber",
+   "apply": [
+    "https://jobs.workable.com/view/pySb7rZW2GCa5jHhJSjV6J/remote-eu-proposal-writer-%26-funding-specialist-in-athens-at-ai2cyber/apply"
+   ],
+   "emails": [
+    "careers@ai2cyber.com"
+   ],
+   "first_seen": "2026-10-25",
+   "detail_file": "data/details/workable/bed8e92d-713a-46a7-b747-4f11fe275a70.md",
+   "text_chars": 6381
+  },
+  {
+   "source": "proson",
+   "id": "93883",
+   "title": "Εθνικό Αρχαιολογικό Μουσείο: Αντίστροφη μέτρηση για 60 προσλήψεις",
+   "url": "https://www.proson.gr/ergasia/prokiryxeis/93883_ethniko-arhaiologiko-moyseio-antistrofi-metrisi-gia-60-proslipseis",
+   "first_seen": "2026-10-25",
+   "detail_file": "data/details/proson/93883.md",
+   "text_chars": 3674
+  },
+  {
+   "source": "alfavita",
+   "id": "565482",
+   "title": "25.10.2026 - 05:00 Εθνικό Αρχαιολογικό Μουσείο: Τέλος χρόνου για τις 60 προσλήψεις Οι αιτήσεις κλείνουν αύριο, πρωί της Δευτέρας",
+   "url": "https://www.alfavita.gr/ergasia/565482_ethniko-arhaiologiko-moyseio-telos-hronoy-gia-tis-60-proslipseis",
+   "apply": [
+    "mailto:"
+   ],
+   "first_seen": "2026-10-25",
+   "detail_file": "data/details/alfavita/565482.md",
+   "text_chars": 3974
+  },
   {
    "source": "kariera",
    "id": "348412",
@@ -226,168 +267,6 @@
    "first_seen": "2026-10-23",
    "detail_file": "data/details/alfavita/565532.md",
    "text_chars": 7000
-  },
-  {
-   "source": "workable",
-   "id": "548bf60d-28e0-4cb4-a73e-3578484c0204",
-   "title": "Communications & PR Coordinator",
-   "company": "KORRES NATURAL PRODUCTS",
-   "location": "Kifisia, Attica",
-   "posted": "2026-10-22",
-   "employment": "Full-time",
-   "workplace": "on_site",
-   "url": "https://jobs.workable.com/view/brwNjn6jHBmCTzRSME1fcf/communications-%26-pr-coordinator-in-kifisia-at-korres-natural-products",
-   "apply": [
-    "https://jobs.workable.com/view/brwNjn6jHBmCTzRSME1fcf/communications-%26-pr-coordinator-in-kifisia-at-korres-natural-products/apply"
-   ],
-   "first_seen": "2026-10-22",
-   "detail_file": "data/details/workable/548bf60d-28e0-4cb4-a73e-3578484c0204.md",
-   "text_chars": 2112
-  },
-  {
-   "source": "workable",
-   "id": "4268f5f6-1356-4676-849c-c140d1c4a520",
-   "title": "Group Brand Manager",
-   "company": "KORRES NATURAL PRODUCTS",
-   "location": "Kifisia, Attica",
-   "posted": "2026-10-22",
-   "employment": "Full-time",
-   "workplace": "on_site",
-   "url": "https://jobs.workable.com/view/9cCMzk8oMaw8DFYXGNQzHj/group-brand-manager-in-kifisia-at-korres-natural-products",
-   "apply": [
-    "https://jobs.workable.com/view/9cCMzk8oMaw8DFYXGNQzHj/group-brand-manager-in-kifisia-at-korres-natural-products/apply"
-   ],
-   "first_seen": "2026-10-22",
-   "detail_file": "data/details/workable/4268f5f6-1356-4676-849c-c140d1c4a520.md",
-   "text_chars": 3397
-  },
-  {
-   "source": "workable",
-   "id": "7447d1b9-9bbf-435f-ac74-1534d03906ae",
-   "title": "Digital Marketing Specialist",
-   "company": "Germ S.A",
-   "location": "Agios Stefanos, Attica",
-   "posted": "2026-10-22",
-   "employment": "Full-time",
-   "workplace": "on_site",
-   "url": "https://jobs.workable.com/view/fmP4yrDFW6D7127igvzj7S/digital-marketing-specialist-in-agios-stefanos-at-germ-s.a",
-   "apply": [
-    "https://jobs.workable.com/view/fmP4yrDFW6D7127igvzj7S/digital-marketing-specialist-in-agios-stefanos-at-germ-s.a/apply"
-   ],
-   "first_seen": "2026-10-22",
-   "detail_file": "data/details/workable/7447d1b9-9bbf-435f-ac74-1534d03906ae.md",
-   "text_chars": 2053
-  },
-  {
-   "source": "proson",
-   "id": "93768",
-   "title": "ΑΣΕΠ: Νέα προκήρυξη για μόνιμες θέσεις στην Ορχήστρα της Εθνικής Λυρικής Σκηνής",
-   "url": "https://www.proson.gr/ergasia/prokiryxeis/93768_asep-nea-prokiryxi-gia-monimes-theseis-stin-orhistra-tis-ethnikis-lyrikis",
-   "first_seen": "2026-10-22",
-   "detail_file": "data/details/proson/93768.md",
-   "text_chars": 6736
-  },
-  {
-   "source": "kariera",
-   "id": "355077",
-   "title": "Marketing- Επικοινωνία- Πωλήσεις",
-   "url": "https://www.kariera.gr/jobs/other-jobs/355077",
-   "first_seen": "2026-10-22",
-   "detail_file": "data/details/kariera/355077.md",
-   "text_chars": 815
-  },
-  {
-   "source": "kariera",
-   "id": "355062",
-   "title": "Υπεύθυνος Επικοινωνίας και Customer Service",
-   "company": "Attitude Marketing",
-   "location": "Αθήνα",
-   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/355062",
-   "first_seen": "2026-10-22",
-   "detail_file": "data/details/kariera/355062.md",
-   "text_chars": 1201
-  },
-  {
-   "source": "kariera",
-   "id": "355114",
-   "title": "Marketing Executive – SanTheos",
-   "company": "SANTHEOS",
-   "location": "Παλαιό Φάληρο",
-   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/355114",
-   "first_seen": "2026-10-22",
-   "detail_file": "data/details/kariera/355114.md",
-   "text_chars": 2282
-  },
-  {
-   "source": "kariera",
-   "id": "355188",
-   "title": "Υπάλληλος δημοσίων σχέσεων",
-   "company": "AQUILA HOTELS & RESORTS",
-   "location": "Ρέθυμνο",
-   "url": "https://www.kariera.gr/jobs/tourism-jobs/355188",
-   "first_seen": "2026-10-22",
-   "detail_file": "data/details/kariera/355188.md",
-   "text_chars": 1666
-  },
-  {
-   "source": "kariera",
-   "id": "355190",
-   "title": "Υπάλληλος δημοσίων σχέσεων",
-   "company": "AQUILA HOTELS & RESORTS",
-   "location": "Άγιος Νικόλαος",
-   "url": "https://www.kariera.gr/jobs/tourism-jobs/355190",
-   "first_seen": "2026-10-22",
-   "detail_file": "data/details/kariera/355190.md",
-   "text_chars": 1727
-  },
-  {
-   "source": "kariera",
-   "id": "355021",
-   "title": "Γεωπόνος - Facility Coordinator",
-   "company": "UNISON FACILITY & HUMAN SOLUTIONS",
-   "location": "Αθήνα",
-   "url": "https://www.kariera.gr/jobs/operations-jobs/355021",
-   "first_seen": "2026-10-22",
-   "detail_file": "data/details/kariera/355021.md",
-   "text_chars": 3474
-  },
-  {
-   "source": "kariera",
-   "id": "355151",
-   "title": "Διευθυντής Τροφίμων & Ποτών",
-   "company": "kariera.gr",
-   "location": "Recruitment | Κως",
-   "url": "https://www.kariera.gr/jobs/tourism-jobs/355151",
-   "first_seen": "2026-10-22",
-   "detail_file": "data/details/kariera/355151.md",
-   "text_chars": 6919
-  },
-  {
-   "source": "alfavita",
-   "id": "565310",
-   "title": "22.10.2026 - 09:36 ΦΕΚ ΑΣΕΠ: Δύο θέσεις στην Ορχήστρα Λυρικής Σκηνής Αναλυτικά η προκήρυξη του υπουργείου Πολιτισμού",
-   "url": "https://www.alfavita.gr/ergasia/565310_fek-asep-dyo-theseis-stin-orhistra-lyrikis-skinis",
-   "apply": [
-    "mailto:"
-   ],
-   "emails": [
-    "auditions@nationalopera.gr"
-   ],
-   "first_seen": "2026-10-22",
-   "detail_file": "data/details/alfavita/565310.md",
-   "text_chars": 4246
-  },
-  {
-   "source": "alfavita",
-   "id": "565304",
-   "title": "22.10.2026 - 09:09 Υπουργείο Πολιτισμού: Μόνιμες προσλήψεις σε μουσεία και φορείς προβλέπει η προκήρυξη 7Κ/2026 του ΑΣΕΠ Στην τελική ευθεία για την υποβολή των ηλεκτρονικών αιτήσεων εισέρχεται η μεγάλη προκήρυξη 7Κ/2026.",
-   "url": "https://www.alfavita.gr/ergasia/565304_ypoyrgeio-politismoy-monimes-proslipseis-se-moyseia-kai-foreis-problepei-i-prokiryxi",
-   "apply": [
-    "mailto:"
-   ],
-   "first_seen": "2026-10-22",
-   "detail_file": "data/details/alfavita/565304.md",
-   "text_chars": 6524
   }
  ]
 }
