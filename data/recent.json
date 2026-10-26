@@ -1,8 +1,63 @@
 {
  "_perigrafi": "Αγγελίες που εμφανίστηκαν για πρώτη φορά τις τελευταίες 3 ημέρες. Το πλήρες κείμενο κάθε αγγελίας είναι στο detail_file. Έχουν ήδη αφαιρεθεί όσες είναι προφανώς άσχετες από τον τίτλο (δες excluded.json).",
- "enimerosi": "2026-10-25T17:20+00:00",
+ "enimerosi": "2026-10-26T19:30+00:00",
  "proti_ektelesi": false,
  "listings": [
+  {
+   "source": "kariera",
+   "id": "355914",
+   "title": "Marketing- Επικοινωνία- Πωλήσεις",
+   "url": "https://www.kariera.gr/jobs/other-jobs/355914",
+   "first_seen": "2026-10-26",
+   "detail_file": "data/details/kariera/355914.md",
+   "text_chars": 815
+  },
+  {
+   "source": "kariera",
+   "id": "355797",
+   "title": "Marketing Executive",
+   "company": "VEESION - The New Era Advertising Agency",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/355797",
+   "first_seen": "2026-10-26",
+   "detail_file": "data/details/kariera/355797.md",
+   "text_chars": 2711
+  },
+  {
+   "source": "kariera",
+   "id": "356023",
+   "title": "BRAND MANAGER",
+   "company": "KAYAK ABEE",
+   "location": "Κρωπία",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/356023",
+   "first_seen": "2026-10-26",
+   "detail_file": "data/details/kariera/356023.md",
+   "text_chars": 1431
+  },
+  {
+   "source": "kariera",
+   "id": "355821",
+   "title": "B2B Marketing Specialist",
+   "company": "Nespresso Professional",
+   "location": "Synergy SA | Αθήνα",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/355821",
+   "first_seen": "2026-10-26",
+   "detail_file": "data/details/kariera/355821.md",
+   "text_chars": 3465
+  },
+  {
+   "source": "jobfind",
+   "id": "8dba73e0-91f4-44f9-aa2c-e36d6d3e0b26",
+   "title": "Marketing Executive",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΓΛΥΦΑΔΑ",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/8dba73e0-91f4-44f9-aa2c-e36d6d3e0b26/",
+   "apply": [
+    "https://sandbluresort.careers.hibob.com/jobs/0993bc58-c58f-4fd2-969b-31f679023da0"
+   ],
+   "first_seen": "2026-10-26",
+   "detail_file": "data/details/jobfind/8dba73e0-91f4-44f9-aa2c-e36d6d3e0b26.md",
+   "text_chars": 5214
+  },
   {
    "source": "workable",
    "id": "bed8e92d-713a-46a7-b747-4f11fe275a70",
@@ -86,187 +141,6 @@
    "first_seen": "2026-10-24",
    "detail_file": "data/details/jobfind/e010bdf7-121e-4e4b-927f-83c63532ed1c.md",
    "text_chars": 1444
-  },
-  {
-   "source": "workable",
-   "id": "3eb1c5a6-d6e1-4470-aca5-a37ac6fa06bf",
-   "title": "Internal Events Specialist",
-   "company": "Όμιλος ΔΕΗ",
-   "location": "Athens, Central Athens",
-   "posted": "2026-10-23",
-   "employment": "Full-time",
-   "workplace": "on_site",
-   "url": "https://jobs.workable.com/view/8K2k7vHqph6wuVP8nBrdqF/internal-events-specialist-in-athens-at-%CF%8C%CE%BC%CE%B9%CE%BB%CE%BF%CF%82-%CE%B4%CE%B5%CE%B7",
-   "apply": [
-    "https://jobs.workable.com/view/8K2k7vHqph6wuVP8nBrdqF/internal-events-specialist-in-athens-at-%CF%8C%CE%BC%CE%B9%CE%BB%CE%BF%CF%82-%CE%B4%CE%B5%CE%B7/apply"
-   ],
-   "first_seen": "2026-10-23",
-   "detail_file": "data/details/workable/3eb1c5a6-d6e1-4470-aca5-a37ac6fa06bf.md",
-   "text_chars": 3117
-  },
-  {
-   "source": "workable",
-   "id": "afe36698-465b-4030-96ee-81eb6c20ec5e",
-   "title": "EMEA Events Excellence Associate",
-   "company": "Forvis Mazars Greece",
-   "location": "Athens, Attica",
-   "posted": "2026-10-23",
-   "workplace": "hybrid",
-   "url": "https://jobs.workable.com/view/nHJbrqF11pCmiQnujb2cjW/hybrid-emea-events-excellence-associate-in-athens-at-forvis-mazars-greece",
-   "apply": [
-    "https://jobs.workable.com/view/nHJbrqF11pCmiQnujb2cjW/hybrid-emea-events-excellence-associate-in-athens-at-forvis-mazars-greece/apply"
-   ],
-   "first_seen": "2026-10-23",
-   "detail_file": "data/details/workable/afe36698-465b-4030-96ee-81eb6c20ec5e.md",
-   "text_chars": 2770
-  },
-  {
-   "source": "workable",
-   "id": "9b1a2674-7aa1-4f8a-9934-666bfda00756",
-   "title": "Project Manager",
-   "company": "Aeternal Hospitality & Development",
-   "location": "Athens, Attica",
-   "posted": "2026-10-23",
-   "employment": "Full-time",
-   "workplace": "on_site",
-   "url": "https://jobs.workable.com/view/k9RADPNYGPhHxnmhmCACGE/project-manager-in-athens-at-aeternal-hospitality-%26-development",
-   "apply": [
-    "https://jobs.workable.com/view/k9RADPNYGPhHxnmhmCACGE/project-manager-in-athens-at-aeternal-hospitality-%26-development/apply"
-   ],
-   "first_seen": "2026-10-23",
-   "detail_file": "data/details/workable/9b1a2674-7aa1-4f8a-9934-666bfda00756.md",
-   "text_chars": 3276
-  },
-  {
-   "source": "workable",
-   "id": "20024b51-2d10-4074-8f05-2fd7fef75ff2",
-   "title": "Senior EU Project Manager - AKMI International",
-   "company": "IEK AKMH",
-   "location": "Athens, Attica",
-   "posted": "2026-10-23",
-   "employment": "Full-time",
-   "workplace": "hybrid",
-   "url": "https://jobs.workable.com/view/4XfyhGqnsLuFRDUScUZCHh/hybrid-senior-eu-project-manager---akmi-international-in-athens-at-iek-akmh",
-   "apply": [
-    "https://jobs.workable.com/view/4XfyhGqnsLuFRDUScUZCHh/hybrid-senior-eu-project-manager---akmi-international-in-athens-at-iek-akmh/apply"
-   ],
-   "first_seen": "2026-10-23",
-   "detail_file": "data/details/workable/20024b51-2d10-4074-8f05-2fd7fef75ff2.md",
-   "text_chars": 1969
-  },
-  {
-   "source": "workable",
-   "id": "130703e8-ab40-45e5-8315-bf7eaa78aa56",
-   "title": "Brand Manager GR Marketing",
-   "company": "KORRES NATURAL PRODUCTS",
-   "location": "Kifisia, Attica",
-   "posted": "2026-10-23",
-   "employment": "Full-time",
-   "workplace": "hybrid",
-   "url": "https://jobs.workable.com/view/3mh1d16VY2w3Y1qjLia1nu/hybrid-brand-manager-gr-marketing-in-kifisia-at-korres-natural-products",
-   "apply": [
-    "https://jobs.workable.com/view/3mh1d16VY2w3Y1qjLia1nu/hybrid-brand-manager-gr-marketing-in-kifisia-at-korres-natural-products/apply"
-   ],
-   "first_seen": "2026-10-23",
-   "detail_file": "data/details/workable/130703e8-ab40-45e5-8315-bf7eaa78aa56.md",
-   "text_chars": 3181
-  },
-  {
-   "source": "proson",
-   "id": "93752",
-   "title": "«Ενεργές» οι αιτήσεις για 73 προσλήψεις στο υπουργείο Πολιτισμού",
-   "url": "https://www.proson.gr/ergasia/prokiryxeis/93752_energes-oi-aitiseis-gia-73-proslipseis-sto-ypoyrgeio-politismoy",
-   "first_seen": "2026-10-23",
-   "detail_file": "data/details/proson/93752.md",
-   "text_chars": 4149
-  },
-  {
-   "source": "kariera",
-   "id": "355381",
-   "title": "Υπεύθυνος Επικοινωνίας και Customer Service",
-   "company": "Attitude Marketing",
-   "location": "Αθήνα",
-   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/355381",
-   "first_seen": "2026-10-23",
-   "detail_file": "data/details/kariera/355381.md",
-   "text_chars": 1201
-  },
-  {
-   "source": "kariera",
-   "id": "355410",
-   "title": "🎓 Φοιτητές | Ξεκίνα την καριέρα σου στο Direct Marketing – Δεν απαιτείται εμπειρία",
-   "url": "https://www.kariera.gr/jobs/other-jobs/355410",
-   "first_seen": "2026-10-23",
-   "detail_file": "data/details/kariera/355410.md",
-   "text_chars": 2455
-  },
-  {
-   "source": "kariera",
-   "id": "355602",
-   "title": "Internal Events Specialist",
-   "company": "ΔΕΗ Α.Ε.",
-   "location": "Αθήνα",
-   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/355602",
-   "apply": [
-    "https://hiringnow.dei.gr/adsUtilities"
-   ],
-   "first_seen": "2026-10-23",
-   "detail_file": "data/details/kariera/355602.md",
-   "text_chars": 3660
-  },
-  {
-   "source": "kariera",
-   "id": "355485",
-   "title": "BUSINESS OPERATIONS & PROJECT MANAGER",
-   "company": "ΝΤΑΒΟΥ Α.Ε.",
-   "location": "Αθήνα",
-   "url": "https://www.kariera.gr/jobs/strategy-or-planning-jobs/355485",
-   "first_seen": "2026-10-23",
-   "detail_file": "data/details/kariera/355485.md",
-   "text_chars": 1523
-  },
-  {
-   "source": "jobfind",
-   "id": "ce045be5-2e4b-408d-b923-6dda91447029",
-   "title": "News Content & Product Development Manager",
-   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΑΓΙΟΙ ΑΝΑΡΓΥΡΟΙ",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/ce045be5-2e4b-408d-b923-6dda91447029/",
-   "first_seen": "2026-10-23",
-   "detail_file": "data/details/jobfind/ce045be5-2e4b-408d-b923-6dda91447029.md",
-   "text_chars": 3990
-  },
-  {
-   "source": "jobfind",
-   "id": "efd61763-fa7c-4535-bf73-26ab4dc8469e",
-   "title": "Client Development Representative",
-   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΑΜΠΕΛΟΚΗΠΟΙ",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/efd61763-fa7c-4535-bf73-26ab4dc8469e/",
-   "first_seen": "2026-10-23",
-   "detail_file": "data/details/jobfind/efd61763-fa7c-4535-bf73-26ab4dc8469e.md",
-   "text_chars": 1593
-  },
-  {
-   "source": "jobfind",
-   "id": "8bd98a8a-2ebb-41cd-a59a-b652a9be6ffd",
-   "title": "Άμεσο ξεκίνημα σε εταιρία Marketing",
-   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/8bd98a8a-2ebb-41cd-a59a-b652a9be6ffd/",
-   "first_seen": "2026-10-23",
-   "detail_file": "data/details/jobfind/8bd98a8a-2ebb-41cd-a59a-b652a9be6ffd.md",
-   "text_chars": 1081
-  },
-  {
-   "source": "alfavita",
-   "id": "565532",
-   "title": "23.10.2026 - 13:49 Γαλλόφωνο Πανεπιστήμιο Ελλάδος: Πρόσκληση εκδήλωσης ενδιαφέροντος για διδακτικό προσωπικό Τι πρέπει να κάνουν οι ενδιαφερόμενοι",
-   "url": "https://www.alfavita.gr/ergasia/565532_gallofono-panepistimio-ellados-prosklisi-ekdilosis-endiaferontos-gia-didaktiko",
-   "apply": [
-    "mailto:",
-    "mailto:contact@ufg.edu.gr"
-   ],
-   "first_seen": "2026-10-23",
-   "detail_file": "data/details/alfavita/565532.md",
-   "text_chars": 7000
   }
  ]
 }
