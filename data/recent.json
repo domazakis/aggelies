@@ -1,8 +1,168 @@
 {
  "_perigrafi": "Αγγελίες που εμφανίστηκαν για πρώτη φορά τις τελευταίες 3 ημέρες. Το πλήρες κείμενο κάθε αγγελίας είναι στο detail_file. Έχουν ήδη αφαιρεθεί όσες είναι προφανώς άσχετες από τον τίτλο (δες excluded.json).",
- "enimerosi": "2026-10-26T19:30+00:00",
+ "enimerosi": "2026-10-27T19:09+00:00",
  "proti_ektelesi": false,
  "listings": [
+  {
+   "source": "workable",
+   "id": "2ac09ba6-1208-432b-bb1c-13c56c36fabd",
+   "title": "Event & Partnerships Specialist",
+   "company": "SalesCaptain",
+   "location": "Athens, Attica",
+   "posted": "2026-10-27",
+   "employment": "Full-time",
+   "workplace": "remote",
+   "url": "https://jobs.workable.com/view/6hco9VdRUQuimXizpEqdhM/remote-event-%26-partnerships-specialist-in-athens-at-salescaptain",
+   "apply": [
+    "https://jobs.workable.com/view/6hco9VdRUQuimXizpEqdhM/remote-event-%26-partnerships-specialist-in-athens-at-salescaptain/apply"
+   ],
+   "first_seen": "2026-10-27",
+   "detail_file": "data/details/workable/2ac09ba6-1208-432b-bb1c-13c56c36fabd.md",
+   "text_chars": 1895
+  },
+  {
+   "source": "workable",
+   "id": "c0428ba9-40b2-4388-9b84-42c6a6eb7db1",
+   "title": "Project Manager",
+   "company": "Exagon Blue S.A",
+   "location": "Tavros, Attica",
+   "posted": "2026-10-27",
+   "employment": "Full-time",
+   "workplace": "on_site",
+   "url": "https://jobs.workable.com/view/pJYZ7jUarJH31CZwKth7hH/project-manager-in-tavros-at-exagon-blue-s.a",
+   "apply": [
+    "https://jobs.workable.com/view/pJYZ7jUarJH31CZwKth7hH/project-manager-in-tavros-at-exagon-blue-s.a/apply"
+   ],
+   "first_seen": "2026-10-27",
+   "detail_file": "data/details/workable/c0428ba9-40b2-4388-9b84-42c6a6eb7db1.md",
+   "text_chars": 1348
+  },
+  {
+   "source": "workable",
+   "id": "5e54036e-9e26-4e46-a6e0-1ca791612d04",
+   "title": "SEO Content Writer",
+   "company": "Yodeck",
+   "location": "Athens, Attica",
+   "posted": "2026-10-27",
+   "employment": "Full-time",
+   "workplace": "hybrid",
+   "url": "https://jobs.workable.com/view/cDA2s8xbTzg4PEvu7kJmaJ/hybrid-seo-content-writer-in-athens-at-yodeck",
+   "apply": [
+    "https://jobs.workable.com/view/cDA2s8xbTzg4PEvu7kJmaJ/hybrid-seo-content-writer-in-athens-at-yodeck/apply"
+   ],
+   "first_seen": "2026-10-27",
+   "detail_file": "data/details/workable/5e54036e-9e26-4e46-a6e0-1ca791612d04.md",
+   "text_chars": 4745
+  },
+  {
+   "source": "kariera",
+   "id": "356113",
+   "title": "Υπεύθυνος Επικοινωνίας και Customer Service",
+   "company": "Attitude Marketing",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/356113",
+   "first_seen": "2026-10-27",
+   "detail_file": "data/details/kariera/356113.md",
+   "text_chars": 1201
+  },
+  {
+   "source": "kariera",
+   "id": "356265",
+   "title": "Marketing Coordinator",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/356265",
+   "first_seen": "2026-10-27",
+   "detail_file": "data/details/kariera/356265.md",
+   "text_chars": 2120
+  },
+  {
+   "source": "kariera",
+   "id": "356187",
+   "title": "Digital Marketing Specialist",
+   "company": "attrattivo",
+   "location": "Κηφισιά",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/356187",
+   "first_seen": "2026-10-27",
+   "detail_file": "data/details/kariera/356187.md",
+   "text_chars": 2319
+  },
+  {
+   "source": "kariera",
+   "id": "356160",
+   "title": "Marketing Manager",
+   "company": "The Ixian Grand & All Suites",
+   "location": "Ιαλυσός",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/356160",
+   "first_seen": "2026-10-27",
+   "detail_file": "data/details/kariera/356160.md",
+   "text_chars": 2770
+  },
+  {
+   "source": "kariera",
+   "id": "356051",
+   "title": "Part-Time Freelance Social Media Manager | DMA Academy",
+   "company": "DMA Academy",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/356051",
+   "first_seen": "2026-10-27",
+   "detail_file": "data/details/kariera/356051.md",
+   "text_chars": 2948
+  },
+  {
+   "source": "kariera",
+   "id": "356270",
+   "title": "Guest Relations Manager & Events Executive",
+   "company": "MHV Group",
+   "location": "Κρανίδι",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/356270",
+   "first_seen": "2026-10-27",
+   "detail_file": "data/details/kariera/356270.md",
+   "text_chars": 2860
+  },
+  {
+   "source": "kariera",
+   "id": "356251",
+   "title": "Guest Relations Officer - InterContinental Athens",
+   "company": "DONKEY HOTELS AE",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/356251",
+   "first_seen": "2026-10-27",
+   "detail_file": "data/details/kariera/356251.md",
+   "text_chars": 2186
+  },
+  {
+   "source": "kariera",
+   "id": "356140",
+   "title": "MICE Executive",
+   "company": "MARINE TOURS SA",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/356140",
+   "first_seen": "2026-10-27",
+   "detail_file": "data/details/kariera/356140.md",
+   "text_chars": 4601
+  },
+  {
+   "source": "jobfind",
+   "id": "f942dbe0-de1b-406b-952a-701364be1c6f",
+   "title": "Event manager",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΧΟΛΑΡΓΟΣ",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/f942dbe0-de1b-406b-952a-701364be1c6f/",
+   "first_seen": "2026-10-27",
+   "detail_file": "data/details/jobfind/f942dbe0-de1b-406b-952a-701364be1c6f.md",
+   "text_chars": 1335
+  },
+  {
+   "source": "jobfind",
+   "id": "9f84c39b-9474-4961-8f85-91ebeb71037e",
+   "title": "Public Area Coordinator - 91 Athens Riviera",
+   "location": "91 Athens Riviera - ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΒΟΥΛΑ",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/9f84c39b-9474-4961-8f85-91ebeb71037e/",
+   "apply": [
+    "https://apply.workable.com/j/5E6128976B"
+   ],
+   "first_seen": "2026-10-27",
+   "detail_file": "data/details/jobfind/9f84c39b-9474-4961-8f85-91ebeb71037e.md",
+   "text_chars": 3490
+  },
   {
    "source": "kariera",
    "id": "355914",
@@ -98,49 +258,6 @@
    "first_seen": "2026-10-25",
    "detail_file": "data/details/alfavita/565482.md",
    "text_chars": 3974
-  },
-  {
-   "source": "kariera",
-   "id": "348412",
-   "title": "Διευθυντής Συντήρησης",
-   "company": "OPTIMAL HR GROUP",
-   "location": "Θεσσαλονίκη",
-   "url": "https://www.kariera.gr/jobs/general-management-jobs/348412",
-   "first_seen": "2026-10-24",
-   "detail_file": "data/details/kariera/348412.md",
-   "text_chars": 2997
-  },
-  {
-   "source": "kariera",
-   "id": "355710",
-   "title": "Υπάλληλος Υποδοχής / Receptionist - Παργα τουριστική σεζόν 2027",
-   "company": "Lichnos beach hotel",
-   "location": "Ιωάννινα",
-   "url": "https://www.kariera.gr/jobs/tourism-jobs/355710",
-   "first_seen": "2026-10-24",
-   "detail_file": "data/details/kariera/355710.md",
-   "text_chars": 1146
-  },
-  {
-   "source": "kariera",
-   "id": "355708",
-   "title": "Reception Shift Leader - Παργα τουριστική σεζόν 2027",
-   "company": "Lichnos beach hotel",
-   "location": "Ιωάννινα",
-   "url": "https://www.kariera.gr/jobs/tourism-jobs/355708",
-   "first_seen": "2026-10-24",
-   "detail_file": "data/details/kariera/355708.md",
-   "text_chars": 1135
-  },
-  {
-   "source": "jobfind",
-   "id": "e010bdf7-121e-4e4b-927f-83c63532ed1c",
-   "title": "Promotion & Events",
-   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΑΘΗΝ",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/e010bdf7-121e-4e4b-927f-83c63532ed1c/",
-   "first_seen": "2026-10-24",
-   "detail_file": "data/details/jobfind/e010bdf7-121e-4e4b-927f-83c63532ed1c.md",
-   "text_chars": 1444
   }
  ]
 }
