@@ -1,8 +1,28 @@
 {
  "_perigrafi": "Αγγελίες που εμφανίστηκαν για πρώτη φορά τις τελευταίες 3 ημέρες. Το πλήρες κείμενο κάθε αγγελίας είναι στο detail_file. Έχουν ήδη αφαιρεθεί όσες είναι προφανώς άσχετες από τον τίτλο (δες excluded.json).",
- "enimerosi": "2026-10-27T19:09+00:00",
+ "enimerosi": "2026-10-28T19:03+00:00",
  "proti_ektelesi": false,
  "listings": [
+  {
+   "source": "kariera",
+   "id": "356094",
+   "title": "🎓 Φοιτητές | Ξεκίνα την καριέρα σου στο Direct Marketing – Δεν απαιτείται εμπειρία",
+   "url": "https://www.kariera.gr/jobs/other-jobs/356094",
+   "first_seen": "2026-10-28",
+   "detail_file": "data/details/kariera/356094.md",
+   "text_chars": 2455
+  },
+  {
+   "source": "kariera",
+   "id": "356348",
+   "title": "Guest Services & Transportation Coordinator",
+   "company": "SANDBLU",
+   "location": "Θήρα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/356348",
+   "first_seen": "2026-10-28",
+   "detail_file": "data/details/kariera/356348.md",
+   "text_chars": 5090
+  },
   {
    "source": "workable",
    "id": "2ac09ba6-1208-432b-bb1c-13c56c36fabd",
@@ -217,47 +237,6 @@
    "first_seen": "2026-10-26",
    "detail_file": "data/details/jobfind/8dba73e0-91f4-44f9-aa2c-e36d6d3e0b26.md",
    "text_chars": 5214
-  },
-  {
-   "source": "workable",
-   "id": "bed8e92d-713a-46a7-b747-4f11fe275a70",
-   "title": "EU Proposal Writer & Funding Specialist",
-   "company": "AI2CYBER",
-   "location": "Athens, Attica",
-   "posted": "2026-10-25",
-   "employment": "Full-time",
-   "workplace": "remote",
-   "url": "https://jobs.workable.com/view/pySb7rZW2GCa5jHhJSjV6J/remote-eu-proposal-writer-%26-funding-specialist-in-athens-at-ai2cyber",
-   "apply": [
-    "https://jobs.workable.com/view/pySb7rZW2GCa5jHhJSjV6J/remote-eu-proposal-writer-%26-funding-specialist-in-athens-at-ai2cyber/apply"
-   ],
-   "emails": [
-    "careers@ai2cyber.com"
-   ],
-   "first_seen": "2026-10-25",
-   "detail_file": "data/details/workable/bed8e92d-713a-46a7-b747-4f11fe275a70.md",
-   "text_chars": 6381
-  },
-  {
-   "source": "proson",
-   "id": "93883",
-   "title": "Εθνικό Αρχαιολογικό Μουσείο: Αντίστροφη μέτρηση για 60 προσλήψεις",
-   "url": "https://www.proson.gr/ergasia/prokiryxeis/93883_ethniko-arhaiologiko-moyseio-antistrofi-metrisi-gia-60-proslipseis",
-   "first_seen": "2026-10-25",
-   "detail_file": "data/details/proson/93883.md",
-   "text_chars": 3674
-  },
-  {
-   "source": "alfavita",
-   "id": "565482",
-   "title": "25.10.2026 - 05:00 Εθνικό Αρχαιολογικό Μουσείο: Τέλος χρόνου για τις 60 προσλήψεις Οι αιτήσεις κλείνουν αύριο, πρωί της Δευτέρας",
-   "url": "https://www.alfavita.gr/ergasia/565482_ethniko-arhaiologiko-moyseio-telos-hronoy-gia-tis-60-proslipseis",
-   "apply": [
-    "mailto:"
-   ],
-   "first_seen": "2026-10-25",
-   "detail_file": "data/details/alfavita/565482.md",
-   "text_chars": 3974
   }
  ]
 }
