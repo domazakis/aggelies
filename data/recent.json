@@ -1,8 +1,151 @@
 {
  "_perigrafi": "Αγγελίες που εμφανίστηκαν για πρώτη φορά τις τελευταίες 3 ημέρες. Το πλήρες κείμενο κάθε αγγελίας είναι στο detail_file. Έχουν ήδη αφαιρεθεί όσες είναι προφανώς άσχετες από τον τίτλο (δες excluded.json).",
- "enimerosi": "2026-10-28T19:03+00:00",
+ "enimerosi": "2026-10-29T19:06+00:00",
  "proti_ektelesi": false,
  "listings": [
+  {
+   "source": "workable",
+   "id": "a05c2395-5cc0-4760-ab2c-af97b2b0400d",
+   "title": "Corporate Communications Manager",
+   "company": "Zeya",
+   "location": "Athens, Attica",
+   "posted": "2026-10-29",
+   "employment": "Full-time",
+   "workplace": "on_site",
+   "url": "https://jobs.workable.com/view/kNvFs15buCnuBWiZTnQR4c/corporate-communications-manager-in-athens-at-zeya",
+   "apply": [
+    "https://jobs.workable.com/view/kNvFs15buCnuBWiZTnQR4c/corporate-communications-manager-in-athens-at-zeya/apply"
+   ],
+   "emails": [
+    "hr_recruitment@zeya.com"
+   ],
+   "first_seen": "2026-10-29",
+   "detail_file": "data/details/workable/a05c2395-5cc0-4760-ab2c-af97b2b0400d.md",
+   "text_chars": 4073
+  },
+  {
+   "source": "workable",
+   "id": "c72bf9e1-dc42-4d48-ab53-3c96f5104ca8",
+   "title": "Brand Manager (Pharamaceutical Industry)",
+   "company": "Hatzi Filax Group",
+   "location": "Athens, Attica",
+   "posted": "2026-10-29",
+   "employment": "Full-time",
+   "workplace": "on_site",
+   "url": "https://jobs.workable.com/view/qAuaQgbzgR9Tq15mrVzr5C/brand-manager-(pharamaceutical-industry)-in-athens-at-hatzi-filax-group",
+   "apply": [
+    "https://jobs.workable.com/view/qAuaQgbzgR9Tq15mrVzr5C/brand-manager-(pharamaceutical-industry)-in-athens-at-hatzi-filax-group/apply"
+   ],
+   "first_seen": "2026-10-29",
+   "detail_file": "data/details/workable/c72bf9e1-dc42-4d48-ab53-3c96f5104ca8.md",
+   "text_chars": 1863
+  },
+  {
+   "source": "proson",
+   "id": "94142",
+   "title": "29 Οκτ 2026 16:10 Μουσείο Βυζαντινού Πολιτισμού: 30 προσλήψεις και με απολυτήριο γυμνασίου Οι ζητούμενες ειδικότητες",
+   "url": "https://www.proson.gr/ergasia/prokiryxeis/94142_moyseio-byzantinoy-politismoy-30-proslipseis-kai-me-apolytirio-gymnasioy",
+   "first_seen": "2026-10-29",
+   "detail_file": "data/details/proson/94142.md",
+   "text_chars": 4551
+  },
+  {
+   "source": "kariera",
+   "id": "356506",
+   "title": "Marketing- Επικοινωνία- Πωλήσεις",
+   "url": "https://www.kariera.gr/jobs/other-jobs/356506",
+   "first_seen": "2026-10-29",
+   "detail_file": "data/details/kariera/356506.md",
+   "text_chars": 815
+  },
+  {
+   "source": "kariera",
+   "id": "356510",
+   "title": "Υπεύθυνος Επικοινωνίας και Customer Service",
+   "company": "Attitude Marketing",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/356510",
+   "first_seen": "2026-10-29",
+   "detail_file": "data/details/kariera/356510.md",
+   "text_chars": 1201
+  },
+  {
+   "source": "kariera",
+   "id": "302226",
+   "title": "Brand PR Manager",
+   "company": "Αθηναϊκή Ζυθοποιία Α.Ε.",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/302226",
+   "first_seen": "2026-10-29",
+   "detail_file": "data/details/kariera/302226.md",
+   "text_chars": 4216
+  },
+  {
+   "source": "kariera",
+   "id": "356522",
+   "title": "Senior Project Manager",
+   "company": "WHEELSYS SA",
+   "location": "Ηράκλειο",
+   "url": "https://www.kariera.gr/jobs/operations-jobs/356522",
+   "first_seen": "2026-10-29",
+   "detail_file": "data/details/kariera/356522.md",
+   "text_chars": 3491
+  },
+  {
+   "source": "kariera",
+   "id": "356520",
+   "title": "Marketing Manager",
+   "company": "ΛΑΚΙΩΤΗΣ Α.Ε.",
+   "location": "Ασπρόπυργος",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/356520",
+   "first_seen": "2026-10-29",
+   "detail_file": "data/details/kariera/356520.md",
+   "text_chars": 4684
+  },
+  {
+   "source": "kariera",
+   "id": "356460",
+   "title": "Digital Services Development Associate",
+   "company": "AEGEAN AIRLINES",
+   "location": "Παιανία",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/356460",
+   "first_seen": "2026-10-29",
+   "detail_file": "data/details/kariera/356460.md",
+   "text_chars": 3771
+  },
+  {
+   "source": "jobfind",
+   "id": "7960cd1b-4554-4902-ac98-d5307eefb4c6",
+   "title": "Social Media & Content Specialist",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΜΟΝΑΣΤΗΡΑΚΙ",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/7960cd1b-4554-4902-ac98-d5307eefb4c6/",
+   "first_seen": "2026-10-29",
+   "detail_file": "data/details/jobfind/7960cd1b-4554-4902-ac98-d5307eefb4c6.md",
+   "text_chars": 1351
+  },
+  {
+   "source": "jobfind",
+   "id": "ba29300e-8c12-4601-a935-7ada0b45704e",
+   "title": "Facilities & Events Administrator",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΜΑΡΟΥΣΙ",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/ba29300e-8c12-4601-a935-7ada0b45704e/",
+   "first_seen": "2026-10-29",
+   "detail_file": "data/details/jobfind/ba29300e-8c12-4601-a935-7ada0b45704e.md",
+   "text_chars": 2702
+  },
+  {
+   "source": "jobfind",
+   "id": "4ac90ad0-cd6f-49bb-a5f3-1c37a2835301",
+   "title": "Σύμβουλος Επενδυτικών Προγραμμάτων",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΣΥΝΤΑΓΜΑ",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/4ac90ad0-cd6f-49bb-a5f3-1c37a2835301/",
+   "apply": [
+    "https://apply.smartcv.co/samaras-co/job/l4d1l"
+   ],
+   "first_seen": "2026-10-29",
+   "detail_file": "data/details/jobfind/4ac90ad0-cd6f-49bb-a5f3-1c37a2835301.md",
+   "text_chars": 2108
+  },
   {
    "source": "kariera",
    "id": "356094",
@@ -182,61 +325,6 @@
    "first_seen": "2026-10-27",
    "detail_file": "data/details/jobfind/9f84c39b-9474-4961-8f85-91ebeb71037e.md",
    "text_chars": 3490
-  },
-  {
-   "source": "kariera",
-   "id": "355914",
-   "title": "Marketing- Επικοινωνία- Πωλήσεις",
-   "url": "https://www.kariera.gr/jobs/other-jobs/355914",
-   "first_seen": "2026-10-26",
-   "detail_file": "data/details/kariera/355914.md",
-   "text_chars": 815
-  },
-  {
-   "source": "kariera",
-   "id": "355797",
-   "title": "Marketing Executive",
-   "company": "VEESION - The New Era Advertising Agency",
-   "location": "Αθήνα",
-   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/355797",
-   "first_seen": "2026-10-26",
-   "detail_file": "data/details/kariera/355797.md",
-   "text_chars": 2711
-  },
-  {
-   "source": "kariera",
-   "id": "356023",
-   "title": "BRAND MANAGER",
-   "company": "KAYAK ABEE",
-   "location": "Κρωπία",
-   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/356023",
-   "first_seen": "2026-10-26",
-   "detail_file": "data/details/kariera/356023.md",
-   "text_chars": 1431
-  },
-  {
-   "source": "kariera",
-   "id": "355821",
-   "title": "B2B Marketing Specialist",
-   "company": "Nespresso Professional",
-   "location": "Synergy SA | Αθήνα",
-   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/355821",
-   "first_seen": "2026-10-26",
-   "detail_file": "data/details/kariera/355821.md",
-   "text_chars": 3465
-  },
-  {
-   "source": "jobfind",
-   "id": "8dba73e0-91f4-44f9-aa2c-e36d6d3e0b26",
-   "title": "Marketing Executive",
-   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΓΛΥΦΑΔΑ",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/8dba73e0-91f4-44f9-aa2c-e36d6d3e0b26/",
-   "apply": [
-    "https://sandbluresort.careers.hibob.com/jobs/0993bc58-c58f-4fd2-969b-31f679023da0"
-   ],
-   "first_seen": "2026-10-26",
-   "detail_file": "data/details/jobfind/8dba73e0-91f4-44f9-aa2c-e36d6d3e0b26.md",
-   "text_chars": 5214
   }
  ]
 }
