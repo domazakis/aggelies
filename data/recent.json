@@ -1,8 +1,157 @@
 {
  "_perigrafi": "Αγγελίες που εμφανίστηκαν για πρώτη φορά τις τελευταίες 3 ημέρες. Το πλήρες κείμενο κάθε αγγελίας είναι στο detail_file. Έχουν ήδη αφαιρεθεί όσες είναι προφανώς άσχετες από τον τίτλο (δες excluded.json).",
- "enimerosi": "2026-10-29T19:06+00:00",
+ "enimerosi": "2026-10-30T18:44+00:00",
  "proti_ektelesi": false,
  "listings": [
+  {
+   "source": "workable",
+   "id": "a2029f4f-bcbd-48d7-8bc3-63921d80b6fe",
+   "title": "Brand & Corporate Communications Manager",
+   "company": "PEOPLECERT",
+   "location": "Athens, Attica",
+   "posted": "2026-10-30",
+   "employment": "Full-time",
+   "workplace": "on_site",
+   "url": "https://jobs.workable.com/view/m1keaUxmcUocnDbZm62SK1/brand-%26-corporate-communications-manager-in-athens-at-peoplecert",
+   "apply": [
+    "https://jobs.workable.com/view/m1keaUxmcUocnDbZm62SK1/brand-%26-corporate-communications-manager-in-athens-at-peoplecert/apply"
+   ],
+   "first_seen": "2026-10-30",
+   "detail_file": "data/details/workable/a2029f4f-bcbd-48d7-8bc3-63921d80b6fe.md",
+   "text_chars": 5027
+  },
+  {
+   "source": "workable",
+   "id": "129f94fa-62aa-455f-8e7d-1723ac2eae4a",
+   "title": "Brand PR Manager",
+   "company": "Αθηναϊκή Ζυθοποιία",
+   "location": "Athens, Central Athens",
+   "posted": "2026-10-30",
+   "employment": "Full-time",
+   "workplace": "on_site",
+   "url": "https://jobs.workable.com/view/3ioaDNBr12rysJBYevKdkC/brand-pr-manager-in-athens-at-%CE%B1%CE%B8%CE%B7%CE%BD%CE%B1%CF%8A%CE%BA%CE%AE-%CE%B6%CF%85%CE%B8%CE%BF%CF%80%CE%BF%CE%B9%CE%AF%CE%B1",
+   "apply": [
+    "https://jobs.workable.com/view/3ioaDNBr12rysJBYevKdkC/brand-pr-manager-in-athens-at-%CE%B1%CE%B8%CE%B7%CE%BD%CE%B1%CF%8A%CE%BA%CE%AE-%CE%B6%CF%85%CE%B8%CE%BF%CF%80%CE%BF%CE%B9%CE%AF%CE%B1/apply"
+   ],
+   "first_seen": "2026-10-30",
+   "detail_file": "data/details/workable/129f94fa-62aa-455f-8e7d-1723ac2eae4a.md",
+   "text_chars": 3952
+  },
+  {
+   "source": "workable",
+   "id": "8c367cba-3ee5-429a-a76a-24fa156d6232",
+   "title": "Marketing Manager - YAMAHA",
+   "company": "Motodynamics",
+   "location": "Marousi, Attica",
+   "posted": "2026-10-30",
+   "employment": "Full-time",
+   "workplace": "on_site",
+   "url": "https://jobs.workable.com/view/ijdyDszYHJUpeAnQLzmEmA/marketing-manager---yamaha-in-marousi-at-motodynamics",
+   "apply": [
+    "https://jobs.workable.com/view/ijdyDszYHJUpeAnQLzmEmA/marketing-manager---yamaha-in-marousi-at-motodynamics/apply"
+   ],
+   "first_seen": "2026-10-30",
+   "detail_file": "data/details/workable/8c367cba-3ee5-429a-a76a-24fa156d6232.md",
+   "text_chars": 3764
+  },
+  {
+   "source": "workable",
+   "id": "a0eacc26-fbe4-457a-bbe1-8f04782a1914",
+   "title": "Digital Services Development Associate",
+   "company": "AEGEAN",
+   "location": "Spata, Anatoliki Attiki",
+   "posted": "2026-10-30",
+   "workplace": "on_site",
+   "url": "https://jobs.workable.com/view/kSvaDKPwSP64BMGEWmdMMN/digital-services-development-associate-in-spata-at-aegean",
+   "apply": [
+    "https://jobs.workable.com/view/kSvaDKPwSP64BMGEWmdMMN/digital-services-development-associate-in-spata-at-aegean/apply"
+   ],
+   "first_seen": "2026-10-30",
+   "detail_file": "data/details/workable/a0eacc26-fbe4-457a-bbe1-8f04782a1914.md",
+   "text_chars": 3293
+  },
+  {
+   "source": "proson",
+   "id": "94192",
+   "title": "30 Οκτ 2026 15:55 ΑΣΕΠ: Μόνιμες προσλήψεις εκπαιδευτικών στις ΣΑΕΚ Τουρισμού - Από τη Δευτέρα οι ενστάσεις Για την υποβολή ένστασης απαιτείται ηλεκτρονικό παράβολο αξίας 50 ευρώ",
+   "url": "https://www.proson.gr/ergasia/prokiryxeis/94192_asep-monimes-proslipseis-ekpaideytikon-stis-saek-toyrismoy-apo-ti-deytera",
+   "first_seen": "2026-10-30",
+   "detail_file": "data/details/proson/94192.md",
+   "text_chars": 4018
+  },
+  {
+   "source": "kariera",
+   "id": "356725",
+   "title": "🎓 Φοιτητές | Ξεκίνα την καριέρα σου στο Direct Marketing – Δεν απαιτείται εμπειρία",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/356725",
+   "first_seen": "2026-10-30",
+   "detail_file": "data/details/kariera/356725.md",
+   "text_chars": 2463
+  },
+  {
+   "source": "kariera",
+   "id": "357124",
+   "title": "Brand & Corporate Communications Manager",
+   "company": "PeopleCert",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/357124",
+   "first_seen": "2026-10-30",
+   "detail_file": "data/details/kariera/357124.md",
+   "text_chars": 5411
+  },
+  {
+   "source": "kariera",
+   "id": "356912",
+   "title": "MARKETING SPECIALIST",
+   "company": "ΔΗΜΗΤΡΙΟΣ ΧΡ. ΣΟΒΟΛΟΣ",
+   "location": "Κρωπία",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/356912",
+   "first_seen": "2026-10-30",
+   "detail_file": "data/details/kariera/356912.md",
+   "text_chars": 1835
+  },
+  {
+   "source": "kariera",
+   "id": "356878",
+   "title": "Νέες Θέσεις Σε Εταιρεία Marketing",
+   "company": "ΚΟΝΤΑΞΟΠΟΥΛΟΣ ΕΥΣΤΡΑΤΙΟΣ",
+   "location": "Λάρισα",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/356878",
+   "first_seen": "2026-10-30",
+   "detail_file": "data/details/kariera/356878.md",
+   "text_chars": 769
+  },
+  {
+   "source": "kariera",
+   "id": "356804",
+   "title": "BRAND AMBASSADOR",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/356804",
+   "first_seen": "2026-10-30",
+   "detail_file": "data/details/kariera/356804.md",
+   "text_chars": 704
+  },
+  {
+   "source": "kariera",
+   "id": "356970",
+   "title": "Ημέρες Καριέρας Τουρισμού Αθήνας 2026 | 27 & 28 Νοεμβρίου στο Ωδείο Αθηνών",
+   "company": "kariera.gr",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/356970",
+   "first_seen": "2026-10-30",
+   "detail_file": "data/details/kariera/356970.md",
+   "text_chars": 1173
+  },
+  {
+   "source": "kariera",
+   "id": "356727",
+   "title": "ΥΠΑΛΛΗΛΟΣ ΤΟΥΡΙΣΤΙΚΟΥ ΓΡΑΦΕΙΟΥ",
+   "company": "SOPHIE TRAVEL",
+   "location": "Αίγιο",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/356727",
+   "first_seen": "2026-10-30",
+   "detail_file": "data/details/kariera/356727.md",
+   "text_chars": 952
+  },
   {
    "source": "workable",
    "id": "a05c2395-5cc0-4760-ab2c-af97b2b0400d",
@@ -165,166 +314,6 @@
    "first_seen": "2026-10-28",
    "detail_file": "data/details/kariera/356348.md",
    "text_chars": 5090
-  },
-  {
-   "source": "workable",
-   "id": "2ac09ba6-1208-432b-bb1c-13c56c36fabd",
-   "title": "Event & Partnerships Specialist",
-   "company": "SalesCaptain",
-   "location": "Athens, Attica",
-   "posted": "2026-10-27",
-   "employment": "Full-time",
-   "workplace": "remote",
-   "url": "https://jobs.workable.com/view/6hco9VdRUQuimXizpEqdhM/remote-event-%26-partnerships-specialist-in-athens-at-salescaptain",
-   "apply": [
-    "https://jobs.workable.com/view/6hco9VdRUQuimXizpEqdhM/remote-event-%26-partnerships-specialist-in-athens-at-salescaptain/apply"
-   ],
-   "first_seen": "2026-10-27",
-   "detail_file": "data/details/workable/2ac09ba6-1208-432b-bb1c-13c56c36fabd.md",
-   "text_chars": 1895
-  },
-  {
-   "source": "workable",
-   "id": "c0428ba9-40b2-4388-9b84-42c6a6eb7db1",
-   "title": "Project Manager",
-   "company": "Exagon Blue S.A",
-   "location": "Tavros, Attica",
-   "posted": "2026-10-27",
-   "employment": "Full-time",
-   "workplace": "on_site",
-   "url": "https://jobs.workable.com/view/pJYZ7jUarJH31CZwKth7hH/project-manager-in-tavros-at-exagon-blue-s.a",
-   "apply": [
-    "https://jobs.workable.com/view/pJYZ7jUarJH31CZwKth7hH/project-manager-in-tavros-at-exagon-blue-s.a/apply"
-   ],
-   "first_seen": "2026-10-27",
-   "detail_file": "data/details/workable/c0428ba9-40b2-4388-9b84-42c6a6eb7db1.md",
-   "text_chars": 1348
-  },
-  {
-   "source": "workable",
-   "id": "5e54036e-9e26-4e46-a6e0-1ca791612d04",
-   "title": "SEO Content Writer",
-   "company": "Yodeck",
-   "location": "Athens, Attica",
-   "posted": "2026-10-27",
-   "employment": "Full-time",
-   "workplace": "hybrid",
-   "url": "https://jobs.workable.com/view/cDA2s8xbTzg4PEvu7kJmaJ/hybrid-seo-content-writer-in-athens-at-yodeck",
-   "apply": [
-    "https://jobs.workable.com/view/cDA2s8xbTzg4PEvu7kJmaJ/hybrid-seo-content-writer-in-athens-at-yodeck/apply"
-   ],
-   "first_seen": "2026-10-27",
-   "detail_file": "data/details/workable/5e54036e-9e26-4e46-a6e0-1ca791612d04.md",
-   "text_chars": 4745
-  },
-  {
-   "source": "kariera",
-   "id": "356113",
-   "title": "Υπεύθυνος Επικοινωνίας και Customer Service",
-   "company": "Attitude Marketing",
-   "location": "Αθήνα",
-   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/356113",
-   "first_seen": "2026-10-27",
-   "detail_file": "data/details/kariera/356113.md",
-   "text_chars": 1201
-  },
-  {
-   "source": "kariera",
-   "id": "356265",
-   "title": "Marketing Coordinator",
-   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/356265",
-   "first_seen": "2026-10-27",
-   "detail_file": "data/details/kariera/356265.md",
-   "text_chars": 2120
-  },
-  {
-   "source": "kariera",
-   "id": "356187",
-   "title": "Digital Marketing Specialist",
-   "company": "attrattivo",
-   "location": "Κηφισιά",
-   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/356187",
-   "first_seen": "2026-10-27",
-   "detail_file": "data/details/kariera/356187.md",
-   "text_chars": 2319
-  },
-  {
-   "source": "kariera",
-   "id": "356160",
-   "title": "Marketing Manager",
-   "company": "The Ixian Grand & All Suites",
-   "location": "Ιαλυσός",
-   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/356160",
-   "first_seen": "2026-10-27",
-   "detail_file": "data/details/kariera/356160.md",
-   "text_chars": 2770
-  },
-  {
-   "source": "kariera",
-   "id": "356051",
-   "title": "Part-Time Freelance Social Media Manager | DMA Academy",
-   "company": "DMA Academy",
-   "location": "Αθήνα",
-   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/356051",
-   "first_seen": "2026-10-27",
-   "detail_file": "data/details/kariera/356051.md",
-   "text_chars": 2948
-  },
-  {
-   "source": "kariera",
-   "id": "356270",
-   "title": "Guest Relations Manager & Events Executive",
-   "company": "MHV Group",
-   "location": "Κρανίδι",
-   "url": "https://www.kariera.gr/jobs/tourism-jobs/356270",
-   "first_seen": "2026-10-27",
-   "detail_file": "data/details/kariera/356270.md",
-   "text_chars": 2860
-  },
-  {
-   "source": "kariera",
-   "id": "356251",
-   "title": "Guest Relations Officer - InterContinental Athens",
-   "company": "DONKEY HOTELS AE",
-   "location": "Αθήνα",
-   "url": "https://www.kariera.gr/jobs/tourism-jobs/356251",
-   "first_seen": "2026-10-27",
-   "detail_file": "data/details/kariera/356251.md",
-   "text_chars": 2186
-  },
-  {
-   "source": "kariera",
-   "id": "356140",
-   "title": "MICE Executive",
-   "company": "MARINE TOURS SA",
-   "location": "Αθήνα",
-   "url": "https://www.kariera.gr/jobs/tourism-jobs/356140",
-   "first_seen": "2026-10-27",
-   "detail_file": "data/details/kariera/356140.md",
-   "text_chars": 4601
-  },
-  {
-   "source": "jobfind",
-   "id": "f942dbe0-de1b-406b-952a-701364be1c6f",
-   "title": "Event manager",
-   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΧΟΛΑΡΓΟΣ",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/f942dbe0-de1b-406b-952a-701364be1c6f/",
-   "first_seen": "2026-10-27",
-   "detail_file": "data/details/jobfind/f942dbe0-de1b-406b-952a-701364be1c6f.md",
-   "text_chars": 1335
-  },
-  {
-   "source": "jobfind",
-   "id": "9f84c39b-9474-4961-8f85-91ebeb71037e",
-   "title": "Public Area Coordinator - 91 Athens Riviera",
-   "location": "91 Athens Riviera - ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΒΟΥΛΑ",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/9f84c39b-9474-4961-8f85-91ebeb71037e/",
-   "apply": [
-    "https://apply.workable.com/j/5E6128976B"
-   ],
-   "first_seen": "2026-10-27",
-   "detail_file": "data/details/jobfind/9f84c39b-9474-4961-8f85-91ebeb71037e.md",
-   "text_chars": 3490
   }
  ]
 }
