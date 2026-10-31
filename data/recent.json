@@ -1,6 +1,6 @@
 {
  "_perigrafi": "Αγγελίες που εμφανίστηκαν για πρώτη φορά τις τελευταίες 3 ημέρες. Το πλήρες κείμενο κάθε αγγελίας είναι στο detail_file. Έχουν ήδη αφαιρεθεί όσες είναι προφανώς άσχετες από τον τίτλο (δες excluded.json).",
- "enimerosi": "2026-10-30T18:44+00:00",
+ "enimerosi": "2026-10-31T17:54+00:00",
  "proti_ektelesi": false,
  "listings": [
   {
@@ -294,26 +294,6 @@
    "first_seen": "2026-10-29",
    "detail_file": "data/details/jobfind/4ac90ad0-cd6f-49bb-a5f3-1c37a2835301.md",
    "text_chars": 2108
-  },
-  {
-   "source": "kariera",
-   "id": "356094",
-   "title": "🎓 Φοιτητές | Ξεκίνα την καριέρα σου στο Direct Marketing – Δεν απαιτείται εμπειρία",
-   "url": "https://www.kariera.gr/jobs/other-jobs/356094",
-   "first_seen": "2026-10-28",
-   "detail_file": "data/details/kariera/356094.md",
-   "text_chars": 2455
-  },
-  {
-   "source": "kariera",
-   "id": "356348",
-   "title": "Guest Services & Transportation Coordinator",
-   "company": "SANDBLU",
-   "location": "Θήρα",
-   "url": "https://www.kariera.gr/jobs/tourism-jobs/356348",
-   "first_seen": "2026-10-28",
-   "detail_file": "data/details/kariera/356348.md",
-   "text_chars": 5090
   }
  ]
 }
