@@ -1,156 +1,69 @@
 {
  "_perigrafi": "Αγγελίες που εμφανίστηκαν για πρώτη φορά τις τελευταίες 3 ημέρες. Το πλήρες κείμενο κάθε αγγελίας είναι στο detail_file. Έχουν ήδη αφαιρεθεί όσες είναι προφανώς άσχετες από τον τίτλο (δες excluded.json).",
- "enimerosi": "2026-11-01T18:31+00:00",
+ "enimerosi": "2026-11-02T22:26+00:00",
  "proti_ektelesi": false,
  "listings": [
   {
-   "source": "workable",
-   "id": "a2029f4f-bcbd-48d7-8bc3-63921d80b6fe",
-   "title": "Brand & Corporate Communications Manager",
-   "company": "PEOPLECERT",
-   "location": "Athens, Attica",
-   "posted": "2026-10-30",
-   "employment": "Full-time",
-   "workplace": "on_site",
-   "url": "https://jobs.workable.com/view/m1keaUxmcUocnDbZm62SK1/brand-%26-corporate-communications-manager-in-athens-at-peoplecert",
-   "apply": [
-    "https://jobs.workable.com/view/m1keaUxmcUocnDbZm62SK1/brand-%26-corporate-communications-manager-in-athens-at-peoplecert/apply"
-   ],
-   "first_seen": "2026-10-30",
-   "detail_file": "data/details/workable/a2029f4f-bcbd-48d7-8bc3-63921d80b6fe.md",
-   "text_chars": 5027
-  },
-  {
-   "source": "workable",
-   "id": "129f94fa-62aa-455f-8e7d-1723ac2eae4a",
-   "title": "Brand PR Manager",
-   "company": "Αθηναϊκή Ζυθοποιία",
-   "location": "Athens, Central Athens",
-   "posted": "2026-10-30",
-   "employment": "Full-time",
-   "workplace": "on_site",
-   "url": "https://jobs.workable.com/view/3ioaDNBr12rysJBYevKdkC/brand-pr-manager-in-athens-at-%CE%B1%CE%B8%CE%B7%CE%BD%CE%B1%CF%8A%CE%BA%CE%AE-%CE%B6%CF%85%CE%B8%CE%BF%CF%80%CE%BF%CE%B9%CE%AF%CE%B1",
-   "apply": [
-    "https://jobs.workable.com/view/3ioaDNBr12rysJBYevKdkC/brand-pr-manager-in-athens-at-%CE%B1%CE%B8%CE%B7%CE%BD%CE%B1%CF%8A%CE%BA%CE%AE-%CE%B6%CF%85%CE%B8%CE%BF%CF%80%CE%BF%CE%B9%CE%AF%CE%B1/apply"
-   ],
-   "first_seen": "2026-10-30",
-   "detail_file": "data/details/workable/129f94fa-62aa-455f-8e7d-1723ac2eae4a.md",
-   "text_chars": 3952
-  },
-  {
-   "source": "workable",
-   "id": "8c367cba-3ee5-429a-a76a-24fa156d6232",
-   "title": "Marketing Manager - YAMAHA",
-   "company": "Motodynamics",
-   "location": "Marousi, Attica",
-   "posted": "2026-10-30",
-   "employment": "Full-time",
-   "workplace": "on_site",
-   "url": "https://jobs.workable.com/view/ijdyDszYHJUpeAnQLzmEmA/marketing-manager---yamaha-in-marousi-at-motodynamics",
-   "apply": [
-    "https://jobs.workable.com/view/ijdyDszYHJUpeAnQLzmEmA/marketing-manager---yamaha-in-marousi-at-motodynamics/apply"
-   ],
-   "first_seen": "2026-10-30",
-   "detail_file": "data/details/workable/8c367cba-3ee5-429a-a76a-24fa156d6232.md",
-   "text_chars": 3764
-  },
-  {
-   "source": "workable",
-   "id": "a0eacc26-fbe4-457a-bbe1-8f04782a1914",
-   "title": "Digital Services Development Associate",
-   "company": "AEGEAN",
-   "location": "Spata, Anatoliki Attiki",
-   "posted": "2026-10-30",
-   "workplace": "on_site",
-   "url": "https://jobs.workable.com/view/kSvaDKPwSP64BMGEWmdMMN/digital-services-development-associate-in-spata-at-aegean",
-   "apply": [
-    "https://jobs.workable.com/view/kSvaDKPwSP64BMGEWmdMMN/digital-services-development-associate-in-spata-at-aegean/apply"
-   ],
-   "first_seen": "2026-10-30",
-   "detail_file": "data/details/workable/a0eacc26-fbe4-457a-bbe1-8f04782a1914.md",
-   "text_chars": 3293
-  },
-  {
-   "source": "proson",
-   "id": "94192",
-   "title": "30 Οκτ 2026 15:55 ΑΣΕΠ: Μόνιμες προσλήψεις εκπαιδευτικών στις ΣΑΕΚ Τουρισμού - Από τη Δευτέρα οι ενστάσεις Για την υποβολή ένστασης απαιτείται ηλεκτρονικό παράβολο αξίας 50 ευρώ",
-   "url": "https://www.proson.gr/ergasia/prokiryxeis/94192_asep-monimes-proslipseis-ekpaideytikon-stis-saek-toyrismoy-apo-ti-deytera",
-   "first_seen": "2026-10-30",
-   "detail_file": "data/details/proson/94192.md",
-   "text_chars": 4018
+   "source": "kariera",
+   "id": "357303",
+   "title": "Υπεύθυνος Επικοινωνίας και Customer Service",
+   "company": "Attitude Marketing",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/357303",
+   "first_seen": "2026-11-03",
+   "detail_file": "data/details/kariera/357303.md",
+   "text_chars": 1201
   },
   {
    "source": "kariera",
-   "id": "356725",
+   "id": "357234",
    "title": "🎓 Φοιτητές | Ξεκίνα την καριέρα σου στο Direct Marketing – Δεν απαιτείται εμπειρία",
-   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/356725",
-   "first_seen": "2026-10-30",
-   "detail_file": "data/details/kariera/356725.md",
-   "text_chars": 2463
+   "url": "https://www.kariera.gr/jobs/other-jobs/357234",
+   "first_seen": "2026-11-03",
+   "detail_file": "data/details/kariera/357234.md",
+   "text_chars": 2455
   },
   {
    "source": "kariera",
-   "id": "357124",
-   "title": "Brand & Corporate Communications Manager",
-   "company": "PeopleCert",
-   "location": "Αθήνα",
-   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/357124",
-   "first_seen": "2026-10-30",
-   "detail_file": "data/details/kariera/357124.md",
-   "text_chars": 5411
-  },
-  {
-   "source": "kariera",
-   "id": "356912",
-   "title": "MARKETING SPECIALIST",
-   "company": "ΔΗΜΗΤΡΙΟΣ ΧΡ. ΣΟΒΟΛΟΣ",
-   "location": "Κρωπία",
-   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/356912",
-   "first_seen": "2026-10-30",
-   "detail_file": "data/details/kariera/356912.md",
-   "text_chars": 1835
-  },
-  {
-   "source": "kariera",
-   "id": "356878",
-   "title": "Νέες Θέσεις Σε Εταιρεία Marketing",
-   "company": "ΚΟΝΤΑΞΟΠΟΥΛΟΣ ΕΥΣΤΡΑΤΙΟΣ",
-   "location": "Λάρισα",
-   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/356878",
-   "first_seen": "2026-10-30",
-   "detail_file": "data/details/kariera/356878.md",
-   "text_chars": 769
-  },
-  {
-   "source": "kariera",
-   "id": "356804",
-   "title": "BRAND AMBASSADOR",
-   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/356804",
-   "first_seen": "2026-10-30",
-   "detail_file": "data/details/kariera/356804.md",
-   "text_chars": 704
-  },
-  {
-   "source": "kariera",
-   "id": "356970",
-   "title": "Ημέρες Καριέρας Τουρισμού Αθήνας 2026 | 27 & 28 Νοεμβρίου στο Ωδείο Αθηνών",
+   "id": "357238",
+   "title": "Office Coordinator - Stagakis E.P.E (Afidnes)",
    "company": "kariera.gr",
-   "location": "Αθήνα",
-   "url": "https://www.kariera.gr/jobs/tourism-jobs/356970",
-   "first_seen": "2026-10-30",
-   "detail_file": "data/details/kariera/356970.md",
-   "text_chars": 1173
+   "location": "Recruitment | Αφίδνες",
+   "url": "https://www.kariera.gr/jobs/administrative-or-secretarial-jobs/357238",
+   "first_seen": "2026-11-03",
+   "detail_file": "data/details/kariera/357238.md",
+   "text_chars": 5099
   },
   {
    "source": "kariera",
-   "id": "356727",
-   "title": "ΥΠΑΛΛΗΛΟΣ ΤΟΥΡΙΣΤΙΚΟΥ ΓΡΑΦΕΙΟΥ",
-   "company": "SOPHIE TRAVEL",
-   "location": "Αίγιο",
-   "url": "https://www.kariera.gr/jobs/tourism-jobs/356727",
-   "first_seen": "2026-10-30",
-   "detail_file": "data/details/kariera/356727.md",
-   "text_chars": 952
+   "id": "357431",
+   "title": "Διευθυντής Τροφίμων & Ποτών",
+   "company": "kariera.gr",
+   "location": "Recruitment | Κως",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/357431",
+   "first_seen": "2026-11-03",
+   "detail_file": "data/details/kariera/357431.md",
+   "text_chars": 6919
+  },
+  {
+   "source": "jobfind",
+   "id": "fc5ab6e7-753c-41f3-8112-fdf22dc5f7cd",
+   "title": "Συντονιστής / τρια Προωθητικών Ενεργειών (Field & Office), Εταιρικό Αυτοκίνητο, Πλήρης Απασχόληση",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΑΘΗΝΑ",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/fc5ab6e7-753c-41f3-8112-fdf22dc5f7cd/",
+   "first_seen": "2026-11-03",
+   "detail_file": "data/details/jobfind/fc5ab6e7-753c-41f3-8112-fdf22dc5f7cd.md",
+   "text_chars": 2053
+  },
+  {
+   "source": "jobfind",
+   "id": "87de53b2-bb54-4c08-a083-c78b6b6d440c",
+   "title": "Senior Σύμβουλος Επιχειρήσεων – Επιδοτούμενα Προγράμματα ΕΣΠΑ",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΣΥΝΤΑΓΜΑ",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/87de53b2-bb54-4c08-a083-c78b6b6d440c/",
+   "first_seen": "2026-11-03",
+   "detail_file": "data/details/jobfind/87de53b2-bb54-4c08-a083-c78b6b6d440c.md",
+   "text_chars": 4015
   }
  ]
 }
