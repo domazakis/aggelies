@@ -1,8 +1,51 @@
 {
  "_perigrafi": "Αγγελίες που εμφανίστηκαν για πρώτη φορά τις τελευταίες 3 ημέρες. Το πλήρες κείμενο κάθε αγγελίας είναι στο detail_file. Έχουν ήδη αφαιρεθεί όσες είναι προφανώς άσχετες από τον τίτλο (δες excluded.json).",
- "enimerosi": "2026-11-02T22:26+00:00",
+ "enimerosi": "2026-11-03T20:13+00:00",
  "proti_ektelesi": false,
  "listings": [
+  {
+   "source": "workable",
+   "id": "41273db4-a771-4d6f-83b1-de3ff7264e15",
+   "title": "Marketing Manager",
+   "company": "JUST ONE | Recruitment & Executive Search agency",
+   "location": "Athens, Attica",
+   "posted": "2026-11-03",
+   "employment": "Full-time",
+   "workplace": "on_site",
+   "url": "https://jobs.workable.com/view/93CK9p4bRpWYuFQZekUpeX/marketing-manager-in-athens-at-just-one-%7C-recruitment-%26-executive-search-agency",
+   "apply": [
+    "https://jobs.workable.com/view/93CK9p4bRpWYuFQZekUpeX/marketing-manager-in-athens-at-just-one-%7C-recruitment-%26-executive-search-agency/apply"
+   ],
+   "first_seen": "2026-11-03",
+   "detail_file": "data/details/workable/41273db4-a771-4d6f-83b1-de3ff7264e15.md",
+   "text_chars": 4058
+  },
+  {
+   "source": "workable",
+   "id": "afd39ad4-27d5-48c4-9abf-26c19bdc79a0",
+   "title": "Project Manager",
+   "company": "Allwyn Lottery Solutions",
+   "location": "Marousi, Attica",
+   "posted": "2026-11-03",
+   "employment": "Full-time",
+   "workplace": "hybrid",
+   "url": "https://jobs.workable.com/view/nHhxP8bUw6xgVEcRNmb5ro/hybrid-project-manager-in-marousi-at-allwyn-lottery-solutions",
+   "apply": [
+    "https://jobs.workable.com/view/nHhxP8bUw6xgVEcRNmb5ro/hybrid-project-manager-in-marousi-at-allwyn-lottery-solutions/apply"
+   ],
+   "first_seen": "2026-11-03",
+   "detail_file": "data/details/workable/afd39ad4-27d5-48c4-9abf-26c19bdc79a0.md",
+   "text_chars": 6104
+  },
+  {
+   "source": "proson",
+   "id": "94335",
+   "title": "03 Νοε 2026 10:00 ΑΣΕΠ: 30 προσλήψεις στο Μουσείο Βυζαντινού Πολιτισμού - Από αύριο οι αιτήσεις Ξεκινούν αύριο οι αιτήσεις για προσλήψεις απόφοιτων ΤΕΙ, λυκείου και γυμνασίου στο Μουσείο...",
+   "url": "https://www.proson.gr/ergasia/prokiryxeis/94335_asep-30-proslipseis-sto-moyseio-byzantinoy-politismoy-apo-ayrio-oi",
+   "first_seen": "2026-11-03",
+   "detail_file": "data/details/proson/94335.md",
+   "text_chars": 4009
+  },
   {
    "source": "kariera",
    "id": "357303",
@@ -46,6 +89,39 @@
    "text_chars": 6919
   },
   {
+   "source": "kariera",
+   "id": "357799",
+   "title": "Επικεφαλής Επικοινωνίας και Γραφείου Τύπου",
+   "company": "GEK TERNA GROUP",
+   "location": "Ηράκλειο",
+   "url": "https://www.kariera.gr/jobs/public-relations-jobs/357799",
+   "first_seen": "2026-11-03",
+   "detail_file": "data/details/kariera/357799.md",
+   "text_chars": 2040
+  },
+  {
+   "source": "kariera",
+   "id": "357814",
+   "title": "Italian Speaking - Regional Marketing Executive",
+   "company": "XM",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/357814",
+   "first_seen": "2026-11-03",
+   "detail_file": "data/details/kariera/357814.md",
+   "text_chars": 2856
+  },
+  {
+   "source": "kariera",
+   "id": "357694",
+   "title": "Guest Relations Executive",
+   "company": "Canaves Collection",
+   "location": "Οία",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/357694",
+   "first_seen": "2026-11-03",
+   "detail_file": "data/details/kariera/357694.md",
+   "text_chars": 2843
+  },
+  {
    "source": "jobfind",
    "id": "fc5ab6e7-753c-41f3-8112-fdf22dc5f7cd",
    "title": "Συντονιστής / τρια Προωθητικών Ενεργειών (Field & Office), Εταιρικό Αυτοκίνητο, Πλήρης Απασχόληση",
@@ -64,6 +140,51 @@
    "first_seen": "2026-11-03",
    "detail_file": "data/details/jobfind/87de53b2-bb54-4c08-a083-c78b6b6d440c.md",
    "text_chars": 4015
+  },
+  {
+   "source": "jobfind",
+   "id": "b6685c7f-9c5a-4b65-8229-4978270025dd",
+   "title": "Marketing & Account Executive",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΝΙΚΑΙΑ",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/b6685c7f-9c5a-4b65-8229-4978270025dd/",
+   "first_seen": "2026-11-03",
+   "detail_file": "data/details/jobfind/b6685c7f-9c5a-4b65-8229-4978270025dd.md",
+   "text_chars": 1517
+  },
+  {
+   "source": "jobfind",
+   "id": "b8fc693e-d8ba-49bb-87e0-9f9652f31d96",
+   "title": "Σύμβουλοι Επικοινωνίας & Εκπροσώπησης M.K.O.",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΝΕΟΣ ΚΟΣΜΟΣ",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/b8fc693e-d8ba-49bb-87e0-9f9652f31d96/",
+   "first_seen": "2026-11-03",
+   "detail_file": "data/details/jobfind/b8fc693e-d8ba-49bb-87e0-9f9652f31d96.md",
+   "text_chars": 1493
+  },
+  {
+   "source": "jobfind",
+   "id": "612e54d0-ee9e-4b61-a711-3b4c39201f31",
+   "title": "BRAND MANAGER – DAIRY | ASPROPYRGOS, ATTICA",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΑΣΠΡΟΠΥΡΓΟΣ",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/612e54d0-ee9e-4b61-a711-3b4c39201f31/",
+   "apply": [
+    "https://krikri.recruitee.com/o/brand-manager-dairy-aspropyrgos-attica"
+   ],
+   "first_seen": "2026-11-03",
+   "detail_file": "data/details/jobfind/612e54d0-ee9e-4b61-a711-3b4c39201f31.md",
+   "text_chars": 3569
+  },
+  {
+   "source": "alfavita",
+   "id": "566675",
+   "title": "03.11.2026 - 09:35 30 προσλήψεις στο Μουσείο Βυζαντινού Πολιτισμού: Από πότε οι αιτήσεις Αναλυτικά η προκήρυξη και οι ειδικότητες",
+   "url": "https://www.alfavita.gr/ergasia/566675_30-proslipseis-sto-moyseio-byzantinoy-politismoy-apo-pote-oi-aitiseis",
+   "apply": [
+    "mailto:"
+   ],
+   "first_seen": "2026-11-03",
+   "detail_file": "data/details/alfavita/566675.md",
+   "text_chars": 4076
   }
  ]
 }
