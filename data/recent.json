@@ -1,8 +1,122 @@
 {
  "_perigrafi": "Αγγελίες που εμφανίστηκαν για πρώτη φορά τις τελευταίες 3 ημέρες. Το πλήρες κείμενο κάθε αγγελίας είναι στο detail_file. Έχουν ήδη αφαιρεθεί όσες είναι προφανώς άσχετες από τον τίτλο (δες excluded.json).",
- "enimerosi": "2026-11-03T20:13+00:00",
+ "enimerosi": "2026-11-04T20:32+00:00",
  "proti_ektelesi": false,
  "listings": [
+  {
+   "source": "onassis",
+   "id": "pwp47",
+   "title": "Project Coordinator Onassis Schools",
+   "company": "Ίδρυμα Ωνάση (Onassis Group)",
+   "url": "https://apply.smartcv.co/onassis-group/job/pwp47",
+   "apply": [
+    "https://apply.smartcv.co/onassis-group/",
+    "https://apply.smartcv.co/onassis-group/job/pwp47",
+    "https://apply.smartcv.co/onassis-group/apply/pwp47",
+    "https://smartcv.co",
+    "https://app.smartcv.co/terms/privacy"
+   ],
+   "first_seen": "2026-11-04",
+   "detail_file": "data/details/onassis/pwp47.md",
+   "text_chars": 3716
+  },
+  {
+   "source": "kariera",
+   "id": "358021",
+   "title": "DIGITAL & TRADE MARKETING OFFICER",
+   "company": "POWER HEALTH HELLAS ΑΕΒΕ",
+   "location": "Μεταμόρφωση",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/358021",
+   "first_seen": "2026-11-04",
+   "detail_file": "data/details/kariera/358021.md",
+   "text_chars": 3731
+  },
+  {
+   "source": "kariera",
+   "id": "357912",
+   "title": "MARKETING MANAGER",
+   "company": "Tria Delta",
+   "location": "Άγιος Ιωάννης Ρέντης",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/357912",
+   "first_seen": "2026-11-04",
+   "detail_file": "data/details/kariera/357912.md",
+   "text_chars": 2641
+  },
+  {
+   "source": "kariera",
+   "id": "357910",
+   "title": "Operations Director - Elounda Collection Hotels & Resorts",
+   "company": "ΤΟΥΡΙΣΤΙΚΕΣ & ΞΕΝΟΔΟΧΕΙΑΚΕΣ ΕΠΙΧΕΙΡΗΣΕΙΣ ΕΛΟΥΝΤΑ ΑΕ",
+   "location": "Άγιος Νικόλαος",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/357910",
+   "first_seen": "2026-11-04",
+   "detail_file": "data/details/kariera/357910.md",
+   "text_chars": 4992
+  },
+  {
+   "source": "kariera",
+   "id": "357897",
+   "title": "Διευθυντής - Διευθύντρια Τροφίμων και Ποτών - Food & Beverage Director",
+   "company": "NEPTUNE LUXURY RESORT",
+   "location": "Κως",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/357897",
+   "first_seen": "2026-11-04",
+   "detail_file": "data/details/kariera/357897.md",
+   "text_chars": 1193
+  },
+  {
+   "source": "jobfind",
+   "id": "02d53d27-70e7-4db6-9dc4-914883c523e1",
+   "title": "Contect Creator / Social Media",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΚΟΛΩΝΑΚΙ",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/02d53d27-70e7-4db6-9dc4-914883c523e1/",
+   "first_seen": "2026-11-04",
+   "detail_file": "data/details/jobfind/02d53d27-70e7-4db6-9dc4-914883c523e1.md",
+   "text_chars": 2708
+  },
+  {
+   "source": "jobfind",
+   "id": "dcf58476-6dfd-416d-ac75-a66840c99bdb",
+   "title": "Brand Ambassador - Αθήνα",
+   "location": "Αθήνα - ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΣΥΝΤΑΓΜΑ",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/dcf58476-6dfd-416d-ac75-a66840c99bdb/",
+   "first_seen": "2026-11-04",
+   "detail_file": "data/details/jobfind/dcf58476-6dfd-416d-ac75-a66840c99bdb.md",
+   "text_chars": 1955
+  },
+  {
+   "source": "jobfind",
+   "id": "7d851a8c-b5f6-4739-9bd9-d8c7f795ded0",
+   "title": "Υπεύθυνος Μάρκετινγκ",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΙΛΙΟΝ - ΑΞΙΟΥ 1",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/7d851a8c-b5f6-4739-9bd9-d8c7f795ded0/",
+   "first_seen": "2026-11-04",
+   "detail_file": "data/details/jobfind/7d851a8c-b5f6-4739-9bd9-d8c7f795ded0.md",
+   "text_chars": 1426
+  },
+  {
+   "source": "jobfind",
+   "id": "a6b163fe-5011-4bae-9b8e-cd731d40d2e9",
+   "title": "Σύμβουλος Διαχείρισης Έργων",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΑΜΠΕΛΟΚΗΠΟΙ",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/a6b163fe-5011-4bae-9b8e-cd731d40d2e9/",
+   "apply": [
+    "https://www.randstad.gr/theseis-ergasias/apply/68020/?utm_source=jobfind"
+   ],
+   "first_seen": "2026-11-04",
+   "detail_file": "data/details/jobfind/a6b163fe-5011-4bae-9b8e-cd731d40d2e9.md",
+   "text_chars": 3043
+  },
+  {
+   "source": "jobfind",
+   "id": "56528936-f523-4ca1-b8a4-52041e2d25ef",
+   "title": "Υπάλληλος τουριστικού γραφείου",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΜΟΝΑΣΤΗΡΑΚΙ",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/56528936-f523-4ca1-b8a4-52041e2d25ef/",
+   "first_seen": "2026-11-04",
+   "detail_file": "data/details/jobfind/56528936-f523-4ca1-b8a4-52041e2d25ef.md",
+   "text_chars": 764
+  },
   {
    "source": "workable",
    "id": "41273db4-a771-4d6f-83b1-de3ff7264e15",
