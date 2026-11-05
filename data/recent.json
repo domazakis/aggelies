@@ -1,8 +1,46 @@
 {
  "_perigrafi": "Αγγελίες που εμφανίστηκαν για πρώτη φορά τις τελευταίες 3 ημέρες. Το πλήρες κείμενο κάθε αγγελίας είναι στο detail_file. Έχουν ήδη αφαιρεθεί όσες είναι προφανώς άσχετες από τον τίτλο (δες excluded.json).",
- "enimerosi": "2026-11-04T20:32+00:00",
+ "enimerosi": "2026-11-05T20:46+00:00",
  "proti_ektelesi": false,
  "listings": [
+  {
+   "source": "workable",
+   "id": "2446b37b-11c9-400f-80a0-335894ed7289",
+   "title": "Communication Specialist",
+   "company": "Όμιλος ΔΕΗ",
+   "location": "Athens, Central Athens",
+   "posted": "2026-11-05",
+   "employment": "Full-time",
+   "workplace": "on_site",
+   "url": "https://jobs.workable.com/view/5tPapfs7N18Yd68tZGkHkx/communication-specialist-in-athens-at-%CF%8C%CE%BC%CE%B9%CE%BB%CE%BF%CF%82-%CE%B4%CE%B5%CE%B7",
+   "apply": [
+    "https://jobs.workable.com/view/5tPapfs7N18Yd68tZGkHkx/communication-specialist-in-athens-at-%CF%8C%CE%BC%CE%B9%CE%BB%CE%BF%CF%82-%CE%B4%CE%B5%CE%B7/apply"
+   ],
+   "first_seen": "2026-11-05",
+   "detail_file": "data/details/workable/2446b37b-11c9-400f-80a0-335894ed7289.md",
+   "text_chars": 3247
+  },
+  {
+   "source": "kariera",
+   "id": "358342",
+   "title": "Marketing Representative",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/358342",
+   "first_seen": "2026-11-05",
+   "detail_file": "data/details/kariera/358342.md",
+   "text_chars": 953
+  },
+  {
+   "source": "alfavita",
+   "id": "566964",
+   "title": "05.11.2026 - 07:41 Ιωάννινα: Περισσότερες από 700 θέσεις εργασίας στην «Ημέρα Καριέρας» της ΔΥΠΑ Η εκδήλωση θα πραγματοποιηθεί το Σάββατο, 7 Νοεμβρίου 2026, από τις 10:00 έως τις 18:00",
+   "url": "https://www.alfavita.gr/ergasia/566964_ioannina-perissoteres-apo-700-theseis-ergasias-stin-imera-karieras-tis-dypa",
+   "apply": [
+    "mailto:"
+   ],
+   "first_seen": "2026-11-05",
+   "detail_file": "data/details/alfavita/566964.md",
+   "text_chars": 4217
+  },
   {
    "source": "onassis",
    "id": "pwp47",

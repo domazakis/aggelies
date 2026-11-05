@@ -1,17 +1,17 @@
-# Συλλογή 2026-11-04 (20:32 UTC)
+# Συλλογή 2026-11-05 (20:46 UTC)
 
 | Πηγή | Αιτήματα OK | Βρέθηκαν | Νέες | Κόπηκαν από τίτλο | Σφάλματα |
 |---|---|---|---|---|---|
-| kariera | 16/38 | 381 | 4 | 91 | 22 |
-| workable | 22/22 | 88 | 0 | 2 | 0 |
-| jobfind | 21/21 | 154 | 5 | 2 | 0 |
-| onassis | 2/2 | 5 | 1 | 0 | 0 |
-| alfavita | 1/1 | 30 | 0 | 9 | 0 |
-| proson | 1/1 | 22 | 0 | 3 | 0 |
+| kariera | 13/35 | 381 | 1 | 36 | 22 |
+| workable | 22/22 | 86 | 1 | 4 | 0 |
+| jobfind | 17/17 | 153 | 0 | 10 | 0 |
+| onassis | 1/1 | 5 | 0 | 0 | 0 |
+| alfavita | 2/2 | 30 | 1 | 8 | 0 |
+| proson | 1/1 | 22 | 0 | 5 | 0 |
 
-Στο recent.json: 26 αγγελίες (από τις οποίες 10 νέες σήμερα).
+Στο recent.json: 29 αγγελίες (από τις οποίες 3 νέες σήμερα).
 
-jobfind υποκατηγορίες: Marketing, Event-Planner, Stelexi_Marketing, Stelexi_Epixeiriseon, Account_Manager_Project_Manager, Dieuthintes_Dioikitika_Stelexi, Symvouloi_Epixeiriseon, Symvouloi_Espa_Anaptyxiakon_Programmaton, Tourismos, Guest_Relations, Loipes_Eidikotites_Tourismou, Xenagoi, Stelexi_Xenodoxeion
+jobfind υποκατηγορίες: Marketing, Event-Planner, Stelexi_Marketing, Stelexi_Epixeiriseon, Account_Manager_Project_Manager, Dieuthintes_Dioikitika_Stelexi, Symvouloi_Epixeiriseon, Symvouloi_Espa_Anaptyxiakon_Programmaton, Tourismos, Guest_Relations, Maitre, Loipes_Eidikotites_Tourismou, Xenagoi, Stelexi_Xenodoxeion
 
 ## Σφάλματα kariera
 - HTTP 404: https://www.kariera.gr/jobs?title=%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%AF%CE%B1&location=Athens
