@@ -1,8 +1,189 @@
 {
  "_perigrafi": "Αγγελίες που εμφανίστηκαν για πρώτη φορά τις τελευταίες 3 ημέρες. Το πλήρες κείμενο κάθε αγγελίας είναι στο detail_file. Έχουν ήδη αφαιρεθεί όσες είναι προφανώς άσχετες από τον τίτλο (δες excluded.json).",
- "enimerosi": "2026-11-05T20:46+00:00",
+ "enimerosi": "2026-11-06T20:03+00:00",
  "proti_ektelesi": false,
  "listings": [
+  {
+   "source": "workable",
+   "id": "f49d9e63-1374-45f6-bdac-934b5fdef09d",
+   "title": "Growth Marketing Manager",
+   "company": "Profile Software",
+   "location": "Athens, Attica",
+   "posted": "2026-11-06",
+   "workplace": "on_site",
+   "url": "https://jobs.workable.com/view/wcXBZMSMaUFqdSN5ytQnbV/growth-marketing-manager-in-athens-at-profile-software",
+   "apply": [
+    "https://jobs.workable.com/view/wcXBZMSMaUFqdSN5ytQnbV/growth-marketing-manager-in-athens-at-profile-software/apply"
+   ],
+   "first_seen": "2026-11-06",
+   "detail_file": "data/details/workable/f49d9e63-1374-45f6-bdac-934b5fdef09d.md",
+   "text_chars": 6589
+  },
+  {
+   "source": "kariera",
+   "id": "359096",
+   "title": "Maitre D’ Hotel - Πάργα τουριστική σεζόν 2027",
+   "company": "Lichnos beach hotel",
+   "location": "Πάργα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/359096",
+   "first_seen": "2026-11-06",
+   "detail_file": "data/details/kariera/359096.md",
+   "text_chars": 934
+  },
+  {
+   "source": "kariera",
+   "id": "359094",
+   "title": "Παργα τουριστική σεζόν 2027 - Rooms Division Manager",
+   "company": "Lichnos beach hotel",
+   "location": "Ιωάννινα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/359094",
+   "first_seen": "2026-11-06",
+   "detail_file": "data/details/kariera/359094.md",
+   "text_chars": 2031
+  },
+  {
+   "source": "kariera",
+   "id": "359090",
+   "title": "Παργα τουριστική σεζόν 2027 - Rooms Division Manager",
+   "company": "Lichnos beach hotel",
+   "location": "Πάργα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/359090",
+   "first_seen": "2026-11-06",
+   "detail_file": "data/details/kariera/359090.md",
+   "text_chars": 2028
+  },
+  {
+   "source": "kariera",
+   "id": "359084",
+   "title": "Service Manager- Πάργα τουριστική σεζόν 2027",
+   "company": "Lichnos beach hotel",
+   "location": "Αθήνα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/359084",
+   "first_seen": "2026-11-06",
+   "detail_file": "data/details/kariera/359084.md",
+   "text_chars": 2723
+  },
+  {
+   "source": "kariera",
+   "id": "359083",
+   "title": "Service Manager- Πάργα τουριστική σεζόν 2027",
+   "company": "Lichnos beach hotel",
+   "location": "Πάργα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/359083",
+   "first_seen": "2026-11-06",
+   "detail_file": "data/details/kariera/359083.md",
+   "text_chars": 2723
+  },
+  {
+   "source": "kariera",
+   "id": "359082",
+   "title": "Service Manager- Πάργα τουριστική σεζόν 2027",
+   "company": "Lichnos beach hotel",
+   "location": "Ιωάννινα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/359082",
+   "first_seen": "2026-11-06",
+   "detail_file": "data/details/kariera/359082.md",
+   "text_chars": 2726
+  },
+  {
+   "source": "kariera",
+   "id": "359081",
+   "title": "Service Manager- Πάργα τουριστική σεζόν 2027",
+   "company": "Lichnos beach hotel",
+   "location": "Θεσσαλονίκη",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/359081",
+   "first_seen": "2026-11-06",
+   "detail_file": "data/details/kariera/359081.md",
+   "text_chars": 2729
+  },
+  {
+   "source": "kariera",
+   "id": "358924",
+   "title": "GUEST RELATIONS MANAGER",
+   "company": "AQUILA HOTELS & RESORTS",
+   "location": "Ρέθυμνο",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/358924",
+   "first_seen": "2026-11-06",
+   "detail_file": "data/details/kariera/358924.md",
+   "text_chars": 1613
+  },
+  {
+   "source": "kariera",
+   "id": "358719",
+   "title": "Διευθυντής Λειτουργίας / Operations manager",
+   "company": "Ammon Zeus Luxury Beach Hotel",
+   "location": "Κασσάνδρα",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/358719",
+   "first_seen": "2026-11-06",
+   "detail_file": "data/details/kariera/358719.md",
+   "text_chars": 1920
+  },
+  {
+   "source": "kariera",
+   "id": "358617",
+   "title": "Director of Events",
+   "company": "Rosewood Blue Palace",
+   "location": "Άγιος Νικόλαος",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/358617",
+   "first_seen": "2026-11-06",
+   "detail_file": "data/details/kariera/358617.md",
+   "text_chars": 4394
+  },
+  {
+   "source": "jobfind",
+   "id": "748315e0-f8d9-41ea-a0a6-447f81c2db64",
+   "title": "Brand Experience Team | Energy Project ⚡",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/748315e0-f8d9-41ea-a0a6-447f81c2db64/",
+   "first_seen": "2026-11-06",
+   "detail_file": "data/details/jobfind/748315e0-f8d9-41ea-a0a6-447f81c2db64.md",
+   "text_chars": 1377
+  },
+  {
+   "source": "jobfind",
+   "id": "4c9e8daf-0de5-4b6d-aad0-08d2efa422ff",
+   "title": "Product & Digital Marketing Manager",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΜΑΡΟΥΣΙ",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/4c9e8daf-0de5-4b6d-aad0-08d2efa422ff/",
+   "first_seen": "2026-11-06",
+   "detail_file": "data/details/jobfind/4c9e8daf-0de5-4b6d-aad0-08d2efa422ff.md",
+   "text_chars": 2549
+  },
+  {
+   "source": "jobfind",
+   "id": "887257ab-1aa9-4b6d-b7d2-eab1f7fd13f5",
+   "title": "Social Media Specialist Ι Coffee Lab",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΜΟΣΧΑΤΟ",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/887257ab-1aa9-4b6d-b7d2-eab1f7fd13f5/",
+   "first_seen": "2026-11-06",
+   "detail_file": "data/details/jobfind/887257ab-1aa9-4b6d-b7d2-eab1f7fd13f5.md",
+   "text_chars": 2840
+  },
+  {
+   "source": "jobfind",
+   "id": "0976511f-d995-4ad0-9500-0edabc53c68f",
+   "title": "Brand Ambassador (m/f)",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/0976511f-d995-4ad0-9500-0edabc53c68f/",
+   "apply": [
+    "https://www.randstad.gr/theseis-ergasias/apply/60922/?utm_source=jobfind"
+   ],
+   "first_seen": "2026-11-06",
+   "detail_file": "data/details/jobfind/0976511f-d995-4ad0-9500-0edabc53c68f.md",
+   "text_chars": 2092
+  },
+  {
+   "source": "alfavita",
+   "id": "567153",
+   "title": "06.11.2026 - 12:22 Προσλήψεις καλλιτεχνικού προσωπικού στον Δήμο Πετρούπολης Ανοικτές 31 θέσεις για καθηγητές μουσικής, χορού, θεάτρου",
+   "url": "https://www.alfavita.gr/ergasia/567153_proslipseis-kallitehnikoy-prosopikoy-ston-dimo-petroypolis",
+   "apply": [
+    "mailto:"
+   ],
+   "first_seen": "2026-11-06",
+   "detail_file": "data/details/alfavita/567153.md",
+   "text_chars": 4501
+  },
   {
    "source": "workable",
    "id": "2446b37b-11c9-400f-80a0-335894ed7289",
@@ -154,189 +335,6 @@
    "first_seen": "2026-11-04",
    "detail_file": "data/details/jobfind/56528936-f523-4ca1-b8a4-52041e2d25ef.md",
    "text_chars": 764
-  },
-  {
-   "source": "workable",
-   "id": "41273db4-a771-4d6f-83b1-de3ff7264e15",
-   "title": "Marketing Manager",
-   "company": "JUST ONE | Recruitment & Executive Search agency",
-   "location": "Athens, Attica",
-   "posted": "2026-11-03",
-   "employment": "Full-time",
-   "workplace": "on_site",
-   "url": "https://jobs.workable.com/view/93CK9p4bRpWYuFQZekUpeX/marketing-manager-in-athens-at-just-one-%7C-recruitment-%26-executive-search-agency",
-   "apply": [
-    "https://jobs.workable.com/view/93CK9p4bRpWYuFQZekUpeX/marketing-manager-in-athens-at-just-one-%7C-recruitment-%26-executive-search-agency/apply"
-   ],
-   "first_seen": "2026-11-03",
-   "detail_file": "data/details/workable/41273db4-a771-4d6f-83b1-de3ff7264e15.md",
-   "text_chars": 4058
-  },
-  {
-   "source": "workable",
-   "id": "afd39ad4-27d5-48c4-9abf-26c19bdc79a0",
-   "title": "Project Manager",
-   "company": "Allwyn Lottery Solutions",
-   "location": "Marousi, Attica",
-   "posted": "2026-11-03",
-   "employment": "Full-time",
-   "workplace": "hybrid",
-   "url": "https://jobs.workable.com/view/nHhxP8bUw6xgVEcRNmb5ro/hybrid-project-manager-in-marousi-at-allwyn-lottery-solutions",
-   "apply": [
-    "https://jobs.workable.com/view/nHhxP8bUw6xgVEcRNmb5ro/hybrid-project-manager-in-marousi-at-allwyn-lottery-solutions/apply"
-   ],
-   "first_seen": "2026-11-03",
-   "detail_file": "data/details/workable/afd39ad4-27d5-48c4-9abf-26c19bdc79a0.md",
-   "text_chars": 6104
-  },
-  {
-   "source": "proson",
-   "id": "94335",
-   "title": "03 Νοε 2026 10:00 ΑΣΕΠ: 30 προσλήψεις στο Μουσείο Βυζαντινού Πολιτισμού - Από αύριο οι αιτήσεις Ξεκινούν αύριο οι αιτήσεις για προσλήψεις απόφοιτων ΤΕΙ, λυκείου και γυμνασίου στο Μουσείο...",
-   "url": "https://www.proson.gr/ergasia/prokiryxeis/94335_asep-30-proslipseis-sto-moyseio-byzantinoy-politismoy-apo-ayrio-oi",
-   "first_seen": "2026-11-03",
-   "detail_file": "data/details/proson/94335.md",
-   "text_chars": 4009
-  },
-  {
-   "source": "kariera",
-   "id": "357303",
-   "title": "Υπεύθυνος Επικοινωνίας και Customer Service",
-   "company": "Attitude Marketing",
-   "location": "Αθήνα",
-   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/357303",
-   "first_seen": "2026-11-03",
-   "detail_file": "data/details/kariera/357303.md",
-   "text_chars": 1201
-  },
-  {
-   "source": "kariera",
-   "id": "357234",
-   "title": "🎓 Φοιτητές | Ξεκίνα την καριέρα σου στο Direct Marketing – Δεν απαιτείται εμπειρία",
-   "url": "https://www.kariera.gr/jobs/other-jobs/357234",
-   "first_seen": "2026-11-03",
-   "detail_file": "data/details/kariera/357234.md",
-   "text_chars": 2455
-  },
-  {
-   "source": "kariera",
-   "id": "357238",
-   "title": "Office Coordinator - Stagakis E.P.E (Afidnes)",
-   "company": "kariera.gr",
-   "location": "Recruitment | Αφίδνες",
-   "url": "https://www.kariera.gr/jobs/administrative-or-secretarial-jobs/357238",
-   "first_seen": "2026-11-03",
-   "detail_file": "data/details/kariera/357238.md",
-   "text_chars": 5099
-  },
-  {
-   "source": "kariera",
-   "id": "357431",
-   "title": "Διευθυντής Τροφίμων & Ποτών",
-   "company": "kariera.gr",
-   "location": "Recruitment | Κως",
-   "url": "https://www.kariera.gr/jobs/tourism-jobs/357431",
-   "first_seen": "2026-11-03",
-   "detail_file": "data/details/kariera/357431.md",
-   "text_chars": 6919
-  },
-  {
-   "source": "kariera",
-   "id": "357799",
-   "title": "Επικεφαλής Επικοινωνίας και Γραφείου Τύπου",
-   "company": "GEK TERNA GROUP",
-   "location": "Ηράκλειο",
-   "url": "https://www.kariera.gr/jobs/public-relations-jobs/357799",
-   "first_seen": "2026-11-03",
-   "detail_file": "data/details/kariera/357799.md",
-   "text_chars": 2040
-  },
-  {
-   "source": "kariera",
-   "id": "357814",
-   "title": "Italian Speaking - Regional Marketing Executive",
-   "company": "XM",
-   "location": "Αθήνα",
-   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/357814",
-   "first_seen": "2026-11-03",
-   "detail_file": "data/details/kariera/357814.md",
-   "text_chars": 2856
-  },
-  {
-   "source": "kariera",
-   "id": "357694",
-   "title": "Guest Relations Executive",
-   "company": "Canaves Collection",
-   "location": "Οία",
-   "url": "https://www.kariera.gr/jobs/tourism-jobs/357694",
-   "first_seen": "2026-11-03",
-   "detail_file": "data/details/kariera/357694.md",
-   "text_chars": 2843
-  },
-  {
-   "source": "jobfind",
-   "id": "fc5ab6e7-753c-41f3-8112-fdf22dc5f7cd",
-   "title": "Συντονιστής / τρια Προωθητικών Ενεργειών (Field & Office), Εταιρικό Αυτοκίνητο, Πλήρης Απασχόληση",
-   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΑΘΗΝΑ",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/fc5ab6e7-753c-41f3-8112-fdf22dc5f7cd/",
-   "first_seen": "2026-11-03",
-   "detail_file": "data/details/jobfind/fc5ab6e7-753c-41f3-8112-fdf22dc5f7cd.md",
-   "text_chars": 2053
-  },
-  {
-   "source": "jobfind",
-   "id": "87de53b2-bb54-4c08-a083-c78b6b6d440c",
-   "title": "Senior Σύμβουλος Επιχειρήσεων – Επιδοτούμενα Προγράμματα ΕΣΠΑ",
-   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΣΥΝΤΑΓΜΑ",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/87de53b2-bb54-4c08-a083-c78b6b6d440c/",
-   "first_seen": "2026-11-03",
-   "detail_file": "data/details/jobfind/87de53b2-bb54-4c08-a083-c78b6b6d440c.md",
-   "text_chars": 4015
-  },
-  {
-   "source": "jobfind",
-   "id": "b6685c7f-9c5a-4b65-8229-4978270025dd",
-   "title": "Marketing & Account Executive",
-   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΝΙΚΑΙΑ",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/b6685c7f-9c5a-4b65-8229-4978270025dd/",
-   "first_seen": "2026-11-03",
-   "detail_file": "data/details/jobfind/b6685c7f-9c5a-4b65-8229-4978270025dd.md",
-   "text_chars": 1517
-  },
-  {
-   "source": "jobfind",
-   "id": "b8fc693e-d8ba-49bb-87e0-9f9652f31d96",
-   "title": "Σύμβουλοι Επικοινωνίας & Εκπροσώπησης M.K.O.",
-   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΝΕΟΣ ΚΟΣΜΟΣ",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/b8fc693e-d8ba-49bb-87e0-9f9652f31d96/",
-   "first_seen": "2026-11-03",
-   "detail_file": "data/details/jobfind/b8fc693e-d8ba-49bb-87e0-9f9652f31d96.md",
-   "text_chars": 1493
-  },
-  {
-   "source": "jobfind",
-   "id": "612e54d0-ee9e-4b61-a711-3b4c39201f31",
-   "title": "BRAND MANAGER – DAIRY | ASPROPYRGOS, ATTICA",
-   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΑΣΠΡΟΠΥΡΓΟΣ",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/612e54d0-ee9e-4b61-a711-3b4c39201f31/",
-   "apply": [
-    "https://krikri.recruitee.com/o/brand-manager-dairy-aspropyrgos-attica"
-   ],
-   "first_seen": "2026-11-03",
-   "detail_file": "data/details/jobfind/612e54d0-ee9e-4b61-a711-3b4c39201f31.md",
-   "text_chars": 3569
-  },
-  {
-   "source": "alfavita",
-   "id": "566675",
-   "title": "03.11.2026 - 09:35 30 προσλήψεις στο Μουσείο Βυζαντινού Πολιτισμού: Από πότε οι αιτήσεις Αναλυτικά η προκήρυξη και οι ειδικότητες",
-   "url": "https://www.alfavita.gr/ergasia/566675_30-proslipseis-sto-moyseio-byzantinoy-politismoy-apo-pote-oi-aitiseis",
-   "apply": [
-    "mailto:"
-   ],
-   "first_seen": "2026-11-03",
-   "detail_file": "data/details/alfavita/566675.md",
-   "text_chars": 4076
   }
  ]
 }
