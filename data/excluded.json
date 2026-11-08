@@ -1,47 +1,35 @@
 {
- "imerominia": "2026-11-07",
+ "imerominia": "2026-11-08",
  "excluded": [
   {
    "source": "kariera",
-   "title": "Τεχνικός Άρδευσης - Τρίκαλα ( Οξύνεια)",
-   "url": "https://www.kariera.gr/jobs/technicians-or-service-jobs/351582",
-   "reason": "κατηγορία kariera εκτός ρόλου (technicians-or-service-jobs)"
+   "title": "Sales Advisors & Cashiers - Κατάστημα Κηφισού",
+   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/356770",
+   "reason": "πωλήσεις"
   },
   {
    "source": "kariera",
-   "title": "Chief Information Security Officer - CISO (based in Crete)",
-   "url": "https://www.kariera.gr/jobs/other-jobs/351704",
+   "title": "Σύμβουλος Πώλησης Ηλεκτρολογικού Υλικού και Τεχνολογίας_ Κόρινθος",
+   "url": "https://www.kariera.gr/jobs/other-jobs/352125",
    "reason": "εκτός ρόλου"
   },
   {
    "source": "kariera",
-   "title": "Senior Cloud Engineer",
-   "url": "https://www.kariera.gr/jobs/it-jobs/353149",
-   "reason": "κατηγορία kariera εκτός ρόλου (it-jobs)"
+   "title": "Χειριστής Ανυψωτικού Μηχανήματος (Clark)_ Ηράκλειο",
+   "url": "https://www.kariera.gr/jobs/other-jobs/352186",
+   "reason": "τίτλος εκτός ρόλων"
   },
   {
-   "source": "kariera",
-   "title": "Σύμβουλος Πώλησης Ηλεκτρολογικού Υλικού & Τεχνολογίας - Μύκονος",
-   "url": "https://www.kariera.gr/jobs/sales-or-business-development-or-account-management-jobs/351519",
-   "reason": "εκτός ρόλου"
+   "source": "jobfind",
+   "title": "HR με εξειδίκευση στη Μισθοδοσία & το ΕΡΓΑΝΗ",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/59418495-0bfe-41e3-8e36-5fd1ea5d4297/",
+   "reason": "τίτλος εκτός ρόλων"
   },
   {
-   "source": "kariera",
-   "title": "Lighting Consultant-HUB",
-   "url": "https://www.kariera.gr/jobs/construction-or-engineers-or-architects-jobs/351869",
-   "reason": "κατηγορία kariera εκτός ρόλου (construction-or-engineers-or-architects-jobs)"
-  },
-  {
-   "source": "alfavita",
-   "title": "07.11.2026 - 13:02 ΑΣΕΠ 7Κ/2026: 3.262 μόνιμες προσλήψεις στο Δημόσιο – Μέχρι πότε οι αιτήσεις Ευκαιρίες εργασίας για αποφοίτους Υποχρεωτικής Εκπαίδευσης σε 387 φορείς σε όλη τη χώρα. Οι...",
-   "url": "https://www.alfavita.gr/ergasia/567242_asep-7k/2026-3262-monimes-proslipseis-sto-dimosio-mehri-pote-oi-aitiseis",
-   "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
-  },
-  {
-   "source": "proson",
-   "title": "07 Νοε 2026 04:30 Δημόσιο: Ανοικτές 4.797 θέσεις εργασίας εντός και εκτός ΑΣΕΠ Οι περισσότερες από τις προκηρυσσόμενες θέσεις είναι μόνιμες - Αναλυτικός πίνακας",
-   "url": "https://www.proson.gr/ergasia/prokiryxeis/94426_dimosio-anoiktes-4797-theseis-ergasias-entos-kai-ektos-asep",
-   "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
+   "source": "jobfind",
+   "title": "PAYROLL",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/5218413f-e15c-4072-af9f-e7eaceaf9b34/",
+   "reason": "τίτλος εκτός ρόλων"
   }
  ]
 }
