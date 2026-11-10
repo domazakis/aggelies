@@ -1,6 +1,6 @@
 {
  "_perigrafi": "Αγγελίες που εμφανίστηκαν για πρώτη φορά τις τελευταίες 3 ημέρες. Το πλήρες κείμενο κάθε αγγελίας είναι στο detail_file. Έχουν ήδη αφαιρεθεί όσες είναι προφανώς άσχετες από τον τίτλο (δες excluded.json).",
- "enimerosi": "2026-11-09T23:06+00:00",
+ "enimerosi": "2026-11-10T20:33+00:00",
  "proti_ektelesi": false,
  "listings": [
   {
@@ -38,6 +38,40 @@
    "text_chars": 4311
   },
   {
+   "source": "workable",
+   "id": "1c4707db-e86c-4933-8d02-ed5c68fc879f",
+   "title": "Sponsorship Manager",
+   "company": "Doukas School",
+   "location": "Marousi, North Athens",
+   "posted": "2026-11-10",
+   "employment": "Full-time",
+   "workplace": "on_site",
+   "url": "https://jobs.workable.com/view/4uwuk4wdVaCJQTFKdEGU58/sponsorship-manager-in-marousi-at-doukas-school",
+   "apply": [
+    "https://jobs.workable.com/view/4uwuk4wdVaCJQTFKdEGU58/sponsorship-manager-in-marousi-at-doukas-school/apply"
+   ],
+   "first_seen": "2026-11-10",
+   "detail_file": "data/details/workable/1c4707db-e86c-4933-8d02-ed5c68fc879f.md",
+   "text_chars": 1502
+  },
+  {
+   "source": "workable",
+   "id": "c530a75f-c999-4d96-94a8-5964a7e6d2bc",
+   "title": "Marketing Manager",
+   "company": "INVENTIO SA",
+   "location": "Athens, Attica",
+   "posted": "2026-11-10",
+   "employment": "Full-time",
+   "workplace": "on_site",
+   "url": "https://jobs.workable.com/view/qmhXxLszBZGm3mjdacniTS/marketing-manager-in-athens-at-inventio-sa",
+   "apply": [
+    "https://jobs.workable.com/view/qmhXxLszBZGm3mjdacniTS/marketing-manager-in-athens-at-inventio-sa/apply"
+   ],
+   "first_seen": "2026-11-10",
+   "detail_file": "data/details/workable/c530a75f-c999-4d96-94a8-5964a7e6d2bc.md",
+   "text_chars": 4910
+  },
+  {
    "source": "kariera",
    "id": "359259",
    "title": "Performance Marketing Specialist & Digital Content Specialist",
@@ -56,6 +90,66 @@
    "first_seen": "2026-11-10",
    "detail_file": "data/details/kariera/359251.md",
    "text_chars": 953
+  },
+  {
+   "source": "kariera",
+   "id": "359794",
+   "title": "Marketing Representative",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/359794",
+   "first_seen": "2026-11-10",
+   "detail_file": "data/details/kariera/359794.md",
+   "text_chars": 953
+  },
+  {
+   "source": "kariera",
+   "id": "359742",
+   "title": "Marketing- Επικοινωνία- Πωλήσεις",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/359742",
+   "first_seen": "2026-11-10",
+   "detail_file": "data/details/kariera/359742.md",
+   "text_chars": 856
+  },
+  {
+   "source": "kariera",
+   "id": "359655",
+   "title": "Marketing Manager",
+   "company": "ΔΗΜΙΟΥΡΓΙΚΗ ΑΕ ΧΑΝΙΑ",
+   "location": "Σούδα",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/359655",
+   "first_seen": "2026-11-10",
+   "detail_file": "data/details/kariera/359655.md",
+   "text_chars": 2139
+  },
+  {
+   "source": "kariera",
+   "id": "359642",
+   "title": "Social Media & Content Specialist _ Πάτρα",
+   "company": "WEST SA",
+   "location": "Πάτρα",
+   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/359642",
+   "first_seen": "2026-11-10",
+   "detail_file": "data/details/kariera/359642.md",
+   "text_chars": 4043
+  },
+  {
+   "source": "kariera",
+   "id": "359749",
+   "title": "Guest Relations Manager",
+   "company": "Rosewood Blue Palace",
+   "location": "Άγιος Νικόλαος",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/359749",
+   "first_seen": "2026-11-10",
+   "detail_file": "data/details/kariera/359749.md",
+   "text_chars": 6759
+  },
+  {
+   "source": "kariera",
+   "id": "359663",
+   "title": "Υπάλληλος Τουριστικού Γραφείου-Έκδοση Εισιτηρίων",
+   "url": "https://www.kariera.gr/jobs/tourism-jobs/359663",
+   "first_seen": "2026-11-10",
+   "detail_file": "data/details/kariera/359663.md",
+   "text_chars": 1478
   },
   {
    "source": "jobfind",
@@ -106,6 +200,16 @@
    "first_seen": "2026-11-10",
    "detail_file": "data/details/jobfind/82b02a5e-ca72-47dd-b79a-4aef7690a562.md",
    "text_chars": 2702
+  },
+  {
+   "source": "jobfind",
+   "id": "4fceae3f-ad64-4405-9ae1-d3f5d4e4411e",
+   "title": "Υπάλληλος Γραμματειακής Υποστήριξης - Social Media Administrator",
+   "location": "Social Media Administrator - ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΜΑΡΟΥΣΙ",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/4fceae3f-ad64-4405-9ae1-d3f5d4e4411e/",
+   "first_seen": "2026-11-10",
+   "detail_file": "data/details/jobfind/4fceae3f-ad64-4405-9ae1-d3f5d4e4411e.md",
+   "text_chars": 1444
   }
  ]
 }
