@@ -1,8 +1,90 @@
 {
  "_perigrafi": "Αγγελίες που εμφανίστηκαν για πρώτη φορά τις τελευταίες 3 ημέρες. Το πλήρες κείμενο κάθε αγγελίας είναι στο detail_file. Έχουν ήδη αφαιρεθεί όσες είναι προφανώς άσχετες από τον τίτλο (δες excluded.json).",
- "enimerosi": "2026-11-10T20:33+00:00",
+ "enimerosi": "2026-11-11T20:18+00:00",
  "proti_ektelesi": false,
  "listings": [
+  {
+   "source": "workable",
+   "id": "05a1918f-33d4-437d-9078-5d2f6a0892cb",
+   "title": "Communications Specialist",
+   "company": "RAFARM",
+   "location": "Paiania, Attica",
+   "posted": "2026-11-11",
+   "workplace": "on_site",
+   "url": "https://jobs.workable.com/view/1GkbdWQfREH4xCuPvVdm54/communications-specialist-in-paiania-at-rafarm",
+   "apply": [
+    "https://jobs.workable.com/view/1GkbdWQfREH4xCuPvVdm54/communications-specialist-in-paiania-at-rafarm/apply"
+   ],
+   "first_seen": "2026-11-11",
+   "detail_file": "data/details/workable/05a1918f-33d4-437d-9078-5d2f6a0892cb.md",
+   "text_chars": 2153
+  },
+  {
+   "source": "workable",
+   "id": "a1bba36a-99ed-49fd-86e7-bbf7eb59a8f1",
+   "title": "Events & Brand Experiences Director",
+   "company": "TOPOSOPHY",
+   "location": "Athens, Attica",
+   "posted": "2026-11-11",
+   "employment": "Full-time",
+   "workplace": "on_site",
+   "url": "https://jobs.workable.com/view/kYm3yJBMUp3VqcQixQYoX4/events-%26-brand-experiences-director-in-athens-at-toposophy",
+   "apply": [
+    "https://jobs.workable.com/view/kYm3yJBMUp3VqcQixQYoX4/events-%26-brand-experiences-director-in-athens-at-toposophy/apply"
+   ],
+   "first_seen": "2026-11-11",
+   "detail_file": "data/details/workable/a1bba36a-99ed-49fd-86e7-bbf7eb59a8f1.md",
+   "text_chars": 6948
+  },
+  {
+   "source": "workable",
+   "id": "b9237079-afe8-4024-82ad-0d31bccd67f9",
+   "title": "Assistant Project Manager",
+   "company": "ICAP OUTSOURCING SOLUTIONS",
+   "location": "Athens, Attica",
+   "posted": "2026-11-11",
+   "employment": "Full-time",
+   "workplace": "hybrid",
+   "url": "https://jobs.workable.com/view/oRYGJWibY34amgqb7aVuFt/hybrid-assistant-project-manager-in-athens-at-icap-outsourcing-solutions",
+   "apply": [
+    "https://jobs.workable.com/view/oRYGJWibY34amgqb7aVuFt/hybrid-assistant-project-manager-in-athens-at-icap-outsourcing-solutions/apply"
+   ],
+   "first_seen": "2026-11-11",
+   "detail_file": "data/details/workable/b9237079-afe8-4024-82ad-0d31bccd67f9.md",
+   "text_chars": 3021
+  },
+  {
+   "source": "jobfind",
+   "id": "66eca15d-932f-4271-bf73-26e2fb8edfe9",
+   "title": "Εμπορικός Διευθυντής",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΑΧΑΡΝΕΣ",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/66eca15d-932f-4271-bf73-26e2fb8edfe9/",
+   "first_seen": "2026-11-11",
+   "detail_file": "data/details/jobfind/66eca15d-932f-4271-bf73-26e2fb8edfe9.md",
+   "text_chars": 2011
+  },
+  {
+   "source": "jobfind",
+   "id": "dfe8f877-60bc-4e10-b997-2ae4a850bf2d",
+   "title": "Συντονιστής Πτήσεων",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΑΕΡΟΔΡΟΜΙΟ ΕΛ. ΒΕΝΙΖΕΛΟΣ",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/dfe8f877-60bc-4e10-b997-2ae4a850bf2d/",
+   "first_seen": "2026-11-11",
+   "detail_file": "data/details/jobfind/dfe8f877-60bc-4e10-b997-2ae4a850bf2d.md",
+   "text_chars": 1238
+  },
+  {
+   "source": "alfavita",
+   "id": "567527",
+   "title": "11.11.2026 - 04:00 Μουσεία: Μόνιμες προσλήψεις χωρίς πτυχίο μέσω ΑΣΕΠ 7Κ/2026 Μόνιμες θέσεις σε τέσσερα μεγάλα μουσεία σε Αθήνα, Θεσσαλονίκη και Ηράκλειο",
+   "url": "https://www.alfavita.gr/ergasia/567527_moyseia-monimes-proslipseis-horis-ptyhio-meso-asep-7k/2026",
+   "apply": [
+    "mailto:"
+   ],
+   "first_seen": "2026-11-11",
+   "detail_file": "data/details/alfavita/567527.md",
+   "text_chars": 4424
+  },
   {
    "source": "workable",
    "id": "93d78092-329f-4e8a-b171-ef8fed31e66c",
