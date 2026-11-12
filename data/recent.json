@@ -1,8 +1,151 @@
 {
  "_perigrafi": "Αγγελίες που εμφανίστηκαν για πρώτη φορά τις τελευταίες 3 ημέρες. Το πλήρες κείμενο κάθε αγγελίας είναι στο detail_file. Έχουν ήδη αφαιρεθεί όσες είναι προφανώς άσχετες από τον τίτλο (δες excluded.json).",
- "enimerosi": "2026-11-11T20:18+00:00",
+ "enimerosi": "2026-11-12T21:00+00:00",
  "proti_ektelesi": false,
  "listings": [
+  {
+   "source": "workable",
+   "id": "8394724e-d0c4-4bb7-95a2-61d99721718b",
+   "title": "Digital Marketing Specialist",
+   "company": "MSPS",
+   "location": "Aspropyrgos, Attica",
+   "posted": "2026-11-12",
+   "employment": "Full-time",
+   "workplace": "hybrid",
+   "url": "https://jobs.workable.com/view/hfoqcVBXBXBePZKTiySbge/hybrid-digital-marketing-specialist-in-aspropyrgos-at-msps",
+   "apply": [
+    "https://jobs.workable.com/view/hfoqcVBXBXBePZKTiySbge/hybrid-digital-marketing-specialist-in-aspropyrgos-at-msps/apply"
+   ],
+   "first_seen": "2026-11-12",
+   "detail_file": "data/details/workable/8394724e-d0c4-4bb7-95a2-61d99721718b.md",
+   "text_chars": 2178
+  },
+  {
+   "source": "workable",
+   "id": "92a57ff2-3329-4649-a796-ff52ae9acd82",
+   "title": "Senior Project Manager",
+   "company": "Qualco Group",
+   "location": "Athens, Attica",
+   "posted": "2026-11-12",
+   "workplace": "hybrid",
+   "url": "https://jobs.workable.com/view/j7i75ZJ718WPxEkavQF1gC/hybrid-senior-project-manager-in-athens-at-qualco-group",
+   "apply": [
+    "https://jobs.workable.com/view/j7i75ZJ718WPxEkavQF1gC/hybrid-senior-project-manager-in-athens-at-qualco-group/apply"
+   ],
+   "first_seen": "2026-11-12",
+   "detail_file": "data/details/workable/92a57ff2-3329-4649-a796-ff52ae9acd82.md",
+   "text_chars": 5020
+  },
+  {
+   "source": "workable",
+   "id": "0ba1e0a4-86ef-46f2-a86e-ee6d535c65eb",
+   "title": "Growth & Performance Marketing Manager",
+   "company": "PEOPLECERT",
+   "location": "Athens, Attica",
+   "posted": "2026-11-12",
+   "employment": "Full-time",
+   "workplace": "on_site",
+   "url": "https://jobs.workable.com/view/2rj5Sfg8bM6XtRGqxTuBBz/growth-%26-performance-marketing-manager-in-athens-at-peoplecert",
+   "apply": [
+    "https://jobs.workable.com/view/2rj5Sfg8bM6XtRGqxTuBBz/growth-%26-performance-marketing-manager-in-athens-at-peoplecert/apply"
+   ],
+   "first_seen": "2026-11-12",
+   "detail_file": "data/details/workable/0ba1e0a4-86ef-46f2-a86e-ee6d535c65eb.md",
+   "text_chars": 4861
+  },
+  {
+   "source": "workable",
+   "id": "8da31182-58e0-41e7-9796-4f4def64ffa9",
+   "title": "Senior Digital Marketing Strategist (Social Media Ads)",
+   "company": "Relevance Digital",
+   "location": "Athens, Central Athens",
+   "posted": "2026-11-12",
+   "employment": "Full-time",
+   "workplace": "hybrid",
+   "url": "https://jobs.workable.com/view/iuq9X4uWZgXNBFeZgwuUL2/hybrid-senior-digital-marketing-strategist-(social-media-ads)-in-athens-at-relevance-digital",
+   "apply": [
+    "https://jobs.workable.com/view/iuq9X4uWZgXNBFeZgwuUL2/hybrid-senior-digital-marketing-strategist-(social-media-ads)-in-athens-at-relevance-digital/apply"
+   ],
+   "first_seen": "2026-11-12",
+   "detail_file": "data/details/workable/8da31182-58e0-41e7-9796-4f4def64ffa9.md",
+   "text_chars": 5307
+  },
+  {
+   "source": "proson",
+   "id": "94900",
+   "title": "12 Νοε 2026 12:21 ΑΣΕΠ: Άνοιξαν 30 θέσεις εργασίας στο Αρχαιολογικό Μουσείο Ηρακλείου Προσλήψεις απόφοιτων ΤΕΙ, λυκείου και γυμνασίου στο Αρχαιολογικό Μουσείο Ηρακλείου",
+   "url": "https://www.proson.gr/ergasia/prokiryxeis/94900_asep-anoixan-30-theseis-ergasias-sto-arhaiologiko-moyseio-irakleioy",
+   "first_seen": "2026-11-12",
+   "detail_file": "data/details/proson/94900.md",
+   "text_chars": 3823
+  },
+  {
+   "source": "jobfind",
+   "id": "b7b00c00-c823-4e91-a4f0-bbc4a9cb4f1c",
+   "title": "Social Media & Marketing | Scouting & Content Creation",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΣΥΝΤΑΓΜΑ",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/b7b00c00-c823-4e91-a4f0-bbc4a9cb4f1c/",
+   "first_seen": "2026-11-12",
+   "detail_file": "data/details/jobfind/b7b00c00-c823-4e91-a4f0-bbc4a9cb4f1c.md",
+   "text_chars": 2902
+  },
+  {
+   "source": "jobfind",
+   "id": "c6e55663-af3c-40f3-95a0-c05c110eee93",
+   "title": "Advertising & Partnerships Executive",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΑΛΙΜΟΣ",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/c6e55663-af3c-40f3-95a0-c05c110eee93/",
+   "first_seen": "2026-11-12",
+   "detail_file": "data/details/jobfind/c6e55663-af3c-40f3-95a0-c05c110eee93.md",
+   "text_chars": 936
+  },
+  {
+   "source": "jobfind",
+   "id": "4ca25ac7-14ac-446f-a5b7-ed4cd66d073f",
+   "title": "Assistant Project Manager",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΣΥΝΤΑΓΜΑ",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/4ca25ac7-14ac-446f-a5b7-ed4cd66d073f/",
+   "apply": [
+    "https://apply.workable.com/icapes/j/7180CF2484"
+   ],
+   "first_seen": "2026-11-12",
+   "detail_file": "data/details/jobfind/4ca25ac7-14ac-446f-a5b7-ed4cd66d073f.md",
+   "text_chars": 3409
+  },
+  {
+   "source": "jobfind",
+   "id": "b3b85fd6-6086-451e-8e94-96307722009e",
+   "title": "Graduate Programme — Κρατήσεις, Πωλήσεις & Concierge",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΚΟΛΩΝΑΚΙ",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/b3b85fd6-6086-451e-8e94-96307722009e/",
+   "first_seen": "2026-11-12",
+   "detail_file": "data/details/jobfind/b3b85fd6-6086-451e-8e94-96307722009e.md",
+   "text_chars": 2344
+  },
+  {
+   "source": "alfavita",
+   "id": "567862",
+   "title": "12.11.2026 - 14:25 Εισαγωγή 635 μετεκπαιδευόμενων στα Τμήματα Μετεκπαίδευσης του υπουργείου Τουρισμού Δημοσιεύθηκε η προκήρυξη - Πότε οι αιτήσεις - Ποιους αφορά",
+   "url": "https://www.alfavita.gr/ergasia/567862_eisagogi-635-metekpaideyomenon-sta-tmimata-metekpaideysis-toy-ypoyrgeioy-toyrismoy",
+   "apply": [
+    "mailto:"
+   ],
+   "first_seen": "2026-11-12",
+   "detail_file": "data/details/alfavita/567862.md",
+   "text_chars": 6136
+  },
+  {
+   "source": "alfavita",
+   "id": "567844",
+   "title": "12.11.2026 - 12:49 Κρήτη: 30 προσλήψεις στο Αρχαιολογικό Μουσείο Ηρακλείου Θέσεις εργασίας για πέντε ειδικότητες",
+   "url": "https://www.alfavita.gr/ergasia/567844_kriti-30-proslipseis-sto-arhaiologiko-moyseio-irakleioy",
+   "apply": [
+    "mailto:"
+   ],
+   "first_seen": "2026-11-12",
+   "detail_file": "data/details/alfavita/567844.md",
+   "text_chars": 3801
+  },
   {
    "source": "workable",
    "id": "05a1918f-33d4-437d-9078-5d2f6a0892cb",

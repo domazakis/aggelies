@@ -1,15 +1,15 @@
-# Συλλογή 2026-11-11 (20:18 UTC)
+# Συλλογή 2026-11-12 (21:00 UTC)
 
 | Πηγή | Αιτήματα OK | Βρέθηκαν | Νέες | Κόπηκαν από τίτλο | Σφάλματα |
 |---|---|---|---|---|---|
 | kariera | 0/30 | 0 | 0 | 0 | 30 |
-| workable | 22/22 | 83 | 3 | 2 | 0 |
-| jobfind | 20/20 | 157 | 2 | 9 | 0 |
-| onassis | 1/1 | 4 | 0 | 0 | 0 |
-| alfavita | 2/2 | 30 | 1 | 8 | 0 |
-| proson | 1/1 | 22 | 0 | 7 | 0 |
+| workable | 22/22 | 87 | 4 | 3 | 0 |
+| jobfind | 22/22 | 153 | 4 | 4 | 0 |
+| onassis | 1/1 | 3 | 0 | 0 | 0 |
+| alfavita | 3/3 | 29 | 2 | 3 | 0 |
+| proson | 2/2 | 22 | 1 | 3 | 0 |
 
-Στο recent.json: 24 αγγελίες (από τις οποίες 6 νέες σήμερα).
+Στο recent.json: 35 αγγελίες (από τις οποίες 11 νέες σήμερα).
 
 jobfind υποκατηγορίες: Marketing, Event-Planner, Stelexi_Marketing, Stelexi_Epixeiriseon, Account_Manager_Project_Manager, Dieuthintes_Dioikitika_Stelexi, Symvouloi_Epixeiriseon, Symvouloi_Espa_Anaptyxiakon_Programmaton, Tourismos, Animateur_Personal_Trainer, Guest_Relations, Maitre, Loipes_Eidikotites_Tourismou, Xenagoi, Stelexi_Xenodoxeion
 
