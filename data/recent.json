@@ -1,8 +1,27 @@
 {
  "_perigrafi": "Αγγελίες που εμφανίστηκαν για πρώτη φορά τις τελευταίες 3 ημέρες. Το πλήρες κείμενο κάθε αγγελίας είναι στο detail_file. Έχουν ήδη αφαιρεθεί όσες είναι προφανώς άσχετες από τον τίτλο (δες excluded.json).",
- "enimerosi": "2026-11-12T21:00+00:00",
+ "enimerosi": "2026-11-13T20:35+00:00",
  "proti_ektelesi": false,
  "listings": [
+  {
+   "source": "proson",
+   "id": "95009",
+   "title": "13 Νοε 2026 16:33 ΑΣΕΠ: 30 θέσεις εργασίας στο Μουσείο Βυζαντινού Πολιτισμού - Μέχρι πότε οι αιτήσεις Θα προσληφθούν απόφοιτοι Τεχνολογικής, Δευτεροβάθμιας και Υποχρεωτικής Εκπαίδευσης (ΤΕ, ΔΕ και ΥΕ),...",
+   "url": "https://www.proson.gr/ergasia/prokiryxeis/95009_asep-30-theseis-ergasias-sto-moyseio-byzantinoy-politismoy-mehri-pote-oi",
+   "first_seen": "2026-11-13",
+   "detail_file": "data/details/proson/95009.md",
+   "text_chars": 4097
+  },
+  {
+   "source": "jobfind",
+   "id": "e1d70450-377e-4680-af88-9e2ba09258a4",
+   "title": "Υπάλληλος Ιατρικού marketing",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΑΜΠΕΛΟΚΗΠΟΙ",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/e1d70450-377e-4680-af88-9e2ba09258a4/",
+   "first_seen": "2026-11-13",
+   "detail_file": "data/details/jobfind/e1d70450-377e-4680-af88-9e2ba09258a4.md",
+   "text_chars": 1510
+  },
   {
    "source": "workable",
    "id": "8394724e-d0c4-4bb7-95a2-61d99721718b",
@@ -227,214 +246,6 @@
    "first_seen": "2026-11-11",
    "detail_file": "data/details/alfavita/567527.md",
    "text_chars": 4424
-  },
-  {
-   "source": "workable",
-   "id": "93d78092-329f-4e8a-b171-ef8fed31e66c",
-   "title": "Project Manager - Fibre Optic Infrastructure (FTTH Projects)",
-   "company": "TELCOCOM DATA HELLAS",
-   "location": "Marousi, Attica",
-   "posted": "2026-11-09",
-   "employment": "Full-time",
-   "workplace": "on_site",
-   "url": "https://jobs.workable.com/view/jfRDhYkQrCQPVnRCZVq5cN/project-manager---fibre-optic-infrastructure-(ftth-projects)-in-marousi-at-telcocom-data-hellas",
-   "apply": [
-    "https://jobs.workable.com/view/jfRDhYkQrCQPVnRCZVq5cN/project-manager---fibre-optic-infrastructure-(ftth-projects)-in-marousi-at-telcocom-data-hellas/apply"
-   ],
-   "first_seen": "2026-11-10",
-   "detail_file": "data/details/workable/93d78092-329f-4e8a-b171-ef8fed31e66c.md",
-   "text_chars": 2710
-  },
-  {
-   "source": "workable",
-   "id": "1d78e90f-d40e-4948-b26a-81746533dbda",
-   "title": "Web & Agentic AI Specialist | Marketing",
-   "company": "Up Hellas",
-   "location": "Athens, Attica",
-   "posted": "2026-11-09",
-   "employment": "Full-time",
-   "workplace": "hybrid",
-   "url": "https://jobs.workable.com/view/4D5PZ2FiX9PYtBQA8aXgrd/hybrid-web-%26-agentic-ai-specialist-%7C-marketing-in-athens-at-up-hellas",
-   "apply": [
-    "https://jobs.workable.com/view/4D5PZ2FiX9PYtBQA8aXgrd/hybrid-web-%26-agentic-ai-specialist-%7C-marketing-in-athens-at-up-hellas/apply"
-   ],
-   "first_seen": "2026-11-10",
-   "detail_file": "data/details/workable/1d78e90f-d40e-4948-b26a-81746533dbda.md",
-   "text_chars": 4311
-  },
-  {
-   "source": "workable",
-   "id": "1c4707db-e86c-4933-8d02-ed5c68fc879f",
-   "title": "Sponsorship Manager",
-   "company": "Doukas School",
-   "location": "Marousi, North Athens",
-   "posted": "2026-11-10",
-   "employment": "Full-time",
-   "workplace": "on_site",
-   "url": "https://jobs.workable.com/view/4uwuk4wdVaCJQTFKdEGU58/sponsorship-manager-in-marousi-at-doukas-school",
-   "apply": [
-    "https://jobs.workable.com/view/4uwuk4wdVaCJQTFKdEGU58/sponsorship-manager-in-marousi-at-doukas-school/apply"
-   ],
-   "first_seen": "2026-11-10",
-   "detail_file": "data/details/workable/1c4707db-e86c-4933-8d02-ed5c68fc879f.md",
-   "text_chars": 1502
-  },
-  {
-   "source": "workable",
-   "id": "c530a75f-c999-4d96-94a8-5964a7e6d2bc",
-   "title": "Marketing Manager",
-   "company": "INVENTIO SA",
-   "location": "Athens, Attica",
-   "posted": "2026-11-10",
-   "employment": "Full-time",
-   "workplace": "on_site",
-   "url": "https://jobs.workable.com/view/qmhXxLszBZGm3mjdacniTS/marketing-manager-in-athens-at-inventio-sa",
-   "apply": [
-    "https://jobs.workable.com/view/qmhXxLszBZGm3mjdacniTS/marketing-manager-in-athens-at-inventio-sa/apply"
-   ],
-   "first_seen": "2026-11-10",
-   "detail_file": "data/details/workable/c530a75f-c999-4d96-94a8-5964a7e6d2bc.md",
-   "text_chars": 4910
-  },
-  {
-   "source": "kariera",
-   "id": "359259",
-   "title": "Performance Marketing Specialist & Digital Content Specialist",
-   "company": "Hall of Brands / Saintsoles",
-   "location": "Αθήνα",
-   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/359259",
-   "first_seen": "2026-11-10",
-   "detail_file": "data/details/kariera/359259.md",
-   "text_chars": 4387
-  },
-  {
-   "source": "kariera",
-   "id": "359251",
-   "title": "Marketing Representative",
-   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/359251",
-   "first_seen": "2026-11-10",
-   "detail_file": "data/details/kariera/359251.md",
-   "text_chars": 953
-  },
-  {
-   "source": "kariera",
-   "id": "359794",
-   "title": "Marketing Representative",
-   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/359794",
-   "first_seen": "2026-11-10",
-   "detail_file": "data/details/kariera/359794.md",
-   "text_chars": 953
-  },
-  {
-   "source": "kariera",
-   "id": "359742",
-   "title": "Marketing- Επικοινωνία- Πωλήσεις",
-   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/359742",
-   "first_seen": "2026-11-10",
-   "detail_file": "data/details/kariera/359742.md",
-   "text_chars": 856
-  },
-  {
-   "source": "kariera",
-   "id": "359655",
-   "title": "Marketing Manager",
-   "company": "ΔΗΜΙΟΥΡΓΙΚΗ ΑΕ ΧΑΝΙΑ",
-   "location": "Σούδα",
-   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/359655",
-   "first_seen": "2026-11-10",
-   "detail_file": "data/details/kariera/359655.md",
-   "text_chars": 2139
-  },
-  {
-   "source": "kariera",
-   "id": "359642",
-   "title": "Social Media & Content Specialist _ Πάτρα",
-   "company": "WEST SA",
-   "location": "Πάτρα",
-   "url": "https://www.kariera.gr/jobs/marketing-or-advertising-jobs/359642",
-   "first_seen": "2026-11-10",
-   "detail_file": "data/details/kariera/359642.md",
-   "text_chars": 4043
-  },
-  {
-   "source": "kariera",
-   "id": "359749",
-   "title": "Guest Relations Manager",
-   "company": "Rosewood Blue Palace",
-   "location": "Άγιος Νικόλαος",
-   "url": "https://www.kariera.gr/jobs/tourism-jobs/359749",
-   "first_seen": "2026-11-10",
-   "detail_file": "data/details/kariera/359749.md",
-   "text_chars": 6759
-  },
-  {
-   "source": "kariera",
-   "id": "359663",
-   "title": "Υπάλληλος Τουριστικού Γραφείου-Έκδοση Εισιτηρίων",
-   "url": "https://www.kariera.gr/jobs/tourism-jobs/359663",
-   "first_seen": "2026-11-10",
-   "detail_file": "data/details/kariera/359663.md",
-   "text_chars": 1478
-  },
-  {
-   "source": "jobfind",
-   "id": "2be73faa-60d9-4b58-ab20-b6db15b511f4",
-   "title": "Στελέχη Marketing",
-   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΑΧΑΡΝΕΣ",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/2be73faa-60d9-4b58-ab20-b6db15b511f4/",
-   "first_seen": "2026-11-10",
-   "detail_file": "data/details/jobfind/2be73faa-60d9-4b58-ab20-b6db15b511f4.md",
-   "text_chars": 5337
-  },
-  {
-   "source": "jobfind",
-   "id": "6c424107-a87b-4a46-a177-f3088409e046",
-   "title": "Video Content Creator",
-   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/6c424107-a87b-4a46-a177-f3088409e046/",
-   "first_seen": "2026-11-10",
-   "detail_file": "data/details/jobfind/6c424107-a87b-4a46-a177-f3088409e046.md",
-   "text_chars": 5280
-  },
-  {
-   "source": "jobfind",
-   "id": "2f3e97bd-d289-4233-a9d0-cdedf83c16bb",
-   "title": "Marketing Executive",
-   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΚΕΝΤΡΟ ΠΕΙΡΑΙΑ",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/2f3e97bd-d289-4233-a9d0-cdedf83c16bb/",
-   "first_seen": "2026-11-10",
-   "detail_file": "data/details/jobfind/2f3e97bd-d289-4233-a9d0-cdedf83c16bb.md",
-   "text_chars": 4001
-  },
-  {
-   "source": "jobfind",
-   "id": "d2543d70-6328-44d8-bbe3-e39d8556fbfa",
-   "title": "Social Media & E-commerce Manager (Remote, Μερική Απασχόληση)",
-   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΚΑΛΛΙΘΕΑ",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/d2543d70-6328-44d8-bbe3-e39d8556fbfa/",
-   "first_seen": "2026-11-10",
-   "detail_file": "data/details/jobfind/d2543d70-6328-44d8-bbe3-e39d8556fbfa.md",
-   "text_chars": 2796
-  },
-  {
-   "source": "jobfind",
-   "id": "82b02a5e-ca72-47dd-b79a-4aef7690a562",
-   "title": "Transportation Operations Coordinator",
-   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΒΑΡΗ",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/82b02a5e-ca72-47dd-b79a-4aef7690a562/",
-   "first_seen": "2026-11-10",
-   "detail_file": "data/details/jobfind/82b02a5e-ca72-47dd-b79a-4aef7690a562.md",
-   "text_chars": 2702
-  },
-  {
-   "source": "jobfind",
-   "id": "4fceae3f-ad64-4405-9ae1-d3f5d4e4411e",
-   "title": "Υπάλληλος Γραμματειακής Υποστήριξης - Social Media Administrator",
-   "location": "Social Media Administrator - ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΜΑΡΟΥΣΙ",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/4fceae3f-ad64-4405-9ae1-d3f5d4e4411e/",
-   "first_seen": "2026-11-10",
-   "detail_file": "data/details/jobfind/4fceae3f-ad64-4405-9ae1-d3f5d4e4411e.md",
-   "text_chars": 1444
   }
  ]
 }

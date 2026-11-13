@@ -1,82 +1,130 @@
 {
- "imerominia": "2026-11-12",
+ "imerominia": "2026-11-13",
  "excluded": [
   {
    "source": "workable",
-   "title": "Business Consultant",
-   "url": "https://jobs.workable.com/view/28coeZ2HXP3UMMtUhGRvJg/hybrid-business-consultant-in-athens-at-uni-systems",
+   "title": "Senior Growth Product Manager",
+   "url": "https://jobs.workable.com/view/65eB6gFT3Lk1VBtTHYoCsM/remote-senior-growth-product-manager-in-athens-at-soda-data",
    "reason": "τίτλος εκτός ρόλων"
   },
   {
    "source": "workable",
-   "title": "Warehouse & Logistics Coordinator",
-   "url": "https://jobs.workable.com/view/7wbSoMZbaQxYBEsZYjuXfq/warehouse-%26-logistics-coordinator-in-koropi-at-the-bright-collective",
+   "title": "Career Event | Developers Day Athens 2026",
+   "url": "https://jobs.workable.com/view/j8eGESXrHtxHn73LQdVYJR/hybrid-career-event-%7C-developers-day-athens-2026-in-nea-smyrni-at-cepal-hellas-financial-services-s.a.",
    "reason": "εκτός ρόλου"
   },
   {
-   "source": "workable",
-   "title": "Product Manager - Signal ERP (Planned Maintenance & Procurement)",
-   "url": "https://jobs.workable.com/view/u5dz9GHJwDCV6LH1dkLmuR/hybrid-product-manager---signal-erp-(planned-maintenance-%26-procurement)-in-athens-at-signal",
+   "source": "jobfind",
+   "title": "Μέλη για την ενίσχυση της ομάδας | Χωρίς προϋπηρεσία | Πλήρης εκπαίδευση",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/66d82cb3-f6d6-455b-bdf0-998d9008b809/",
+   "reason": "entry level/junior"
+  },
+  {
+   "source": "jobfind",
+   "title": "Business Development Associate",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/55e2ecf2-945d-4ed0-8bba-37f984994c4c/",
    "reason": "τίτλος εκτός ρόλων"
   },
   {
    "source": "jobfind",
-   "title": "Client Service / Account Manager",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/63699030-ec31-4cae-aaeb-e7746f9d39d1/",
+   "title": "Senior Consultant / Manager - Talent Acquisition",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/7765daa2-06d5-4c9d-bc9a-e0c231ffb673/",
    "reason": "τίτλος εκτός ρόλων"
   },
   {
    "source": "jobfind",
-   "title": "HR Professional",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/1105a132-5408-45d6-bb80-fb900f2ef85c/",
+   "title": "Extra Waiter / Waitress | Conrad Athens The Ilisian",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/6adc0cd5-bbbc-46ec-8d65-ce80ea751fef/",
    "reason": "τίτλος εκτός ρόλων"
   },
   {
    "source": "jobfind",
-   "title": "HR/Payroll Workforce Consultant",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/6b99553b-f245-428e-9f09-1cddaa5769ef/",
+   "title": "Casual Waiter / Waitress | Conrad Athens The Ilisian",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/69034562-ed40-409d-9f05-5d9579e96647/",
    "reason": "τίτλος εκτός ρόλων"
   },
   {
    "source": "jobfind",
-   "title": "Υπάλληλος Υποδοχής Ξενοδοχείου (Receptionist) – Αθήνα",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/d19a26fd-3274-4d35-81d5-b79a2eb48d1a/",
+   "title": "Bartender / Barista | Conrad Athens The Ilisian",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/83295397-14d8-4c2d-8177-9c71b6889e08/",
+   "reason": "εστίαση"
+  },
+  {
+   "source": "jobfind",
+   "title": "Assistant Restaurant Manager / Assistant Maître | Conrad Athens The Ilisian",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/46e3249d-b900-4dd7-bd83-e4b1f92f3c27/",
+   "reason": "τίτλος εκτός ρόλων"
+  },
+  {
+   "source": "jobfind",
+   "title": "Β' Μάγειρας",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/61892c67-df6c-4931-a0e3-5c13ee3aa45e/",
+   "reason": "εστίαση"
+  },
+  {
+   "source": "jobfind",
+   "title": "Καμαριέρα - Καθαριστής",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/86672e26-748c-4bfb-bba4-77d8693e4e8d/",
+   "reason": "εκτός ρόλου"
+  },
+  {
+   "source": "jobfind",
+   "title": "Καμαριέρα",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/70720d94-7cba-4a32-980a-028ee3332bc3/",
    "reason": "τίτλος εκτός ρόλων"
   },
   {
    "source": "alfavita",
-   "title": "12.11.2026 - 15:12 ΑΣΕΠ 1Ε/2026: Δέκα θέσεις Ελεγκτών Ιατρών στο Δημόσιο – Πότε ανοίγουν οι αιτήσεις Σε δέκα υπουργεία και φορείς, μεταξύ των οποίων το Πανεπιστήμιο Πατρών, οι θέσεις με τριετή θητεία...",
-   "url": "https://www.alfavita.gr/ergasia/567874_asep-1e/2026-deka-theseis-elegkton-iatron-sto-dimosio-pote-anoigoyn-oi-aitiseis",
+   "title": "13.11.2026 - 21:50 Αγορά εργασίας: Ποια επαγγέλματα έχουν τη μεγαλύτερη ζήτηση και ποια τις κορυφαίες ελλείψεις Τι δείχνουν τα νέα στοιχεία του ΟΟΣΑ για την Ευρώπη",
+   "url": "https://www.alfavita.gr/ergasia/568076_agora-ergasias-poia-epaggelmata-ehoyn-ti-megalyteri-zitisi-kai-poia-tis-koryfaies",
    "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
   },
   {
    "source": "alfavita",
-   "title": "12.11.2026 - 11:03 Υπουργείο Εθνικής Άμυνας: Μόνιμες προσλήψεις χωρίς πτυχίο μέσω ΑΣΕΠ Μόνιμες προσλήψεις μέσω της προκήρυξης ΑΣΕΠ 7Κ/2026",
-   "url": "https://www.alfavita.gr/ergasia/567820_ypoyrgeio-ethnikis-amynas-monimes-proslipseis-horis-ptyhio-meso-asep",
+   "title": "13.11.2026 - 15:06 Θάνος Παπαϊωάννου (Πρόεδρος ΑΣΕΠ): Το νέο μοντέλο γραπτών διαγωνισμών μετά το 2027 Ο Θάνος Παπαϊωάννου αποκάλυψε το σχέδιο για εξετάσεις σε εγκαταστάσεις του ΑΣΕΠ, με ηλεκτρονικό...",
+   "url": "https://www.alfavita.gr/ergasia/568034_thanos-papaioannoy-proedros-asep-neo-montelo-grapton-diagonismon-meta-2027",
    "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
   },
   {
    "source": "alfavita",
-   "title": "12.11.2026 - 05:00 ΑΣΕΠ: Μόνιμες προσλήψεις χωρίς πτυχίο στις Διευθύνσεις Εκπαίδευσης Μέσω της προκήρυξης ΑΣΕΠ 7Κ/2026 - Ανοικτές οι αιτήσεις",
-   "url": "https://www.alfavita.gr/ergasia/567683_asep-monimes-proslipseis-horis-ptyhio-stis-dieythynseis-ekpaideysis",
+   "title": "13.11.2026 - 14:52 ΑΣΕΠ: Νέα ημερομηνία για 3.800 μόνιμες προσλήψεις με απολυτήριο Λυκείου Για πότε μετατίθεται η προκήρυξη του ΑΣΕΠ που ανοίγει 3.800 μόνιμες θέσεις με απολυτήριο Λυκείου",
+   "url": "https://www.alfavita.gr/ergasia/568029_asep-nea-imerominia-gia-3800-monimes-proslipseis-me-apolytirio-lykeioy",
+   "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
+  },
+  {
+   "source": "alfavita",
+   "title": "13.11.2026 - 14:27 ΑΣΕΠ 2Κ/2026: Τα προσωρινά αποτελέσματα για 857 μόνιμες θέσεις στα νοσοκομεία Υπάρχει δυνατότητα ένστασης με την αγορά παραβόλου ύψους 50 ευρώ",
+   "url": "https://www.alfavita.gr/ergasia/568021_asep-2k/2026-ta-prosorina-apotelesmata-gia-857-monimes-theseis-sta-nosokomeia",
+   "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
+  },
+  {
+   "source": "alfavita",
+   "title": "13.11.2026 - 12:50 Κυριάκος Μητσοτάκης: Τεχνητή νοημοσύνη για όλους τους δημόσιους υπαλλήλους «Στόχος να είναι εξοικειωμένοι με την τεχνητή νοημοσύνη στα επόμενα 3-4 χρόνια», δήλωσε από το...",
+   "url": "https://www.alfavita.gr/ergasia/567996_kyriakos-mitsotakis-tehniti-noimosyni-gia-oloys-toys-dimosioys-ypalliloys",
+   "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
+  },
+  {
+   "source": "alfavita",
+   "title": "13.11.2026 - 05:00 ΑΣΕΠ 7Κ/2026: Τέλος χρόνου για τις 3.262 προσλήψεις με απολυτήριο Γυμνασίου Λίγες ημέρες μένουν για τις αιτήσεις",
+   "url": "https://www.alfavita.gr/ergasia/567870_asep-7k/2026-telos-hronoy-gia-tis-3262-proslipseis-me-apolytirio-gymnasioy",
    "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
   },
   {
    "source": "proson",
-   "title": "12 Νοε 2026 15:20 Δήμος Ηρακλείου: 40 προσλήψεις χωρίς πτυχίο - Μέχρι πότε οι αιτήσεις Πού κάνετε αίτηση",
-   "url": "https://www.proson.gr/ergasia/prokiryxeis/94929_dimos-irakleioy-40-proslipseis-horis-ptyhio-mehri-pote-oi-aitiseis",
+   "title": "13 Νοε 2026 14:22 Δήμος Νίκαιας - Αγ. Ιωάννη Ρέντη: Νέες προσλήψεις - Πού κάνετε αίτηση Οι ζητούμενες ειδικότητες",
+   "url": "https://www.proson.gr/ergasia/prokiryxeis/94998_dimos-nikaias-ag-ioanni-renti-nees-proslipseis-poy-kanete-aitisi",
    "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
   },
   {
    "source": "proson",
-   "title": "12 Νοε 2026 10:27 Δήμος Φυλής: 11 προσλήψεις απόφοιτων γυμνασίου - Από σήμερα οι αιτήσεις Οι ζητούμενες ειδικότητες και η προθεσμία υποβολής των αιτήσεων",
-   "url": "https://www.proson.gr/ergasia/prokiryxeis/94881_dimos-fylis-11-proslipseis-apofoiton-gymnasioy-apo-simera-oi-aitiseis",
+   "title": "13 Νοε 2026 11:41 Κρήτη: Προσλήψεις χωρίς πτυχίο στον Δήμο Ρεθύμνης Θέσεις εργασίας για απόφοιτους λυκείου και γυμνασίου στο Ρέθυμνο",
+   "url": "https://www.proson.gr/ergasia/prokiryxeis/94974_kriti-proslipseis-horis-ptyhio-ston-dimo-rethymnis",
    "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
   },
   {
    "source": "proson",
-   "title": "12 Νοε 2026 04:30 Αττική: 189 «ενεργές» προσλήψεις σε τρεις δήμους Οι προσλήψεις αφορούν τους Δήμους Περιστερίου, Φιλοθέης - Ψυχικού, Αγίου Δημητρίου και Κηφισιάς",
-   "url": "https://www.proson.gr/ergasia/prokiryxeis/94835_attiki-189-energes-proslipseis-se-treis-dimoys",
+   "title": "13 Νοε 2026 04:30 Ευκαιρίες καριέρας στο Δημόσιο: Πάνω από 4.000 θέσεις σε όλη την Ελλάδα Περισσότερες από 4.000 προσλήψεις απόφοιτων ΑΕΙ, ΤΕΙ, λυκείου και γυμνασίου σε δημόσιους φορείς",
+   "url": "https://www.proson.gr/ergasia/prokiryxeis/94796_eykairies-karieras-sto-dimosio-pano-apo-4000-theseis-se-oli-tin-ellada",
    "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
   }
  ]
