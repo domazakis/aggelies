@@ -1,130 +1,34 @@
 {
- "imerominia": "2026-11-13",
+ "imerominia": "2026-11-14",
  "excluded": [
   {
-   "source": "workable",
-   "title": "Senior Growth Product Manager",
-   "url": "https://jobs.workable.com/view/65eB6gFT3Lk1VBtTHYoCsM/remote-senior-growth-product-manager-in-athens-at-soda-data",
-   "reason": "τίτλος εκτός ρόλων"
-  },
-  {
-   "source": "workable",
-   "title": "Career Event | Developers Day Athens 2026",
-   "url": "https://jobs.workable.com/view/j8eGESXrHtxHn73LQdVYJR/hybrid-career-event-%7C-developers-day-athens-2026-in-nea-smyrni-at-cepal-hellas-financial-services-s.a.",
-   "reason": "εκτός ρόλου"
-  },
-  {
-   "source": "jobfind",
-   "title": "Μέλη για την ενίσχυση της ομάδας | Χωρίς προϋπηρεσία | Πλήρης εκπαίδευση",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/66d82cb3-f6d6-455b-bdf0-998d9008b809/",
-   "reason": "entry level/junior"
-  },
-  {
-   "source": "jobfind",
-   "title": "Business Development Associate",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/55e2ecf2-945d-4ed0-8bba-37f984994c4c/",
-   "reason": "τίτλος εκτός ρόλων"
-  },
-  {
-   "source": "jobfind",
-   "title": "Senior Consultant / Manager - Talent Acquisition",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/7765daa2-06d5-4c9d-bc9a-e0c231ffb673/",
-   "reason": "τίτλος εκτός ρόλων"
-  },
-  {
-   "source": "jobfind",
-   "title": "Extra Waiter / Waitress | Conrad Athens The Ilisian",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/6adc0cd5-bbbc-46ec-8d65-ce80ea751fef/",
-   "reason": "τίτλος εκτός ρόλων"
-  },
-  {
-   "source": "jobfind",
-   "title": "Casual Waiter / Waitress | Conrad Athens The Ilisian",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/69034562-ed40-409d-9f05-5d9579e96647/",
-   "reason": "τίτλος εκτός ρόλων"
-  },
-  {
-   "source": "jobfind",
-   "title": "Bartender / Barista | Conrad Athens The Ilisian",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/83295397-14d8-4c2d-8177-9c71b6889e08/",
-   "reason": "εστίαση"
-  },
-  {
-   "source": "jobfind",
-   "title": "Assistant Restaurant Manager / Assistant Maître | Conrad Athens The Ilisian",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/46e3249d-b900-4dd7-bd83-e4b1f92f3c27/",
-   "reason": "τίτλος εκτός ρόλων"
-  },
-  {
-   "source": "jobfind",
-   "title": "Β' Μάγειρας",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/61892c67-df6c-4931-a0e3-5c13ee3aa45e/",
-   "reason": "εστίαση"
-  },
-  {
-   "source": "jobfind",
-   "title": "Καμαριέρα - Καθαριστής",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/86672e26-748c-4bfb-bba4-77d8693e4e8d/",
-   "reason": "εκτός ρόλου"
-  },
-  {
-   "source": "jobfind",
-   "title": "Καμαριέρα",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/70720d94-7cba-4a32-980a-028ee3332bc3/",
-   "reason": "τίτλος εκτός ρόλων"
-  },
-  {
    "source": "alfavita",
-   "title": "13.11.2026 - 21:50 Αγορά εργασίας: Ποια επαγγέλματα έχουν τη μεγαλύτερη ζήτηση και ποια τις κορυφαίες ελλείψεις Τι δείχνουν τα νέα στοιχεία του ΟΟΣΑ για την Ευρώπη",
-   "url": "https://www.alfavita.gr/ergasia/568076_agora-ergasias-poia-epaggelmata-ehoyn-ti-megalyteri-zitisi-kai-poia-tis-koryfaies",
+   "title": "14.11.2026 - 16:54 Σιδηρόδρομοι Ελλάδος: Ανοίγει νέα προκήρυξη για 690 προσλήψεις στον πρώην ΟΣΕ Η αναλυτική κατανομή των 1.300 θέσεων σε ΟΣΥ, ΣΤΑΣΥ, ΥΠΑ",
+   "url": "https://www.alfavita.gr/ergasia/568133_sidirodromoi-ellados-anoigei-nea-prokiryxi-gia-690-proslipseis-ston-proin-ose",
    "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
   },
   {
    "source": "alfavita",
-   "title": "13.11.2026 - 15:06 Θάνος Παπαϊωάννου (Πρόεδρος ΑΣΕΠ): Το νέο μοντέλο γραπτών διαγωνισμών μετά το 2027 Ο Θάνος Παπαϊωάννου αποκάλυψε το σχέδιο για εξετάσεις σε εγκαταστάσεις του ΑΣΕΠ, με ηλεκτρονικό...",
-   "url": "https://www.alfavita.gr/ergasia/568034_thanos-papaioannoy-proedros-asep-neo-montelo-grapton-diagonismon-meta-2027",
+   "title": "14.11.2026 - 14:53 ΑΣΕΠ: 908 μόνιμες προσλήψεις σε νοσοκομεία και Δημόσιο - Από σήμερα οι ενστάσεις Ανοίγει η ηλεκτρονική πλατφόρμα του ΑΣΕΠ για τους προσωρινούς πίνακες των προκηρύξεων 2Κ/2026 και...",
+   "url": "https://www.alfavita.gr/ergasia/568125_asep-908-monimes-proslipseis-se-nosokomeia-kai-dimosio-apo-simera-oi-enstaseis",
    "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
   },
   {
    "source": "alfavita",
-   "title": "13.11.2026 - 14:52 ΑΣΕΠ: Νέα ημερομηνία για 3.800 μόνιμες προσλήψεις με απολυτήριο Λυκείου Για πότε μετατίθεται η προκήρυξη του ΑΣΕΠ που ανοίγει 3.800 μόνιμες θέσεις με απολυτήριο Λυκείου",
-   "url": "https://www.alfavita.gr/ergasia/568029_asep-nea-imerominia-gia-3800-monimes-proslipseis-me-apolytirio-lykeioy",
-   "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
-  },
-  {
-   "source": "alfavita",
-   "title": "13.11.2026 - 14:27 ΑΣΕΠ 2Κ/2026: Τα προσωρινά αποτελέσματα για 857 μόνιμες θέσεις στα νοσοκομεία Υπάρχει δυνατότητα ένστασης με την αγορά παραβόλου ύψους 50 ευρώ",
-   "url": "https://www.alfavita.gr/ergasia/568021_asep-2k/2026-ta-prosorina-apotelesmata-gia-857-monimes-theseis-sta-nosokomeia",
-   "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
-  },
-  {
-   "source": "alfavita",
-   "title": "13.11.2026 - 12:50 Κυριάκος Μητσοτάκης: Τεχνητή νοημοσύνη για όλους τους δημόσιους υπαλλήλους «Στόχος να είναι εξοικειωμένοι με την τεχνητή νοημοσύνη στα επόμενα 3-4 χρόνια», δήλωσε από το...",
-   "url": "https://www.alfavita.gr/ergasia/567996_kyriakos-mitsotakis-tehniti-noimosyni-gia-oloys-toys-dimosioys-ypalliloys",
-   "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
-  },
-  {
-   "source": "alfavita",
-   "title": "13.11.2026 - 05:00 ΑΣΕΠ 7Κ/2026: Τέλος χρόνου για τις 3.262 προσλήψεις με απολυτήριο Γυμνασίου Λίγες ημέρες μένουν για τις αιτήσεις",
-   "url": "https://www.alfavita.gr/ergasia/567870_asep-7k/2026-telos-hronoy-gia-tis-3262-proslipseis-me-apolytirio-gymnasioy",
+   "title": "14.11.2026 - 05:30 Οριστική απόλυση εκπαιδευτικού για πειθαρχικά παραπτώματα – Τι αναφέρει η απόφαση Παράβαση καθήκοντος, αναξιοπρεπής συμπεριφορά, παραβίαση εχεμύθειας και απλή απείθεια – Η...",
+   "url": "https://www.alfavita.gr/ergasia/567830_oristiki-apolysi-ekpaideytikoy-gia-peitharhika-paraptomata-ti-anaferei-i-apofasi",
    "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
   },
   {
    "source": "proson",
-   "title": "13 Νοε 2026 14:22 Δήμος Νίκαιας - Αγ. Ιωάννη Ρέντη: Νέες προσλήψεις - Πού κάνετε αίτηση Οι ζητούμενες ειδικότητες",
-   "url": "https://www.proson.gr/ergasia/prokiryxeis/94998_dimos-nikaias-ag-ioanni-renti-nees-proslipseis-poy-kanete-aitisi",
+   "title": "Παληός: Έρχονται 690 προσλήψεις στον πρώην ΟΣΕ",
+   "url": "https://www.proson.gr/ergasia/prokiryxeis/95036_palios-erhontai-690-proslipseis-ston-proin-ose",
    "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
   },
   {
    "source": "proson",
-   "title": "13 Νοε 2026 11:41 Κρήτη: Προσλήψεις χωρίς πτυχίο στον Δήμο Ρεθύμνης Θέσεις εργασίας για απόφοιτους λυκείου και γυμνασίου στο Ρέθυμνο",
-   "url": "https://www.proson.gr/ergasia/prokiryxeis/94974_kriti-proslipseis-horis-ptyhio-ston-dimo-rethymnis",
-   "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
-  },
-  {
-   "source": "proson",
-   "title": "13 Νοε 2026 04:30 Ευκαιρίες καριέρας στο Δημόσιο: Πάνω από 4.000 θέσεις σε όλη την Ελλάδα Περισσότερες από 4.000 προσλήψεις απόφοιτων ΑΕΙ, ΤΕΙ, λυκείου και γυμνασίου σε δημόσιους φορείς",
-   "url": "https://www.proson.gr/ergasia/prokiryxeis/94796_eykairies-karieras-sto-dimosio-pano-apo-4000-theseis-se-oli-tin-ellada",
+   "title": "14 Νοε 2026 14:31 Δήμος Καβάλας: Έως πότε οι αιτήσεις για 39 προσλήψεις και με απολυτήριο λυκείου Ποιες είναι οι ειδικότητες για τις 39 προσλήψεις στον Δήμο Καβάλας",
+   "url": "https://www.proson.gr/ergasia/prokiryxeis/95029_dimos-kabalas-eos-pote-oi-aitiseis-gia-39-proslipseis-kai-me-apolytirio",
    "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
   }
  ]
