@@ -1,34 +1,40 @@
 {
- "imerominia": "2026-11-14",
+ "imerominia": "2026-11-15",
  "excluded": [
   {
+   "source": "jobfind",
+   "title": "Assistant Hotel Manager",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/952ba7a7-12fe-4b2f-96ce-9ad99b18ef23/",
+   "reason": "τίτλος εκτός ρόλων"
+  },
+  {
    "source": "alfavita",
-   "title": "14.11.2026 - 16:54 Σιδηρόδρομοι Ελλάδος: Ανοίγει νέα προκήρυξη για 690 προσλήψεις στον πρώην ΟΣΕ Η αναλυτική κατανομή των 1.300 θέσεων σε ΟΣΥ, ΣΤΑΣΥ, ΥΠΑ",
-   "url": "https://www.alfavita.gr/ergasia/568133_sidirodromoi-ellados-anoigei-nea-prokiryxi-gia-690-proslipseis-ston-proin-ose",
+   "title": "15.11.2026 - 16:19 ΑΣΕΠ: 1.838 μόνιμες προσλήψεις ΑμεΑ σε Δημόσιο και Υγεία Οι δύο νέες προκηρύξεις «Κ» που ανοίγουν 1.138 θέσεις για όλες τις βαθμίδες εκπαίδευσης",
+   "url": "https://www.alfavita.gr/ergasia/568187_asep-1838-monimes-proslipseis-amea-se-dimosio-kai-ygeia",
    "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
   },
   {
    "source": "alfavita",
-   "title": "14.11.2026 - 14:53 ΑΣΕΠ: 908 μόνιμες προσλήψεις σε νοσοκομεία και Δημόσιο - Από σήμερα οι ενστάσεις Ανοίγει η ηλεκτρονική πλατφόρμα του ΑΣΕΠ για τους προσωρινούς πίνακες των προκηρύξεων 2Κ/2026 και...",
-   "url": "https://www.alfavita.gr/ergasia/568125_asep-908-monimes-proslipseis-se-nosokomeia-kai-dimosio-apo-simera-oi-enstaseis",
+   "title": "15.11.2026 - 15:40 Μεγάλο πρόγραμμα ΔΥΠΑ: Επιδότηση έως 11.817 ευρώ για κάθε πρόσληψη Πότε ανοίγουν οι αιτήσεις για το νέο πρόγραμμα της ΔΥΠΑ",
+   "url": "https://www.alfavita.gr/ergasia/568185_megalo-programma-dypa-epidotisi-eos-11817-eyro-gia-kathe-proslipsi",
    "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
   },
   {
    "source": "alfavita",
-   "title": "14.11.2026 - 05:30 Οριστική απόλυση εκπαιδευτικού για πειθαρχικά παραπτώματα – Τι αναφέρει η απόφαση Παράβαση καθήκοντος, αναξιοπρεπής συμπεριφορά, παραβίαση εχεμύθειας και απλή απείθεια – Η...",
-   "url": "https://www.alfavita.gr/ergasia/567830_oristiki-apolysi-ekpaideytikoy-gia-peitharhika-paraptomata-ti-anaferei-i-apofasi",
+   "title": "15.11.2026 - 14:03 Ψηφιακή Κάρτα Εργασίας: Σε πέντε νέους κλάδους από Δευτέρα - Τι αλλάζει στα ωράρια Ποιοι εργαζόμενοι μπαίνουν υποχρεωτικά στο σύστημα από τη Δευτέρα – Τι αλλάζει σε ωράρια, ρεπό και...",
+   "url": "https://www.alfavita.gr/ergasia/568179_psifiaki-karta-ergasias-se-pente-neoys-kladoys-apo-deytera-ti-allazei-sta-oraria",
+   "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
+  },
+  {
+   "source": "alfavita",
+   "title": "15.11.2026 - 05:00 Δημόσιο - 3.262 προσλήψεις με απολυτήριο Γυμνασίου: Κλείνουν οι αιτήσεις στο ΑΣΕΠ Λίγες ώρες απομένουν για την υποβολή αίτησης στο ΑΣΕΠ",
+   "url": "https://www.alfavita.gr/ergasia/568016_dimosio-3262-proslipseis-me-apolytirio-gymnasioy-kleinoyn-oi-aitiseis-sto-asep",
    "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
   },
   {
    "source": "proson",
-   "title": "Παληός: Έρχονται 690 προσλήψεις στον πρώην ΟΣΕ",
-   "url": "https://www.proson.gr/ergasia/prokiryxeis/95036_palios-erhontai-690-proslipseis-ston-proin-ose",
-   "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
-  },
-  {
-   "source": "proson",
-   "title": "14 Νοε 2026 14:31 Δήμος Καβάλας: Έως πότε οι αιτήσεις για 39 προσλήψεις και με απολυτήριο λυκείου Ποιες είναι οι ειδικότητες για τις 39 προσλήψεις στον Δήμο Καβάλας",
-   "url": "https://www.proson.gr/ergasia/prokiryxeis/95029_dimos-kabalas-eos-pote-oi-aitiseis-gia-39-proslipseis-kai-me-apolytirio",
+   "title": "15 Νοε 2026 16:06 Άνοιξαν 11 θέσεις εργασίας σε μεγάλο Δήμο της Αττικής Ποιες είναι οι ειδικότητες για τις 11 προσλήψεις στον Δήμο Φυλής",
+   "url": "https://www.proson.gr/ergasia/prokiryxeis/95057_anoixan-11-theseis-ergasias-se-megalo-dimo-tis-attikis",
    "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
   }
  ]
