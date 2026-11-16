@@ -1,8 +1,87 @@
 {
  "_perigrafi": "Αγγελίες που εμφανίστηκαν για πρώτη φορά τις τελευταίες 3 ημέρες. Το πλήρες κείμενο κάθε αγγελίας είναι στο detail_file. Έχουν ήδη αφαιρεθεί όσες είναι προφανώς άσχετες από τον τίτλο (δες excluded.json).",
- "enimerosi": "2026-11-15T19:27+00:00",
+ "enimerosi": "2026-11-16T22:59+00:00",
  "proti_ektelesi": false,
  "listings": [
+  {
+   "source": "workable",
+   "id": "ff8be6c6-814a-4fb0-aad4-55147909c297",
+   "title": "Performance Marketing & MarTech Specialist",
+   "company": "Public Group",
+   "location": "Kifisia, Attica",
+   "posted": "2026-11-16",
+   "employment": "Full-time",
+   "workplace": "hybrid",
+   "url": "https://jobs.workable.com/view/xyfhqRRUiVMNdjdMdUoiAg/hybrid-performance-marketing-%26-martech-specialist-in-kifisia-at-public-group",
+   "apply": [
+    "https://jobs.workable.com/view/xyfhqRRUiVMNdjdMdUoiAg/hybrid-performance-marketing-%26-martech-specialist-in-kifisia-at-public-group/apply"
+   ],
+   "first_seen": "2026-11-17",
+   "detail_file": "data/details/workable/ff8be6c6-814a-4fb0-aad4-55147909c297.md",
+   "text_chars": 6964
+  },
+  {
+   "source": "proson",
+   "id": "95088",
+   "title": "16 Νοε 2026 10:57 ΑΣΕΠ: 30 θέσεις στο Αρχαιολογικό Μουσείο Ηρακλείου - Άνοιξαν οι αιτήσεις Προσλήψεις απόφοιτων ΤΕΙ, λυκείου και γυμνασίου στο Αρχαιολογικό Μουσείο Ηρακλείου",
+   "url": "https://www.proson.gr/ergasia/prokiryxeis/95088_asep-30-theseis-sto-arhaiologiko-moyseio-irakleioy-anoixan-oi-aitiseis",
+   "first_seen": "2026-11-17",
+   "detail_file": "data/details/proson/95088.md",
+   "text_chars": 3819
+  },
+  {
+   "source": "jobfind",
+   "id": "fe8d7316-da03-4f6d-ad6c-6b38137b6808",
+   "title": "Social Media Specialist - Content Creator",
+   "location": "Content Creator - ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΜΕΤΑΜΟΡΦΩΣΗ",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/fe8d7316-da03-4f6d-ad6c-6b38137b6808/",
+   "first_seen": "2026-11-17",
+   "detail_file": "data/details/jobfind/fe8d7316-da03-4f6d-ad6c-6b38137b6808.md",
+   "text_chars": 2339
+  },
+  {
+   "source": "jobfind",
+   "id": "374d1a34-1f1b-4ea4-b0d5-abfce99a0f9d",
+   "title": "Digital Marketing Officer (Remote)",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/374d1a34-1f1b-4ea4-b0d5-abfce99a0f9d/",
+   "first_seen": "2026-11-17",
+   "detail_file": "data/details/jobfind/374d1a34-1f1b-4ea4-b0d5-abfce99a0f9d.md",
+   "text_chars": 3058
+  },
+  {
+   "source": "jobfind",
+   "id": "a66b472e-4686-4e14-b0ce-25ea02557e0a",
+   "title": "Σύμβουλος Διαχείρισης Έργων (α/γ)",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΑΜΠΕΛΟΚΗΠΟΙ",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/a66b472e-4686-4e14-b0ce-25ea02557e0a/",
+   "apply": [
+    "https://www.randstad.gr/theseis-ergasias/apply/68020/?utm_source=jobfind"
+   ],
+   "first_seen": "2026-11-17",
+   "detail_file": "data/details/jobfind/a66b472e-4686-4e14-b0ce-25ea02557e0a.md",
+   "text_chars": 2985
+  },
+  {
+   "source": "jobfind",
+   "id": "ae167c05-c41f-4875-a9bc-2cf37987e03b",
+   "title": "Head of Fashion Design",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΠΕΡΙΣΤΕΡΙ",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/ae167c05-c41f-4875-a9bc-2cf37987e03b/",
+   "first_seen": "2026-11-17",
+   "detail_file": "data/details/jobfind/ae167c05-c41f-4875-a9bc-2cf37987e03b.md",
+   "text_chars": 2667
+  },
+  {
+   "source": "jobfind",
+   "id": "5c14a324-ebdb-4e1f-96e9-b284d60c0541",
+   "title": "Energy Project Manager",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΑΓΙΑ ΠΑΡΑΣΚΕΥΗ",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/5c14a324-ebdb-4e1f-96e9-b284d60c0541/",
+   "first_seen": "2026-11-17",
+   "detail_file": "data/details/jobfind/5c14a324-ebdb-4e1f-96e9-b284d60c0541.md",
+   "text_chars": 2087
+  },
   {
    "source": "workable",
    "id": "13f791f2-5ae8-41e6-9ab2-f330fee72d6c",
@@ -18,46 +97,6 @@
    "first_seen": "2026-11-15",
    "detail_file": "data/details/workable/13f791f2-5ae8-41e6-9ab2-f330fee72d6c.md",
    "text_chars": 6913
-  },
-  {
-   "source": "proson",
-   "id": "94882",
-   "title": "14 Νοε 2026 04:30 Δημόσιο: 496 προσλήψεις σε Δήμους, Περιφέρειες, μουσεία και παιδικούς σταθμούς Ανοικτές 466 θέσεις εργασίας για απόφοιτους ΑΕΙ, ΤΕΙ, λυκείου και γυμνασίου σε φορείς του Δημοσίου",
-   "url": "https://www.proson.gr/ergasia/prokiryxeis/94882_dimosio-496-proslipseis-se-dimoys-perifereies-moyseia-kai-paidikoys",
-   "first_seen": "2026-11-14",
-   "detail_file": "data/details/proson/94882.md",
-   "text_chars": 3594
-  },
-  {
-   "source": "alfavita",
-   "id": "568115",
-   "title": "14.11.2026 - 17:30 Προσλήψεις στο Δημόσιο: 496 νέες θέσεις εργασίας με 14 προκηρύξεις Άνοιξαν 496 προσλήψεις σε Δήμους, Περιφέρειες, μουσεία και παιδικούς σταθμούς",
-   "url": "https://www.alfavita.gr/ergasia/568115_proslipseis-sto-dimosio-496-nees-theseis-ergasias-me-14-prokiryxeis",
-   "apply": [
-    "mailto:"
-   ],
-   "first_seen": "2026-11-14",
-   "detail_file": "data/details/alfavita/568115.md",
-   "text_chars": 4213
-  },
-  {
-   "source": "proson",
-   "id": "95009",
-   "title": "13 Νοε 2026 16:33 ΑΣΕΠ: 30 θέσεις εργασίας στο Μουσείο Βυζαντινού Πολιτισμού - Μέχρι πότε οι αιτήσεις Θα προσληφθούν απόφοιτοι Τεχνολογικής, Δευτεροβάθμιας και Υποχρεωτικής Εκπαίδευσης (ΤΕ, ΔΕ και ΥΕ),...",
-   "url": "https://www.proson.gr/ergasia/prokiryxeis/95009_asep-30-theseis-ergasias-sto-moyseio-byzantinoy-politismoy-mehri-pote-oi",
-   "first_seen": "2026-11-13",
-   "detail_file": "data/details/proson/95009.md",
-   "text_chars": 4097
-  },
-  {
-   "source": "jobfind",
-   "id": "e1d70450-377e-4680-af88-9e2ba09258a4",
-   "title": "Υπάλληλος Ιατρικού marketing",
-   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΑΜΠΕΛΟΚΗΠΟΙ",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/e1d70450-377e-4680-af88-9e2ba09258a4/",
-   "first_seen": "2026-11-13",
-   "detail_file": "data/details/jobfind/e1d70450-377e-4680-af88-9e2ba09258a4.md",
-   "text_chars": 1510
   }
  ]
 }

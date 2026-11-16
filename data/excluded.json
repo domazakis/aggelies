@@ -1,40 +1,148 @@
 {
- "imerominia": "2026-11-15",
+ "imerominia": "2026-11-17",
  "excluded": [
   {
    "source": "jobfind",
-   "title": "Assistant Hotel Manager",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/952ba7a7-12fe-4b2f-96ce-9ad99b18ef23/",
+   "title": "Junior E-commerce & Social Media Assistant",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/8cd767ae-f3cf-453c-8ef6-78e9f1a23b7b/",
+   "reason": "entry level/junior"
+  },
+  {
+   "source": "jobfind",
+   "title": "Junior Digital Marketing Specialist",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/c294a108-c4b0-4067-bb0d-a8faa97f12cd/",
+   "reason": "entry level/junior"
+  },
+  {
+   "source": "jobfind",
+   "title": "CW HR Associate - Romanian Speaking",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/8cb12662-b26d-4149-8adf-7a4952431506/",
+   "reason": "τίτλος εκτός ρόλων"
+  },
+  {
+   "source": "jobfind",
+   "title": "Υπάλληλος Διαχείρισης Ανθρώπινου Δυναμικού (HR) – Μεγάλη Ασιατική Αλυσίδα Εστιατορίων",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/bfc5bc40-18d0-470b-8bd5-b851ab4b51fd/",
+   "reason": "εστίαση"
+  },
+  {
+   "source": "jobfind",
+   "title": "Reservations & Sales Consultant (Athens)",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/ce7711ed-04a7-4ffb-be00-68d3a98b6e97/",
+   "reason": "τίτλος εκτός ρόλων"
+  },
+  {
+   "source": "jobfind",
+   "title": "Receptionist",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/eaa37ce7-16de-400f-a746-038167debaae/",
+   "reason": "τίτλος εκτός ρόλων"
+  },
+  {
+   "source": "jobfind",
+   "title": "Food & Beverage / Υπεύθυνος Αγορών – Μεγάλη Ασιατική Αλυσίδα Εστιατορίων",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/7558ea43-fc1a-40a8-bcd1-c169487faaf3/",
+   "reason": "εστίαση"
+  },
+  {
+   "source": "jobfind",
+   "title": "Night Receptionist - Nlh, Fix Athens",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/91a0d2cb-162c-455b-95c0-6de323f03667/",
+   "reason": "τίτλος εκτός ρόλων"
+  },
+  {
+   "source": "jobfind",
+   "title": "Υπάλληλος Γραφείου",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/f0cdfc00-cbcf-427d-8e50-a89ed9ddb806/",
+   "reason": "τίτλος εκτός ρόλων"
+  },
+  {
+   "source": "jobfind",
+   "title": "Junior Sommelier",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/2d174e59-969b-43df-82b9-24a159b63242/",
+   "reason": "entry level/junior"
+  },
+  {
+   "source": "jobfind",
+   "title": "Senior Sommelier",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/90ed4175-8049-4948-b38d-f582e05873a6/",
+   "reason": "τίτλος εκτός ρόλων"
+  },
+  {
+   "source": "jobfind",
+   "title": "Host / Hostess",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/c9b7a7a9-90e8-4f07-bdad-be04b54f511c/",
    "reason": "τίτλος εκτός ρόλων"
   },
   {
    "source": "alfavita",
-   "title": "15.11.2026 - 16:19 ΑΣΕΠ: 1.838 μόνιμες προσλήψεις ΑμεΑ σε Δημόσιο και Υγεία Οι δύο νέες προκηρύξεις «Κ» που ανοίγουν 1.138 θέσεις για όλες τις βαθμίδες εκπαίδευσης",
-   "url": "https://www.alfavita.gr/ergasia/568187_asep-1838-monimes-proslipseis-amea-se-dimosio-kai-ygeia",
+   "title": "16.11.2026 - 21:10 3ος Πανελλήνιος Διαγωνισμός ΑΣΕΠ: Χιλιάδες θέσεις για όλα τα πτυχία - Ανέβηκε η ύλη Βρισκόμαστε προ των πυλών του 3ου Πανελληνίου Γραπτού Διαγωνισμού ΑΣΕΠ για την κάλυψη χιλιάδων...",
+   "url": "https://www.alfavita.gr/ergasia/568320_3o-panellinio-diagonismo-asep-hiliades-theseis-gia-ola-ta-ptyhia-anebike-i-yli",
    "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
   },
   {
    "source": "alfavita",
-   "title": "15.11.2026 - 15:40 Μεγάλο πρόγραμμα ΔΥΠΑ: Επιδότηση έως 11.817 ευρώ για κάθε πρόσληψη Πότε ανοίγουν οι αιτήσεις για το νέο πρόγραμμα της ΔΥΠΑ",
-   "url": "https://www.alfavita.gr/ergasia/568185_megalo-programma-dypa-epidotisi-eos-11817-eyro-gia-kathe-proslipsi",
+   "title": "16.11.2026 - 19:06 Παράλληλη ασφάλιση: Ποιοι ασφαλισμένοι μπορούν να εξασφαλίσουν μεγαλύτερη σύνταξη Τι προβλέπει η εγκύκλιος του e-ΕΦΚΑ και πώς υπολογίζεται το επιπλέον ποσό.",
+   "url": "https://www.alfavita.gr/ergasia/568309_parallili-asfalisi-poioi-asfalismenoi-mporoyn-na-exasfalisoyn-megalyteri-syntaxi",
    "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
   },
   {
    "source": "alfavita",
-   "title": "15.11.2026 - 14:03 Ψηφιακή Κάρτα Εργασίας: Σε πέντε νέους κλάδους από Δευτέρα - Τι αλλάζει στα ωράρια Ποιοι εργαζόμενοι μπαίνουν υποχρεωτικά στο σύστημα από τη Δευτέρα – Τι αλλάζει σε ωράρια, ρεπό και...",
-   "url": "https://www.alfavita.gr/ergasia/568179_psifiaki-karta-ergasias-se-pente-neoys-kladoys-apo-deytera-ti-allazei-sta-oraria",
+   "title": "16.11.2026 - 13:43 Προσλήψεις σε παιδικούς και βρεφονηπιακούς σταθμούς στον Δήμο Βύρωνα Αναλυτικά οι ειδικότητες",
+   "url": "https://www.alfavita.gr/ergasia/568266_proslipseis-se-paidikoys-kai-brefonipiakoys-stathmoys-ston-dimo-byrona",
    "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
   },
   {
    "source": "alfavita",
-   "title": "15.11.2026 - 05:00 Δημόσιο - 3.262 προσλήψεις με απολυτήριο Γυμνασίου: Κλείνουν οι αιτήσεις στο ΑΣΕΠ Λίγες ώρες απομένουν για την υποβολή αίτησης στο ΑΣΕΠ",
-   "url": "https://www.alfavita.gr/ergasia/568016_dimosio-3262-proslipseis-me-apolytirio-gymnasioy-kleinoyn-oi-aitiseis-sto-asep",
+   "title": "16.11.2026 - 12:03 ΑΣΕΠ: Εκτός λειτουργίας το τηλεφωνικό κέντρο για τρεις ημέρες Πώς θα εξυπηρετούνται οι υποψήφιοι",
+   "url": "https://www.alfavita.gr/ergasia/568252_asep-ektos-leitoyrgias-tilefoniko-kentro-gia-treis-imeres",
+   "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
+  },
+  {
+   "source": "alfavita",
+   "title": "16.11.2026 - 09:58 Λουξεμβούργο: 194 προσλήψεις στο Δικαστήριο της Ευρωπαϊκής Ένωσης Ζητούνται 194 γλωσσομαθείς νομικοί - Θέσεις και για νομικούς με γνώση ελληνικών",
+   "url": "https://www.alfavita.gr/ergasia/568233_loyxemboyrgo-194-proslipseis-sto-dikastirio-tis-eyropaikis-enosis",
    "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
   },
   {
    "source": "proson",
-   "title": "15 Νοε 2026 16:06 Άνοιξαν 11 θέσεις εργασίας σε μεγάλο Δήμο της Αττικής Ποιες είναι οι ειδικότητες για τις 11 προσλήψεις στον Δήμο Φυλής",
-   "url": "https://www.proson.gr/ergasia/prokiryxeis/95057_anoixan-11-theseis-ergasias-se-megalo-dimo-tis-attikis",
+   "title": "16 Νοε 2026 18:26 Ετήσιες προσλήψεις στον Δήμος Μεγαρέων - Οι ειδικότητες Πώς θα κάνετε αίτηση για τις προσλήψεις στον Δήμο Μεγαρέων",
+   "url": "https://www.proson.gr/ergasia/prokiryxeis/95141_etisies-proslipseis-ston-dimos-megareon-oi-eidikotites",
+   "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
+  },
+  {
+   "source": "proson",
+   "title": "16 Νοε 2026 17:55 Προκήρυξη από ΥΠΑΑΤ: Νέες προσλήψεις - Οι ειδικότητες Πού κάνετε αίτηση",
+   "url": "https://www.proson.gr/ergasia/prokiryxeis/95139_prokiryxi-apo-ypaat-nees-proslipseis-oi-eidikotites",
+   "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
+  },
+  {
+   "source": "proson",
+   "title": "16 Νοε 2026 13:59 Παιδικοί σταθμοί: Προσλήψεις στον Δήμο Βύρωνα - Οι ειδικότητες Προσλήψεις απόφοιτων ΑΕΙ και λυκείου στους παιδικούς και βρεφονηπιακούς σταθμούς του Δήμο Βύρωνα",
+   "url": "https://www.proson.gr/ergasia/prokiryxeis/95118_paidikoi-stathmoi-proslipseis-ston-dimo-byrona-oi-eidikotites",
+   "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
+  },
+  {
+   "source": "proson",
+   "title": "16 Νοε 2026 12:26 Δήμος Καισαριανής: Νέες προσλήψεις - Πού κάνετε αίτηση Οι προσλήψεις θα υλοποιηθούν για την κάλυψη αναγκών έναντι λοιπών αντικαταβολών",
+   "url": "https://www.proson.gr/ergasia/prokiryxeis/95102_dimos-kaisarianis-nees-proslipseis-poy-kanete-aitisi",
+   "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
+  },
+  {
+   "source": "proson",
+   "title": "16 Νοε 2026 10:49 Κρήτη: Νέες προσλήψεις χωρίς πτυχίο στον Δήμο Ηρακλείου Πού κάνετε αίτηση",
+   "url": "https://www.proson.gr/ergasia/prokiryxeis/95085_kriti-nees-proslipseis-horis-ptyhio-ston-dimo-irakleioy",
+   "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
+  },
+  {
+   "source": "proson",
+   "title": "16 Νοε 2026 05:30 Ευρωπαϊκό Δημόσιο: 194 νέες προσλήψεις - Πού κάνετε αίτηση Θέσεις εργασίας στο Δικαστήριο της Ευρωπαϊκής Ένωσης (ΕΕ), με έδρα το Λουξεμβούργο",
+   "url": "https://www.proson.gr/ergasia/prokiryxeis/94990_eyropaiko-dimosio-194-nees-proslipseis-poy-kanete-aitisi",
+   "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
+  },
+  {
+   "source": "proson",
+   "title": "16 Νοε 2026 04:30 75 θέσεις εργασίας σε τρία ελληνικά νησιά – Πού γίνονται προσλήψεις και ποιες ειδικότητες ζητούνται Ανοικτές παραμένουν οι αιτήσεις για δεκάδες θέσεις εργασίας στην Κρήτη, την Κάσο και τη Σύμη",
+   "url": "https://www.proson.gr/ergasia/prokiryxeis/95055_75-theseis-ergasias-se-tria-ellinika-nisia-poy-ginontai-proslipseis-kai",
    "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
   }
  ]
