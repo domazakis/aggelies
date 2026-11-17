@@ -1,148 +1,166 @@
 {
- "imerominia": "2026-11-17",
+ "imerominia": "2026-11-18",
  "excluded": [
   {
-   "source": "jobfind",
-   "title": "Junior E-commerce & Social Media Assistant",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/8cd767ae-f3cf-453c-8ef6-78e9f1a23b7b/",
-   "reason": "entry level/junior"
+   "source": "workable",
+   "title": "Backend & Integrations Engineer (Node.js / TypeScript)",
+   "url": "https://jobs.workable.com/view/8QakxHdnJB8xArQUpGKqPy/hybrid-backend-%26-integrations-engineer-(node.js-%2F-typescript)-in-athens-at-xtm-international",
+   "reason": "εκτός ρόλου"
+  },
+  {
+   "source": "workable",
+   "title": "Project Manager Civil Engineer",
+   "url": "https://jobs.workable.com/view/pf5C6hexbAHyxzBYYT445h/project-manager-civil-engineer-in-athens-at-agt-group",
+   "reason": "εκτός ρόλου"
   },
   {
    "source": "jobfind",
-   "title": "Junior Digital Marketing Specialist",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/c294a108-c4b0-4067-bb0d-a8faa97f12cd/",
-   "reason": "entry level/junior"
-  },
-  {
-   "source": "jobfind",
-   "title": "CW HR Associate - Romanian Speaking",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/8cb12662-b26d-4149-8adf-7a4952431506/",
+   "title": "Payroll Associate",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/759218c1-7481-4125-bf90-60e98bd1f2e1/",
    "reason": "τίτλος εκτός ρόλων"
   },
   {
    "source": "jobfind",
-   "title": "Υπάλληλος Διαχείρισης Ανθρώπινου Δυναμικού (HR) – Μεγάλη Ασιατική Αλυσίδα Εστιατορίων",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/bfc5bc40-18d0-470b-8bd5-b851ab4b51fd/",
-   "reason": "εστίαση"
-  },
-  {
-   "source": "jobfind",
-   "title": "Reservations & Sales Consultant (Athens)",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/ce7711ed-04a7-4ffb-be00-68d3a98b6e97/",
+   "title": "Στέλεχος για την Διεύθυνση Παραγωγής",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/cc342793-844e-48a8-8aca-f3e32e9803d9/",
    "reason": "τίτλος εκτός ρόλων"
   },
   {
    "source": "jobfind",
-   "title": "Receptionist",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/eaa37ce7-16de-400f-a746-038167debaae/",
+   "title": "Πωλητής υπηρεσιών ανθρώπινου δυναμικού",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/0603fbdf-0c54-433d-af61-e3069b3f9556/",
+   "reason": "πωλήσεις/λιανική"
+  },
+  {
+   "source": "jobfind",
+   "title": "Guest Services Agent, Bellman, Season 2027 | One&Only Aesthesis, Athens",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/cc9dacb6-0be3-4238-90da-075a82b1e0f7/",
+   "reason": "τηλεφωνικό κέντρο"
+  },
+  {
+   "source": "jobfind",
+   "title": "Pool / Beach Server, Season 2027 | One&Only Aesthesis, Athens",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/871041eb-ce18-4a8f-8534-c192cb0368f4/",
    "reason": "τίτλος εκτός ρόλων"
   },
   {
    "source": "jobfind",
-   "title": "Food & Beverage / Υπεύθυνος Αγορών – Μεγάλη Ασιατική Αλυσίδα Εστιατορίων",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/7558ea43-fc1a-40a8-bcd1-c169487faaf3/",
-   "reason": "εστίαση"
+   "title": "Communications Agent, Season 2027 | One&Only Aesthesis, Athens",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/6391c126-765c-41c3-961c-c1cb84b90d65/",
+   "reason": "τηλεφωνικό κέντρο"
   },
   {
    "source": "jobfind",
-   "title": "Night Receptionist - Nlh, Fix Athens",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/91a0d2cb-162c-455b-95c0-6de323f03667/",
+   "title": "Guest Experience Agent, Season 2027 | One&Only Aesthesis, Athens",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/40355ef7-4aa9-4271-96b2-97d4bd8706b2/",
+   "reason": "τηλεφωνικό κέντρο"
+  },
+  {
+   "source": "jobfind",
+   "title": "Commis Chef, Season 2027 | One&Only Aesthesis, Athens",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/afec92ab-f813-4120-97c2-cb3f4115aaf2/",
    "reason": "τίτλος εκτός ρόλων"
   },
   {
    "source": "jobfind",
-   "title": "Υπάλληλος Γραφείου",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/f0cdfc00-cbcf-427d-8e50-a89ed9ddb806/",
+   "title": "Demi Chef De Partie, Season 2027 | One&Only Aesthesis, Athens",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/0c3a64db-45e0-4d56-adb0-73aa20a8a2db/",
    "reason": "τίτλος εκτός ρόλων"
   },
   {
    "source": "jobfind",
-   "title": "Junior Sommelier",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/2d174e59-969b-43df-82b9-24a159b63242/",
-   "reason": "entry level/junior"
-  },
-  {
-   "source": "jobfind",
-   "title": "Senior Sommelier",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/90ed4175-8049-4948-b38d-f582e05873a6/",
+   "title": "Chef De Partie, Season 2027 | One&Only Aesthesis, Athens",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/c14d374a-611c-46f9-b160-672c790aa0af/",
    "reason": "τίτλος εκτός ρόλων"
   },
   {
    "source": "jobfind",
-   "title": "Host / Hostess",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/c9b7a7a9-90e8-4f07-bdad-be04b54f511c/",
+   "title": "Σπουδαστές στα τμήματα κρατήσεων, πωλήσεων και διοικητικής υποστήριξης",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/b7aac681-3615-4a83-bed0-b08d5a547f13/",
+   "reason": "τίτλος εκτός ρόλων"
+  },
+  {
+   "source": "jobfind",
+   "title": "Bartender, Season 2027 | One&Only Aesthesis, Athens",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/096a9739-336c-451e-bdba-41f952db3cad/",
+   "reason": "τίτλος εκτός ρόλων"
+  },
+  {
+   "source": "jobfind",
+   "title": "Restaurant Runner, Season 2027 | One&Only Aesthesis, Athens",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/c223467d-ec81-4898-b193-2ee0d7b33c15/",
+   "reason": "τίτλος εκτός ρόλων"
+  },
+  {
+   "source": "jobfind",
+   "title": "Restaurant Waiter / Waitress, Season 2027 | One&Only Aesthesis, Athens",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/a73b87ce-62b9-450e-b5b8-413b09480d9f/",
+   "reason": "τίτλος εκτός ρόλων"
+  },
+  {
+   "source": "jobfind",
+   "title": "Συντηρητής",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/63473238-4fbd-4d2b-92d7-6cc2db8dc1e6/",
    "reason": "τίτλος εκτός ρόλων"
   },
   {
    "source": "alfavita",
-   "title": "16.11.2026 - 21:10 3ος Πανελλήνιος Διαγωνισμός ΑΣΕΠ: Χιλιάδες θέσεις για όλα τα πτυχία - Ανέβηκε η ύλη Βρισκόμαστε προ των πυλών του 3ου Πανελληνίου Γραπτού Διαγωνισμού ΑΣΕΠ για την κάλυψη χιλιάδων...",
-   "url": "https://www.alfavita.gr/ergasia/568320_3o-panellinio-diagonismo-asep-hiliades-theseis-gia-ola-ta-ptyhia-anebike-i-yli",
+   "title": "17.11.2026 - 13:28 ΑΣΕΠ: Σχεδόν 40.000 αιτήσεις για 3.262 θέσεις στο Δημόσιο – Ολοκληρώθηκαν δύο επιλογές γενικών διευθυντών Μεγάλο ενδιαφέρον για την προκήρυξη 7Κ/2026, που αφορά μόνιμες θέσεις και θέσεις αορίστου χρόνο",
+   "url": "https://www.alfavita.gr/ergasia/568407_asep-shedon-40000-aitiseis-gia-3262-theseis-sto-dimosio-oloklirothikan-dyo-epiloges",
    "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
   },
   {
    "source": "alfavita",
-   "title": "16.11.2026 - 19:06 Παράλληλη ασφάλιση: Ποιοι ασφαλισμένοι μπορούν να εξασφαλίσουν μεγαλύτερη σύνταξη Τι προβλέπει η εγκύκλιος του e-ΕΦΚΑ και πώς υπολογίζεται το επιπλέον ποσό.",
-   "url": "https://www.alfavita.gr/ergasia/568309_parallili-asfalisi-poioi-asfalismenoi-mporoyn-na-exasfalisoyn-megalyteri-syntaxi",
+   "title": "17.11.2026 - 12:52 «Φτάνει πια» λέει η ΑΔΕΔΥ: Απεργία στις 25 Νοεμβρίου με φόντο μισθούς και ακρίβεια 24ωρη πανελλαδική απεργία με αιτήματα για αυξήσεις στους μισθούς, προσλήψεις και μέτρα κατά της...",
+   "url": "https://www.alfavita.gr/ergasia/568399_ftanei-pia-leei-i-adedy-apergia-stis-25-noembrioy-me-fonto-misthoys-kai-akribeia",
    "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
   },
   {
    "source": "alfavita",
-   "title": "16.11.2026 - 13:43 Προσλήψεις σε παιδικούς και βρεφονηπιακούς σταθμούς στον Δήμο Βύρωνα Αναλυτικά οι ειδικότητες",
-   "url": "https://www.alfavita.gr/ergasia/568266_proslipseis-se-paidikoys-kai-brefonipiakoys-stathmoys-ston-dimo-byrona",
+   "title": "17.11.2026 - 12:17 Ρεκόρ αιτήσεων στο ΑΣΕΠ: +39.800 οι υποψήφιοι στην προκήρυξη 7Κ/2026 Στην προκήρυξη 7Κ/2026 δήλωναν συμμετοχή υποψήφιοι με απολυτήριο Γυμνασίου",
+   "url": "https://www.alfavita.gr/ergasia/568389_rekor-aitiseon-sto-asep-39800-oi-ypopsifioi-stin-prokiryxi-7k/2026",
    "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
   },
   {
    "source": "alfavita",
-   "title": "16.11.2026 - 12:03 ΑΣΕΠ: Εκτός λειτουργίας το τηλεφωνικό κέντρο για τρεις ημέρες Πώς θα εξυπηρετούνται οι υποψήφιοι",
-   "url": "https://www.alfavita.gr/ergasia/568252_asep-ektos-leitoyrgias-tilefoniko-kentro-gia-treis-imeres",
+   "title": "17.11.2026 - 10:39 Προσλήψεις στη Σχολή Αξιωματικών της Ελληνικής Αστυνομίας Προσλήψεις επικουρικού προσωπικού για την εύρυθμη λειτουργίας της Σχολής Αξιωματικών της ΕΛΑΣ στις...",
+   "url": "https://www.alfavita.gr/ergasia/568371_proslipseis-sti-sholi-axiomatikon-tis-ellinikis-astynomias",
    "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
   },
   {
    "source": "alfavita",
-   "title": "16.11.2026 - 09:58 Λουξεμβούργο: 194 προσλήψεις στο Δικαστήριο της Ευρωπαϊκής Ένωσης Ζητούνται 194 γλωσσομαθείς νομικοί - Θέσεις και για νομικούς με γνώση ελληνικών",
-   "url": "https://www.alfavita.gr/ergasia/568233_loyxemboyrgo-194-proslipseis-sto-dikastirio-tis-eyropaikis-enosis",
+   "title": "17.11.2026 - 10:15 ΑΣΕΠ: Προκήρυξη για την Εθνική Επιτροπή Δικαιωμάτων του Ανθρώπου Από σήμερα οι αιτήσεις στην ΕΕΔΑ",
+   "url": "https://www.alfavita.gr/ergasia/568364_asep-prokiryxi-gia-tin-ethniki-epitropi-dikaiomaton-toy-anthropoy",
+   "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
+  },
+  {
+   "source": "alfavita",
+   "title": "17.11.2026 - 09:50 Δημόσιο: «Μπόνους» 9,1 εκατ. ευρώ σε 7.355 δημοσίους υπαλλήλους Το «μπόνους» θα δοθεί σε δημόσιους υπαλλήλους που εμπλέκονται σε έργα του Ταμείου Ανάκαμψης - Η...",
+   "url": "https://www.alfavita.gr/ergasia/568359_dimosio-mponoys-91-ekat-eyro-se-7355-dimosioys-ypalliloys",
    "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
   },
   {
    "source": "proson",
-   "title": "16 Νοε 2026 18:26 Ετήσιες προσλήψεις στον Δήμος Μεγαρέων - Οι ειδικότητες Πώς θα κάνετε αίτηση για τις προσλήψεις στον Δήμο Μεγαρέων",
-   "url": "https://www.proson.gr/ergasia/prokiryxeis/95141_etisies-proslipseis-ston-dimos-megareon-oi-eidikotites",
+   "title": "Δήμος Καβάλας: 39 προσλήψεις χωρίς πτυχίο - Τέλος χρόνου για τις αιτήσεις",
+   "url": "https://www.proson.gr/ergasia/prokiryxeis/95221_dimos-kabalas-39-proslipseis-horis-ptyhio-telos-hronoy-gia-tis-aitiseis",
    "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
   },
   {
    "source": "proson",
-   "title": "16 Νοε 2026 17:55 Προκήρυξη από ΥΠΑΑΤ: Νέες προσλήψεις - Οι ειδικότητες Πού κάνετε αίτηση",
-   "url": "https://www.proson.gr/ergasia/prokiryxeis/95139_prokiryxi-apo-ypaat-nees-proslipseis-oi-eidikotites",
+   "title": "17 Νοε 2026 13:29 ΔΕΥΑ Σκοπέλου: Προσλήψεις και χωρίς πτυχίο - Πού κάνετε αίτηση Οι ζητούμενες ειδικότητες",
+   "url": "https://www.proson.gr/ergasia/prokiryxeis/95202_deya-skopeloy-proslipseis-kai-horis-ptyhio-poy-kanete-aitisi",
    "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
   },
   {
    "source": "proson",
-   "title": "16 Νοε 2026 13:59 Παιδικοί σταθμοί: Προσλήψεις στον Δήμο Βύρωνα - Οι ειδικότητες Προσλήψεις απόφοιτων ΑΕΙ και λυκείου στους παιδικούς και βρεφονηπιακούς σταθμούς του Δήμο Βύρωνα",
-   "url": "https://www.proson.gr/ergasia/prokiryxeis/95118_paidikoi-stathmoi-proslipseis-ston-dimo-byrona-oi-eidikotites",
+   "title": "17 Νοε 2026 10:59 Δήμος Ρεθύμνης: Προσλήψεις χωρίς πτυχίο - Μέχρι πότε οι αιτήσεις Πού κάνετε αίτηση",
+   "url": "https://www.proson.gr/ergasia/prokiryxeis/95179_dimos-rethymnis-proslipseis-horis-ptyhio-mehri-pote-oi-aitiseis",
    "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
   },
   {
    "source": "proson",
-   "title": "16 Νοε 2026 12:26 Δήμος Καισαριανής: Νέες προσλήψεις - Πού κάνετε αίτηση Οι προσλήψεις θα υλοποιηθούν για την κάλυψη αναγκών έναντι λοιπών αντικαταβολών",
-   "url": "https://www.proson.gr/ergasia/prokiryxeis/95102_dimos-kaisarianis-nees-proslipseis-poy-kanete-aitisi",
-   "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
-  },
-  {
-   "source": "proson",
-   "title": "16 Νοε 2026 10:49 Κρήτη: Νέες προσλήψεις χωρίς πτυχίο στον Δήμο Ηρακλείου Πού κάνετε αίτηση",
-   "url": "https://www.proson.gr/ergasia/prokiryxeis/95085_kriti-nees-proslipseis-horis-ptyhio-ston-dimo-irakleioy",
-   "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
-  },
-  {
-   "source": "proson",
-   "title": "16 Νοε 2026 05:30 Ευρωπαϊκό Δημόσιο: 194 νέες προσλήψεις - Πού κάνετε αίτηση Θέσεις εργασίας στο Δικαστήριο της Ευρωπαϊκής Ένωσης (ΕΕ), με έδρα το Λουξεμβούργο",
-   "url": "https://www.proson.gr/ergasia/prokiryxeis/94990_eyropaiko-dimosio-194-nees-proslipseis-poy-kanete-aitisi",
-   "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
-  },
-  {
-   "source": "proson",
-   "title": "16 Νοε 2026 04:30 75 θέσεις εργασίας σε τρία ελληνικά νησιά – Πού γίνονται προσλήψεις και ποιες ειδικότητες ζητούνται Ανοικτές παραμένουν οι αιτήσεις για δεκάδες θέσεις εργασίας στην Κρήτη, την Κάσο και τη Σύμη",
-   "url": "https://www.proson.gr/ergasia/prokiryxeis/95055_75-theseis-ergasias-se-tria-ellinika-nisia-poy-ginontai-proslipseis-kai",
+   "title": "17 Νοε 2026 04:30 Προσλήψεις σε Δήμους: Μέχρι την Παρασκευή οι αιτήσεις για δεκάδες θέσεις Μέσω των προκηρύξεων, θα προσληφθούν ψυχολόγοι, ειδικοί παιδαγωγοί, οδηγοί, χειριστές μηχανημάτων...",
+   "url": "https://www.proson.gr/ergasia/prokiryxeis/95135_proslipseis-se-dimoys-mehri-tin-paraskeyi-oi-aitiseis-gia-dekades-theseis",
    "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
   }
  ]

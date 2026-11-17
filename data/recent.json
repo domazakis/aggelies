@@ -1,8 +1,51 @@
 {
  "_perigrafi": "Αγγελίες που εμφανίστηκαν για πρώτη φορά τις τελευταίες 3 ημέρες. Το πλήρες κείμενο κάθε αγγελίας είναι στο detail_file. Έχουν ήδη αφαιρεθεί όσες είναι προφανώς άσχετες από τον τίτλο (δες excluded.json).",
- "enimerosi": "2026-11-16T22:59+00:00",
+ "enimerosi": "2026-11-17T21:51+00:00",
  "proti_ektelesi": false,
  "listings": [
+  {
+   "source": "workable",
+   "id": "d89c4369-3ec0-4160-b5e8-7f35e7a272db",
+   "title": "Head of Operations",
+   "company": "Whiteball",
+   "location": "Athens, Attica",
+   "posted": "2026-11-17",
+   "employment": "Full-time",
+   "workplace": "on_site",
+   "url": "https://jobs.workable.com/view/sKoc7w3A9PSNFp4NFZ86an/head-of-operations-in-athens-at-whiteball",
+   "apply": [
+    "https://jobs.workable.com/view/sKoc7w3A9PSNFp4NFZ86an/head-of-operations-in-athens-at-whiteball/apply"
+   ],
+   "first_seen": "2026-11-18",
+   "detail_file": "data/details/workable/d89c4369-3ec0-4160-b5e8-7f35e7a272db.md",
+   "text_chars": 2224
+  },
+  {
+   "source": "workable",
+   "id": "9d28bd0a-2d9e-4569-8184-3a376148a577",
+   "title": "Event Project Manager",
+   "company": "Whiteball",
+   "location": "Athens, Attica",
+   "posted": "2026-11-17",
+   "workplace": "on_site",
+   "url": "https://jobs.workable.com/view/kpA58S9Fd6CqfrjoTRXhLX/event-project-manager-in-athens-at-whiteball",
+   "apply": [
+    "https://jobs.workable.com/view/kpA58S9Fd6CqfrjoTRXhLX/event-project-manager-in-athens-at-whiteball/apply"
+   ],
+   "first_seen": "2026-11-18",
+   "detail_file": "data/details/workable/9d28bd0a-2d9e-4569-8184-3a376148a577.md",
+   "text_chars": 1981
+  },
+  {
+   "source": "jobfind",
+   "id": "fc973ffb-ae56-4a57-b413-0fda0bfd71b5",
+   "title": "Συντονιστής / τρια Προωθητικών Ενεργειών (Field & Office), Εταιρικό Αυτοκίνητο, Πλήρης Απασχόληση",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΑΘΗΝΑ",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/fc973ffb-ae56-4a57-b413-0fda0bfd71b5/",
+   "first_seen": "2026-11-18",
+   "detail_file": "data/details/jobfind/fc973ffb-ae56-4a57-b413-0fda0bfd71b5.md",
+   "text_chars": 2053
+  },
   {
    "source": "workable",
    "id": "ff8be6c6-814a-4fb0-aad4-55147909c297",
@@ -81,22 +124,6 @@
    "first_seen": "2026-11-17",
    "detail_file": "data/details/jobfind/5c14a324-ebdb-4e1f-96e9-b284d60c0541.md",
    "text_chars": 2087
-  },
-  {
-   "source": "workable",
-   "id": "13f791f2-5ae8-41e6-9ab2-f330fee72d6c",
-   "title": "Performance Marketing Specialist, Google Ads (Remote)",
-   "company": "Sweat Pants Agency",
-   "location": "Athens, Attica",
-   "posted": "2026-11-14",
-   "workplace": "remote",
-   "url": "https://jobs.workable.com/view/3t1kRJUQS7N9kEYiQwNoFN/performance-marketing-specialist%2C-google-ads-(remote)-in-athens-at-sweat-pants-agency",
-   "apply": [
-    "https://jobs.workable.com/view/3t1kRJUQS7N9kEYiQwNoFN/performance-marketing-specialist%2C-google-ads-(remote)-in-athens-at-sweat-pants-agency/apply"
-   ],
-   "first_seen": "2026-11-15",
-   "detail_file": "data/details/workable/13f791f2-5ae8-41e6-9ab2-f330fee72d6c.md",
-   "text_chars": 6913
   }
  ]
 }
