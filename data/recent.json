@@ -1,8 +1,27 @@
 {
  "_perigrafi": "Αγγελίες που εμφανίστηκαν για πρώτη φορά τις τελευταίες 3 ημέρες. Το πλήρες κείμενο κάθε αγγελίας είναι στο detail_file. Έχουν ήδη αφαιρεθεί όσες είναι προφανώς άσχετες από τον τίτλο (δες excluded.json).",
- "enimerosi": "2026-11-18T21:31+00:00",
+ "enimerosi": "2026-11-19T21:43+00:00",
  "proti_ektelesi": false,
  "listings": [
+  {
+   "source": "proson",
+   "id": "95295",
+   "title": "19 Νοε 2026 05:30 ΑΣΕΠ: 30 προσλήψεις και χωρίς πτυχίο στο Αρχαιολογικό Μουσείο Ηρακλείου - Μέχρι πότε οι αιτήσεις Μέχρι πότε μπορείτε να κάνετε αίτηση στην προκήρυξη που δημοσίευσε το ΝΠΔΔ Αρχαιολογικό Μουσείο...",
+   "url": "https://www.proson.gr/ergasia/prokiryxeis/95295_asep-30-proslipseis-kai-horis-ptyhio-sto-arhaiologiko-moyseio-irakleioy",
+   "first_seen": "2026-11-20",
+   "detail_file": "data/details/proson/95295.md",
+   "text_chars": 3892
+  },
+  {
+   "source": "jobfind",
+   "id": "9c099a03-7b27-44d4-9cfe-73fc102080aa",
+   "title": "Social Media Specialist",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΠΕΡΙΣΤΕΡΙ",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/9c099a03-7b27-44d4-9cfe-73fc102080aa/",
+   "first_seen": "2026-11-20",
+   "detail_file": "data/details/jobfind/9c099a03-7b27-44d4-9cfe-73fc102080aa.md",
+   "text_chars": 1932
+  },
   {
    "source": "workable",
    "id": "be0149f7-2d03-4fc5-94e9-62ea1f759134",
@@ -111,85 +130,6 @@
    "first_seen": "2026-11-18",
    "detail_file": "data/details/jobfind/fc973ffb-ae56-4a57-b413-0fda0bfd71b5.md",
    "text_chars": 2053
-  },
-  {
-   "source": "workable",
-   "id": "ff8be6c6-814a-4fb0-aad4-55147909c297",
-   "title": "Performance Marketing & MarTech Specialist",
-   "company": "Public Group",
-   "location": "Kifisia, Attica",
-   "posted": "2026-11-16",
-   "employment": "Full-time",
-   "workplace": "hybrid",
-   "url": "https://jobs.workable.com/view/xyfhqRRUiVMNdjdMdUoiAg/hybrid-performance-marketing-%26-martech-specialist-in-kifisia-at-public-group",
-   "apply": [
-    "https://jobs.workable.com/view/xyfhqRRUiVMNdjdMdUoiAg/hybrid-performance-marketing-%26-martech-specialist-in-kifisia-at-public-group/apply"
-   ],
-   "first_seen": "2026-11-17",
-   "detail_file": "data/details/workable/ff8be6c6-814a-4fb0-aad4-55147909c297.md",
-   "text_chars": 6964
-  },
-  {
-   "source": "proson",
-   "id": "95088",
-   "title": "16 Νοε 2026 10:57 ΑΣΕΠ: 30 θέσεις στο Αρχαιολογικό Μουσείο Ηρακλείου - Άνοιξαν οι αιτήσεις Προσλήψεις απόφοιτων ΤΕΙ, λυκείου και γυμνασίου στο Αρχαιολογικό Μουσείο Ηρακλείου",
-   "url": "https://www.proson.gr/ergasia/prokiryxeis/95088_asep-30-theseis-sto-arhaiologiko-moyseio-irakleioy-anoixan-oi-aitiseis",
-   "first_seen": "2026-11-17",
-   "detail_file": "data/details/proson/95088.md",
-   "text_chars": 3819
-  },
-  {
-   "source": "jobfind",
-   "id": "fe8d7316-da03-4f6d-ad6c-6b38137b6808",
-   "title": "Social Media Specialist - Content Creator",
-   "location": "Content Creator - ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΜΕΤΑΜΟΡΦΩΣΗ",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/fe8d7316-da03-4f6d-ad6c-6b38137b6808/",
-   "first_seen": "2026-11-17",
-   "detail_file": "data/details/jobfind/fe8d7316-da03-4f6d-ad6c-6b38137b6808.md",
-   "text_chars": 2339
-  },
-  {
-   "source": "jobfind",
-   "id": "374d1a34-1f1b-4ea4-b0d5-abfce99a0f9d",
-   "title": "Digital Marketing Officer (Remote)",
-   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/374d1a34-1f1b-4ea4-b0d5-abfce99a0f9d/",
-   "first_seen": "2026-11-17",
-   "detail_file": "data/details/jobfind/374d1a34-1f1b-4ea4-b0d5-abfce99a0f9d.md",
-   "text_chars": 3058
-  },
-  {
-   "source": "jobfind",
-   "id": "a66b472e-4686-4e14-b0ce-25ea02557e0a",
-   "title": "Σύμβουλος Διαχείρισης Έργων (α/γ)",
-   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΑΜΠΕΛΟΚΗΠΟΙ",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/a66b472e-4686-4e14-b0ce-25ea02557e0a/",
-   "apply": [
-    "https://www.randstad.gr/theseis-ergasias/apply/68020/?utm_source=jobfind"
-   ],
-   "first_seen": "2026-11-17",
-   "detail_file": "data/details/jobfind/a66b472e-4686-4e14-b0ce-25ea02557e0a.md",
-   "text_chars": 2985
-  },
-  {
-   "source": "jobfind",
-   "id": "ae167c05-c41f-4875-a9bc-2cf37987e03b",
-   "title": "Head of Fashion Design",
-   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΠΕΡΙΣΤΕΡΙ",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/ae167c05-c41f-4875-a9bc-2cf37987e03b/",
-   "first_seen": "2026-11-17",
-   "detail_file": "data/details/jobfind/ae167c05-c41f-4875-a9bc-2cf37987e03b.md",
-   "text_chars": 2667
-  },
-  {
-   "source": "jobfind",
-   "id": "5c14a324-ebdb-4e1f-96e9-b284d60c0541",
-   "title": "Energy Project Manager",
-   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΑΓΙΑ ΠΑΡΑΣΚΕΥΗ",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/5c14a324-ebdb-4e1f-96e9-b284d60c0541/",
-   "first_seen": "2026-11-17",
-   "detail_file": "data/details/jobfind/5c14a324-ebdb-4e1f-96e9-b284d60c0541.md",
-   "text_chars": 2087
   }
  ]
 }
