@@ -1,208 +1,142 @@
 {
- "imerominia": "2026-11-20",
+ "imerominia": "2026-11-21",
  "excluded": [
   {
    "source": "workable",
-   "title": "Account & Operations Manager",
-   "url": "https://jobs.workable.com/view/h4hGYmAsKgk9EZT3vYy7vF/hybrid-account-%26-operations-manager-in-athens-at-beauty-health-index-(bhi)",
+   "title": "Product CRM Specialist",
+   "url": "https://jobs.workable.com/view/84LuyTqZ3Q4BcN8zpjHKXo/hybrid-product-crm-specialist-in-athens-at-%CF%86%CF%85%CF%83%CE%B9%CE%BA%CF%8C-%CE%B1%CE%AD%CF%81%CE%B9%CE%BF-%CE%B5%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE-%CE%B5%CF%84%CE%B1%CE%B9%CF%81%CE%B5%CE%AF%CE%B1-%CE%B5%CE%BD%CE%AD%CF%81%CE%B3%CE%B5%CE%B9%CE%B1%CF%82",
    "reason": "τίτλος εκτός ρόλων"
   },
   {
    "source": "workable",
-   "title": "Project Manager, Mechanical Engineer",
-   "url": "https://jobs.workable.com/view/15T3KDEeM98aL3vFvWqmTB/project-manager%2C-mechanical-engineer-in-athens-at-agt-group",
-   "reason": "εκτός ρόλου"
-  },
-  {
-   "source": "workable",
-   "title": "Product Manager Mobility",
-   "url": "https://jobs.workable.com/view/sUtd44BoZu2z544g99gRnf/product-manager-mobility-in-agios-stefanos-at-w%C3%BCrth-hellas",
+   "title": "IT Project Manager",
+   "url": "https://jobs.workable.com/view/c9k1QqY2YjazzmFzhHyyTd/it-project-manager-in-kallithea-at-icap-crif-sa",
    "reason": "τίτλος εκτός ρόλων"
   },
   {
    "source": "workable",
-   "title": "3 νέες θέσεις εκπροσώπησης ΜΚΟ",
-   "url": "https://jobs.workable.com/view/bBzUJTjmf5MrMWswEhzb4H/3-%CE%BD%CE%AD%CE%B5%CF%82-%CE%B8%CE%AD%CF%83%CE%B5%CE%B9%CF%82-%CE%B5%CE%BA%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%B7%CF%83%CE%B7%CF%82-%CE%BC%CE%BA%CE%BF-in-athens-at-kaik%C3%A9n-marketing",
-   "reason": "πωλήσεις/ΜΚΟ"
+   "title": "Junior Product Manager - BYD",
+   "url": "https://jobs.workable.com/view/jyR15eHLiqx7rTS6jFhVkN/junior-product-manager---byd-in-athens-at-sfakianakis-group",
+   "reason": "entry level/junior"
   },
   {
    "source": "workable",
-   "title": "Πωλητές/Πωλήτριες B2B",
-   "url": "https://jobs.workable.com/view/bzgJPjy492eJ2H2m5b3XwE/%CF%80%CF%89%CE%BB%CE%B7%CF%84%CE%AD%CF%82%2F%CF%80%CF%89%CE%BB%CE%AE%CF%84%CF%81%CE%B9%CE%B5%CF%82-b2b-in-athens-at-persistence-marketing-group",
-   "reason": "πωλήσεις/λιανική"
+   "title": "Junior Project Quality Management Officer",
+   "url": "https://jobs.workable.com/view/qnnodZvPHRhH2WiKzhyY8H/junior-project-quality-management-officer-in-athens-at-sword-services-greece-s.a.",
+   "reason": "entry level/junior"
   },
   {
-   "source": "jobfind",
-   "title": "Building Portfolio & Client Relationship Manager – Διαχειριστής/τρια Χαρτοφυλακίου Κτιρίων",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/b9b5b400-db1a-4f5c-a9f3-8756850e3378/",
-   "reason": "εκτός ρόλου"
-  },
-  {
-   "source": "jobfind",
-   "title": "Room Attendant",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/97f621d8-b3be-4ced-8150-2d357cf0faab/",
+   "source": "workable",
+   "title": "Product Genius - BYD",
+   "url": "https://jobs.workable.com/view/uacTPof5kwK5foy9LgdZwC/product-genius---byd-in-athens-at-sfakianakis-group",
    "reason": "τίτλος εκτός ρόλων"
   },
   {
    "source": "jobfind",
-   "title": "Sous Chef, Season 2027 | One&Only Aesthesis, Athens",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/ad9d34c3-2137-469d-8e15-bc4cb774fc25/",
+   "title": "Στελέχη Field Sales & Marketing",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/080353c0-4766-46a0-98f3-b95911129ef7/",
    "reason": "τίτλος εκτός ρόλων"
   },
   {
    "source": "jobfind",
-   "title": "Guest Experience Team Leader, Season 2027 | One&Only Aesthesis, Athens",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/f2f60930-1dbe-4e09-aff6-17b239ec6a7c/",
+   "title": "HR Coordinator Συντονιστής Ανθρώπινου Δυναμικού",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/27d57700-c0dd-4bba-9f46-4ab2c882fd70/",
    "reason": "τίτλος εκτός ρόλων"
   },
   {
    "source": "jobfind",
-   "title": "Assistant Restaurant Manager, Season 2027 | One&Only Aesthesis, Athens",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/610b8068-21f6-4750-9ca6-1b1729858079/",
+   "title": "Technical Solutions Specialist (IT & Industrial Equipment)",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/d8b35fd2-435c-4a37-b3ea-ba268c48cfa1/",
    "reason": "τίτλος εκτός ρόλων"
   },
   {
    "source": "jobfind",
-   "title": "Restaurant Manager, Season 2027 | One&Only Aesthesis, Athens",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/fd3de990-fad9-4095-a776-92d0380e60b1/",
+   "title": "Προσωπικό κουζίνας | Αεροδρόμιο Αθηνών",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/cea5f31b-45f1-430f-bcfb-b7a77bf787dd/",
    "reason": "τίτλος εκτός ρόλων"
   },
   {
    "source": "jobfind",
-   "title": "Restaurant Team Leader, Season 2027 | One&Only Aesthesis, Athens",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/867a524e-075f-4e84-8e11-b5a3c2e37a76/",
+   "title": "Υπάλληλος λάντζας",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/5cdbbc07-0ab5-4194-bde7-dba8b8547b6f/",
    "reason": "τίτλος εκτός ρόλων"
   },
   {
    "source": "jobfind",
-   "title": "Wellness Therapist, Season 2027 | One&Only Aesthesis, Athens",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/7b3eb2c0-4913-42c2-9392-ef71a2cceba0/",
+   "title": "Προσωπικό κουζίνας | Αεροδρόμιο Αθηνών",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/0c9c38a4-6d50-4a03-b597-316baf5458c8/",
    "reason": "τίτλος εκτός ρόλων"
   },
   {
-   "source": "jobfind",
-   "title": "Demi Chef De Partie, Pastry / Bakery, Season 2027 | One&Only Aesthesis, Athens",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/c3a125f8-2311-422e-8555-3c917e2c9934/",
-   "reason": "τίτλος εκτός ρόλων"
-  },
-  {
-   "source": "jobfind",
-   "title": "Chef De Partie, Pastry/Bakery, Season 2027 | One&Only Aesthesis, Athens",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/8f3c3510-e2e8-44e3-9fc8-26e971c16aa8/",
-   "reason": "τίτλος εκτός ρόλων"
-  },
-  {
-   "source": "jobfind",
-   "title": "Front Office Agent, Season 2027 | One&Only Aesthesis, Athens",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/042f99a8-c6a8-4278-8846-f28f3e1db641/",
-   "reason": "τηλεφωνικό κέντρο"
-  },
-  {
-   "source": "jobfind",
-   "title": "Ηλεκτρολόγος Βάρδιας | Divani Apollon Palace",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/7da00b3a-978d-4e9a-aa54-6ab0ff999f30/",
-   "reason": "εκτός ρόλου"
-  },
-  {
    "source": "alfavita",
-   "title": "19.11.2026 - 16:24 Συνταξιούχοι: ένας στους οκτώ συνταξιούχους βρίσκεται πλέον στην αγορά εργασίας Σχεδόν δεκαπλασιάστηκαν μέσα σε λιγότερο από τρία χρόνια",
-   "url": "https://www.alfavita.gr/ergasia/568714_syntaxioyhoi-enas-stoys-okto-syntaxioyhoys-brisketai-pleon-stin-agora-ergasias",
+   "title": "20.11.2026 - 10:42 Προσλήψεις σε Δήμους: 60 θέσεις χωρίς πτυχίο στον Πειραιά Αναλυτικά η προκήρυξη και όλες οι ειδικότητες",
+   "url": "https://www.alfavita.gr/ergasia/568791_proslipseis-se-dimoys-60-theseis-horis-ptyhio-ston-peiraia",
    "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
   },
   {
    "source": "alfavita",
-   "title": "19.11.2026 - 14:38 ΑΣΕΠ: Στο Εθνικό Τυπογραφείο η προκήρυξη 4ΓΒ/2026 Δημοσιεύθηκε η κατανομή των μόνιμων θέσεων σε ΑΣΕΠ και ΥΠΑ",
-   "url": "https://www.alfavita.gr/ergasia/568684_asep-sto-ethniko-typografeio-i-prokiryxi-4gb/2026",
+   "title": "20.11.2026 - 09:34 Προσλήψεις στον Σκλαβενίτη: Θέσεις για Data Scientist και AI Engineer H εταιρεία Ελληνικές Υπεραγορές Σκλαβενίτης Α.Ε.Ε. έχει δημοσιεύσει δύο νέες αγγελίες εργασίας...",
+   "url": "https://www.alfavita.gr/ergasia/568774_proslipseis-ston-sklabeniti-theseis-gia-data-scientist-kai-ai-engineer",
    "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
   },
   {
    "source": "alfavita",
-   "title": "19.11.2026 - 13:12 ΔΥΠΑ – UNICEF: Πρόγραμμα για νέους 15 έως 24 ετών με δεξιότητες του μέλλοντος Η πρωτοβουλία U-Talent υλοποιείται στις ΕΠΑΣ Μαθητείας της ΔΥΠΑ σε όλη την Ελλάδα",
-   "url": "https://www.alfavita.gr/ergasia/568668_dypa-unicef-programma-gia-neoys-15-eos-24-eton-me-dexiotites-toy-mellontos",
-   "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
-  },
-  {
-   "source": "alfavita",
-   "title": "19.11.2026 - 12:43 ΥΠΕΣ: Εγκρίθηκαν 57 προσλήψεις σε τρεις δήμους - Η κατανομή Η απόφαση προβλέπει 57 προσλήψεις εποχικού προσωπικού",
-   "url": "https://www.alfavita.gr/ergasia/568664_ypes-egkrithikan-57-proslipseis-se-treis-dimoys-i-katanomi",
-   "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
-  },
-  {
-   "source": "alfavita",
-   "title": "19.11.2026 - 12:19 Δημόσιο: Ποιοι εξαιρούνται από το νέο σύστημα επιλογής προϊσταμένων μέσω ΑΣΕΠ (ΦΕΚ) Οι 11 φορείς και οι υπηρεσίες του Δημοσίου που διατηρούν ειδικό καθεστώς επιλογής προϊσταμένων",
-   "url": "https://www.alfavita.gr/ergasia/568661_dimosio-poioi-exairoyntai-apo-neo-systima-epilogis-proistamenon-meso-asep-fek",
-   "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
-  },
-  {
-   "source": "alfavita",
-   "title": "19.11.2026 - 11:58 ΑΣΕΠ: Δημόσιες κληρώσεις για δύο προκηρύξεις - Πότε θα πραγματοποιηθούν Αύριο Παρασκευή, 20 Νοεμβρίου οι κληρώσεις στο ΑΣΕΠ για τους ισοβαθμούντες υποψηφίους",
-   "url": "https://www.alfavita.gr/ergasia/568659_asep-dimosies-kliroseis-gia-dyo-prokiryxeis-pote-tha-pragmatopoiithoyn",
-   "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
-  },
-  {
-   "source": "alfavita",
-   "title": "19.11.2026 - 10:45 ΑΣΕΠ 1ΓΒ/2026: Εντολή ΥΠΕΣ για διορισμό των επιτυχόντων Το υπουργείο Εσωτερικών απέστειλε έγγραφο σε 325 φορείς του δημοσίου, προκειμένου να προχωρήσουν...",
-   "url": "https://www.alfavita.gr/ergasia/568642_asep-1gb/2026-entoli-ypes-gia-diorismo-ton-epityhonton",
-   "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
-  },
-  {
-   "source": "alfavita",
-   "title": "19.11.2026 - 08:22 Δημόσιο: Δύο κρίσιμες δικαστικές εξελίξεις για 13ο και 14ο μισθό και εισφορά 2% Στο Δικαστήριο της Ευρωπαϊκής Ένωσης η υπόθεση των δώρων Χριστουγέννων, Πάσχα και επιδόματος αδείας...",
-   "url": "https://www.alfavita.gr/ergasia/568615_dimosio-dyo-krisimes-dikastikes-exelixeis-gia-13o-kai-14o-mistho-kai-eisfora-2",
-   "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
-  },
-  {
-   "source": "alfavita",
-   "title": "19.11.2026 - 07:22 Επτά θέσεις εργασίας με αποδοχές έως 70.000 ευρώ τον χρόνο – Τα προσόντα Μία μόνιμη θέση με αποδοχές έως 5.385 ευρώ τον μήνα και έξι αμειβόμενες θέσεις πρακτικής άσκησης",
-   "url": "https://www.alfavita.gr/ergasia/568609_epta-theseis-ergasias-me-apodohes-eos-70000-eyro-ton-hrono-ta-prosonta",
-   "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
-  },
-  {
-   "source": "alfavita",
-   "title": "19.11.2026 - 06:50 ΑΣΕΠ: Έρχονται 10 προσλήψεις σε 10 υπουργεία – Πότε ξεκινούν οι αιτήσεις και ποιοι μπορούν να συμμετάσχουν Τα απαιτούμενα προσόντα, η κατανομή των θέσεων και το παράβολο των 20 ευρώ",
-   "url": "https://www.alfavita.gr/ergasia/568520_asep-erhontai-10-proslipseis-se-10-ypoyrgeia-pote-xekinoyn-oi-aitiseis-kai-poioi",
-   "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
-  },
-  {
-   "source": "alfavita",
-   "title": "19.11.2026 - 05:15 Αλέξης Μητρόπουλος: 1 στους 4 εργαζόμενους με μερική απασχόληση στον ιδιωτικό τομέα! Τριπλασιάστηκε η «φτηνή εργασία» τα τελευταία χρόνια - Άκρως ανησυχητικά τα στοιχεία του ΕΦΚΑ που...",
-   "url": "https://www.alfavita.gr/ergasia/568526_alexis-mitropoylos-1-stoys-4-ergazomenoys-me-meriki-apasholisi-ston-idiotiko-tomea",
-   "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
-  },
-  {
-   "source": "alfavita",
-   "title": "19.11.2026 - 04:00 Συνέντευξη για δουλειά: Οι ερωτήσεις για την Τεχνητή Νοημοσύνη που ρωτούν οι εργοδότες Η Τεχνητή Νοημοσύνη αλλάζει τις συνεντεύξεις εργασίας, ακόμη και για μη τεχνικές θέσεις – Τι...",
-   "url": "https://www.alfavita.gr/ergasia/568522_synenteyxi-gia-doyleia-oi-erotiseis-gia-tin-tehniti-noimosyni-poy-rotoyn-oi",
-   "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
-  },
-  {
-   "source": "alfavita",
-   "title": "19.11.2026 - 03:30 Διορισμός στο Δημόσιο με πλαστό απολυτήριο: Απόφαση-βόμβα του Ελεγκτικού Συνεδρίου Χρειάστηκε να περάσουν 22 ολόκληρα χρόνια, οπότε και διενεργήθηκε αυτεπάγγελτος έλεγχος...",
-   "url": "https://www.alfavita.gr/ergasia/568518_diorismos-sto-dimosio-me-plasto-apolytirio-apofasi-bomba-toy-elegktikoy-synedrioy",
+   "title": "20.11.2026 - 07:24 ΑΣΕΠ: 35 μόνιμες προσλήψεις μέσω 4ΓΒ/2026 (πίνακας) - Στο Τυπογραφείο η προκήρυξη Δείτε τις ειδικότητες και την κατανομή",
+   "url": "https://www.alfavita.gr/ergasia/568756_asep-35-monimes-proslipseis-meso-4gb/2026-pinakas-sto-typografeio-i-prokiryxi",
    "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
   },
   {
    "source": "proson",
-   "title": "19 Νοε 2026 16:44 Ευρωπαϊκό ΑΣΕΠ: 194 θέσεις εργασίας - Πότε λήγουν οι αιτήσεις Πού κάνετε αίτηση",
-   "url": "https://www.proson.gr/ergasia/prokiryxeis/95374_eyropaiko-asep-194-theseis-ergasias-pote-ligoyn-oi-aitiseis",
+   "title": "20 Νοε 2026 17:50 Τρίκαλα: Προσλήψεις και χωρίς πτυχίο - Μέχρι πότε οι αιτήσεις Πού κάνετε αίτηση",
+   "url": "https://www.proson.gr/ergasia/prokiryxeis/95444_trikala-proslipseis-kai-horis-ptyhio-mehri-pote-oi-aitiseis",
    "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
   },
   {
    "source": "proson",
-   "title": "19 Νοε 2026 13:31 Θεσσαλονίκη: 17 προσλήψεις σε δημόσιο φορέα - Βγήκαν οι ημερομηνίες Ποια είναι η προθεσμία υποβολής των αιτήσεων για τις προσλήψεις στα Εθνικά Αθλητικά Κέντρα...",
-   "url": "https://www.proson.gr/ergasia/prokiryxeis/95358_thessaloniki-17-proslipseis-se-dimosio-forea-bgikan-oi-imerominies",
+   "title": "20 Νοε 2026 17:32 Θεσσαλονίκη: Προσλήψεις πτυχιούχων στον Δήμο Παύλου Μελά Ποια είναι η ειδικότητα για τις προσλήψεις στον Δήμο Παύλου Μελά",
+   "url": "https://www.proson.gr/ergasia/prokiryxeis/95443_thessaloniki-proslipseis-ptyhioyhon-ston-dimo-payloy-mela",
    "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
   },
   {
    "source": "proson",
-   "title": "19 Νοε 2026 11:46 Δήμος Ξάνθης: 10 προσλήψεις απόφοιτων γυμνασίου - Από αύριο οι αιτήσεις Θέσεις εργασίας για απόφοιτους γυμνασίου στον Δήμο Ξάνθης",
-   "url": "https://www.proson.gr/ergasia/prokiryxeis/95346_dimos-xanthis-10-proslipseis-apofoiton-gymnasioy-apo-ayrio-oi-aitiseis",
+   "title": "20 Νοε 2026 16:22 Δήμος Πάτμου: Νέες θέσεις εργασίας με απολυτήριο γυμνασίου Πού κάνετε αίτηση",
+   "url": "https://www.proson.gr/ergasia/prokiryxeis/95437_dimos-patmoy-nees-theseis-ergasias-me-apolytirio-gymnasioy",
    "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
   },
   {
    "source": "proson",
-   "title": "19 Νοε 2026 10:41 Δήμος Καβάλας: Τέλος χρόνου για 39 προσλήψεις χωρίς πτυχίο Λήγουν σήμερα οι αιτήσεις για 39 προσλήψεις απόφοιτων λυκείου και γυμνασίου στον Δήμο Καβάλας",
-   "url": "https://www.proson.gr/ergasia/prokiryxeis/95338_dimos-kabalas-telos-hronoy-gia-39-proslipseis-horis-ptyhio",
+   "title": "20 Νοε 2026 15:17 Δήμος Σίφνου: Προσλήψεις χωρίς πτυχίο στο νησί - Πού κάνετε αίτηση Οι προσλήψεις θα υλοποιηθούν για την κάλυψη αναγκών ανταποδοτικού χαρακτήρα",
+   "url": "https://www.proson.gr/ergasia/prokiryxeis/95431_dimos-sifnoy-proslipseis-horis-ptyhio-sto-nisi-poy-kanete-aitisi",
+   "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
+  },
+  {
+   "source": "proson",
+   "title": "20 Νοε 2026 14:05 Άνοιξαν 12 θέσεις εργασίας στην ΕΦΑ Ανατολικής Αττικής Οι ζητούμενες ειδικότητες και η προθεσμία υποβολής των αιτήσεων",
+   "url": "https://www.proson.gr/ergasia/prokiryxeis/95424_anoixan-12-theseis-ergasias-stin-efa-anatolikis-attikis",
+   "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
+  },
+  {
+   "source": "proson",
+   "title": "20 Νοε 2026 12:52 ΥΠΑΑΤ: Νέες προσλήψεις και χωρίς πτυχίο - Ξεκινούν οι αιτήσεις Μέχρι πότε μπορείτε να κάνετε αίτηση",
+   "url": "https://www.proson.gr/ergasia/prokiryxeis/95417_ypaat-nees-proslipseis-kai-horis-ptyhio-xekinoyn-oi-aitiseis",
+   "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
+  },
+  {
+   "source": "proson",
+   "title": "20 Νοε 2026 11:05 Χειμερινή σεζόν: Προσλήψεις στο Εθνικό Χιονοδρομικό Κέντρο Σελίου Θα προσληφθούν απόφοιτοι λυκείου και γυμνασίου -Οι ειδικότητες",
+   "url": "https://www.proson.gr/ergasia/prokiryxeis/95404_heimerini-sezon-proslipseis-sto-ethniko-hionodromiko-kentro-selioy",
+   "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
+  },
+  {
+   "source": "proson",
+   "title": "20 Νοε 2026 10:57 Δήμος Πειραιά: 60 προσλήψεις χωρίς πτυχίο - Οι ειδικότητες Πού κάνετε αίτηση",
+   "url": "https://www.proson.gr/ergasia/prokiryxeis/95403_dimos-peiraia-60-proslipseis-horis-ptyhio-oi-eidikotites",
+   "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
+  },
+  {
+   "source": "proson",
+   "title": "20 Νοε 2026 10:48 Προσλήψεις σε Δήμους: 50 θέσεις εργασίας στη Θάσο Θέσεις εργασίας για απόφοιτους λυκείου και γυμνασίου στον Δήμο Θάσου",
+   "url": "https://www.proson.gr/ergasia/prokiryxeis/95402_proslipseis-se-dimoys-50-theseis-ergasias-sti-thaso",
    "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
   }
  ]

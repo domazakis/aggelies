@@ -1,8 +1,88 @@
 {
  "_perigrafi": "Αγγελίες που εμφανίστηκαν για πρώτη φορά τις τελευταίες 3 ημέρες. Το πλήρες κείμενο κάθε αγγελίας είναι στο detail_file. Έχουν ήδη αφαιρεθεί όσες είναι προφανώς άσχετες από τον τίτλο (δες excluded.json).",
- "enimerosi": "2026-11-19T21:43+00:00",
+ "enimerosi": "2026-11-20T21:23+00:00",
  "proti_ektelesi": false,
  "listings": [
+  {
+   "source": "workable",
+   "id": "6b232990-6020-4b59-924c-38ba68861d97",
+   "title": "Marketing Executive | Mar-Bella Collection | Athens | Full-time",
+   "company": "MarBella Collection",
+   "location": "Athens, Attica",
+   "posted": "2026-11-20",
+   "employment": "Full-time",
+   "workplace": "on_site",
+   "url": "https://jobs.workable.com/view/eejYgzBvr3ay5K9ZWmTqiD/marketing-executive-%7C-mar-bella-collection-%7C-athens-%7C-full-time-in-athens-at-marbella-collection",
+   "apply": [
+    "https://jobs.workable.com/view/eejYgzBvr3ay5K9ZWmTqiD/marketing-executive-%7C-mar-bella-collection-%7C-athens-%7C-full-time-in-athens-at-marbella-collection/apply"
+   ],
+   "first_seen": "2026-11-21",
+   "detail_file": "data/details/workable/6b232990-6020-4b59-924c-38ba68861d97.md",
+   "text_chars": 2495
+  },
+  {
+   "source": "workable",
+   "id": "128b5aae-b7c8-4b01-a2b3-223e43240770",
+   "title": "Marketing Executive",
+   "company": "Germ S.A",
+   "location": "Agios Stefanos, Attica",
+   "posted": "2026-11-20",
+   "employment": "Full-time",
+   "workplace": "on_site",
+   "url": "https://jobs.workable.com/view/3hPkWbXrhpzHajnFHihLrE/marketing-executive-in-agios-stefanos-at-germ-s.a",
+   "apply": [
+    "https://jobs.workable.com/view/3hPkWbXrhpzHajnFHihLrE/marketing-executive-in-agios-stefanos-at-germ-s.a/apply"
+   ],
+   "first_seen": "2026-11-21",
+   "detail_file": "data/details/workable/128b5aae-b7c8-4b01-a2b3-223e43240770.md",
+   "text_chars": 2011
+  },
+  {
+   "source": "workable",
+   "id": "f6c70750-0c42-4a92-b817-982abc7f2812",
+   "title": "Performance Marketing Specialist",
+   "company": "kovald Digital Marketing Strategies",
+   "location": "Athens, Central Athens",
+   "posted": "2026-11-20",
+   "employment": "Full-time",
+   "workplace": "on_site",
+   "url": "https://jobs.workable.com/view/wtrBMfzKA6LmBaHEWougkG/performance-marketing-specialist-in-athens-at-kovald-digital-marketing-strategies",
+   "apply": [
+    "https://jobs.workable.com/view/wtrBMfzKA6LmBaHEWougkG/performance-marketing-specialist-in-athens-at-kovald-digital-marketing-strategies/apply"
+   ],
+   "first_seen": "2026-11-21",
+   "detail_file": "data/details/workable/f6c70750-0c42-4a92-b817-982abc7f2812.md",
+   "text_chars": 2921
+  },
+  {
+   "source": "proson",
+   "id": "95377",
+   "title": "20 Νοε 2026 04:30 Νέες ευκαιρίες απασχόλησης στο Δημόσιο: Πέντε προκηρύξεις σε Δήμους, Περιφέρειες και Μουσεία Οι διαθέσιμες ειδικότητες καλύπτουν ένα ευρύ φάσμα επαγγελματικών κλάδων, από την κοινωνική εργασία...",
+   "url": "https://www.proson.gr/ergasia/prokiryxeis/95377_nees-eykairies-apasholisis-sto-dimosio-pente-prokiryxeis-se-dimoys",
+   "first_seen": "2026-11-21",
+   "detail_file": "data/details/proson/95377.md",
+   "text_chars": 4469
+  },
+  {
+   "source": "jobfind",
+   "id": "41829323-2fcb-45d1-ab27-aacee216887a",
+   "title": "Trade Marketing & Commercial Development Specialist",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/41829323-2fcb-45d1-ab27-aacee216887a/",
+   "first_seen": "2026-11-21",
+   "detail_file": "data/details/jobfind/41829323-2fcb-45d1-ab27-aacee216887a.md",
+   "text_chars": 2881
+  },
+  {
+   "source": "jobfind",
+   "id": "87b1abe0-8513-4268-94fb-aa961a609795",
+   "title": "Promotion & Events",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΑΘΗΝΑ",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/87b1abe0-8513-4268-94fb-aa961a609795/",
+   "first_seen": "2026-11-21",
+   "detail_file": "data/details/jobfind/87b1abe0-8513-4268-94fb-aa961a609795.md",
+   "text_chars": 1453
+  },
   {
    "source": "proson",
    "id": "95295",
@@ -87,49 +167,6 @@
    "first_seen": "2026-11-19",
    "detail_file": "data/details/alfavita/568540.md",
    "text_chars": 4077
-  },
-  {
-   "source": "workable",
-   "id": "d89c4369-3ec0-4160-b5e8-7f35e7a272db",
-   "title": "Head of Operations",
-   "company": "Whiteball",
-   "location": "Athens, Attica",
-   "posted": "2026-11-17",
-   "employment": "Full-time",
-   "workplace": "on_site",
-   "url": "https://jobs.workable.com/view/sKoc7w3A9PSNFp4NFZ86an/head-of-operations-in-athens-at-whiteball",
-   "apply": [
-    "https://jobs.workable.com/view/sKoc7w3A9PSNFp4NFZ86an/head-of-operations-in-athens-at-whiteball/apply"
-   ],
-   "first_seen": "2026-11-18",
-   "detail_file": "data/details/workable/d89c4369-3ec0-4160-b5e8-7f35e7a272db.md",
-   "text_chars": 2224
-  },
-  {
-   "source": "workable",
-   "id": "9d28bd0a-2d9e-4569-8184-3a376148a577",
-   "title": "Event Project Manager",
-   "company": "Whiteball",
-   "location": "Athens, Attica",
-   "posted": "2026-11-17",
-   "workplace": "on_site",
-   "url": "https://jobs.workable.com/view/kpA58S9Fd6CqfrjoTRXhLX/event-project-manager-in-athens-at-whiteball",
-   "apply": [
-    "https://jobs.workable.com/view/kpA58S9Fd6CqfrjoTRXhLX/event-project-manager-in-athens-at-whiteball/apply"
-   ],
-   "first_seen": "2026-11-18",
-   "detail_file": "data/details/workable/9d28bd0a-2d9e-4569-8184-3a376148a577.md",
-   "text_chars": 1981
-  },
-  {
-   "source": "jobfind",
-   "id": "fc973ffb-ae56-4a57-b413-0fda0bfd71b5",
-   "title": "Συντονιστής / τρια Προωθητικών Ενεργειών (Field & Office), Εταιρικό Αυτοκίνητο, Πλήρης Απασχόληση",
-   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΑΘΗΝΑ",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/fc973ffb-ae56-4a57-b413-0fda0bfd71b5/",
-   "first_seen": "2026-11-18",
-   "detail_file": "data/details/jobfind/fc973ffb-ae56-4a57-b413-0fda0bfd71b5.md",
-   "text_chars": 2053
   }
  ]
 }
