@@ -1,8 +1,18 @@
 {
  "_perigrafi": "Αγγελίες που εμφανίστηκαν για πρώτη φορά τις τελευταίες 3 ημέρες. Το πλήρες κείμενο κάθε αγγελίας είναι στο detail_file. Έχουν ήδη αφαιρεθεί όσες είναι προφανώς άσχετες από τον τίτλο (δες excluded.json).",
- "enimerosi": "2026-11-21T20:12+00:00",
+ "enimerosi": "2026-11-22T20:26+00:00",
  "proti_ektelesi": false,
  "listings": [
+  {
+   "source": "jobfind",
+   "id": "fe8fa25f-6021-48c7-8326-6dcebd0a1d40",
+   "title": "Marketing (Google Ads) Specialist",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΝΕΑ ΙΩΝΙΑ",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/fe8fa25f-6021-48c7-8326-6dcebd0a1d40/",
+   "first_seen": "2026-11-22",
+   "detail_file": "data/details/jobfind/fe8fa25f-6021-48c7-8326-6dcebd0a1d40.md",
+   "text_chars": 2027
+  },
   {
    "source": "workable",
    "id": "6b232990-6020-4b59-924c-38ba68861d97",
@@ -101,72 +111,6 @@
    "first_seen": "2026-11-20",
    "detail_file": "data/details/jobfind/9c099a03-7b27-44d4-9cfe-73fc102080aa.md",
    "text_chars": 1932
-  },
-  {
-   "source": "workable",
-   "id": "be0149f7-2d03-4fc5-94e9-62ea1f759134",
-   "title": "Project Manager (Tech/Telecom Projects)",
-   "company": "ADAPTIT",
-   "location": "Agios Stefanos, Attica",
-   "posted": "2026-11-18",
-   "employment": "Full-time",
-   "workplace": "hybrid",
-   "url": "https://jobs.workable.com/view/psQi1fsm173ohjf8NXt6fL/hybrid-project-manager-(tech%2Ftelecom-projects)-in-agios-stefanos-at-adaptit",
-   "apply": [
-    "https://jobs.workable.com/view/psQi1fsm173ohjf8NXt6fL/hybrid-project-manager-(tech%2Ftelecom-projects)-in-agios-stefanos-at-adaptit/apply"
-   ],
-   "first_seen": "2026-11-19",
-   "detail_file": "data/details/workable/be0149f7-2d03-4fc5-94e9-62ea1f759134.md",
-   "text_chars": 4037
-  },
-  {
-   "source": "workable",
-   "id": "d0686379-fd00-48a0-a4fe-9b083b2b7040",
-   "title": "Digital Project Manager - SAP S/4HANA",
-   "company": "JUST ONE | Recruitment & Executive Search agency",
-   "location": "Athens, Attica",
-   "posted": "2026-11-18",
-   "employment": "Full-time",
-   "workplace": "hybrid",
-   "url": "https://jobs.workable.com/view/rJCNS8UwVwRfh5RsQ8o8by/hybrid-digital-project-manager---sap-s%2F4hana-in-athens-at-just-one-%7C-recruitment-%26-executive-search-agency",
-   "apply": [
-    "https://jobs.workable.com/view/rJCNS8UwVwRfh5RsQ8o8by/hybrid-digital-project-manager---sap-s%2F4hana-in-athens-at-just-one-%7C-recruitment-%26-executive-search-agency/apply"
-   ],
-   "first_seen": "2026-11-19",
-   "detail_file": "data/details/workable/d0686379-fd00-48a0-a4fe-9b083b2b7040.md",
-   "text_chars": 2588
-  },
-  {
-   "source": "jobfind",
-   "id": "c918f4eb-bba6-44b3-86f6-8f4b6f9fb79d",
-   "title": "Συντονιστής / Συντονίστρια Προωθητικών Ενεργειών (Field & Office), Εταιρικό Αυτοκίνητο, Πλήρης Απασχόληση",
-   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΑΜΠΕΛΟΚΗΠΟΙ",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/c918f4eb-bba6-44b3-86f6-8f4b6f9fb79d/",
-   "first_seen": "2026-11-19",
-   "detail_file": "data/details/jobfind/c918f4eb-bba6-44b3-86f6-8f4b6f9fb79d.md",
-   "text_chars": 2115
-  },
-  {
-   "source": "jobfind",
-   "id": "a4e601f5-5c1e-4a5a-9729-de3d0b986964",
-   "title": "MARKETING COORDINATOR",
-   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΜΕΤΑΜΟΡΦΩΣΗ",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/a4e601f5-5c1e-4a5a-9729-de3d0b986964/",
-   "first_seen": "2026-11-19",
-   "detail_file": "data/details/jobfind/a4e601f5-5c1e-4a5a-9729-de3d0b986964.md",
-   "text_chars": 2056
-  },
-  {
-   "source": "alfavita",
-   "id": "568540",
-   "title": "18.11.2026 - 14:45 Άνοιξαν οι αιτήσεις: 30 προσλήψεις στο Αρχαιολογικό Μουσείο Ηρακλείου Πώς θα κάνετε αίτηση",
-   "url": "https://www.alfavita.gr/ergasia/568540_anoixan-oi-aitiseis-30-proslipseis-sto-arhaiologiko-moyseio-irakleioy",
-   "apply": [
-    "mailto:"
-   ],
-   "first_seen": "2026-11-19",
-   "detail_file": "data/details/alfavita/568540.md",
-   "text_chars": 4077
   }
  ]
 }

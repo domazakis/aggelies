@@ -1,10 +1,34 @@
 {
- "imerominia": "2026-11-21",
+ "imerominia": "2026-11-22",
  "excluded": [
   {
+   "source": "jobfind",
+   "title": "SEO Specialist",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/17da04d0-36e8-4417-95c9-9b1ccf435a5d/",
+   "reason": "τίτλος εκτός ρόλων"
+  },
+  {
+   "source": "alfavita",
+   "title": "22.11.2026 - 15:45 ΑΣΕΠ: Λήγουν αύριο (23/11) οι ενστάσεις για 908 μόνιμες θέσεις – Ανοίγουν νέες αιτήσεις Τριπλή κινητικότητα αύριο Δευτέρα 23/11 στο ΑΣΕΠ",
+   "url": "https://www.alfavita.gr/ergasia/568849_asep-ligoyn-ayrio-23/11-oi-enstaseis-gia-908-monimes-theseis-anoigoyn-nees-aitiseis",
+   "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
+  },
+  {
+   "source": "alfavita",
+   "title": "22.11.2026 - 05:50 Πιστοποίηση Β1 επιπέδου ΤΠΕ: Κλείνουν οι αιτήσεις, 11.500+ εκπαιδευτικοί στην πλατφόρμα Όλα όσα πρέπει να προλάβουν οι εκπαιδευτικοί πριν ξεκινήσουν οι εξετάσεις στα ΚΕΠΙΣ",
+   "url": "https://www.alfavita.gr/ergasia/568851_pistopoiisi-b1-epipedoy-tpe-kleinoyn-oi-aitiseis-11500-ekpaideytikoi-stin-platforma",
+   "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
+  },
+  {
+   "source": "alfavita",
+   "title": "22.11.2026 - 05:30 Προϋπολογισμός 2027: Όλες οι αυξήσεις και τα νέα επιδόματα στο Δημόσιο (Πίνακες) Αυξήσεις, μόνιμο δώρο Χριστουγέννων 500 ευρώ και διπλό ενοίκιο για χιλιάδες δημόσιους υπαλλήλους –...",
+   "url": "https://www.alfavita.gr/ergasia/568847_proypologismos-2027-oles-oi-ayxiseis-kai-ta-nea-epidomata-sto-dimosio-pinakes",
+   "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
+  },
+  {
    "source": "proson",
-   "title": "21 Νοε 2026 04:30 Εντός και εκτός ΑΣΕΠ: Άνοιξαν 560 θέσεις εργασίας στο Δημόσιο Θα προσληφθούν απόφοιτοι ΑΕΙ, ΤΕΙ, λυκείου και γυμνασίου - Αναλυτικά οι 560 διαθέσιμες θέσεις",
-   "url": "https://www.proson.gr/ergasia/prokiryxeis/95340_entos-kai-ektos-asep-anoixan-560-theseis-ergasias-sto-dimosio",
+   "title": "22 Νοε 2026 05:30 Προσλήψεις και χωρίς πτυχίο στο ΥΠΑΑΤ - Μέχρι πότε οι αιτήσεις Πού κάνετε αίτηση για μια θέση στο υπουργείο Αγροτικής Ανάπτυξης και Τροφίμων",
+   "url": "https://www.proson.gr/ergasia/prokiryxeis/95412_proslipseis-kai-horis-ptyhio-sto-ypaat-mehri-pote-oi-aitiseis",
    "reason": "είδηση εκτός πολιτισμού/ιδρυμάτων"
   }
  ]
