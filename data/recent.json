@@ -1,8 +1,44 @@
 {
  "_perigrafi": "Αγγελίες που εμφανίστηκαν για πρώτη φορά τις τελευταίες 3 ημέρες. Το πλήρες κείμενο κάθε αγγελίας είναι στο detail_file. Έχουν ήδη αφαιρεθεί όσες είναι προφανώς άσχετες από τον τίτλο (δες excluded.json).",
- "enimerosi": "2026-11-24T23:10+00:00",
+ "enimerosi": "2026-11-25T22:40+00:00",
  "proti_ektelesi": false,
  "listings": [
+  {
+   "source": "workable",
+   "id": "ddba8ba1-4f3d-4a21-9bfd-3cd9f72b0393",
+   "title": "Engagement & Development Specialist",
+   "company": "Goldair Handling",
+   "location": "Spata, Attiki",
+   "posted": "2026-11-25",
+   "employment": "Full-time",
+   "workplace": "hybrid",
+   "url": "https://jobs.workable.com/view/to3kpaNqUvTVdnhmotey3F/hybrid-engagement-%26-development-specialist-in-spata-at-goldair-handling",
+   "apply": [
+    "https://jobs.workable.com/view/to3kpaNqUvTVdnhmotey3F/hybrid-engagement-%26-development-specialist-in-spata-at-goldair-handling/apply"
+   ],
+   "first_seen": "2026-11-26",
+   "detail_file": "data/details/workable/ddba8ba1-4f3d-4a21-9bfd-3cd9f72b0393.md",
+   "text_chars": 4569
+  },
+  {
+   "source": "proson",
+   "id": "95729",
+   "title": "25 Νοε 2026 20:54 Τελευταία ευκαιρία για 30 προσλήψεις σε Αρχαιολογικό Μουσείο της Κρήτης Ποιες είναι οι ειδικότητες για τις 30 προσλήψεις στο ΝΠΔΔ Αρχαιολογικό Μουσείο Ηρακλείου",
+   "url": "https://www.proson.gr/ergasia/prokiryxeis/95729_teleytaia-eykairia-gia-30-proslipseis-se-arhaiologiko-moyseio-tis-kritis",
+   "first_seen": "2026-11-26",
+   "detail_file": "data/details/proson/95729.md",
+   "text_chars": 3672
+  },
+  {
+   "source": "jobfind",
+   "id": "9cef26c6-1f54-46ba-9413-a0e0c454b3ee",
+   "title": "Management Trainee – Μελλοντικός/ή Γενικός/ή Διευθυντής/ντρια Επιχειρήσεων (3ετές Πρόγραμμα Ανάπτυξης)",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΑΘΗΝΑ",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/9cef26c6-1f54-46ba-9413-a0e0c454b3ee/",
+   "first_seen": "2026-11-26",
+   "detail_file": "data/details/jobfind/9cef26c6-1f54-46ba-9413-a0e0c454b3ee.md",
+   "text_chars": 3464
+  },
   {
    "source": "workable",
    "id": "533b5713-9e40-44a7-8877-ac08824d196e",
