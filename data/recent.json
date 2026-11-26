@@ -1,8 +1,66 @@
 {
  "_perigrafi": "Αγγελίες που εμφανίστηκαν για πρώτη φορά τις τελευταίες 3 ημέρες. Το πλήρες κείμενο κάθε αγγελίας είναι στο detail_file. Έχουν ήδη αφαιρεθεί όσες είναι προφανώς άσχετες από τον τίτλο (δες excluded.json).",
- "enimerosi": "2026-11-25T22:40+00:00",
+ "enimerosi": "2026-11-26T22:30+00:00",
  "proti_ektelesi": false,
  "listings": [
+  {
+   "source": "workable",
+   "id": "d0b88b38-2d09-40a8-aa54-b5c62eca7e52",
+   "title": "Project Manager/ Release Manager",
+   "company": "Qualco Group",
+   "location": "Athens, Attica",
+   "posted": "2026-11-26",
+   "workplace": "hybrid",
+   "url": "https://jobs.workable.com/view/rLSSBW2kAM9qkPdkt5TiQW/hybrid-project-manager%2F-release-manager-in-athens-at-qualco-group",
+   "apply": [
+    "https://jobs.workable.com/view/rLSSBW2kAM9qkPdkt5TiQW/hybrid-project-manager%2F-release-manager-in-athens-at-qualco-group/apply"
+   ],
+   "first_seen": "2026-11-27",
+   "detail_file": "data/details/workable/d0b88b38-2d09-40a8-aa54-b5c62eca7e52.md",
+   "text_chars": 4611
+  },
+  {
+   "source": "workable",
+   "id": "c763d7d6-093a-42b9-8b9d-f57090e7ca9c",
+   "title": "PPC Marketing Specialist (Remote)",
+   "company": "Sweat Pants Agency",
+   "location": "Athens, Attica",
+   "posted": "2026-11-26",
+   "workplace": "remote",
+   "url": "https://jobs.workable.com/view/qC3PHypK8G3rkff1yWksTf/ppc-marketing-specialist-(remote)-in-athens-at-sweat-pants-agency",
+   "apply": [
+    "https://jobs.workable.com/view/qC3PHypK8G3rkff1yWksTf/ppc-marketing-specialist-(remote)-in-athens-at-sweat-pants-agency/apply"
+   ],
+   "first_seen": "2026-11-27",
+   "detail_file": "data/details/workable/c763d7d6-093a-42b9-8b9d-f57090e7ca9c.md",
+   "text_chars": 6913
+  },
+  {
+   "source": "jobfind",
+   "id": "bb516fb9-45aa-4540-9852-5013c30f07f2",
+   "title": "Στέλεχος Marketing & Branding",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΣΥΝΤΑΓΜΑ",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/bb516fb9-45aa-4540-9852-5013c30f07f2/",
+   "apply": [
+    "https://apply.workable.com/icapes/j/2E98052E9C"
+   ],
+   "first_seen": "2026-11-27",
+   "detail_file": "data/details/jobfind/bb516fb9-45aa-4540-9852-5013c30f07f2.md",
+   "text_chars": 4222
+  },
+  {
+   "source": "jobfind",
+   "id": "62a1326d-5793-4e4f-955e-a41d3da3a80d",
+   "title": "Στέλεχος Marketing",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΣΥΝΤΑΓΜΑ",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/62a1326d-5793-4e4f-955e-a41d3da3a80d/",
+   "apply": [
+    "https://apply.workable.com/icapes/j/53B72621C0"
+   ],
+   "first_seen": "2026-11-27",
+   "detail_file": "data/details/jobfind/62a1326d-5793-4e4f-955e-a41d3da3a80d.md",
+   "text_chars": 4095
+  },
   {
    "source": "workable",
    "id": "ddba8ba1-4f3d-4a21-9bfd-3cd9f72b0393",
@@ -94,156 +152,6 @@
    "first_seen": "2026-11-25",
    "detail_file": "data/details/jobfind/fbd69fe8-9864-4224-9683-449897703802.md",
    "text_chars": 3858
-  },
-  {
-   "source": "workable",
-   "id": "cb6b9c3e-8c39-41b4-9ae9-4d471b9f7dc1",
-   "title": "Digital Media Executive",
-   "company": "Sleed",
-   "location": "Athens, Attica",
-   "posted": "2026-11-23",
-   "employment": "Full-time",
-   "workplace": "hybrid",
-   "url": "https://jobs.workable.com/view/r7V2LBPHnU7LhGUbUaRQdi/hybrid-digital-media-executive-in-athens-at-sleed",
-   "apply": [
-    "https://jobs.workable.com/view/r7V2LBPHnU7LhGUbUaRQdi/hybrid-digital-media-executive-in-athens-at-sleed/apply"
-   ],
-   "first_seen": "2026-11-24",
-   "detail_file": "data/details/workable/cb6b9c3e-8c39-41b4-9ae9-4d471b9f7dc1.md",
-   "text_chars": 4532
-  },
-  {
-   "source": "workable",
-   "id": "0fac53e7-464c-4cf5-b945-e11fe82a1d83",
-   "title": "ReBrain Greece Event in Munich",
-   "company": "Uni Systems",
-   "location": "Athens, Attica",
-   "posted": "2026-11-23",
-   "workplace": "hybrid",
-   "url": "https://jobs.workable.com/view/2WfDqUphJtvQhBRwFc5HsK/hybrid-rebrain-greece-event-in-munich-in-athens-at-uni-systems",
-   "apply": [
-    "https://jobs.workable.com/view/2WfDqUphJtvQhBRwFc5HsK/hybrid-rebrain-greece-event-in-munich-in-athens-at-uni-systems/apply"
-   ],
-   "first_seen": "2026-11-24",
-   "detail_file": "data/details/workable/0fac53e7-464c-4cf5-b945-e11fe82a1d83.md",
-   "text_chars": 2952
-  },
-  {
-   "source": "workable",
-   "id": "12d9ce83-d116-4ea1-860a-aee2827b54b0",
-   "title": "Marketing Assistant - Digital Marketing & Coordination",
-   "company": "Iassis Medical Group",
-   "location": "Kifisia, Attica",
-   "posted": "2026-11-23",
-   "employment": "Full-time",
-   "workplace": "on_site",
-   "url": "https://jobs.workable.com/view/3k1DravbQ8Z2cRbifBnErW/marketing-assistant---digital-marketing-%26-coordination-in-kifisia-at-iassis-medical-group",
-   "apply": [
-    "https://jobs.workable.com/view/3k1DravbQ8Z2cRbifBnErW/marketing-assistant---digital-marketing-%26-coordination-in-kifisia-at-iassis-medical-group/apply"
-   ],
-   "first_seen": "2026-11-24",
-   "detail_file": "data/details/workable/12d9ce83-d116-4ea1-860a-aee2827b54b0.md",
-   "text_chars": 2209
-  },
-  {
-   "source": "workable",
-   "id": "53fd4ae5-1fd3-4f23-af3e-8a183b99457a",
-   "title": "Senior Performance Marketing Manager",
-   "company": "ADVENGERS",
-   "location": "Nea Ionia, Nea Ionia",
-   "posted": "2026-11-23",
-   "employment": "Full-time",
-   "workplace": "on_site",
-   "url": "https://jobs.workable.com/view/bnxiargg8JFLaYRCY2V1qS/senior-performance-marketing-manager-in-nea-ionia-at-advengers",
-   "apply": [
-    "https://jobs.workable.com/view/bnxiargg8JFLaYRCY2V1qS/senior-performance-marketing-manager-in-nea-ionia-at-advengers/apply"
-   ],
-   "first_seen": "2026-11-24",
-   "detail_file": "data/details/workable/53fd4ae5-1fd3-4f23-af3e-8a183b99457a.md",
-   "text_chars": 5895
-  },
-  {
-   "source": "workable",
-   "id": "a92d8c9c-7069-4106-b221-42d0fda1f3e6",
-   "title": "Trade Marketing & E-Commerce Senior Analyst",
-   "company": "BARILLA HELLAS A.E.",
-   "location": "Athens, Central Athens",
-   "posted": "2026-11-23",
-   "employment": "Full-time",
-   "workplace": "on_site",
-   "url": "https://jobs.workable.com/view/mTEG3qVMqVWLr3JpwRmffj/trade-marketing-%26-e-commerce-senior-analyst-in-athens-at-barilla-hellas-a.e.",
-   "apply": [
-    "https://jobs.workable.com/view/mTEG3qVMqVWLr3JpwRmffj/trade-marketing-%26-e-commerce-senior-analyst-in-athens-at-barilla-hellas-a.e./apply"
-   ],
-   "first_seen": "2026-11-24",
-   "detail_file": "data/details/workable/a92d8c9c-7069-4106-b221-42d0fda1f3e6.md",
-   "text_chars": 5254
-  },
-  {
-   "source": "workable",
-   "id": "0671137d-8302-423f-bf23-615873004d56",
-   "title": "Brand Manager",
-   "company": "JOTIS SA",
-   "location": "Athens, Attica",
-   "posted": "2026-11-23",
-   "employment": "Full-time",
-   "workplace": "on_site",
-   "url": "https://jobs.workable.com/view/1N8TDKJqyQsRPcbF5fFdky/brand-manager-in-athens-at-jotis-sa",
-   "apply": [
-    "https://jobs.workable.com/view/1N8TDKJqyQsRPcbF5fFdky/brand-manager-in-athens-at-jotis-sa/apply"
-   ],
-   "first_seen": "2026-11-24",
-   "detail_file": "data/details/workable/0671137d-8302-423f-bf23-615873004d56.md",
-   "text_chars": 1970
-  },
-  {
-   "source": "workable",
-   "id": "bfc891f0-a0e8-4082-8655-3dfb0e2530b0",
-   "title": "Digital Content Creator | Full-time | Destsetters",
-   "company": "Destsetters",
-   "location": "Athens, Attica",
-   "posted": "2026-11-23",
-   "employment": "Full-time",
-   "workplace": "on_site",
-   "url": "https://jobs.workable.com/view/pFz4tpaYX47mNRLsfMuVhL/digital-content-creator-%7C-full-time-%7C-destsetters-in-athens-at-destsetters",
-   "apply": [
-    "https://jobs.workable.com/view/pFz4tpaYX47mNRLsfMuVhL/digital-content-creator-%7C-full-time-%7C-destsetters-in-athens-at-destsetters/apply"
-   ],
-   "first_seen": "2026-11-24",
-   "detail_file": "data/details/workable/bfc891f0-a0e8-4082-8655-3dfb0e2530b0.md",
-   "text_chars": 2911
-  },
-  {
-   "source": "proson",
-   "id": "95553",
-   "title": "23 Νοε 2026 14:02 ΑΣΕΠ - Αρχαιολογικό Μουσείο Ηρακλείου: Λήγουν οι αιτήσεις για 30 προσλήψεις και χωρίς πτυχίο Πού κάνετε αίτηση για μια θέση εργασίας στο Αρχαιολογικό Μουσείο Ηρακλείου",
-   "url": "https://www.proson.gr/ergasia/prokiryxeis/95553_asep-arhaiologiko-moyseio-irakleioy-ligoyn-oi-aitiseis-gia-30-proslipseis",
-   "first_seen": "2026-11-24",
-   "detail_file": "data/details/proson/95553.md",
-   "text_chars": 3997
-  },
-  {
-   "source": "jobfind",
-   "id": "d50047cf-560c-4293-a331-0d4d71af4f63",
-   "title": "Στελέχωση Τμήματος Marketing & Επικοινωνίας",
-   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΝΕΟ ΨΥΧΙΚΟ",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/d50047cf-560c-4293-a331-0d4d71af4f63/",
-   "first_seen": "2026-11-24",
-   "detail_file": "data/details/jobfind/d50047cf-560c-4293-a331-0d4d71af4f63.md",
-   "text_chars": 1382
-  },
-  {
-   "source": "jobfind",
-   "id": "eebe0caa-8c03-478f-a275-9257d8184d57",
-   "title": "Public Area Coordinator - 91 Athens Riviera",
-   "location": "91 Athens Riviera - ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΒΟΥΛΑ",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/eebe0caa-8c03-478f-a275-9257d8184d57/",
-   "apply": [
-    "https://apply.workable.com/j/8C7AFF256F"
-   ],
-   "first_seen": "2026-11-24",
-   "detail_file": "data/details/jobfind/eebe0caa-8c03-478f-a275-9257d8184d57.md",
-   "text_chars": 4546
   }
  ]
 }
