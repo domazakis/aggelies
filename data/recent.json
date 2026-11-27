@@ -1,8 +1,79 @@
 {
  "_perigrafi": "Αγγελίες που εμφανίστηκαν για πρώτη φορά τις τελευταίες 3 ημέρες. Το πλήρες κείμενο κάθε αγγελίας είναι στο detail_file. Έχουν ήδη αφαιρεθεί όσες είναι προφανώς άσχετες από τον τίτλο (δες excluded.json).",
- "enimerosi": "2026-11-26T22:30+00:00",
+ "enimerosi": "2026-11-27T22:12+00:00",
  "proti_ektelesi": false,
  "listings": [
+  {
+   "source": "workable",
+   "id": "beddeda1-cf8b-4a16-90cb-90ab79735bd3",
+   "title": "Performance Marketing Specialist, Ogilvy One (Ref. 0102611)",
+   "company": "Ogilvy Greece",
+   "location": "Gerakas, Attica",
+   "posted": "2026-11-27",
+   "employment": "Full-time",
+   "workplace": "hybrid",
+   "url": "https://jobs.workable.com/view/pz1jjzCnUnq4rDFCn2GDvv/hybrid-performance-marketing-specialist%2C-ogilvy-one-(ref.-0102611)-in-gerakas-at-ogilvy-greece",
+   "apply": [
+    "https://jobs.workable.com/view/pz1jjzCnUnq4rDFCn2GDvv/hybrid-performance-marketing-specialist%2C-ogilvy-one-(ref.-0102611)-in-gerakas-at-ogilvy-greece/apply"
+   ],
+   "first_seen": "2026-11-28",
+   "detail_file": "data/details/workable/beddeda1-cf8b-4a16-90cb-90ab79735bd3.md",
+   "text_chars": 2320
+  },
+  {
+   "source": "workable",
+   "id": "d4310b43-78ad-4c8c-a7a4-2d7476c339cc",
+   "title": "Marketing Specialist",
+   "company": "Papoutsanis SA",
+   "location": "Kifisia, Attica",
+   "posted": "2026-11-27",
+   "employment": "Full-time",
+   "workplace": "on_site",
+   "url": "https://jobs.workable.com/view/scJBcfqcTapdbjeBvUafPE/marketing-specialist-in-kifisia-at-papoutsanis-sa",
+   "apply": [
+    "https://jobs.workable.com/view/scJBcfqcTapdbjeBvUafPE/marketing-specialist-in-kifisia-at-papoutsanis-sa/apply"
+   ],
+   "first_seen": "2026-11-28",
+   "detail_file": "data/details/workable/d4310b43-78ad-4c8c-a7a4-2d7476c339cc.md",
+   "text_chars": 2967
+  },
+  {
+   "source": "workable",
+   "id": "a87122b4-e014-4d27-9ea8-a994b71255a4",
+   "title": "Digital Media Specialist (Performance)",
+   "company": "Sleed",
+   "location": "Athens, Attica",
+   "posted": "2026-11-27",
+   "employment": "Full-time",
+   "workplace": "hybrid",
+   "url": "https://jobs.workable.com/view/mNoXBTGNUmtyFaDHkBv8fC/hybrid-digital-media-specialist-(performance)-in-athens-at-sleed",
+   "apply": [
+    "https://jobs.workable.com/view/mNoXBTGNUmtyFaDHkBv8fC/hybrid-digital-media-specialist-(performance)-in-athens-at-sleed/apply"
+   ],
+   "first_seen": "2026-11-28",
+   "detail_file": "data/details/workable/a87122b4-e014-4d27-9ea8-a994b71255a4.md",
+   "text_chars": 4419
+  },
+  {
+   "source": "jobfind",
+   "id": "a784f379-43fd-4f9f-be98-a4143d453f32",
+   "title": "Συντονιστής / Συντονίστρια Προωθητικών Ενεργειών (Field & Office), Εταιρικό Αυτοκίνητο, Πλήρης Απασχόληση",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΑΜΠΕΛΟΚΗΠΟΙ",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/a784f379-43fd-4f9f-be98-a4143d453f32/",
+   "first_seen": "2026-11-28",
+   "detail_file": "data/details/jobfind/a784f379-43fd-4f9f-be98-a4143d453f32.md",
+   "text_chars": 2131
+  },
+  {
+   "source": "jobfind",
+   "id": "80ec9b9e-a83c-4d8c-86fa-a5e694ed213f",
+   "title": "Υπεύθυνος Μάρκετινγκ",
+   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΙΛΙΟΝ - ΑΞΙΟΥ 1",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/80ec9b9e-a83c-4d8c-86fa-a5e694ed213f/",
+   "first_seen": "2026-11-28",
+   "detail_file": "data/details/jobfind/80ec9b9e-a83c-4d8c-86fa-a5e694ed213f.md",
+   "text_chars": 1434
+  },
   {
    "source": "workable",
    "id": "d0b88b38-2d09-40a8-aa54-b5c62eca7e52",
@@ -96,62 +167,6 @@
    "first_seen": "2026-11-26",
    "detail_file": "data/details/jobfind/9cef26c6-1f54-46ba-9413-a0e0c454b3ee.md",
    "text_chars": 3464
-  },
-  {
-   "source": "workable",
-   "id": "533b5713-9e40-44a7-8877-ac08824d196e",
-   "title": "Marketing Operations Coordinator",
-   "company": "Celestino",
-   "location": "Egaleo, Attica",
-   "posted": "2026-11-24",
-   "employment": "Full-time",
-   "workplace": "on_site",
-   "url": "https://jobs.workable.com/view/bh7zt3yiv1LvQkfbMrXRPu/marketing-operations-coordinator-in-egaleo-at-celestino",
-   "apply": [
-    "https://jobs.workable.com/view/bh7zt3yiv1LvQkfbMrXRPu/marketing-operations-coordinator-in-egaleo-at-celestino/apply"
-   ],
-   "first_seen": "2026-11-25",
-   "detail_file": "data/details/workable/533b5713-9e40-44a7-8877-ac08824d196e.md",
-   "text_chars": 3332
-  },
-  {
-   "source": "proson",
-   "id": "95638",
-   "title": "24 Νοε 2026 14:32 ΑΣΕΠ: Νέα προκήρυξη για προσλήψεις στο Αρχαιολογικό Μουσείο Ηρακλείου - Οι ειδικότητες Οι ζητούμενες ειδικότητες",
-   "url": "https://www.proson.gr/ergasia/prokiryxeis/95638_asep-nea-prokiryxi-gia-proslipseis-sto-arhaiologiko-moyseio-irakleioy-oi",
-   "first_seen": "2026-11-25",
-   "detail_file": "data/details/proson/95638.md",
-   "text_chars": 3467
-  },
-  {
-   "source": "jobfind",
-   "id": "42fc9695-19f9-4c62-baae-3e1e3dc829b2",
-   "title": "Social Media Manager & Content Creator",
-   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΖΩΓΡΑΦΟΥ",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/42fc9695-19f9-4c62-baae-3e1e3dc829b2/",
-   "first_seen": "2026-11-25",
-   "detail_file": "data/details/jobfind/42fc9695-19f9-4c62-baae-3e1e3dc829b2.md",
-   "text_chars": 2770
-  },
-  {
-   "source": "jobfind",
-   "id": "a6bd4155-f0a1-4e54-8e74-c9f4d163e8d2",
-   "title": "Clinic Manager / Treatment & Implant Coordinator",
-   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΓΛΥΦΑΔΑ",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/a6bd4155-f0a1-4e54-8e74-c9f4d163e8d2/",
-   "first_seen": "2026-11-25",
-   "detail_file": "data/details/jobfind/a6bd4155-f0a1-4e54-8e74-c9f4d163e8d2.md",
-   "text_chars": 2920
-  },
-  {
-   "source": "jobfind",
-   "id": "fbd69fe8-9864-4224-9683-449897703802",
-   "title": "Σύμβουλος Ανάπτυξης Πελατολογίου & Στελέχωσης Προσωπικού",
-   "location": "ΑΘΗΝΑ - ΑΤΤΙΚΗ - ΚΑΤΩ ΠΑΤΗΣΙΑ",
-   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/fbd69fe8-9864-4224-9683-449897703802/",
-   "first_seen": "2026-11-25",
-   "detail_file": "data/details/jobfind/fbd69fe8-9864-4224-9683-449897703802.md",
-   "text_chars": 3858
   }
  ]
 }
